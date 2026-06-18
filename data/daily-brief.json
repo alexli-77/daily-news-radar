@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T12:52:09.663962Z",
+  "generated_at": "2026-06-18T16:32:44.655114Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,14 +95,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.875,
-      "importance": 0.875,
-      "importance_score": 0.875,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9398,
+        "recency": 0.7866,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -122,21 +122,21 @@
       }
     },
     {
-      "story_id": "story_df0bd79b81aa",
-      "title": "生成的发行说明归功于您的 Copilot 拉取请求 / Generated release notes credit you for Copilot pull requests",
-      "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
+      "story_id": "story_1ce51649d848",
+      "title": "GitHub Actions 签出的默认 pull_request_target 更安全 / Safer pull_request_target defaults for GitHub Actions checkout",
+      "url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
+      "primary_url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "68aa89c60bf76b42576863bef9e2f4b8cc2c9fbd",
-          "title": "生成的发行说明归功于您的 Copilot 拉取请求 / Generated release notes credit you for Copilot pull requests",
-          "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
+          "id": "74eb256dc10e0367ddd6f22bbdcecd126fc95ce5",
+          "title": "GitHub Actions 签出的默认 pull_request_target 更安全 / Safer pull_request_target defaults for GitHub Actions checkout",
+          "url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-18T09:30:02Z"
+          "published_at": "2026-06-18T14:06:55Z"
         }
       ],
       "source_count": 1,
@@ -145,25 +145,25 @@
       ],
       "items": [
         {
-          "id": "68aa89c60bf76b42576863bef9e2f4b8cc2c9fbd",
-          "title": "生成的发行说明归功于您的 Copilot 拉取请求 / Generated release notes credit you for Copilot pull requests",
-          "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
+          "id": "74eb256dc10e0367ddd6f22bbdcecd126fc95ce5",
+          "title": "GitHub Actions 签出的默认 pull_request_target 更安全 / Safer pull_request_target defaults for GitHub Actions checkout",
+          "url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-18T09:30:02Z"
+          "published_at": "2026-06-18T14:06:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8596,
+        "ai_relevance": 0.87,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -172,14 +172,155 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-18T09:30:02Z",
-      "latest_at": "2026-06-18T09:30:02Z",
+      "earliest_at": "2026-06-18T14:06:55Z",
+      "latest_at": "2026-06-18T14:06:55Z",
       "primary_item": {
-        "id": "68aa89c60bf76b42576863bef9e2f4b8cc2c9fbd",
-        "title": "生成的发行说明归功于您的 Copilot 拉取请求 / Generated release notes credit you for Copilot pull requests",
-        "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
+        "id": "74eb256dc10e0367ddd6f22bbdcecd126fc95ce5",
+        "title": "GitHub Actions 签出的默认 pull_request_target 更安全 / Safer pull_request_target defaults for GitHub Actions checkout",
+        "url": "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2155d7cb8c43",
+      "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8% / Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "primary_url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85800dff7b76b3116762bca173a450643f6985fa",
+          "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8% / Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T08:00:00Z"
+        },
+        {
+          "id": "e71bdd4bdfb94dcafd77858d858d97af650b95dd",
+          "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8%",
+          "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T08:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "85800dff7b76b3116762bca173a450643f6985fa",
+          "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8% / Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T08:00:00Z"
+        },
+        {
+          "id": "e71bdd4bdfb94dcafd77858d858d97af650b95dd",
+          "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8%",
+          "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T08:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6439,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T08:00:00Z",
+      "latest_at": "2026-06-18T08:00:00Z",
+      "primary_item": {
+        "id": "85800dff7b76b3116762bca173a450643f6985fa",
+        "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8% / Using AI to help physicians diagnose rare genetic diseases affecting children",
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_12cd9ddbb6cc",
+      "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "primary_url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cd63214205bc7769e3e16de1af39f0058ae9e306",
+          "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
+          "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T16:22:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "cd63214205bc7769e3e16de1af39f0058ae9e306",
+          "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
+          "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T16:22:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9929,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T16:22:33Z",
+      "latest_at": "2026-06-18T16:22:33Z",
+      "primary_item": {
+        "id": "cd63214205bc7769e3e16de1af39f0058ae9e306",
+        "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
+        "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -236,14 +377,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9718,
+        "recency": 0.8186,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -259,6 +400,127 @@
         "title": "皮尤民调：63%美国人认为AI发展太快，ChatGPT使用率翻番",
         "url": "https://www.ithome.com/0/966/233.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_df0bd79b81aa",
+      "title": "生成的发行说明归功于您的 Copilot 拉取请求 / Generated release notes credit you for Copilot pull requests",
+      "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "68aa89c60bf76b42576863bef9e2f4b8cc2c9fbd",
+          "title": "生成的发行说明归功于您的 Copilot 拉取请求 / Generated release notes credit you for Copilot pull requests",
+          "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T09:30:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "68aa89c60bf76b42576863bef9e2f4b8cc2c9fbd",
+          "title": "生成的发行说明归功于您的 Copilot 拉取请求 / Generated release notes credit you for Copilot pull requests",
+          "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T09:30:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7065,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T09:30:02Z",
+      "latest_at": "2026-06-18T09:30:02Z",
+      "primary_item": {
+        "id": "68aa89c60bf76b42576863bef9e2f4b8cc2c9fbd",
+        "title": "生成的发行说明归功于您的 Copilot 拉取请求 / Generated release notes credit you for Copilot pull requests",
+        "url": "https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0459dd498709",
+      "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
+      "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
+      "primary_url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cff5f147139817657fc6fb1a36a35461beaedaa7",
+          "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
+          "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T12:59:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cff5f147139817657fc6fb1a36a35461beaedaa7",
+          "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
+          "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T12:59:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8516,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T12:59:00Z",
+      "latest_at": "2026-06-18T12:59:00Z",
+      "primary_item": {
+        "id": "cff5f147139817657fc6fb1a36a35461beaedaa7",
+        "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
+        "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -297,14 +559,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8468,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -320,6 +582,147 @@
         "url": "https://www.aibase.com/news/29022",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dc672d008682",
+      "title": "超越 LoRA：如何选择最佳参数高效微调技术？ / Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "primary_url": "https://huggingface.co/blog/peft-beyond-lora",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4611b3ae6076f81dcf08cec64ebd2fb449e05910",
+          "title": "超越 LoRA：如何选择最佳参数高效微调技术？ / Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+          "url": "https://huggingface.co/blog/peft-beyond-lora",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T00:00:00Z"
+        },
+        {
+          "id": "0f6eae03ef27eccd08c5668ef58141a2d521ca28",
+          "title": "超越 LoRA：如何选择最佳参数高效微调技术？",
+          "url": "https://huggingface.co/blog/peft-beyond-lora",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4611b3ae6076f81dcf08cec64ebd2fb449e05910",
+          "title": "超越 LoRA：如何选择最佳参数高效微调技术？ / Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+          "url": "https://huggingface.co/blog/peft-beyond-lora",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T00:00:00Z"
+        },
+        {
+          "id": "0f6eae03ef27eccd08c5668ef58141a2d521ca28",
+          "title": "超越 LoRA：如何选择最佳参数高效微调技术？",
+          "url": "https://huggingface.co/blog/peft-beyond-lora",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.3106,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T00:00:00Z",
+      "latest_at": "2026-06-18T00:00:00Z",
+      "primary_item": {
+        "id": "4611b3ae6076f81dcf08cec64ebd2fb449e05910",
+        "title": "超越 LoRA：如何选择最佳参数高效微调技术？ / Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+        "url": "https://huggingface.co/blog/peft-beyond-lora",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1125242f19bf",
+      "title": "我国首部L3/L4自动驾驶强制性国标公示：2027年7月起实施",
+      "url": "https://www.ithome.com/0/966/272.htm",
+      "primary_url": "https://www.ithome.com/0/966/272.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "03f7d1e5540952204e1d7c4d1cb113c0057be23b",
+          "title": "我国首部L3/L4自动驾驶强制性国标公示：2027年7月起实施",
+          "url": "https://www.ithome.com/0/966/272.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T14:57:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "03f7d1e5540952204e1d7c4d1cb113c0057be23b",
+          "title": "我国首部L3/L4自动驾驶强制性国标公示：2027年7月起实施",
+          "url": "https://www.ithome.com/0/966/272.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T14:57:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9339,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T14:57:30Z",
+      "latest_at": "2026-06-18T14:57:30Z",
+      "primary_item": {
+        "id": "03f7d1e5540952204e1d7c4d1cb113c0057be23b",
+        "title": "我国首部L3/L4自动驾驶强制性国标公示：2027年7月起实施",
+        "url": "https://www.ithome.com/0/966/272.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -357,14 +760,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9058,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -417,14 +820,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.4638,
+        "recency": 0.3106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -478,14 +881,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
+        "recency": 0.6904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -538,20 +941,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7855,
+        "recency": 0.6324,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T07:43:21Z",
       "latest_at": "2026-06-18T07:43:21Z",
@@ -617,22 +1019,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.2844,
+        "recency": 0.1313,
         "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-17T19:41:46Z",
       "latest_at": "2026-06-17T19:41:46Z",
@@ -679,14 +1080,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.876,
+        "recency": 0.7228,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -739,20 +1140,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7111,
+        "recency": 0.5579,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T05:56:08Z",
       "latest_at": "2026-06-18T05:56:08Z",
@@ -765,62 +1165,81 @@
       }
     },
     {
-      "story_id": "story_83fbd362d1ae",
-      "title": "八部门：用好个人消费贷款财政贴息政策，支持消费者购买 AI 相关产品",
-      "url": "https://www.ithome.com/0/966/154.htm",
-      "primary_url": "https://www.ithome.com/0/966/154.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_d44bbcfdf323",
+      "title": "AI 智能体够格吗？在自有工具上评测开源模型",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "primary_url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face：Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6cf42963795b54e9fd3c4fa9117e5b71251633bf",
-          "title": "八部门：用好个人消费贷款财政贴息政策，支持消费者购买 AI 相关产品",
-          "url": "https://www.ithome.com/0/966/154.htm",
-          "source": "IT之家（RSS）",
+          "id": "6f1a817217bcfaabd241ab46f689014c6a663e20",
+          "title": "AI 智能体够格吗？在自有工具上评测开源模型",
+          "url": "https://huggingface.co/blog/is-it-agentic-enough",
+          "source": "Hugging Face：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-18T09:03:28Z"
+          "published_at": "2026-06-18T00:00:00Z"
+        },
+        {
+          "id": "a0dbbe52058d65018c89e0fbc1ea64921e45f8b7",
+          "title": "AI 智能体够格吗？在自有工具上评测开源模型 / Is it agentic enough? Benchmarking open models on your own tooling",
+          "url": "https://huggingface.co/blog/is-it-agentic-enough",
+          "source": "Hugging Face Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-06-18T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "IT之家（RSS）"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "6cf42963795b54e9fd3c4fa9117e5b71251633bf",
-          "title": "八部门：用好个人消费贷款财政贴息政策，支持消费者购买 AI 相关产品",
-          "url": "https://www.ithome.com/0/966/154.htm",
-          "source": "IT之家（RSS）",
+          "id": "6f1a817217bcfaabd241ab46f689014c6a663e20",
+          "title": "AI 智能体够格吗？在自有工具上评测开源模型",
+          "url": "https://huggingface.co/blog/is-it-agentic-enough",
+          "source": "Hugging Face：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-18T09:03:28Z"
+          "published_at": "2026-06-18T00:00:00Z"
+        },
+        {
+          "id": "a0dbbe52058d65018c89e0fbc1ea64921e45f8b7",
+          "title": "AI 智能体够格吗？在自有工具上评测开源模型 / Is it agentic enough? Benchmarking open models on your own tooling",
+          "url": "https://huggingface.co/blog/is-it-agentic-enough",
+          "source": "Hugging Face Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-06-18T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6991,
+      "importance": 0.6991,
+      "importance_score": 0.6991,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
-        "story_heat": 0.0
+        "recency": 0.3106,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T09:03:28Z",
-      "latest_at": "2026-06-18T09:03:28Z",
+      "earliest_at": "2026-06-18T00:00:00Z",
+      "latest_at": "2026-06-18T00:00:00Z",
       "primary_item": {
-        "id": "6cf42963795b54e9fd3c4fa9117e5b71251633bf",
-        "title": "八部门：用好个人消费贷款财政贴息政策，支持消费者购买 AI 相关产品",
-        "url": "https://www.ithome.com/0/966/154.htm",
-        "source": "IT之家（RSS）",
+        "id": "6f1a817217bcfaabd241ab46f689014c6a663e20",
+        "title": "AI 智能体够格吗？在自有工具上评测开源模型",
+        "url": "https://huggingface.co/blog/is-it-agentic-enough",
+        "source": "Hugging Face：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -878,17 +1297,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
-      "importance_label": "行业动态",
+      "score": 0.6989,
+      "importance": 0.6989,
+      "importance_score": 0.6989,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4628,
+        "recency": 0.3097,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -938,14 +1357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.876,
+        "recency": 0.7228,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -961,402 +1380,6 @@
         "url": "https://www.aibase.com/news/29008",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_48e9a940baae",
-      "title": "首个统一科学大模型 LOGOS 正式开源",
-      "url": "https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg",
-      "primary_url": "https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "407d1b81889c8237a61909c8369384505d78e6d2",
-          "title": "首个统一科学大模型 LOGOS 正式开源",
-          "url": "https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T02:31:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "407d1b81889c8237a61909c8369384505d78e6d2",
-          "title": "首个统一科学大模型 LOGOS 正式开源",
-          "url": "https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T02:31:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.569,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T02:31:28Z",
-      "latest_at": "2026-06-18T02:31:28Z",
-      "primary_item": {
-        "id": "407d1b81889c8237a61909c8369384505d78e6d2",
-        "title": "首个统一科学大模型 LOGOS 正式开源",
-        "url": "https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5b96539a6675",
-      "title": "泄露文件显示OpenAI年营收130亿但亏损远超收入",
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
-      "primary_url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a736f80a2a62dd2ada87cc3834bfb0d68286c209",
-          "title": "泄露文件显示OpenAI年营收130亿但亏损远超收入",
-          "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T23:09:09Z"
-        },
-        {
-          "id": "37ec59ee34dac5583d5f47822027ea689ec4123e",
-          "title": "泄露的财务文件显示 OpenAI 每年损失数十亿美元 / Leaked financial docs show OpenAI is losing billions of dollars a year",
-          "url": "https://news.ycombinator.com/item?id=48577208",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-17T22:57:48.400000Z"
-        },
-        {
-          "id": "7a1708c540ca56051f7b8fd27b06e672dc0d91a2",
-          "title": "泄露文件显示OpenAI年营收130亿但亏损远超收入 / Leaked financial docs show OpenAI is losing billions of dollars a year",
-          "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-17T21:31:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a736f80a2a62dd2ada87cc3834bfb0d68286c209",
-          "title": "泄露文件显示OpenAI年营收130亿但亏损远超收入",
-          "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T23:09:09Z"
-        },
-        {
-          "id": "37ec59ee34dac5583d5f47822027ea689ec4123e",
-          "title": "泄露的财务文件显示 OpenAI 每年损失数十亿美元 / Leaked financial docs show OpenAI is losing billions of dollars a year",
-          "url": "https://news.ycombinator.com/item?id=48577208",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-17T22:57:48.400000Z"
-        },
-        {
-          "id": "7a1708c540ca56051f7b8fd27b06e672dc0d91a2",
-          "title": "泄露文件显示OpenAI年营收130亿但亏损远超收入 / Leaked financial docs show OpenAI is losing billions of dollars a year",
-          "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-17T21:31:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4285,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-17T21:31:35Z",
-      "latest_at": "2026-06-17T23:09:09Z",
-      "primary_item": {
-        "id": "a736f80a2a62dd2ada87cc3834bfb0d68286c209",
-        "title": "泄露文件显示OpenAI年营收130亿但亏损远超收入",
-        "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_19ae23ea8305",
-      "title": "DeepSeek 识图模式正式上线 App 和网页端",
-      "url": "https://www.ithome.com/0/966/066.htm",
-      "primary_url": "https://www.ithome.com/0/966/066.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7843360b4a7a45a5979434a3463f295310b40e8e",
-          "title": "DeepSeek 识图模式正式上线 App 和网页端",
-          "url": "https://www.ithome.com/0/966/066.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T07:48:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7843360b4a7a45a5979434a3463f295310b40e8e",
-          "title": "DeepSeek 识图模式正式上线 App 和网页端",
-          "url": "https://www.ithome.com/0/966/066.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T07:48:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7889,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-18T07:48:11Z",
-      "latest_at": "2026-06-18T07:48:11Z",
-      "primary_item": {
-        "id": "7843360b4a7a45a5979434a3463f295310b40e8e",
-        "title": "DeepSeek 识图模式正式上线 App 和网页端",
-        "url": "https://www.ithome.com/0/966/066.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d8abd250e32d",
-      "title": "OpenAI 首席执行官奥特曼因次女出生取消韩日访问",
-      "url": "https://www.aibase.com/news/29007",
-      "primary_url": "https://www.aibase.com/news/29007",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4999f8ce60556e406d0e5984e7416f74f986166a",
-          "title": "OpenAI 首席执行官奥特曼因次女出生取消韩日访问",
-          "url": "https://www.aibase.com/news/29007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-18T09:53:34.382613Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4999f8ce60556e406d0e5984e7416f74f986166a",
-          "title": "OpenAI 首席执行官奥特曼因次女出生取消韩日访问",
-          "url": "https://www.aibase.com/news/29007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-18T09:53:34.382613Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.876,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-18T09:53:34.382613Z",
-      "latest_at": "2026-06-18T09:53:34.382613Z",
-      "primary_item": {
-        "id": "4999f8ce60556e406d0e5984e7416f74f986166a",
-        "title": "OpenAI 首席执行官奥特曼因次女出生取消韩日访问",
-        "url": "https://www.aibase.com/news/29007",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b82595c5416f",
-      "title": "使用 GitHub CLI 读取远程存储库内容 / Read remote repository content with GitHub CLI",
-      "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
-      "primary_url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7cb16fa80f5aaeaf6d2ad3d3879edd2190a381fe",
-          "title": "使用 GitHub CLI 读取远程存储库内容 / Read remote repository content with GitHub CLI",
-          "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T20:03:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7cb16fa80f5aaeaf6d2ad3d3879edd2190a381fe",
-          "title": "使用 GitHub CLI 读取远程存储库内容 / Read remote repository content with GitHub CLI",
-          "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T20:03:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.2999,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-17T20:03:57Z",
-      "latest_at": "2026-06-17T20:03:57Z",
-      "primary_item": {
-        "id": "7cb16fa80f5aaeaf6d2ad3d3879edd2190a381fe",
-        "title": "使用 GitHub CLI 读取远程存储库内容 / Read remote repository content with GitHub CLI",
-        "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fde780f431ff",
-      "title": "cuTile Rust：安全无数据竞争的 GPU 内核系统",
-      "url": "https://github.com/nvlabs/cutile-rs",
-      "primary_url": "https://github.com/nvlabs/cutile-rs",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9839422c8921d22c3f5c5c7983709cf450cbaaa6",
-          "title": "cuTile Rust：安全无数据竞争的 GPU 内核系统",
-          "url": "https://github.com/nvlabs/cutile-rs",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T03:09:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "9839422c8921d22c3f5c5c7983709cf450cbaaa6",
-          "title": "cuTile Rust：安全无数据竞争的 GPU 内核系统",
-          "url": "https://github.com/nvlabs/cutile-rs",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T03:09:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5952,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T03:09:11Z",
-      "latest_at": "2026-06-18T03:09:11Z",
-      "primary_item": {
-        "id": "9839422c8921d22c3f5c5c7983709cf450cbaaa6",
-        "title": "cuTile Rust：安全无数据竞争的 GPU 内核系统",
-        "url": "https://github.com/nvlabs/cutile-rs",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     }
   ]
