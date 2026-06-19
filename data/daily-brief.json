@@ -1,24 +1,142 @@
 {
-  "generated_at": "2026-06-18T23:45:28.303393Z",
+  "generated_at": "2026-06-19T04:20:19.167525Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_6f63ab131b5c",
-      "title": "MAI-Code-1-Flash 可用于更多 Copilot 表面 / MAI-Code-1-Flash available on more Copilot surfaces",
-      "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
-      "primary_url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+      "story_id": "story_43a940462463",
+      "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+      "url": "https://www.wired.com/story/[redacted-secret]",
+      "primary_url": "https://www.wired.com/story/[redacted-secret]",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "09cf5f59e090e95066695d82f7017c335690051d",
+          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T01:33:10Z"
+        },
+        {
+          "id": "3597dfb9b1572f104dbd35782f736ecdcf140c2b",
+          "title": "这家韩国电信巨头是Anthropic“Mythos”争议的焦点",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "www.wired.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-19T01:33:10.751000Z"
+        },
+        {
+          "id": "2550154934daa400717ced6176920aae035cf955",
+          "title": "韩国电信巨头处于 Anthropic 神话争议的中心 / The Korean telecom giant at the center of Anthropic's Mythos controversy",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-18T12:44:09Z"
+        },
+        {
+          "id": "8b1e83b487abb2c7d6819000db48e28e6ee65a87",
+          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点 / The Korean telecom giant at the center of Anthropic's Mythos controversy",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-18T12:44:09Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.wired.com"
+      ],
+      "items": [
+        {
+          "id": "09cf5f59e090e95066695d82f7017c335690051d",
+          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T01:33:10Z"
+        },
+        {
+          "id": "3597dfb9b1572f104dbd35782f736ecdcf140c2b",
+          "title": "这家韩国电信巨头是Anthropic“Mythos”争议的焦点",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "www.wired.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-19T01:33:10.751000Z"
+        },
+        {
+          "id": "2550154934daa400717ced6176920aae035cf955",
+          "title": "韩国电信巨头处于 Anthropic 神话争议的中心 / The Korean telecom giant at the center of Anthropic's Mythos controversy",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-18T12:44:09Z"
+        },
+        {
+          "id": "8b1e83b487abb2c7d6819000db48e28e6ee65a87",
+          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点 / The Korean telecom giant at the center of Anthropic's Mythos controversy",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-18T12:44:09Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8638,
+      "importance": 0.8638,
+      "importance_score": 0.8638,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8839,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T12:44:09Z",
+      "latest_at": "2026-06-19T01:33:10.751000Z",
+      "primary_item": {
+        "id": "09cf5f59e090e95066695d82f7017c335690051d",
+        "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+        "url": "https://www.wired.com/story/[redacted-secret]",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4f4fa9bb905b",
+      "title": "Opus 4.6 即将弃用（快速） / Upcoming deprecation of Opus 4.6 (fast)",
+      "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast",
+      "primary_url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cfe54e520c659657b8609c3f9ae33c5f54707148",
-          "title": "MAI-Code-1-Flash 可用于更多 Copilot 表面 / MAI-Code-1-Flash available on more Copilot surfaces",
-          "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+          "id": "c5facff93428bad346379901a1f9cd1a29309639",
+          "title": "Opus 4.6 即将弃用（快速） / Upcoming deprecation of Opus 4.6 (fast)",
+          "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-18T20:11:24Z"
+          "published_at": "2026-06-18T23:58:34Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +145,25 @@
       ],
       "items": [
         {
-          "id": "cfe54e520c659657b8609c3f9ae33c5f54707148",
-          "title": "MAI-Code-1-Flash 可用于更多 Copilot 表面 / MAI-Code-1-Flash available on more Copilot surfaces",
-          "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+          "id": "c5facff93428bad346379901a1f9cd1a29309639",
+          "title": "Opus 4.6 即将弃用（快速） / Upcoming deprecation of Opus 4.6 (fast)",
+          "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-18T20:11:24Z"
+          "published_at": "2026-06-18T23:58:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8513,
+        "ai_relevance": 0.87,
+        "recency": 0.8182,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,14 +172,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-18T20:11:24Z",
-      "latest_at": "2026-06-18T20:11:24Z",
+      "earliest_at": "2026-06-18T23:58:34Z",
+      "latest_at": "2026-06-18T23:58:34Z",
       "primary_item": {
-        "id": "cfe54e520c659657b8609c3f9ae33c5f54707148",
-        "title": "MAI-Code-1-Flash 可用于更多 Copilot 表面 / MAI-Code-1-Flash available on more Copilot surfaces",
-        "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+        "id": "c5facff93428bad346379901a1f9cd1a29309639",
+        "title": "Opus 4.6 即将弃用（快速） / Upcoming deprecation of Opus 4.6 (fast)",
+        "url": "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_476ce10324ab",
+      "title": "Fable模型被美国临时关闭，AI安全管控时代来临",
+      "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+      "primary_url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+      "source": "Steve Yegge：Medium（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22534b7e2e784ef6b38dc3b45c7acba730f21464",
+          "title": "Fable模型被美国临时关闭，AI安全管控时代来临",
+          "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+          "source": "Steve Yegge：Medium（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T03:31:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Steve Yegge：Medium（RSS）"
+      ],
+      "items": [
+        {
+          "id": "22534b7e2e784ef6b38dc3b45c7acba730f21464",
+          "title": "Fable模型被美国临时关闭，AI安全管控时代来临",
+          "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+          "source": "Steve Yegge：Medium（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T03:31:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9664,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-19T03:31:56Z",
+      "latest_at": "2026-06-19T03:31:56Z",
+      "primary_item": {
+        "id": "22534b7e2e784ef6b38dc3b45c7acba730f21464",
+        "title": "Fable模型被美国临时关闭，AI安全管控时代来临",
+        "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+        "source": "Steve Yegge：Medium（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -118,14 +296,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7184,
+        "recency": 0.5276,
         "story_heat": 0.25
       },
       "category": "official",
@@ -143,6 +321,66 @@
         "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b272084139ff",
+      "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
+      "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
+      "primary_url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "165fd816c0bdefe9a52b6da1528552fbe57b7f85",
+          "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
+          "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T02:44:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "165fd816c0bdefe9a52b6da1528552fbe57b7f85",
+          "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
+          "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T02:44:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9333,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-19T02:44:12Z",
+      "latest_at": "2026-06-19T02:44:12Z",
+      "primary_item": {
+        "id": "165fd816c0bdefe9a52b6da1528552fbe57b7f85",
+        "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
+        "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -237,14 +475,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7204,
+        "recency": 0.5295,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -260,6 +498,127 @@
         "title": "伯尼·桑德斯提出7万亿美元AI计划：对大型AI公司征收50%股票税",
         "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6f63ab131b5c",
+      "title": "MAI-Code-1-Flash 可用于更多 Copilot 表面 / MAI-Code-1-Flash available on more Copilot surfaces",
+      "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+      "primary_url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cfe54e520c659657b8609c3f9ae33c5f54707148",
+          "title": "MAI-Code-1-Flash 可用于更多 Copilot 表面 / MAI-Code-1-Flash available on more Copilot surfaces",
+          "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T20:11:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cfe54e520c659657b8609c3f9ae33c5f54707148",
+          "title": "MAI-Code-1-Flash 可用于更多 Copilot 表面 / MAI-Code-1-Flash available on more Copilot surfaces",
+          "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T20:11:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6605,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T20:11:24Z",
+      "latest_at": "2026-06-18T20:11:24Z",
+      "primary_item": {
+        "id": "cfe54e520c659657b8609c3f9ae33c5f54707148",
+        "title": "MAI-Code-1-Flash 可用于更多 Copilot 表面 / MAI-Code-1-Flash available on more Copilot surfaces",
+        "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f1c46e9ab12a",
+      "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
+      "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d059bbe93c69bc3f33ffaef1aec7a92e694c1d7a",
+          "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
+          "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T23:45:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "d059bbe93c69bc3f33ffaef1aec7a92e694c1d7a",
+          "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
+          "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T23:45:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8088,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T23:45:03Z",
+      "latest_at": "2026-06-18T23:45:03Z",
+      "primary_item": {
+        "id": "d059bbe93c69bc3f33ffaef1aec7a92e694c1d7a",
+        "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
+        "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -317,14 +676,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.843,
+        "recency": 0.6521,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -341,67 +700,6 @@
         "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_941ec7cf08aa",
-      "title": "Copilot 代码审查：AGENTS.md 支持和 UI 改进 / Copilot code review: AGENTS.md support and UI improvements",
-      "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
-      "primary_url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f572adbcb57b1774387b9f3e2f979e13e2eeb57a",
-          "title": "Copilot 代码审查：AGENTS.md 支持和 UI 改进 / Copilot code review: AGENTS.md support and UI improvements",
-          "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T19:11:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f572adbcb57b1774387b9f3e2f979e13e2eeb57a",
-          "title": "Copilot 代码审查：AGENTS.md 支持和 UI 改进 / Copilot code review: AGENTS.md support and UI improvements",
-          "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T19:11:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.81,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-18T19:11:51Z",
-      "latest_at": "2026-06-18T19:11:51Z",
-      "primary_item": {
-        "id": "f572adbcb57b1774387b9f3e2f979e13e2eeb57a",
-        "title": "Copilot 代码审查：AGENTS.md 支持和 UI 改进 / Copilot code review: AGENTS.md support and UI improvements",
-        "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -458,14 +756,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7693,
+        "recency": 0.5784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -485,121 +783,64 @@
       }
     },
     {
-      "story_id": "story_cb61d9b8fdb1",
-      "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容",
-      "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-      "primary_url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_941ec7cf08aa",
+      "title": "Copilot 代码审查：AGENTS.md 支持和 UI 改进 / Copilot code review: AGENTS.md support and UI improvements",
+      "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+      "primary_url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "10845be78de0956c1656a0700d902c3c6ab79161",
-          "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容",
-          "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T11:25:28Z"
-        },
-        {
-          "id": "9b99792ff9ff2f4f45853328001cc4dbe7743991",
-          "title": "ChatGPT的图像生成器可以被利用来生成暴力和色情内容",
-          "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-18T11:25:28.101000Z"
-        },
-        {
-          "id": "a5824eeb01e2a742f8ba8c38331fd3ec2e9f8671",
-          "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容 / ChatGPT Spontaneously Generates Sexual Violence and Hardcore Snuff Imagery",
-          "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-18T00:24:04Z"
-        },
-        {
-          "id": "16410302adea173ad7f1ac68242a85227b2d0f54",
-          "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容 / ChatGPT's image generator can be manipulated to produce violent, sexual content",
-          "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-18T00:24:04Z"
+          "id": "f572adbcb57b1774387b9f3e2f979e13e2eeb57a",
+          "title": "Copilot 代码审查：AGENTS.md 支持和 UI 改进 / Copilot code review: AGENTS.md support and UI improvements",
+          "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T19:11:51Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "mindgard.ai"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "10845be78de0956c1656a0700d902c3c6ab79161",
-          "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容",
-          "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T11:25:28Z"
-        },
-        {
-          "id": "9b99792ff9ff2f4f45853328001cc4dbe7743991",
-          "title": "ChatGPT的图像生成器可以被利用来生成暴力和色情内容",
-          "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-18T11:25:28.101000Z"
-        },
-        {
-          "id": "a5824eeb01e2a742f8ba8c38331fd3ec2e9f8671",
-          "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容 / ChatGPT Spontaneously Generates Sexual Violence and Hardcore Snuff Imagery",
-          "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-18T00:24:04Z"
-        },
-        {
-          "id": "16410302adea173ad7f1ac68242a85227b2d0f54",
-          "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容 / ChatGPT's image generator can be manipulated to produce violent, sexual content",
-          "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-18T00:24:04Z"
+          "id": "f572adbcb57b1774387b9f3e2f979e13e2eeb57a",
+          "title": "Copilot 代码审查：AGENTS.md 支持和 UI 改进 / Copilot code review: AGENTS.md support and UI improvements",
+          "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T19:11:51Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4861,
-        "story_heat": 0.75
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6191,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-18T00:24:04Z",
-      "latest_at": "2026-06-18T11:25:28.101000Z",
+      "earliest_at": "2026-06-18T19:11:51Z",
+      "latest_at": "2026-06-18T19:11:51Z",
       "primary_item": {
-        "id": "10845be78de0956c1656a0700d902c3c6ab79161",
-        "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容",
-        "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "f572adbcb57b1774387b9f3e2f979e13e2eeb57a",
+        "title": "Copilot 代码审查：AGENTS.md 支持和 UI 改进 / Copilot code review: AGENTS.md support and UI improvements",
+        "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -656,14 +897,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4684,
+        "recency": 0.2776,
         "story_heat": 0.25
       },
       "category": "official",
@@ -681,6 +922,65 @@
         "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f64b3d29c984",
+      "title": "OpenClaw 接入 OpenRouter",
+      "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
+      "primary_url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5890c934d266cccea4068354758b037b969adf0b",
+          "title": "OpenClaw 接入 OpenRouter",
+          "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5890c934d266cccea4068354758b037b969adf0b",
+          "title": "OpenClaw 接入 OpenRouter",
+          "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6109,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T19:00:00Z",
+      "latest_at": "2026-06-18T19:00:00Z",
+      "primary_item": {
+        "id": "5890c934d266cccea4068354758b037b969adf0b",
+        "title": "OpenClaw 接入 OpenRouter",
+        "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -718,20 +1018,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7981,
+        "recency": 0.6073,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T18:54:47Z",
       "latest_at": "2026-06-18T18:54:47Z",
@@ -778,20 +1077,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7776,
+        "recency": 0.5868,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T18:25:17Z",
       "latest_at": "2026-06-18T18:25:17Z",
@@ -801,67 +1099,6 @@
         "url": "https://x.com/gdb/status/2067675030335668270",
         "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_33dd1d19c265",
-      "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-      "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-      "primary_url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
-          "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-          "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T18:04:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
-          "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-          "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T18:04:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7632,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-18T18:04:33Z",
-      "latest_at": "2026-06-18T18:04:33Z",
-      "primary_item": {
-        "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
-        "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-        "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -899,20 +1136,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.5692,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T18:00:00Z",
       "latest_at": "2026-06-18T18:00:00Z",
@@ -978,21 +1214,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7527,
+        "recency": 0.5618,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T17:49:23Z",
       "latest_at": "2026-06-18T17:49:23Z",
@@ -1001,126 +1236,6 @@
         "title": "AI数据中心获政府强制电网快车道",
         "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6a281b66ef3d",
-      "title": "Grok TTS 盲测人类感得分96登顶",
-      "url": "https://x.com/xai/status/2067654108123910495",
-      "primary_url": "https://x.com/xai/status/2067654108123910495",
-      "source": "X：xAI (@xai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "97f723ee425b4f7e26f4b363aa112b9d0ca0cd34",
-          "title": "Grok TTS 盲测人类感得分96登顶",
-          "url": "https://x.com/xai/status/2067654108123910495",
-          "source": "X：xAI (@xai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T17:02:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：xAI (@xai)"
-      ],
-      "items": [
-        {
-          "id": "97f723ee425b4f7e26f4b363aa112b9d0ca0cd34",
-          "title": "Grok TTS 盲测人类感得分96登顶",
-          "url": "https://x.com/xai/status/2067654108123910495",
-          "source": "X：xAI (@xai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T17:02:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7199,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-18T17:02:09Z",
-      "latest_at": "2026-06-18T17:02:09Z",
-      "primary_item": {
-        "id": "97f723ee425b4f7e26f4b363aa112b9d0ca0cd34",
-        "title": "Grok TTS 盲测人类感得分96登顶",
-        "url": "https://x.com/xai/status/2067654108123910495",
-        "source": "X：xAI (@xai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_12cd9ddbb6cc",
-      "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
-      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "primary_url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd63214205bc7769e3e16de1af39f0058ae9e306",
-          "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
-          "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T16:22:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "cd63214205bc7769e3e16de1af39f0058ae9e306",
-          "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
-          "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T16:22:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6924,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-18T16:22:33Z",
-      "latest_at": "2026-06-18T16:22:33Z",
-      "primary_item": {
-        "id": "cd63214205bc7769e3e16de1af39f0058ae9e306",
-        "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
-        "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1178,17 +1293,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
-      "importance_label": "行业动态",
+      "score": 0.7024,
+      "importance": 0.7024,
+      "importance_score": 0.7024,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5181,
+        "recency": 0.3272,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1201,6 +1316,67 @@
         "url": "https://www.ithome.com/0/966/233.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_33dd1d19c265",
+      "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+      "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+      "primary_url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
+          "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+          "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T18:04:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
+          "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+          "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T18:04:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5724,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T18:04:33Z",
+      "latest_at": "2026-06-18T18:04:33Z",
+      "primary_item": {
+        "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
+        "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+        "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1238,20 +1414,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7542,
+        "recency": 0.5633,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T17:51:29Z",
       "latest_at": "2026-06-18T17:51:29Z",
@@ -1261,185 +1436,6 @@
         "url": "https://claude.com/blog/enterprise-managed-auth",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0459dd498709",
-      "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
-      "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
-      "primary_url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cff5f147139817657fc6fb1a36a35461beaedaa7",
-          "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
-          "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T12:59:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cff5f147139817657fc6fb1a36a35461beaedaa7",
-          "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
-          "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T12:59:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5511,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T12:59:00Z",
-      "latest_at": "2026-06-18T12:59:00Z",
-      "primary_item": {
-        "id": "cff5f147139817657fc6fb1a36a35461beaedaa7",
-        "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
-        "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a753f9e33b90",
-      "title": "Copilot 创作的拉取请求现已包含在作者搜索中 / Copilot-authored pull requests now included in author searches",
-      "url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches",
-      "primary_url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1b9014855aa112c9176de8e549da992bad24f740",
-          "title": "Copilot 创作的拉取请求现已包含在作者搜索中 / Copilot-authored pull requests now included in author searches",
-          "url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T16:24:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1b9014855aa112c9176de8e549da992bad24f740",
-          "title": "Copilot 创作的拉取请求现已包含在作者搜索中 / Copilot-authored pull requests now included in author searches",
-          "url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T16:24:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6935,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-18T16:24:05Z",
-      "latest_at": "2026-06-18T16:24:05Z",
-      "primary_item": {
-        "id": "1b9014855aa112c9176de8e549da992bad24f740",
-        "title": "Copilot 创作的拉取请求现已包含在作者搜索中 / Copilot-authored pull requests now included in author searches",
-        "url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c24c0753ac40",
-      "title": "联想推出百应AI主机300：赋能中小企业的“算力加速器”",
-      "url": "https://www.aibase.com/news/29022",
-      "primary_url": "https://www.aibase.com/news/29022",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "365f870b0a6035e75993f72f6e555cdc126da20c",
-          "title": "联想推出百应AI主机300：赋能中小企业的“算力加速器”",
-          "url": "https://www.aibase.com/news/29022",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-18T12:52:09.663962Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "365f870b0a6035e75993f72f6e555cdc126da20c",
-          "title": "联想推出百应AI主机300：赋能中小企业的“算力加速器”",
-          "url": "https://www.aibase.com/news/29022",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-18T12:52:09.663962Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5463,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T12:52:09.663962Z",
-      "latest_at": "2026-06-18T12:52:09.663962Z",
-      "primary_item": {
-        "id": "365f870b0a6035e75993f72f6e555cdc126da20c",
-        "title": "联想推出百应AI主机300：赋能中小企业的“算力加速器”",
-        "url": "https://www.aibase.com/news/29022",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
