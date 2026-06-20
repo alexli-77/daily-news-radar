@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-20T18:54:11.581043Z",
+  "generated_at": "2026-06-20T20:14:30.601713Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0454-3325-951e-b5899f9101cb&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0454-3325-951e-b5899f9101cb&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0614-54a2-8c59-8033b6969019&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0614-54a2-8c59-8033b6969019&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "6881abd3d26ea13a25be7b740e126015536ecf4e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0614-54a2-8c59-8033b6969019&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "6d5b519e8df84c26476c23ae10e8a941816f9a03",
           "title": "点击这里进入 / Click here to enter",
@@ -30,12 +39,21 @@
           "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "6881abd3d26ea13a25be7b740e126015536ecf4e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0614-54a2-8c59-8033b6969019&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "6d5b519e8df84c26476c23ae10e8a941816f9a03",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0454-3325-951e-b5899f9101cb&fp=-3",
@@ -54,30 +72,30 @@
           "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-06-20T17:00:47.411015Z",
-      "latest_at": "2026-06-20T18:54:11.581043Z",
+      "latest_at": "2026-06-20T20:14:30.601713Z",
       "primary_item": {
-        "id": "6d5b519e8df84c26476c23ae10e8a941816f9a03",
+        "id": "6881abd3d26ea13a25be7b740e126015536ecf4e",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0454-3325-951e-b5899f9101cb&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0614-54a2-8c59-8033b6969019&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -117,20 +135,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7237,
+        "recency": 0.6679,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-20T12:16:16Z",
       "latest_at": "2026-06-20T12:16:16Z",
@@ -160,8 +177,26 @@
           "published_at": "2026-06-20T18:54:37.878000Z"
         },
         {
+          "id": "871696fadd40fe623ff5e452b96454f38b0a7599",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "waxy.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-20T18:53:17.123000Z"
+        },
+        {
           "id": "d7a32293cf9f5801a34f1875fa759312dbe18095",
-          "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T18:05:31Z"
+        },
+        {
+          "id": "f02b03f7e11f94266d6ef46c18254cbe96f22333",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / The Wholesale Plagiarism of Obscure Sorrows",
           "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -169,10 +204,11 @@
           "published_at": "2026-06-20T18:05:31Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews"
+        "hackernews",
+        "waxy.org"
       ],
       "items": [
         {
@@ -185,8 +221,26 @@
           "published_at": "2026-06-20T18:54:37.878000Z"
         },
         {
+          "id": "871696fadd40fe623ff5e452b96454f38b0a7599",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "waxy.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-20T18:53:17.123000Z"
+        },
+        {
           "id": "d7a32293cf9f5801a34f1875fa759312dbe18095",
-          "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T18:05:31Z"
+        },
+        {
+          "id": "f02b03f7e11f94266d6ef46c18254cbe96f22333",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / The Wholesale Plagiarism of Obscure Sorrows",
           "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -194,19 +248,19 @@
           "published_at": "2026-06-20T18:05:31Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5869,
+      "importance": 0.5869,
+      "importance_score": 0.5869,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9445,
+        "story_heat": 0.75
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
@@ -274,14 +328,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9212,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -352,14 +406,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5078,
+      "importance": 0.5078,
+      "importance_score": 0.5078,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8548,
+        "recency": 0.799,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -429,14 +483,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.501,
+      "importance": 0.501,
+      "importance_score": 0.501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8207,
+        "recency": 0.7649,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -507,14 +561,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5116,
-      "importance": 0.5116,
-      "importance_score": 0.5116,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8181,
+        "recency": 0.7623,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -585,14 +639,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9212,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -610,7 +664,7 @@
       }
     },
     {
-      "story_id": "story_a4b90cb09aca",
+      "story_id": "story_b523c26f886c",
       "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
       "url": "https://news.ycombinator.com/item?id=48609373",
       "primary_url": "https://news.ycombinator.com/item?id=48609373",
@@ -627,9 +681,9 @@
           "published_at": "2026-06-20T16:50:51.401000Z"
         },
         {
-          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
-          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+          "id": "e93efac5f75c6d20028993dbac5e724756a95969",
+          "title": "育碧联合创始人克劳德·吉勒莫在飞机失事中遇难 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
@@ -652,9 +706,9 @@
           "published_at": "2026-06-20T16:50:51.401000Z"
         },
         {
-          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
-          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+          "id": "e93efac5f75c6d20028993dbac5e724756a95969",
+          "title": "育碧联合创始人克劳德·吉勒莫在飞机失事中遇难 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
@@ -663,14 +717,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9143,
+        "recency": 0.8586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -685,103 +739,6 @@
         "url": "https://news.ycombinator.com/item?id=48609373",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e8cd117c5165",
-      "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用",
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "primary_url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "source": "www.ft.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "236396eadebbb69083ea7d062fab849ce5788620",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T06:05:07.343000Z"
-        },
-        {
-          "id": "c40bcc2fd204477274b5a585c6978bcc69578bae",
-          "title": "由于成本预算紧张，公司限制人工智能的使用 / Companies rein in AI usage as costs strain budgets",
-          "url": "https://news.ycombinator.com/item?id=48602571",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T21:44:11.716000Z"
-        },
-        {
-          "id": "cb78ac4e40522d8024016c4262cdff8f2a53cee8",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用 / Companies rein in AI usage as costs strain budgets",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T19:57:18Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "236396eadebbb69083ea7d062fab849ce5788620",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T06:05:07.343000Z"
-        },
-        {
-          "id": "c40bcc2fd204477274b5a585c6978bcc69578bae",
-          "title": "由于成本预算紧张，公司限制人工智能的使用 / Companies rein in AI usage as costs strain budgets",
-          "url": "https://news.ycombinator.com/item?id=48602571",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T21:44:11.716000Z"
-        },
-        {
-          "id": "cb78ac4e40522d8024016c4262cdff8f2a53cee8",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用 / Companies rein in AI usage as costs strain budgets",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T19:57:18Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4662,
-      "importance": 0.4662,
-      "importance_score": 0.4662,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4659,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T19:57:18Z",
-      "latest_at": "2026-06-20T06:05:07.343000Z",
-      "primary_item": {
-        "id": "236396eadebbb69083ea7d062fab849ce5788620",
-        "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用",
-        "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-        "source": "www.ft.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -838,14 +795,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4634,
-      "importance": 0.4634,
-      "importance_score": 0.4634,
+      "score": 0.4523,
+      "importance": 0.4523,
+      "importance_score": 0.4523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5771,
+        "recency": 0.5213,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -864,7 +821,7 @@
     },
     {
       "story_id": "story_fd6b244d6a5f",
-      "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+      "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare accounts for AI agents",
       "url": "https://news.ycombinator.com/item?id=48608394",
       "primary_url": "https://news.ycombinator.com/item?id=48608394",
       "source": "hackernews",
@@ -872,7 +829,7 @@
       "sources": [
         {
           "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare accounts for AI agents",
           "url": "https://news.ycombinator.com/item?id=48608394",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -881,7 +838,7 @@
         },
         {
           "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare accounts for AI agents",
           "url": "https://blog.cloudflare.com/temporary-accounts",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -897,7 +854,7 @@
       "items": [
         {
           "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare accounts for AI agents",
           "url": "https://news.ycombinator.com/item?id=48608394",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -906,7 +863,7 @@
         },
         {
           "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare accounts for AI agents",
           "url": "https://blog.cloudflare.com/temporary-accounts",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -916,14 +873,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8307,
+        "recency": 0.7749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,126 +891,10 @@
       "latest_at": "2026-06-20T14:50:25.866000Z",
       "primary_item": {
         "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-        "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+        "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare accounts for AI agents",
         "url": "https://news.ycombinator.com/item?id=48608394",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_0a3a69608a9f",
-      "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
-      "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-      "primary_url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "e4829a0639488dbc408c6ff15fdfd20aff412033",
-          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
-          "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T23:00:00Z"
-        },
-        {
-          "id": "aa438330809238467424b92807ea9723befccbba",
-          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
-          "url": "https://news.ycombinator.com/item?id=48602639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T21:44:11.716000Z"
-        },
-        {
-          "id": "e5a044ee2f5e19d8a585dba0d017adf43327ba0e",
-          "title": "亚马逊在宣布与OpenAI合作后，撤下萨姆·阿尔特曼的传记电影",
-          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-          "source": "www.the-independent.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T21:33:11.069000Z"
-        },
-        {
-          "id": "789aa30f7785c13412ba5611ae67e713207fd768",
-          "title": "亚马逊在宣布与OpenAI合作后，撤下萨姆·阿尔特曼的传记电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
-          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-19T20:03:16Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot",
-        "hackernews",
-        "www.the-independent.com"
-      ],
-      "items": [
-        {
-          "id": "e4829a0639488dbc408c6ff15fdfd20aff412033",
-          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
-          "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T23:00:00Z"
-        },
-        {
-          "id": "aa438330809238467424b92807ea9723befccbba",
-          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
-          "url": "https://news.ycombinator.com/item?id=48602639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T21:44:11.716000Z"
-        },
-        {
-          "id": "e5a044ee2f5e19d8a585dba0d017adf43327ba0e",
-          "title": "亚马逊在宣布与OpenAI合作后，撤下萨姆·阿尔特曼的传记电影",
-          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-          "source": "www.the-independent.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T21:33:11.069000Z"
-        },
-        {
-          "id": "789aa30f7785c13412ba5611ae67e713207fd768",
-          "title": "亚马逊在宣布与OpenAI合作后，撤下萨姆·阿尔特曼的传记电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
-          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-19T20:03:16Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4321,
-      "importance": 0.4321,
-      "importance_score": 0.4321,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1707,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T20:03:16Z",
-      "latest_at": "2026-06-19T23:00:00Z",
-      "primary_item": {
-        "id": "e4829a0639488dbc408c6ff15fdfd20aff412033",
-        "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
-        "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -1110,14 +951,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4234,
-      "importance": 0.4234,
-      "importance_score": 0.4234,
+      "score": 0.4123,
+      "importance": 0.4123,
+      "importance_score": 0.4123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3772,
+        "recency": 0.3214,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1188,14 +1029,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4818,
-      "importance": 0.4818,
-      "importance_score": 0.4818,
+      "score": 0.4706,
+      "importance": 0.4706,
+      "importance_score": 0.4706,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.669,
+        "recency": 0.6132,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1210,6 +1051,84 @@
         "url": "https://stock.jrj.com.cn/2026/06/20175957532728.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1a7c16dab3cb",
+      "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
+      "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
+      "primary_url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "e4829a0639488dbc408c6ff15fdfd20aff412033",
+          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
+          "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-19T23:00:00Z"
+        },
+        {
+          "id": "aa438330809238467424b92807ea9723befccbba",
+          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
+          "url": "https://news.ycombinator.com/item?id=48602639",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-19T21:44:11.716000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e4829a0639488dbc408c6ff15fdfd20aff412033",
+          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
+          "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-19T23:00:00Z"
+        },
+        {
+          "id": "aa438330809238467424b92807ea9723befccbba",
+          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
+          "url": "https://news.ycombinator.com/item?id=48602639",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-19T21:44:11.716000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.371,
+      "importance": 0.371,
+      "importance_score": 0.371,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1149,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-19T21:44:11.716000Z",
+      "latest_at": "2026-06-19T23:00:00Z",
+      "primary_item": {
+        "id": "e4829a0639488dbc408c6ff15fdfd20aff412033",
+        "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
+        "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -1266,14 +1185,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3738,
-      "importance": 0.3738,
-      "importance_score": 0.3738,
+      "score": 0.3627,
+      "importance": 0.3627,
+      "importance_score": 0.3627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.129,
+        "recency": 0.0733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,14 +1263,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4309,
-      "importance": 0.4309,
-      "importance_score": 0.4309,
+      "score": 0.4198,
+      "importance": 0.4198,
+      "importance_score": 0.4198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4147,
+        "recency": 0.3589,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1422,14 +1341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3794,
-      "importance": 0.3794,
-      "importance_score": 0.3794,
+      "score": 0.3683,
+      "importance": 0.3683,
+      "importance_score": 0.3683,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1571,
+        "recency": 0.1013,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1499,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3716,
-      "importance": 0.3716,
-      "importance_score": 0.3716,
+      "score": 0.3605,
+      "importance": 0.3605,
+      "importance_score": 0.3605,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1181,
+        "recency": 0.0623,
         "story_heat": 0.25
       },
       "category": "watch",
