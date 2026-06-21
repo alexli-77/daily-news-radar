@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-21T06:58:33.477497Z",
+  "generated_at": "2026-06-21T10:37:20.376728Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1658-58e5-bfe7-2f7e1e124b52&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-1658-58e5-bfe7-2f7e1e124b52&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-2037-41db-884f-2d9eacd09a99&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-2037-41db-884f-2d9eacd09a99&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "120fec8b544245d3aaa98253c95f38daf2f9a8fe",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-2037-41db-884f-2d9eacd09a99&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "9bccdd88b1bd81e55ec31909aa7431e49504d1a8",
           "title": "点击这里进入 / Click here to enter",
@@ -75,12 +84,21 @@
           "published_at": null
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "120fec8b544245d3aaa98253c95f38daf2f9a8fe",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-2037-41db-884f-2d9eacd09a99&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "9bccdd88b1bd81e55ec31909aa7431e49504d1a8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1658-58e5-bfe7-2f7e1e124b52&fp=-3",
@@ -144,8 +162,8 @@
           "published_at": null
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
+      "item_count": 8,
+      "duplicate_count": 8,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -163,11 +181,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-20T17:00:47.411015Z",
-      "latest_at": "2026-06-21T06:58:33.477497Z",
+      "latest_at": "2026-06-21T10:37:20.376728Z",
       "primary_item": {
-        "id": "9bccdd88b1bd81e55ec31909aa7431e49504d1a8",
+        "id": "120fec8b544245d3aaa98253c95f38daf2f9a8fe",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1658-58e5-bfe7-2f7e1e124b52&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-2037-41db-884f-2d9eacd09a99&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -207,14 +225,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -230,6 +248,259 @@
         "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
         "source": "公众号：腾讯元宝",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_adb703e42fd4",
+      "title": "构建可靠的代理式人工智能系统",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "primary_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "source": "martinfowler.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "db20149076b392dacf05ff088d49d1e741446c41",
+          "title": "构建可靠的代理式人工智能系统",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "source": "martinfowler.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T09:49:12.872000Z"
+        },
+        {
+          "id": "4a2b347226b60ae7491e3155dd530269f351b968",
+          "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
+          "url": "https://news.ycombinator.com/item?id=48615680",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-21T06:59:02.518000Z"
+        },
+        {
+          "id": "5b65f1c550cd0d81fc82e777faf01951bb72ab16",
+          "title": "构建可靠的代理式人工智能系统 / Building reliable agentic AI systems",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T04:28:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "martinfowler.com"
+      ],
+      "items": [
+        {
+          "id": "db20149076b392dacf05ff088d49d1e741446c41",
+          "title": "构建可靠的代理式人工智能系统",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "source": "martinfowler.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T09:49:12.872000Z"
+        },
+        {
+          "id": "4a2b347226b60ae7491e3155dd530269f351b968",
+          "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
+          "url": "https://news.ycombinator.com/item?id=48615680",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-21T06:59:02.518000Z"
+        },
+        {
+          "id": "5b65f1c550cd0d81fc82e777faf01951bb72ab16",
+          "title": "构建可靠的代理式人工智能系统 / Building reliable agentic AI systems",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T04:28:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9666,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T04:28:39Z",
+      "latest_at": "2026-06-21T09:49:12.872000Z",
+      "primary_item": {
+        "id": "db20149076b392dacf05ff088d49d1e741446c41",
+        "title": "构建可靠的代理式人工智能系统",
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "source": "martinfowler.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ea5379cae11a",
+      "title": "人工智能的10万个“为什么”",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "primary_url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "source": "lcamtuf.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dda5e1eedfcbd7afcc81c948226c3a36d840aca6",
+          "title": "人工智能的10万个“为什么”",
+          "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+          "source": "lcamtuf.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T09:17:10.157000Z"
+        },
+        {
+          "id": "f31d474cf66081a281b215baa59be447d785f6a6",
+          "title": "人工智能的10万个“为什么” / The 100k Whys of AI",
+          "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T05:45:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "lcamtuf.substack.com"
+      ],
+      "items": [
+        {
+          "id": "dda5e1eedfcbd7afcc81c948226c3a36d840aca6",
+          "title": "人工智能的10万个“为什么”",
+          "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+          "source": "lcamtuf.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T09:17:10.157000Z"
+        },
+        {
+          "id": "f31d474cf66081a281b215baa59be447d785f6a6",
+          "title": "人工智能的10万个“为什么” / The 100k Whys of AI",
+          "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T05:45:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9443,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T05:45:21Z",
+      "latest_at": "2026-06-21T09:17:10.157000Z",
+      "primary_item": {
+        "id": "dda5e1eedfcbd7afcc81c948226c3a36d840aca6",
+        "title": "人工智能的10万个“为什么”",
+        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+        "source": "lcamtuf.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b59d2a6245b9",
+      "title": "欢迎进入人工智能无序扩张的时代",
+      "url": "https://www.businessinsider.com/welcome-age-ai-sprawl-too-many-tools-2026-6",
+      "primary_url": "https://www.businessinsider.com/welcome-age-ai-sprawl-too-many-tools-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "da58bf727c0be416e189046e0a76207420dcc9f8",
+          "title": "欢迎进入人工智能无序扩张的时代",
+          "url": "https://www.businessinsider.com/welcome-age-ai-sprawl-too-many-tools-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T09:01:09.255000Z"
+        },
+        {
+          "id": "7019d55583ddb9d24dc2624f08b5bb00d46323d0",
+          "title": "欢迎进入人工智能无序扩张的时代 / Welcome to the age of AI sprawl",
+          "url": "https://www.businessinsider.com/welcome-age-ai-sprawl-too-many-tools-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-21T08:19:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "da58bf727c0be416e189046e0a76207420dcc9f8",
+          "title": "欢迎进入人工智能无序扩张的时代",
+          "url": "https://www.businessinsider.com/welcome-age-ai-sprawl-too-many-tools-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T09:01:09.255000Z"
+        },
+        {
+          "id": "7019d55583ddb9d24dc2624f08b5bb00d46323d0",
+          "title": "欢迎进入人工智能无序扩张的时代 / Welcome to the age of AI sprawl",
+          "url": "https://www.businessinsider.com/welcome-age-ai-sprawl-too-many-tools-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-21T08:19:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9332,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T08:19:01Z",
+      "latest_at": "2026-06-21T09:01:09.255000Z",
+      "primary_item": {
+        "id": "da58bf727c0be416e189046e0a76207420dcc9f8",
+        "title": "欢迎进入人工智能无序扩张的时代",
+        "url": "https://www.businessinsider.com/welcome-age-ai-sprawl-too-many-tools-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -286,14 +557,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8481,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -308,84 +579,6 @@
         "url": "https://www.huxiu.com/article/4868933.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_adb703e42fd4",
-      "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
-      "url": "https://news.ycombinator.com/item?id=48615680",
-      "primary_url": "https://news.ycombinator.com/item?id=48615680",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4a2b347226b60ae7491e3155dd530269f351b968",
-          "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
-          "url": "https://news.ycombinator.com/item?id=48615680",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-21T06:59:02.518000Z"
-        },
-        {
-          "id": "5b65f1c550cd0d81fc82e777faf01951bb72ab16",
-          "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
-          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-21T04:28:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4a2b347226b60ae7491e3155dd530269f351b968",
-          "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
-          "url": "https://news.ycombinator.com/item?id=48615680",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-21T06:59:02.518000Z"
-        },
-        {
-          "id": "5b65f1c550cd0d81fc82e777faf01951bb72ab16",
-          "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
-          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-21T04:28:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-21T04:28:39Z",
-      "latest_at": "2026-06-21T06:59:02.518000Z",
-      "primary_item": {
-        "id": "4a2b347226b60ae7491e3155dd530269f351b968",
-        "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
-        "url": "https://news.ycombinator.com/item?id=48615680",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -442,14 +635,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
+      "score": 0.5013,
+      "importance": 0.5013,
+      "importance_score": 0.5013,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9184,
+        "recency": 0.7665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -520,14 +713,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9073,
+        "recency": 0.7554,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -598,14 +791,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.4924,
+      "importance": 0.4924,
+      "importance_score": 0.4924,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8742,
+        "recency": 0.7222,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -676,14 +869,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8481,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -754,14 +947,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.4747,
+      "importance": 0.4747,
+      "importance_score": 0.4747,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7852,
+        "recency": 0.6333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -851,14 +1044,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4834,
-      "importance": 0.4834,
-      "importance_score": 0.4834,
+      "score": 0.453,
+      "importance": 0.453,
+      "importance_score": 0.453,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5518,
+        "recency": 0.3999,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -947,14 +1140,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4723,
-      "importance": 0.4723,
-      "importance_score": 0.4723,
+      "score": 0.4419,
+      "importance": 0.4419,
+      "importance_score": 0.4419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4963,
+        "recency": 0.3444,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -969,84 +1162,6 @@
         "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
         "source": "waxy.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fd459858356c",
-      "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
-      "url": "https://www.huxiu.com/article/4868914.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4868914.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0348c1021e265316dfea7b02bdf9456e94445e56",
-          "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
-          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ad304557677c61f3a9528926a00810407a4f344c",
-          "title": "AI时代的第一批鸡娃：我们仍旧热衷于制造神童",
-          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-21T01:21:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "0348c1021e265316dfea7b02bdf9456e94445e56",
-          "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
-          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ad304557677c61f3a9528926a00810407a4f344c",
-          "title": "AI时代的第一批鸡娃：我们仍旧热衷于制造神童",
-          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-21T01:21:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7914,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-21T01:21:50Z",
-      "latest_at": "2026-06-21T01:58:10.424640Z",
-      "primary_item": {
-        "id": "0348c1021e265316dfea7b02bdf9456e94445e56",
-        "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
-        "url": "https://www.huxiu.com/article/4868914.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1103,14 +1218,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4678,
-      "importance": 0.4678,
-      "importance_score": 0.4678,
+      "score": 0.4375,
+      "importance": 0.4375,
+      "importance_score": 0.4375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5992,
+        "recency": 0.4473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1125,6 +1240,84 @@
         "url": "https://news.ycombinator.com/item?id=48612806",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_fd459858356c",
+      "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
+      "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4868914.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0348c1021e265316dfea7b02bdf9456e94445e56",
+          "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
+          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ad304557677c61f3a9528926a00810407a4f344c",
+          "title": "AI时代的第一批鸡娃：我们仍旧热衷于制造神童",
+          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T01:21:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "0348c1021e265316dfea7b02bdf9456e94445e56",
+          "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
+          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ad304557677c61f3a9528926a00810407a4f344c",
+          "title": "AI时代的第一批鸡娃：我们仍旧热衷于制造神童",
+          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T01:21:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4759,
+      "importance": 0.4759,
+      "importance_score": 0.4759,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6395,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T01:21:50Z",
+      "latest_at": "2026-06-21T01:58:10.424640Z",
+      "primary_item": {
+        "id": "0348c1021e265316dfea7b02bdf9456e94445e56",
+        "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
+        "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1180,14 +1373,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4115,
-      "importance": 0.4115,
-      "importance_score": 0.4115,
+      "score": 0.3812,
+      "importance": 0.3812,
+      "importance_score": 0.3812,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3177,
+        "recency": 0.1658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1258,14 +1451,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4303,
-      "importance": 0.4303,
-      "importance_score": 0.4303,
+      "score": 0.3999,
+      "importance": 0.3999,
+      "importance_score": 0.3999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4113,
+        "recency": 0.2594,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1280,162 +1473,6 @@
         "url": "https://news.ycombinator.com/item?id=48609506",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c4c6757d2ee6",
-      "title": "让人工智能帮你选午餐的隐性成本",
-      "url": "https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6",
-      "primary_url": "https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f706ac38817210dce598f9eb8cdc800814f8f6c8",
-          "title": "让人工智能帮你选午餐的隐性成本",
-          "url": "https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T08:45:09.549000Z"
-        },
-        {
-          "id": "30ae6d5322407c79de0dad970c69195b6b99bc11",
-          "title": "让人工智能帮你选午餐的隐性成本 / The hidden cost of letting AI choose your lunch",
-          "url": "https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-20T08:42:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "f706ac38817210dce598f9eb8cdc800814f8f6c8",
-          "title": "让人工智能帮你选午餐的隐性成本",
-          "url": "https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T08:45:09.549000Z"
-        },
-        {
-          "id": "30ae6d5322407c79de0dad970c69195b6b99bc11",
-          "title": "让人工智能帮你选午餐的隐性成本 / The hidden cost of letting AI choose your lunch",
-          "url": "https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-20T08:42:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3628,
-      "importance": 0.3628,
-      "importance_score": 0.3628,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.074,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-20T08:42:24Z",
-      "latest_at": "2026-06-20T08:45:09.549000Z",
-      "primary_item": {
-        "id": "f706ac38817210dce598f9eb8cdc800814f8f6c8",
-        "title": "让人工智能帮你选午餐的隐性成本",
-        "url": "https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c82c8f2b495b",
-      "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
-      "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4868898.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
-          "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
-          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "34f9653c144c5b4e5529e3d82bc4892f948c83f5",
-          "title": "千百万“爱压抑”的网友，用AI把菲比和Doro改造成了自己的电子女儿",
-          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:41:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
-          "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
-          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "34f9653c144c5b4e5529e3d82bc4892f948c83f5",
-          "title": "千百万“爱压抑”的网友，用AI把菲比和Doro改造成了自己的电子女儿",
-          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:41:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4316,
-      "importance": 0.4316,
-      "importance_score": 0.4316,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4182,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-20T14:41:51Z",
-      "latest_at": "2026-06-20T17:00:47.411015Z",
-      "primary_item": {
-        "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
-        "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
-        "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1492,14 +1529,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4303,
-      "importance": 0.4303,
-      "importance_score": 0.4303,
+      "score": 0.3999,
+      "importance": 0.3999,
+      "importance_score": 0.3999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4113,
+        "recency": 0.2594,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1514,6 +1551,84 @@
         "url": "https://news.ycombinator.com/item?id=48609373",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_c82c8f2b495b",
+      "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
+      "url": "https://www.huxiu.com/article/4868898.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4868898.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
+          "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
+          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "34f9653c144c5b4e5529e3d82bc4892f948c83f5",
+          "title": "千百万“爱压抑”的网友，用AI把菲比和Doro改造成了自己的电子女儿",
+          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T14:41:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
+          "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
+          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "34f9653c144c5b4e5529e3d82bc4892f948c83f5",
+          "title": "千百万“爱压抑”的网友，用AI把菲比和Doro改造成了自己的电子女儿",
+          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T14:41:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4013,
+      "importance": 0.4013,
+      "importance_score": 0.4013,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2663,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-20T14:41:51Z",
+      "latest_at": "2026-06-20T17:00:47.411015Z",
+      "primary_item": {
+        "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
+        "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
+        "url": "https://www.huxiu.com/article/4868898.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1570,14 +1685,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4316,
-      "importance": 0.4316,
-      "importance_score": 0.4316,
+      "score": 0.4013,
+      "importance": 0.4013,
+      "importance_score": 0.4013,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4182,
+        "recency": 0.2663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1590,84 +1705,6 @@
         "id": "e8e18e20ca3dc1c098498ca9d359775f36a5ba9f",
         "title": "和郭靖宇聊聊 AI 时代下的手搓志怪剧",
         "url": "https://www.huxiu.com/article/4868899.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_961a893013ba",
-      "title": "LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型",
-      "url": "https://stock.jrj.com.cn/2026/06/20175957532728.shtml",
-      "primary_url": "https://stock.jrj.com.cn/2026/06/20175957532728.shtml",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e5a72fb3b725cc16dab6bd0d31193f2d22b2fadc",
-          "title": "LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型",
-          "url": "https://stock.jrj.com.cn/2026/06/20175957532728.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e1bd586c8ee9fadb2674776edf62a49c2f11ae1a",
-          "title": "LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型",
-          "url": "https://www.ithome.com/0/966/539.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T09:37:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e5a72fb3b725cc16dab6bd0d31193f2d22b2fadc",
-          "title": "LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型",
-          "url": "https://stock.jrj.com.cn/2026/06/20175957532728.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e1bd586c8ee9fadb2674776edf62a49c2f11ae1a",
-          "title": "LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型",
-          "url": "https://www.ithome.com/0/966/539.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T09:37:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3812,
-      "importance": 0.3812,
-      "importance_score": 0.3812,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1659,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-20T09:37:07Z",
-      "latest_at": "2026-06-20T10:57:30.955125Z",
-      "primary_item": {
-        "id": "e5a72fb3b725cc16dab6bd0d31193f2d22b2fadc",
-        "title": "LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型",
-        "url": "https://stock.jrj.com.cn/2026/06/20175957532728.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
