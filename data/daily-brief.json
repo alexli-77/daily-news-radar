@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-20T23:09:02.116783Z",
+  "generated_at": "2026-06-21T01:58:10.424640Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0909-2821-ade4-6bfcd18b6766&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0909-2821-ade4-6bfcd18b6766&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1158-3323-8e8b-6150823e4fff&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-1158-3323-8e8b-6150823e4fff&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "9e4dc9cbedcbd2ab098904ceae1692a3990bb97f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1158-3323-8e8b-6150823e4fff&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a8521831f8ec8765c0c913b19bfccc7c0316bb30",
           "title": "点击这里进入 / Click here to enter",
@@ -57,12 +66,21 @@
           "published_at": null
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "9e4dc9cbedcbd2ab098904ceae1692a3990bb97f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1158-3323-8e8b-6150823e4fff&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a8521831f8ec8765c0c913b19bfccc7c0316bb30",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0909-2821-ade4-6bfcd18b6766&fp=-3",
@@ -108,8 +126,8 @@
           "published_at": null
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
+      "item_count": 6,
+      "duplicate_count": 6,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -127,72 +145,91 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-20T17:00:47.411015Z",
-      "latest_at": "2026-06-20T23:09:02.116783Z",
+      "latest_at": "2026-06-21T01:58:10.424640Z",
       "primary_item": {
-        "id": "a8521831f8ec8765c0c913b19bfccc7c0316bb30",
+        "id": "9e4dc9cbedcbd2ab098904ceae1692a3990bb97f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0909-2821-ade4-6bfcd18b6766&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1158-3323-8e8b-6150823e4fff&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_767c73782c59",
-      "title": "开源教程《Deep Agents 实战》发布",
-      "url": "https://x.com/shao__meng/status/2068306942184034471",
-      "primary_url": "https://x.com/shao__meng/status/2068306942184034471",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
+      "story_id": "story_fd459858356c",
+      "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
+      "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4868914.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "70c44c96db3c855eac9ceadd458bd02b754774dd",
-          "title": "开源教程《Deep Agents 实战》发布",
-          "url": "https://x.com/shao__meng/status/2068306942184034471",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-20T12:16:16Z"
+          "id": "0348c1021e265316dfea7b02bdf9456e94445e56",
+          "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
+          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ad304557677c61f3a9528926a00810407a4f344c",
+          "title": "AI时代的第一批鸡娃：我们仍旧热衷于制造神童",
+          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T01:21:50Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：邵猛 (@shao__meng)"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "70c44c96db3c855eac9ceadd458bd02b754774dd",
-          "title": "开源教程《Deep Agents 实战》发布",
-          "url": "https://x.com/shao__meng/status/2068306942184034471",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-20T12:16:16Z"
+          "id": "0348c1021e265316dfea7b02bdf9456e94445e56",
+          "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
+          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ad304557677c61f3a9528926a00810407a4f344c",
+          "title": "AI时代的第一批鸡娃：我们仍旧热衷于制造神童",
+          "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T01:21:50Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5467,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-20T12:16:16Z",
-      "latest_at": "2026-06-20T12:16:16Z",
+      "earliest_at": "2026-06-21T01:21:50Z",
+      "latest_at": "2026-06-21T01:58:10.424640Z",
       "primary_item": {
-        "id": "70c44c96db3c855eac9ceadd458bd02b754774dd",
-        "title": "开源教程《Deep Agents 实战》发布",
-        "url": "https://x.com/shao__meng/status/2068306942184034471",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
+        "id": "0348c1021e265316dfea7b02bdf9456e94445e56",
+        "title": "AI 时代的第一批鸡娃：我们仍旧热衷于制造神童",
+        "url": "https://www.huxiu.com/article/4868914.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -286,14 +323,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5627,
-      "importance": 0.5627,
-      "importance_score": 0.5627,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8233,
+        "recency": 0.7059,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -383,14 +420,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5486,
-      "importance": 0.5486,
-      "importance_score": 0.5486,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8779,
+        "recency": 0.7604,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -461,14 +498,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5096,
+      "importance": 0.5096,
+      "importance_score": 0.5096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9253,
+        "recency": 0.8078,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -483,6 +520,83 @@
         "url": "https://news.ycombinator.com/item?id=48612806",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_842f949633c8",
+      "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
+      "url": "https://www.ithome.com/0/966/570.htm",
+      "primary_url": "https://www.ithome.com/0/966/570.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "918add7b0175a73a1e88cd89c0a30c5fabdef8fe",
+          "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
+          "url": "https://www.ithome.com/0/966/570.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T14:36:02Z"
+        },
+        {
+          "id": "7e725e42d5cf73f8d5ab74600d52c0077f02646a",
+          "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化自主系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
+          "url": "https://www.ithome.com/0/966/570.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T14:36:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "918add7b0175a73a1e88cd89c0a30c5fabdef8fe",
+          "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
+          "url": "https://www.ithome.com/0/966/570.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T14:36:02Z"
+        },
+        {
+          "id": "7e725e42d5cf73f8d5ab74600d52c0077f02646a",
+          "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化自主系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
+          "url": "https://www.ithome.com/0/966/570.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T14:36:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4533,
+      "importance": 0.4533,
+      "importance_score": 0.4533,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5263,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-20T14:36:02Z",
+      "latest_at": "2026-06-20T14:36:02Z",
+      "primary_item": {
+        "id": "918add7b0175a73a1e88cd89c0a30c5fabdef8fe",
+        "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
+        "url": "https://www.ithome.com/0/966/570.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -539,14 +653,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4969,
-      "importance": 0.4969,
-      "importance_score": 0.4969,
+      "score": 0.4734,
+      "importance": 0.4734,
+      "importance_score": 0.4734,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7443,
+        "recency": 0.6268,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -561,161 +675,6 @@
         "url": "https://www.huxiu.com/article/4868898.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d9e603a6f82c",
-      "title": "如今，大型语言模型变得很复杂",
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-      "primary_url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-      "source": "ianbarber.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f2d4bbf8a42bd50cf1e2a1cba2a21e59bb74f67b",
-          "title": "如今，大型语言模型变得很复杂",
-          "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-          "source": "ianbarber.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T15:25:07.111000Z"
-        },
-        {
-          "id": "ec8420c4a70c43f9abfd1ab3a0998fc05a0d0903",
-          "title": "如今，大型语言模型变得很复杂 / LLMs Are Complicated Now",
-          "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T01:25:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "ianbarber.blog"
-      ],
-      "items": [
-        {
-          "id": "f2d4bbf8a42bd50cf1e2a1cba2a21e59bb74f67b",
-          "title": "如今，大型语言模型变得很复杂",
-          "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-          "source": "ianbarber.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T15:25:07.111000Z"
-        },
-        {
-          "id": "ec8420c4a70c43f9abfd1ab3a0998fc05a0d0903",
-          "title": "如今，大型语言模型变得很复杂 / LLMs Are Complicated Now",
-          "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T01:25:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4836,
-      "importance": 0.4836,
-      "importance_score": 0.4836,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6778,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-20T01:25:14Z",
-      "latest_at": "2026-06-20T15:25:07.111000Z",
-      "primary_item": {
-        "id": "f2d4bbf8a42bd50cf1e2a1cba2a21e59bb74f67b",
-        "title": "如今，大型语言模型变得很复杂",
-        "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-        "source": "ianbarber.blog",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_842f949633c8",
-      "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
-      "url": "https://www.ithome.com/0/966/570.htm",
-      "primary_url": "https://www.ithome.com/0/966/570.htm",
-      "source": "IT之家 (ITHome)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "918add7b0175a73a1e88cd89c0a30c5fabdef8fe",
-          "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
-          "url": "https://www.ithome.com/0/966/570.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:36:02Z"
-        },
-        {
-          "id": "7e725e42d5cf73f8d5ab74600d52c0077f02646a",
-          "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化自主系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
-          "url": "https://www.ithome.com/0/966/570.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:36:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "918add7b0175a73a1e88cd89c0a30c5fabdef8fe",
-          "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
-          "url": "https://www.ithome.com/0/966/570.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:36:02Z"
-        },
-        {
-          "id": "7e725e42d5cf73f8d5ab74600d52c0077f02646a",
-          "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化自主系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
-          "url": "https://www.ithome.com/0/966/570.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:36:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4767,
-      "importance": 0.4767,
-      "importance_score": 0.4767,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6437,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-20T14:36:02Z",
-      "latest_at": "2026-06-20T14:36:02Z",
-      "primary_item": {
-        "id": "918add7b0175a73a1e88cd89c0a30c5fabdef8fe",
-        "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
-        "url": "https://www.ithome.com/0/966/570.htm",
-        "source": "IT之家 (ITHome)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -772,14 +731,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4969,
-      "importance": 0.4969,
-      "importance_score": 0.4969,
+      "score": 0.4734,
+      "importance": 0.4734,
+      "importance_score": 0.4734,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7443,
+        "recency": 0.6268,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -850,14 +809,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4955,
-      "importance": 0.4955,
-      "importance_score": 0.4955,
+      "score": 0.472,
+      "importance": 0.472,
+      "importance_score": 0.472,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7374,
+        "recency": 0.6199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -928,14 +887,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.428,
-      "importance": 0.428,
-      "importance_score": 0.428,
+      "score": 0.4045,
+      "importance": 0.4045,
+      "importance_score": 0.4045,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4001,
+        "recency": 0.2826,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1006,14 +965,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4955,
-      "importance": 0.4955,
-      "importance_score": 0.4955,
+      "score": 0.472,
+      "importance": 0.472,
+      "importance_score": 0.472,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7374,
+        "recency": 0.6199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1028,84 +987,6 @@
         "url": "https://news.ycombinator.com/item?id=48609373",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d63c7e8124b7",
-      "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗",
-      "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-      "primary_url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-      "source": "surfingcomplexity.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6c6438a05252ac57ef1411bbdf2806d9723bc374",
-          "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗",
-          "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T03:57:22.337000Z"
-        },
-        {
-          "id": "77ec114ae8352be86a32d60b775a25a0667a82cc",
-          "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗 / I am dreading our LLM-written incident report future",
-          "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T00:51:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "surfingcomplexity.blog"
-      ],
-      "items": [
-        {
-          "id": "6c6438a05252ac57ef1411bbdf2806d9723bc374",
-          "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗",
-          "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T03:57:22.337000Z"
-        },
-        {
-          "id": "77ec114ae8352be86a32d60b775a25a0667a82cc",
-          "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗 / I am dreading our LLM-written incident report future",
-          "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T00:51:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.388,
-      "importance": 0.388,
-      "importance_score": 0.388,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2002,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-20T00:51:33Z",
-      "latest_at": "2026-06-20T03:57:22.337000Z",
-      "primary_item": {
-        "id": "6c6438a05252ac57ef1411bbdf2806d9723bc374",
-        "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗",
-        "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-        "source": "surfingcomplexity.blog",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1162,14 +1043,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4464,
-      "importance": 0.4464,
-      "importance_score": 0.4464,
+      "score": 0.4229,
+      "importance": 0.4229,
+      "importance_score": 0.4229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.492,
+        "recency": 0.3745,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1240,14 +1121,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3955,
-      "importance": 0.3955,
-      "importance_score": 0.3955,
+      "score": 0.3721,
+      "importance": 0.3721,
+      "importance_score": 0.3721,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2377,
+        "recency": 0.1203,
         "story_heat": 0.25
       },
       "category": "watch",
