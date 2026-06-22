@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-22T21:38:30.250836Z",
+  "generated_at": "2026-06-22T23:19:15.770510Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0738-58af-b339-221e43950058&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-0738-58af-b339-221e43950058&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0919-3869-8b35-80042a84f65c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-0919-3869-8b35-80042a84f65c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "6f86bc2873421e87e9269bb3f15b6ef609122505",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0919-3869-8b35-80042a84f65c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "9802333895d29f1a4f91c351f987b3250f6117c0",
           "title": "点击这里进入 / Click here to enter",
@@ -51,15 +60,6 @@
           "id": "535274bb6851a79e67590a269a20712ed725fb74",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0951-205b-9fb7-6f943466c861&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7cb736cda43c87eb66d6daa8797ec9ca66085789",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0815-132b-82a4-4ae7319f6820&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -72,6 +72,15 @@
       ],
       "items": [
         {
+          "id": "6f86bc2873421e87e9269bb3f15b6ef609122505",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0919-3869-8b35-80042a84f65c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "9802333895d29f1a4f91c351f987b3250f6117c0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0738-58af-b339-221e43950058&fp=-3",
@@ -111,15 +120,6 @@
           "id": "535274bb6851a79e67590a269a20712ed725fb74",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0951-205b-9fb7-6f943466c861&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7cb736cda43c87eb66d6daa8797ec9ca66085789",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0815-132b-82a4-4ae7319f6820&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,12 +144,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-21T22:14:51.733118Z",
-      "latest_at": "2026-06-22T21:38:30.250836Z",
+      "earliest_at": "2026-06-21T23:50:56.679882Z",
+      "latest_at": "2026-06-22T23:19:15.770510Z",
       "primary_item": {
-        "id": "9802333895d29f1a4f91c351f987b3250f6117c0",
+        "id": "6f86bc2873421e87e9269bb3f15b6ef609122505",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0738-58af-b339-221e43950058&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0919-3869-8b35-80042a84f65c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -189,14 +189,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7469,
+        "recency": 0.6769,
         "story_heat": 0.0
       },
       "category": "official",
@@ -213,6 +213,66 @@
         "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5abb5ba76041",
+      "title": "美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认\"最常见滥用\"",
+      "url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+      "primary_url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3225ed97f6f503c1a337c36c8f1cd42880b7a68f",
+          "title": "美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认\"最常见滥用\"",
+          "url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:32:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "3225ed97f6f503c1a337c36c8f1cd42880b7a68f",
+          "title": "美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认\"最常见滥用\"",
+          "url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:32:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9257,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T21:32:12Z",
+      "latest_at": "2026-06-22T21:32:12Z",
+      "primary_item": {
+        "id": "3225ed97f6f503c1a337c36c8f1cd42880b7a68f",
+        "title": "美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认\"最常见滥用\"",
+        "url": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -250,14 +310,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9871,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -272,66 +332,6 @@
         "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
         "url": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
         "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_72c004a2082f",
-      "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
-      "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-      "primary_url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
-          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
-          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T21:00:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
-          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
-          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T21:00:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9734,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T21:00:09Z",
-      "latest_at": "2026-06-22T21:00:09Z",
-      "primary_item": {
-        "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
-        "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
-        "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -370,14 +370,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8828,
+        "recency": 0.8128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -392,6 +392,66 @@
         "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
         "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_72c004a2082f",
+      "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+      "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+      "primary_url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
+          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:00:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
+          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:00:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9034,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T21:00:09Z",
+      "latest_at": "2026-06-22T21:00:09Z",
+      "primary_item": {
+        "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
+        "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+        "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -430,14 +490,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8126,
+        "recency": 0.7427,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -509,14 +569,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6578,
+        "recency": 0.5878,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -570,14 +630,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.773,
+        "recency": 0.7031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -630,14 +690,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6637,
+        "recency": 0.5937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -689,14 +749,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6531,
+        "recency": 0.5831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,14 +808,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.771,
+        "recency": 0.701,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,65 +830,6 @@
         "title": "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
         "url": "https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt",
         "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b46b2c156491",
-      "title": "Cursor 审计发现奖励黑客行为淹没模型智能提升",
-      "url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-      "primary_url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "71786859820215327666b0fe2837dc18b40801e1",
-          "title": "Cursor 审计发现奖励黑客行为淹没模型智能提升",
-          "url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "71786859820215327666b0fe2837dc18b40801e1",
-          "title": "Cursor 审计发现奖励黑客行为淹没模型智能提升",
-          "url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5983,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T12:00:00Z",
-      "latest_at": "2026-06-22T12:00:00Z",
-      "primary_item": {
-        "id": "71786859820215327666b0fe2837dc18b40801e1",
-        "title": "Cursor 审计发现奖励黑客行为淹没模型智能提升",
-        "url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -867,20 +868,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7326,
+        "recency": 0.6627,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-22T15:13:29Z",
       "latest_at": "2026-06-22T15:13:29Z",
@@ -893,231 +893,98 @@
       }
     },
     {
-      "story_id": "story_72e247ee906f",
-      "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-      "url": "https://news.ycombinator.com/item?id=48631726",
-      "primary_url": "https://news.ycombinator.com/item?id=48631726",
+      "story_id": "story_ff325e1b112e",
+      "title": "Show HN：Selector Forge – 用于 AI 生成的弹性选择器的浏览器扩展 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+      "url": "https://news.ycombinator.com/item?id=48630515",
+      "primary_url": "https://news.ycombinator.com/item?id=48630515",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "c49703343289304e950aa718d749f947186da345",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T21:23:12.308000Z"
-        },
-        {
-          "id": "a2e801a509db7942693d3773582a00abd57084b5",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代品 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
+          "id": "5b2fed2f4677a3e3f4900ef604bebee7f4e867a4",
+          "title": "Show HN：Selector Forge – 用于 AI 生成的弹性选择器的浏览器扩展 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "url": "https://news.ycombinator.com/item?id=48630515",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-06-22T19:28:06.077000Z"
         },
         {
-          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T15:37:48Z"
+          "id": "7163fea3ab673aa4935ed1530c36902ee15a9dca",
+          "title": "Show HN: Selector Forge——一款用于生成AI生成的健壮选择器的浏览器扩展程序",
+          "url": "https://github.com/Intuned/selector-forge",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T14:36:20.502000Z"
         },
         {
-          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T15:37:48Z"
+          "id": "d7af39c8221ffcf3b35567b32c884a516196ba50",
+          "title": "Show HN: Selector Forge——一款用于生成AI生成的健壮选择器的浏览器扩展程序 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "url": "https://github.com/Intuned/selector-forge",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-22T14:21:24Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "github.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "c49703343289304e950aa718d749f947186da345",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T21:23:12.308000Z"
-        },
-        {
-          "id": "a2e801a509db7942693d3773582a00abd57084b5",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代品 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
+          "id": "5b2fed2f4677a3e3f4900ef604bebee7f4e867a4",
+          "title": "Show HN：Selector Forge – 用于 AI 生成的弹性选择器的浏览器扩展 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "url": "https://news.ycombinator.com/item?id=48630515",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-06-22T19:28:06.077000Z"
         },
         {
-          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T15:37:48Z"
+          "id": "7163fea3ab673aa4935ed1530c36902ee15a9dca",
+          "title": "Show HN: Selector Forge——一款用于生成AI生成的健壮选择器的浏览器扩展程序",
+          "url": "https://github.com/Intuned/selector-forge",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T14:36:20.502000Z"
         },
         {
-          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T15:37:48Z"
+          "id": "d7af39c8221ffcf3b35567b32c884a516196ba50",
+          "title": "Show HN: Selector Forge——一款用于生成AI生成的健壮选择器的浏览器扩展程序 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "url": "https://github.com/Intuned/selector-forge",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-22T14:21:24Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5959,
-      "importance": 0.5959,
-      "importance_score": 0.5959,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9894,
-        "story_heat": 0.75
+        "recency": 0.8395,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-22T15:37:48Z",
-      "latest_at": "2026-06-22T21:23:12.308000Z",
-      "primary_item": {
-        "id": "c49703343289304e950aa718d749f947186da345",
-        "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-        "url": "https://news.ycombinator.com/item?id=48631726",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cb0605522b7f",
-      "title": "克劳德·科德“扩展思维”输出中的文本 / The text in Claude Code’s “Extended Thinking” output",
-      "url": "https://news.ycombinator.com/item?id=48630535",
-      "primary_url": "https://news.ycombinator.com/item?id=48630535",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b4c48104115a55cfd91a7c2a15287f46b7fcca90",
-          "title": "克劳德·科德“扩展思维”输出中的文本 / The text in Claude Code’s “Extended Thinking” output",
-          "url": "https://news.ycombinator.com/item?id=48630535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T19:28:06.077000Z"
-        },
-        {
-          "id": "eb35e637c8e9c13c14494223f4cea0c0d88ee263",
-          "title": "克劳德·科德的“扩展思维”是一种总结——不是真实的思维 / Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-          "url": "https://news.ycombinator.com/item?id=48630535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T15:19:23.345000Z"
-        },
-        {
-          "id": "ff1d5956fbfd9fe8bf19d429cd094f606b4f8cbd",
-          "title": "克劳德·科德的“扩展思维”是一种总结——而非真正的思考 / Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T14:22:46Z"
-        },
-        {
-          "id": "774addf1170fb16db7237622869d61401ddcbc34",
-          "title": "克劳德·科德的“扩展思维”是一种总结——而非真正的思考 / The text in Claude Code’s “Extended Thinking” output",
-          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T14:22:46Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b4c48104115a55cfd91a7c2a15287f46b7fcca90",
-          "title": "克劳德·科德“扩展思维”输出中的文本 / The text in Claude Code’s “Extended Thinking” output",
-          "url": "https://news.ycombinator.com/item?id=48630535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T19:28:06.077000Z"
-        },
-        {
-          "id": "eb35e637c8e9c13c14494223f4cea0c0d88ee263",
-          "title": "克劳德·科德的“扩展思维”是一种总结——不是真实的思维 / Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-          "url": "https://news.ycombinator.com/item?id=48630535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T15:19:23.345000Z"
-        },
-        {
-          "id": "ff1d5956fbfd9fe8bf19d429cd094f606b4f8cbd",
-          "title": "克劳德·科德的“扩展思维”是一种总结——而非真正的思考 / Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T14:22:46Z"
-        },
-        {
-          "id": "774addf1170fb16db7237622869d61401ddcbc34",
-          "title": "克劳德·科德的“扩展思维”是一种总结——而非真正的思考 / The text in Claude Code’s “Extended Thinking” output",
-          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T14:22:46Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5799,
-      "importance": 0.5799,
-      "importance_score": 0.5799,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9094,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-22T14:22:46Z",
+      "earliest_at": "2026-06-22T14:21:24Z",
       "latest_at": "2026-06-22T19:28:06.077000Z",
       "primary_item": {
-        "id": "b4c48104115a55cfd91a7c2a15287f46b7fcca90",
-        "title": "克劳德·科德“扩展思维”输出中的文本 / The text in Claude Code’s “Extended Thinking” output",
-        "url": "https://news.ycombinator.com/item?id=48630535",
+        "id": "5b2fed2f4677a3e3f4900ef604bebee7f4e867a4",
+        "title": "Show HN：Selector Forge – 用于 AI 生成的弹性选择器的浏览器扩展 / Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+        "url": "https://news.ycombinator.com/item?id=48630515",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1176,14 +1043,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.93,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,14 +1121,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9625,
+        "recency": 0.8925,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1331,14 +1198,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9513,
+        "recency": 0.8813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,12 +1224,21 @@
     },
     {
       "story_id": "story_d16966e63aaa",
-      "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
-      "url": "https://role-confusion.github.io",
-      "primary_url": "https://role-confusion.github.io",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "title": "角色混淆导致提示注射 / Prompt Injection as Role Confusion",
+      "url": "https://news.ycombinator.com/item?id=48631888",
+      "primary_url": "https://news.ycombinator.com/item?id=48631888",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
+        {
+          "id": "3ffd1e08e0d59a4aee6d523b2ff350d7f700f6b4",
+          "title": "角色混淆导致提示注射 / Prompt Injection as Role Confusion",
+          "url": "https://news.ycombinator.com/item?id=48631888",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T19:28:06.077000Z"
+        },
         {
           "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
           "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
@@ -1382,13 +1258,23 @@
           "published_at": "2026-06-22T15:48:55Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
+          "id": "3ffd1e08e0d59a4aee6d523b2ff350d7f700f6b4",
+          "title": "角色混淆导致提示注射 / Prompt Injection as Role Confusion",
+          "url": "https://news.ycombinator.com/item?id=48631888",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T19:28:06.077000Z"
+        },
+        {
           "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
           "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
           "url": "https://role-confusion.github.io",
@@ -1407,30 +1293,30 @@
           "published_at": "2026-06-22T15:48:55Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7572,
-        "story_heat": 0.25
+        "recency": 0.8395,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-06-22T15:48:55Z",
-      "latest_at": "2026-06-22T15:48:55Z",
+      "latest_at": "2026-06-22T19:28:06.077000Z",
       "primary_item": {
-        "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
-        "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
-        "url": "https://role-confusion.github.io",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "id": "3ffd1e08e0d59a4aee6d523b2ff350d7f700f6b4",
+        "title": "角色混淆导致提示注射 / Prompt Injection as Role Confusion",
+        "url": "https://news.ycombinator.com/item?id=48631888",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1506,14 +1392,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4848,
+      "importance": 0.4848,
+      "importance_score": 0.4848,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.629,
+        "recency": 0.559,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1528,6 +1414,84 @@
         "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
         "source": "people.idsia.ch",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_72e247ee906f",
+      "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "primary_url": "https://oak.space/oak/oak",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
+          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+          "url": "https://oak.space/oak/oak",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-22T15:37:48Z"
+        },
+        {
+          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
+          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
+          "url": "https://oak.space/oak/oak",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T15:37:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
+          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+          "url": "https://oak.space/oak/oak",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-22T15:37:48Z"
+        },
+        {
+          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
+          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
+          "url": "https://oak.space/oak/oak",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T15:37:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4839,
+      "importance": 0.4839,
+      "importance_score": 0.4839,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6795,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-22T15:37:48Z",
+      "latest_at": "2026-06-22T15:37:48Z",
+      "primary_item": {
+        "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
+        "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+        "url": "https://oak.space/oak/oak",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
