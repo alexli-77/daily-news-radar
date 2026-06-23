@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-23T16:08:57.997522Z",
+  "generated_at": "2026-06-23T18:19:44.747932Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0209-216b-bacc-a87f79b2dd0b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260624-0209-216b-bacc-a87f79b2dd0b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0420-05e9-ad1b-bdd1d00cce59&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260624-0420-05e9-ad1b-bdd1d00cce59&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "431aa4a9a2b5527c813bfe87afd9386fd4bf5bf7",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0420-05e9-ad1b-bdd1d00cce59&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "22b5ddbba9ab3a80e71dfc0257c075ed21417196",
           "title": "点击这里进入 / Click here to enter",
@@ -84,12 +93,21 @@
           "published_at": null
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "431aa4a9a2b5527c813bfe87afd9386fd4bf5bf7",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0420-05e9-ad1b-bdd1d00cce59&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "22b5ddbba9ab3a80e71dfc0257c075ed21417196",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0209-216b-bacc-a87f79b2dd0b&fp=-3",
@@ -162,8 +180,8 @@
           "published_at": null
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
+      "item_count": 9,
+      "duplicate_count": 9,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -181,13 +199,74 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-22T19:27:35.000024Z",
-      "latest_at": "2026-06-23T16:08:57.997522Z",
+      "latest_at": "2026-06-23T18:19:44.747932Z",
       "primary_item": {
-        "id": "22b5ddbba9ab3a80e71dfc0257c075ed21417196",
+        "id": "431aa4a9a2b5527c813bfe87afd9386fd4bf5bf7",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0209-216b-bacc-a87f79b2dd0b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0420-05e9-ad1b-bdd1d00cce59&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_8e10ac4aaa85",
+      "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+      "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
+          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:35:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
+          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:35:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8586,
+      "importance": 0.8586,
+      "importance_score": 0.8586,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9278,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T16:35:45Z",
+      "latest_at": "2026-06-23T16:35:45Z",
+      "primary_item": {
+        "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
+        "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+        "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -225,14 +304,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9938,
+        "recency": 0.903,
         "story_heat": 0.0
       },
       "category": "official",
@@ -248,67 +327,6 @@
         "title": "我自动化了我的工作（这让我成为了更好的领导者） / I automated my job (and it made me a better leader)",
         "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fc7ab554d043",
-      "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
-      "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-      "primary_url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bc9ea50a8834f30b6a24a9ec489c31069c9ce5e9",
-          "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
-          "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T15:46:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bc9ea50a8834f30b6a24a9ec489c31069c9ce5e9",
-          "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
-          "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T15:46:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8579,
-      "importance": 0.8579,
-      "importance_score": 0.8579,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9844,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-23T15:46:30Z",
-      "latest_at": "2026-06-23T15:46:30Z",
-      "primary_item": {
-        "id": "bc9ea50a8834f30b6a24a9ec489c31069c9ce5e9",
-        "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
-        "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -347,14 +365,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8632,
+        "recency": 0.7723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,6 +388,248 @@
         "title": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例 / Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
         "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0930e77e2dc7",
+      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+      "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+      "primary_url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:46:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:46:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.935,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T16:46:05Z",
+      "latest_at": "2026-06-23T16:46:05Z",
+      "primary_item": {
+        "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
+        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+        "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9a8ce47fde6c",
+      "title": "Krea 2 技术报告正式发布",
+      "url": "https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0",
+      "primary_url": "https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4480fcba451251c82e2b9bfc149e52d104b92438",
+          "title": "Krea 2 技术报告正式发布",
+          "url": "https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T17:31:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "4480fcba451251c82e2b9bfc149e52d104b92438",
+          "title": "Krea 2 技术报告正式发布",
+          "url": "https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T17:31:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9664,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T17:31:26Z",
+      "latest_at": "2026-06-23T17:31:26Z",
+      "primary_item": {
+        "id": "4480fcba451251c82e2b9bfc149e52d104b92438",
+        "title": "Krea 2 技术报告正式发布",
+        "url": "https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0",
+        "source": "X：Krea AI (@krea_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2fc207500ff8",
+      "title": "Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作",
+      "url": "https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27",
+      "primary_url": "https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e629c69daff986e10a73bee413144a1c0ee75f2f",
+          "title": "Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作",
+          "url": "https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T17:09:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "e629c69daff986e10a73bee413144a1c0ee75f2f",
+          "title": "Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作",
+          "url": "https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T17:09:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9513,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T17:09:41Z",
+      "latest_at": "2026-06-23T17:09:41Z",
+      "primary_item": {
+        "id": "e629c69daff986e10a73bee413144a1c0ee75f2f",
+        "title": "Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作",
+        "url": "https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fc7ab554d043",
+      "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
+      "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
+      "primary_url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bc9ea50a8834f30b6a24a9ec489c31069c9ce5e9",
+          "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
+          "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T15:46:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bc9ea50a8834f30b6a24a9ec489c31069c9ce5e9",
+          "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
+          "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T15:46:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8936,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T15:46:30Z",
+      "latest_at": "2026-06-23T15:46:30Z",
+      "primary_item": {
+        "id": "bc9ea50a8834f30b6a24a9ec489c31069c9ce5e9",
+        "title": "Dependabot 弃用 Python 3.9 / Deprecation of Python 3.9 for Dependabot",
+        "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -408,14 +668,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9277,
+        "recency": 0.8369,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -468,14 +728,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8913,
+        "recency": 0.8004,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -546,14 +806,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7502,
+        "recency": 0.6594,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -607,14 +867,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8632,
+        "recency": 0.7723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,14 +927,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7854,
+        "recency": 0.6946,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -727,14 +987,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7818,
+        "recency": 0.691,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -787,14 +1047,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6604,
+        "recency": 0.5696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,6 +1069,66 @@
         "url": "https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt",
         "source": "Artificial Intelligence News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dba1e8f05869",
+      "title": "在 Transformers.js 中试验建议的跨域存储 API / Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "primary_url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c24cab3a9b375f052547e013bd6a2bf1725fedef",
+          "title": "在 Transformers.js 中试验建议的跨域存储 API / Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+          "url": "https://huggingface.co/blog/cross-origin-storage",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "c24cab3a9b375f052547e013bd6a2bf1725fedef",
+          "title": "在 Transformers.js 中试验建议的跨域存储 API / Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+          "url": "https://huggingface.co/blog/cross-origin-storage",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.2363,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-23T00:00:00Z",
+      "latest_at": "2026-06-23T00:00:00Z",
+      "primary_item": {
+        "id": "c24cab3a9b375f052547e013bd6a2bf1725fedef",
+        "title": "在 Transformers.js 中试验建议的跨域存储 API / Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+        "url": "https://huggingface.co/blog/cross-origin-storage",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -846,20 +1166,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7502,
+        "recency": 0.6594,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T10:09:15.173584Z",
       "latest_at": "2026-06-23T10:09:15.173584Z",
@@ -869,185 +1188,6 @@
         "url": "https://www.aibase.com/news/29090",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cda25e6c66f0",
-      "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
-      "url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
-      "primary_url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
-      "source": "公众号：京东JoyAI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c45f19f271630c58389173205deab5a1469cb574",
-          "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
-          "url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T06:04:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：京东JoyAI"
-      ],
-      "items": [
-        {
-          "id": "c45f19f271630c58389173205deab5a1469cb574",
-          "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
-          "url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T06:04:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5805,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T06:04:50Z",
-      "latest_at": "2026-06-23T06:04:50Z",
-      "primary_item": {
-        "id": "c45f19f271630c58389173205deab5a1469cb574",
-        "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
-        "url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
-        "source": "公众号：京东JoyAI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a6126a1d8f2b",
-      "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
-      "url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
-      "primary_url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
-      "source": "公众号：火山引擎",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d4258e5a907f1aec8f5c7bbac5f059fb5f3fe8d",
-          "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
-          "url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T05:41:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：火山引擎"
-      ],
-      "items": [
-        {
-          "id": "9d4258e5a907f1aec8f5c7bbac5f059fb5f3fe8d",
-          "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
-          "url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T05:41:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.564,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T05:41:11Z",
-      "latest_at": "2026-06-23T05:41:11Z",
-      "primary_item": {
-        "id": "9d4258e5a907f1aec8f5c7bbac5f059fb5f3fe8d",
-        "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
-        "url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
-        "source": "公众号：火山引擎",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_49c160394cb9",
-      "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "primary_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
-          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
-          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.3271,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-23T00:00:00Z",
-      "latest_at": "2026-06-23T00:00:00Z",
-      "primary_item": {
-        "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
-        "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-        "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1085,20 +1225,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7502,
+        "recency": 0.6594,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T10:09:15.173584Z",
       "latest_at": "2026-06-23T10:09:15.173584Z",
@@ -1108,6 +1247,66 @@
         "url": "https://www.aibase.com/news/29101",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_49c160394cb9",
+      "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "primary_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
+          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
+          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.2363,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-23T00:00:00Z",
+      "latest_at": "2026-06-23T00:00:00Z",
+      "primary_item": {
+        "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
+        "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+        "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1145,20 +1344,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7502,
+        "recency": 0.6594,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T10:09:15.173584Z",
       "latest_at": "2026-06-23T10:09:15.173584Z",
@@ -1168,241 +1366,6 @@
         "url": "https://www.aibase.com/news/29093",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_03c8b85f2520",
-      "title": "字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能\"魔改\"周星驰电影",
-      "url": "https://www.aibase.com/news/29094",
-      "primary_url": "https://www.aibase.com/news/29094",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "85a5d2117d762c9120850bd861be8e90ec6f69e2",
-          "title": "字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能\"魔改\"周星驰电影",
-          "url": "https://www.aibase.com/news/29094",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T10:09:15.173584Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "85a5d2117d762c9120850bd861be8e90ec6f69e2",
-          "title": "字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能\"魔改\"周星驰电影",
-          "url": "https://www.aibase.com/news/29094",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T10:09:15.173584Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7502,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-23T10:09:15.173584Z",
-      "latest_at": "2026-06-23T10:09:15.173584Z",
-      "primary_item": {
-        "id": "85a5d2117d762c9120850bd861be8e90ec6f69e2",
-        "title": "字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能\"魔改\"周星驰电影",
-        "url": "https://www.aibase.com/news/29094",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_689a3d371c06",
-      "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-      "url": "https://www.aibase.com/news/29100",
-      "primary_url": "https://www.aibase.com/news/29100",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
-          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-          "url": "https://www.aibase.com/news/29100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T10:09:15.173584Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
-          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-          "url": "https://www.aibase.com/news/29100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T10:09:15.173584Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7502,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-23T10:09:15.173584Z",
-      "latest_at": "2026-06-23T10:09:15.173584Z",
-      "primary_item": {
-        "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
-        "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-        "url": "https://www.aibase.com/news/29100",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_198b49c670d8",
-      "title": "Meta在发生内部信息泄露后，暂停了该项用于追踪员工击键记录的AI培训项目",
-      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-      "primary_url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cfbf260cc748ecf7af89a0933a0484f1d6539c4a",
-          "title": "Meta在发生内部信息泄露后，暂停了该项用于追踪员工击键记录的AI培训项目",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-23T15:24:26.847000Z"
-        },
-        {
-          "id": "b4e07a4b057a9e4ab3c01f741cb151c95e1a1283",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目 / Meta pauses AI training program tracking employee keystrokes after internal leak",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-22T21:43:22Z"
-        },
-        {
-          "id": "3e6ce30c4608ff9685b9c7ca3dd9cf169a2fb0a1",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-22T20:44:26.914000Z"
-        },
-        {
-          "id": "fe080ec0ef2b7bcc41064d000e67cbc244270e93",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目 / Meta pauses an AI training program that tracks employees' keystrokes after a companywide leak",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T20:20:28Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Business Insider",
-        "Hacker News · 24h最热",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cfbf260cc748ecf7af89a0933a0484f1d6539c4a",
-          "title": "Meta在发生内部信息泄露后，暂停了该项用于追踪员工击键记录的AI培训项目",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-23T15:24:26.847000Z"
-        },
-        {
-          "id": "b4e07a4b057a9e4ab3c01f741cb151c95e1a1283",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目 / Meta pauses AI training program tracking employee keystrokes after internal leak",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-22T21:43:22Z"
-        },
-        {
-          "id": "3e6ce30c4608ff9685b9c7ca3dd9cf169a2fb0a1",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-22T20:44:26.914000Z"
-        },
-        {
-          "id": "fe080ec0ef2b7bcc41064d000e67cbc244270e93",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目 / Meta pauses an AI training program that tracks employees' keystrokes after a companywide leak",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T20:20:28Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5918,
-      "importance": 0.5918,
-      "importance_score": 0.5918,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9691,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-22T20:20:28Z",
-      "latest_at": "2026-06-23T15:24:26.847000Z",
-      "primary_item": {
-        "id": "cfbf260cc748ecf7af89a0933a0484f1d6539c4a",
-        "title": "Meta在发生内部信息泄露后，暂停了该项用于追踪员工击键记录的AI培训项目",
-        "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
