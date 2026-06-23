@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-23T10:09:15.173584Z",
+  "generated_at": "2026-06-23T13:20:48.333791Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2011-1770-9204-c620258f8c95&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-2011-1770-9204-c620258f8c95&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2321-188a-b14c-92ffda75b579&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-2321-188a-b14c-92ffda75b579&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5f4a70b66951f6827780048f5089e3e26cf9b312",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2321-188a-b14c-92ffda75b579&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "68cef42d0828d10b01cdd2d3e70b114f86023751",
           "title": "点击这里进入 / Click here to enter",
@@ -69,15 +78,6 @@
           "id": "56075ebf04078b687756b984f26aea79e40622b6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0135-328b-b0af-1f93a6c2e72a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "70a273351abe9898688c6cb05c8917afa240c6d3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-2021-3008-bc29-6892fd0263ab&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -90,6 +90,15 @@
       ],
       "items": [
         {
+          "id": "5f4a70b66951f6827780048f5089e3e26cf9b312",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2321-188a-b14c-92ffda75b579&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "68cef42d0828d10b01cdd2d3e70b114f86023751",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2011-1770-9204-c620258f8c95&fp=-3",
@@ -147,15 +156,6 @@
           "id": "56075ebf04078b687756b984f26aea79e40622b6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0135-328b-b0af-1f93a6c2e72a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "70a273351abe9898688c6cb05c8917afa240c6d3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-2021-3008-bc29-6892fd0263ab&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -180,14 +180,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T10:21:01.885428Z",
-      "latest_at": "2026-06-23T10:09:15.173584Z",
+      "earliest_at": "2026-06-22T15:35:01.202599Z",
+      "latest_at": "2026-06-23T13:20:48.333791Z",
       "primary_item": {
-        "id": "68cef42d0828d10b01cdd2d3e70b114f86023751",
+        "id": "5f4a70b66951f6827780048f5089e3e26cf9b312",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2011-1770-9204-c620258f8c95&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2321-188a-b14c-92ffda75b579&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_f0c4ab467506",
+      "title": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例 / Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "primary_url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "208b0a82425c19fc58181ebbc930008e5c9f0528",
+          "title": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例 / Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+          "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T12:51:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "208b0a82425c19fc58181ebbc930008e5c9f0528",
+          "title": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例 / Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+          "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T12:51:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.881,
+      "importance": 0.881,
+      "importance_score": 0.881,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9799,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T12:51:55Z",
+      "latest_at": "2026-06-23T12:51:55Z",
+      "primary_item": {
+        "id": "208b0a82425c19fc58181ebbc930008e5c9f0528",
+        "title": "使用 CUGA 构建真正的代理应用程序：轻量级工具上的两打工作示例 / Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+        "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -243,14 +304,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.867,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -270,64 +331,123 @@
       }
     },
     {
-      "story_id": "story_49c160394cb9",
-      "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "primary_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_547675dba728",
+      "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
+      "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+      "primary_url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
-          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T00:00:00Z"
+          "id": "8d75f1b73c60d5ae2584e0efdd5c6923791b2dfd",
+          "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
+          "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T11:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
-          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-23T00:00:00Z"
+          "id": "8d75f1b73c60d5ae2584e0efdd5c6923791b2dfd",
+          "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
+          "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T11:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
-      "importance_label": "官方更新",
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.5769,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-23T00:00:00Z",
-      "latest_at": "2026-06-23T00:00:00Z",
+      "earliest_at": "2026-06-23T11:00:00Z",
+      "latest_at": "2026-06-23T11:00:00Z",
       "primary_item": {
-        "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
-        "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-        "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "8d75f1b73c60d5ae2584e0efdd5c6923791b2dfd",
+        "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
+        "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d2bc2c108e2a",
+      "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+      "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+      "primary_url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "780f310b5affababd40799179458005630c65877",
+          "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+          "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T10:54:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "780f310b5affababd40799179458005630c65877",
+          "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+          "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T10:54:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8986,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T10:54:49Z",
+      "latest_at": "2026-06-23T10:54:49Z",
+      "primary_item": {
+        "id": "780f310b5affababd40799179458005630c65877",
+        "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+        "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -365,14 +485,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.794,
-      "importance": 0.794,
-      "importance_score": 0.794,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9102,
+        "recency": 0.7772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -425,14 +545,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -485,14 +605,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 0.6972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -545,20 +665,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8138,
+        "recency": 0.6808,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T05:41:11Z",
       "latest_at": "2026-06-23T05:41:11Z",
@@ -568,6 +687,67 @@
         "url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
         "source": "公众号：火山引擎",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_49c160394cb9",
+      "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "primary_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
+          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
+          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.4439,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T00:00:00Z",
+      "latest_at": "2026-06-23T00:00:00Z",
+      "primary_item": {
+        "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
+        "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+        "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -605,14 +785,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -628,124 +808,6 @@
         "url": "https://www.aibase.com/news/29101",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fc4baa7dc349",
-      "title": "Seed2.1 正式发布，深入 AI 生产力",
-      "url": "https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux",
-      "primary_url": "https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0be28b01d3ddac1a71053d5792ec09ffdf911f41",
-          "title": "Seed2.1 正式发布，深入 AI 生产力",
-          "url": "https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T00:02:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "字节 Seed：Research Feed（网页内嵌数据）"
-      ],
-      "items": [
-        {
-          "id": "0be28b01d3ddac1a71053d5792ec09ffdf911f41",
-          "title": "Seed2.1 正式发布，深入 AI 生产力",
-          "url": "https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T00:02:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5788,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T00:02:42Z",
-      "latest_at": "2026-06-23T00:02:42Z",
-      "primary_item": {
-        "id": "0be28b01d3ddac1a71053d5792ec09ffdf911f41",
-        "title": "Seed2.1 正式发布，深入 AI 生产力",
-        "url": "https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux",
-        "source": "字节 Seed：Research Feed（网页内嵌数据）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2f3caca337a5",
-      "title": "huggingface_hub 实现每周发布：AI、开源工具、人工审核闭环",
-      "url": "https://aihot.virxact.com/items/cmqqd9e3008seslp5644lhzaa",
-      "primary_url": "https://aihot.virxact.com/items/cmqqd9e3008seslp5644lhzaa",
-      "source": "Hugging Face：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "916c0869d45f867806db7218d7c865a71d043bb6",
-          "title": "huggingface_hub 实现每周发布：AI、开源工具、人工审核闭环",
-          "url": "https://aihot.virxact.com/items/cmqqd9e3008seslp5644lhzaa",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "916c0869d45f867806db7218d7c865a71d043bb6",
-          "title": "huggingface_hub 实现每周发布：AI、开源工具、人工审核闭环",
-          "url": "https://aihot.virxact.com/items/cmqqd9e3008seslp5644lhzaa",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5769,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T00:00:00Z",
-      "latest_at": "2026-06-23T00:00:00Z",
-      "primary_item": {
-        "id": "916c0869d45f867806db7218d7c865a71d043bb6",
-        "title": "huggingface_hub 实现每周发布：AI、开源工具、人工审核闭环",
-        "url": "https://aihot.virxact.com/items/cmqqd9e3008seslp5644lhzaa",
-        "source": "Hugging Face：Blog（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -783,14 +845,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -806,65 +868,6 @@
         "url": "https://www.aibase.com/news/29093",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e6f57ce9fffa",
-      "title": "Aleph 2.0 现已集成到 Figma Weave",
-      "url": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-      "primary_url": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ad5af20ef5b999825411b8fa8de7125ac27bcb0a",
-          "title": "Aleph 2.0 现已集成到 Figma Weave",
-          "url": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T23:18:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "ad5af20ef5b999825411b8fa8de7125ac27bcb0a",
-          "title": "Aleph 2.0 现已集成到 Figma Weave",
-          "url": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T23:18:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.548,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T23:18:22Z",
-      "latest_at": "2026-06-22T23:18:22Z",
-      "primary_item": {
-        "id": "ad5af20ef5b999825411b8fa8de7125ac27bcb0a",
-        "title": "Aleph 2.0 现已集成到 Figma Weave",
-        "url": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -902,14 +905,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -923,6 +926,66 @@
         "id": "85a5d2117d762c9120850bd861be8e90ec6f69e2",
         "title": "字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能\"魔改\"周星驰电影",
         "url": "https://www.aibase.com/news/29094",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_689a3d371c06",
+      "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
+      "url": "https://www.aibase.com/news/29100",
+      "primary_url": "https://www.aibase.com/news/29100",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
+          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
+          "url": "https://www.aibase.com/news/29100",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T10:09:15.173584Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
+          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
+          "url": "https://www.aibase.com/news/29100",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T10:09:15.173584Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.867,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T10:09:15.173584Z",
+      "latest_at": "2026-06-23T10:09:15.173584Z",
+      "primary_item": {
+        "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
+        "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
+        "url": "https://www.aibase.com/news/29100",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -981,14 +1044,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6643,
-      "importance": 0.6643,
-      "importance_score": 0.6643,
+      "score": 0.6377,
+      "importance": 0.6377,
+      "importance_score": 0.6377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1365,
+        "recency": 0.0034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1004,66 +1067,6 @@
         "url": "https://aihot.virxact.com/items/cmqpaflwr08cpslx6umzww19d",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_689a3d371c06",
-      "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-      "url": "https://www.aibase.com/news/29100",
-      "primary_url": "https://www.aibase.com/news/29100",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
-          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-          "url": "https://www.aibase.com/news/29100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T10:09:15.173584Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
-          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-          "url": "https://www.aibase.com/news/29100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T10:09:15.173584Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-23T10:09:15.173584Z",
-      "latest_at": "2026-06-23T10:09:15.173584Z",
-      "primary_item": {
-        "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
-        "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
-        "url": "https://www.aibase.com/news/29100",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1101,14 +1104,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1161,14 +1164,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1184,6 +1187,84 @@
         "url": "https://www.aibase.com/news/29091",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dd219ead6163",
+      "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan / claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "primary_url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ad1070deda078a5087536398cf1df8a95002f9c5",
+          "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan / claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "077710be9b4b2dd03a36fe5f2dc2042b6e0030bd",
+          "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan /      claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-23T13:07:52.632000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "ad1070deda078a5087536398cf1df8a95002f9c5",
+          "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan / claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "077710be9b4b2dd03a36fe5f2dc2042b6e0030bd",
+          "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan /      claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-23T13:07:52.632000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-23T13:07:52.632000Z",
+      "latest_at": "2026-06-23T13:20:48.333791Z",
+      "primary_item": {
+        "id": "ad1070deda078a5087536398cf1df8a95002f9c5",
+        "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan / claude-code-best-practice",
+        "url": "https://github.com/shanraisshan/claude-code-best-practice",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1221,14 +1302,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1247,159 +1328,81 @@
       }
     },
     {
-      "story_id": "story_4da6248dc1c1",
-      "title": "OpenAI 联手 PE 砸下 40 亿美元，聊聊硅谷最火新职位 FDE",
-      "url": "https://www.cyzone.cn/article/837664.html",
-      "primary_url": "https://www.cyzone.cn/article/837664.html",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_7e648e5d4691",
+      "title": "如何戳破AI泡沫：从根源入手",
+      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots",
+      "primary_url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "78ddcc2e91dca05036af51920c6340e9214dae17",
-          "title": "OpenAI 联手 PE 砸下 40 亿美元，聊聊硅谷最火新职位 FDE",
-          "url": "https://www.cyzone.cn/article/837664.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "2735052b260bd0cc2411953f52b8ab7d34dc3a89",
+          "title": "如何戳破AI泡沫：从根源入手",
+          "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-23T12:44:23.600000Z"
         },
         {
-          "id": "717a9c943f83c02fe708a95c690c88f4a3193317",
-          "title": "OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
-          "url": "https://www.huxiu.com/article/4869531.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-23T07:35:00Z"
+          "id": "b3afea3daa4ae839d600d7710990678a8c4798aa",
+          "title": "如何戳破AI泡沫：从根源入手 / How to burst the AI bubble: Strike at its roots",
+          "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-23T12:00:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Ars Technica",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "78ddcc2e91dca05036af51920c6340e9214dae17",
-          "title": "OpenAI 联手 PE 砸下 40 亿美元，聊聊硅谷最火新职位 FDE",
-          "url": "https://www.cyzone.cn/article/837664.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "2735052b260bd0cc2411953f52b8ab7d34dc3a89",
+          "title": "如何戳破AI泡沫：从根源入手",
+          "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-23T12:44:23.600000Z"
         },
         {
-          "id": "717a9c943f83c02fe708a95c690c88f4a3193317",
-          "title": "OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
-          "url": "https://www.huxiu.com/article/4869531.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-23T07:35:00Z"
+          "id": "b3afea3daa4ae839d600d7710990678a8c4798aa",
+          "title": "如何戳破AI泡沫：从根源入手 / How to burst the AI bubble: Strike at its roots",
+          "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-23T12:00:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9747,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-23T07:35:00Z",
-      "latest_at": "2026-06-23T10:09:15.173584Z",
+      "earliest_at": "2026-06-23T12:00:34Z",
+      "latest_at": "2026-06-23T12:44:23.600000Z",
       "primary_item": {
-        "id": "78ddcc2e91dca05036af51920c6340e9214dae17",
-        "title": "OpenAI 联手 PE 砸下 40 亿美元，聊聊硅谷最火新职位 FDE",
-        "url": "https://www.cyzone.cn/article/837664.html",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_888ec1cadb06",
-      "title": "人工智能制造了核武器，但仍然失败 / AI Built a Nuke and Still Lost",
-      "url": "https://news.ycombinator.com/item?id=48641927",
-      "primary_url": "https://news.ycombinator.com/item?id=48641927",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "88f454947e62cab1a680443597bad44b23943381",
-          "title": "人工智能制造了核武器，但仍然失败 / AI Built a Nuke and Still Lost",
-          "url": "https://news.ycombinator.com/item?id=48641927",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-23T09:49:32.891000Z"
-        },
-        {
-          "id": "eeb98b0035a355543aa4fdf4d4678a0b518e1bd1",
-          "title": "人工智能制造了核武器，但仍然失败 / AI Built a Nuke and Still Lost",
-          "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-23T08:16:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "88f454947e62cab1a680443597bad44b23943381",
-          "title": "人工智能制造了核武器，但仍然失败 / AI Built a Nuke and Still Lost",
-          "url": "https://news.ycombinator.com/item?id=48641927",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-23T09:49:32.891000Z"
-        },
-        {
-          "id": "eeb98b0035a355543aa4fdf4d4678a0b518e1bd1",
-          "title": "人工智能制造了核武器，但仍然失败 / AI Built a Nuke and Still Lost",
-          "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-23T08:16:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9863,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-23T08:16:45Z",
-      "latest_at": "2026-06-23T09:49:32.891000Z",
-      "primary_item": {
-        "id": "88f454947e62cab1a680443597bad44b23943381",
-        "title": "人工智能制造了核武器，但仍然失败 / AI Built a Nuke and Still Lost",
-        "url": "https://news.ycombinator.com/item?id=48641927",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "2735052b260bd0cc2411953f52b8ab7d34dc3a89",
+        "title": "如何戳破AI泡沫：从根源入手",
+        "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     }
   ]
