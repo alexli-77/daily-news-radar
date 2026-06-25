@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-25T22:58:37.426529Z",
+  "generated_at": "2026-06-25T23:36:46.769987Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0859-0579-b59f-bb6ed6dece5b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-0859-0579-b59f-bb6ed6dece5b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0937-10ba-87df-4ecc6eaefafb&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-0937-10ba-87df-4ecc6eaefafb&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "9fc7674ce50013507e2207561c2d8051d8fad00b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0937-10ba-87df-4ecc6eaefafb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "95fc13b67205e628bc2687d44865daa2ae4b58be",
           "title": "点击这里进入 / Click here to enter",
@@ -174,12 +183,21 @@
           "published_at": null
         }
       ],
-      "source_count": 18,
+      "source_count": 19,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "9fc7674ce50013507e2207561c2d8051d8fad00b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0937-10ba-87df-4ecc6eaefafb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "95fc13b67205e628bc2687d44865daa2ae4b58be",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0859-0579-b59f-bb6ed6dece5b&fp=-3",
@@ -342,8 +360,8 @@
           "published_at": null
         }
       ],
-      "item_count": 18,
-      "duplicate_count": 18,
+      "item_count": 19,
+      "duplicate_count": 19,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -361,13 +379,74 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-25T00:13:44.800533Z",
-      "latest_at": "2026-06-25T22:58:37.426529Z",
+      "latest_at": "2026-06-25T23:36:46.769987Z",
       "primary_item": {
-        "id": "95fc13b67205e628bc2687d44865daa2ae4b58be",
+        "id": "9fc7674ce50013507e2207561c2d8051d8fad00b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0859-0579-b59f-bb6ed6dece5b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0937-10ba-87df-4ecc6eaefafb&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_b6ca7e75baf6",
+      "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+      "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
+          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T22:59:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
+          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T22:59:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8679,
+      "importance": 0.8679,
+      "importance_score": 0.8679,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9743,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T22:59:45Z",
+      "latest_at": "2026-06-25T22:59:45Z",
+      "primary_item": {
+        "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
+        "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+        "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -405,14 +484,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.8623,
-      "importance_score": 0.8623,
+      "score": 0.857,
+      "importance": 0.857,
+      "importance_score": 0.857,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9463,
+        "recency": 0.9198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -466,14 +545,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.8608,
-      "importance_score": 0.8608,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9389,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "official",
@@ -527,14 +606,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7093,
+        "recency": 0.6828,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,14 +667,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9495,
+        "recency": 0.923,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -648,14 +727,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9282,
+        "recency": 0.9018,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -708,14 +787,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,14 +847,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.842,
+        "recency": 0.8155,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,14 +907,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.8023,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -888,14 +967,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8275,
+        "recency": 0.801,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -948,14 +1027,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8218,
+        "recency": 0.7953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1008,14 +1087,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8128,
+        "recency": 0.7863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1069,14 +1148,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7174,
+        "recency": 0.6909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,20 +1208,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7124,
+        "recency": 0.6859,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:04:32Z",
       "latest_at": "2026-06-25T16:04:32Z",
@@ -1189,20 +1267,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7096,
+        "recency": 0.6831,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:00:25Z",
       "latest_at": "2026-06-25T16:00:25Z",
@@ -1249,20 +1326,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7093,
+        "recency": 0.6828,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:00:00Z",
       "latest_at": "2026-06-25T16:00:00Z",
@@ -1309,20 +1385,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7093,
+        "recency": 0.6828,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:00:00Z",
       "latest_at": "2026-06-25T16:00:00Z",
@@ -1405,22 +1480,21 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.0426,
+        "recency": 0.0161,
         "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T00:00:00Z",
       "latest_at": "2026-06-25T00:00:00Z",
@@ -1467,14 +1541,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6889,
+        "recency": 0.6624,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1488,66 +1562,6 @@
         "title": "Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模",
         "url": "https://aihot.virxact.com/items/cmqtpj36o05pusl0e9ingyoye",
         "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e673d987a164",
-      "title": "OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散",
-      "url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-      "primary_url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27fea087d1b3b5f4727c09bc46e3e2a0f4e5d578",
-          "title": "OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散",
-          "url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T19:04:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "27fea087d1b3b5f4727c09bc46e3e2a0f4e5d578",
-          "title": "OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散",
-          "url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T19:04:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8374,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T19:04:32Z",
-      "latest_at": "2026-06-25T19:04:32Z",
-      "primary_item": {
-        "id": "27fea087d1b3b5f4727c09bc46e3e2a0f4e5d578",
-        "title": "OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散",
-        "url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     }
