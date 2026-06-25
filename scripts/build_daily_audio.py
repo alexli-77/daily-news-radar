@@ -112,6 +112,7 @@ class AudioItem:
     reason: str
     summary: str = ""
     source_count: int = 1
+    is_ai: bool = True
 
 
 @dataclass(frozen=True)
@@ -187,6 +188,10 @@ def is_low_quality_item(item: dict[str, Any]) -> bool:
         return True
     if title.startswith(("http://", "https://")):
         return True
+    if re.search(r"\bcli\s+\d+(?:\.\d+)+\b", haystack) and len(title) < 28:
+        return True
+    if re.fullmatch(r"[\w\s./+-]+\d+(?:\.\d+)+", title) and len(title) < 28:
+        return True
     return False
 
 
@@ -219,7 +224,7 @@ def reason_for_item(item: dict[str, Any]) -> str:
     return "它的相关性和时效性都比较高，适合作为今天的重点观察。"
 
 
-def clean_summary_text(text: str, *, max_len: int = 96) -> str:
+def clean_summary_text(text: str, *, max_len: int = 72) -> str:
     text = unescape(text or "")
     text = re.sub(r"https?://\S+", "", text)
     text = re.sub(r"[#*_`<>]", "", text)
@@ -370,6 +375,14 @@ def bullet_for_item(item: AudioItem) -> str:
         return "谷歌把电脑操作能力原生接入 Gemini 3.5 Flash，目标是减少多模型切换，让智能体直接完成网页和软件任务。"
     if "独角兽" in title and "榜单" in title:
         return "最新全球独角兽榜单显示，大模型公司继续吸引高估值和资本关注，AI 仍是一级市场最强叙事之一。"
+    if "google finance" in lower or "google 财经" in lower:
+        return "Google Finance 推出新版 Android 应用和投资组合功能，试图把行情查看、资产跟踪和财经信息整合到一个移动端入口。"
+    if "olmo hybrid" in lower and "transformer" in lower:
+        return "OLMo Hybrid 与 Transformer 的对比显示，混合架构在名词、动词等实义词预测上更强，但对重复短语改善有限。"
+    if "general intuition" in lower and ("融资" in title or "估值" in title):
+        return "General Intuition 完成三点二亿美元融资，计划用游戏数据训练通用 AI 智能体，估值升至二十三亿美元。"
+    if "ornith" in lower and ("agentic coding" in lower or "智能体编程" in title):
+        return "Ornith 发布面向智能体编程的开源模型家族，覆盖小参数 Dense 模型到接近四千亿参数的 MoE 模型。"
     if "微调" in title:
         return f"{compact}，重点是提升模型微调效率，属于开发者训练流程更新。"
     if "电脑使用" in title or "计算机使用" in title:
@@ -403,6 +416,8 @@ def dedupe_key(item: dict[str, Any]) -> str:
     semantic = key.replace(" ", "")
     if "gemini" in semantic and any(term in semantic for term in ("电脑使用", "计算机使用", "电脑操作", "操作能力", "多模型切换", "computeruse")):
         return "gemini计算机使用"
+    if "googlefinance" in semantic or "google财经" in semantic:
+        return "googlefinance"
     if "nemo" in semantic and "automodel" in semantic and "微调" in semantic:
         return "nemoautomodel微调"
     replacements = {
@@ -429,11 +444,40 @@ def extract_items(payload: dict[str, Any]) -> list[dict[str, Any]]:
     return []
 
 
+def extract_general_items(payload: dict[str, Any]) -> list[dict[str, Any]]:
+    for key in ("items_all", "items_all_raw", "items", "stories"):
+        value = payload.get(key)
+        if isinstance(value, list):
+            return [item for item in value if isinstance(item, dict)]
+    return []
+
+
+def select_unique_items(candidates: list[dict[str, Any]], *, max_items: int, seen_titles: set[str] | None = None, seen_urls: set[str] | None = None) -> list[dict[str, Any]]:
+    selected: list[dict[str, Any]] = []
+    if seen_titles is None:
+        seen_titles = set()
+    if seen_urls is None:
+        seen_urls = set()
+    for item in candidates:
+        title_key = dedupe_key(item)
+        url_key = first_text(item.get("url"), item.get("primary_url"))
+        if title_key in seen_titles or (url_key and url_key in seen_urls):
+            continue
+        selected.append(item)
+        seen_titles.add(title_key)
+        if url_key:
+            seen_urls.add(url_key)
+        if len(selected) >= max_items:
+            break
+    return selected
+
+
 def build_audio_items(
     primary_payload: dict[str, Any],
     fallback_payload: dict[str, Any] | None = None,
+    general_payload: dict[str, Any] | None = None,
     *,
-    max_items: int = 6,
+    max_items: int = 10,
     min_items: int = 4,
 ) -> list[AudioItem]:
     candidates = [
@@ -450,16 +494,23 @@ def build_audio_items(
             seen.add(key)
 
     candidates.sort(key=score_for_item, reverse=True)
-    selected: list[dict[str, Any]] = []
     seen_titles: set[str] = set()
-    for item in candidates:
-        key = dedupe_key(item)
-        if key in seen_titles:
-            continue
-        selected.append(item)
-        seen_titles.add(key)
-        if len(selected) >= max_items:
-            break
+    seen_urls: set[str] = set()
+    selected = select_unique_items(candidates, max_items=max_items, seen_titles=seen_titles, seen_urls=seen_urls)
+    if general_payload and len(selected) < max_items:
+        general_candidates = [
+            item for item in extract_general_items(general_payload)
+            if not is_low_quality_item(item)
+        ]
+        general_candidates.sort(key=score_for_item, reverse=True)
+        selected.extend(
+            select_unique_items(
+                general_candidates,
+                max_items=max_items - len(selected),
+                seen_titles=seen_titles,
+                seen_urls=seen_urls,
+            )
+        )
     return [
         AudioItem(
             title=title_for_audio(item),
@@ -470,6 +521,7 @@ def build_audio_items(
             reason=reason_for_item(item),
             summary=summary_for_item(item),
             source_count=int(item.get("source_count") or item.get("item_count") or 1),
+            is_ai=has_ai_signal(item),
         )
         for item in selected
     ]
@@ -506,21 +558,12 @@ def build_script(
 ) -> str:
     report_date = chinese_date(parse_generated_at(generated_at), timezone_name=date_timezone)
     if not items:
-        return f"{report_date}人工智能热点分享\n一、人工智能热点\n1、今天暂时没有筛出足够可靠的人工智能新闻信号。"
+        return f"{report_date}热点分享\n1、今天暂时没有筛出足够可靠的新闻信号。"
 
-    lines = [f"{report_date}人工智能热点分享"]
-    grouped: dict[str, list[EditedBullet]] = {}
-    for bullet in edit_bullets(items):
-        grouped.setdefault(bullet.section, []).append(bullet)
-
-    section_order = ["一、模型与产品更新", "二、开发者工具与工程更新", "三、产业与算力动态"]
-    for section in section_order:
-        bullets = grouped.get(section, [])
-        if not bullets:
-            continue
-        lines.append(section)
-        for index, bullet in enumerate(bullets, start=1):
-            lines.append(f"{index}、{bullet.text}")
+    report_title = "人工智能热点分享" if all(item.is_ai for item in items) else "人工智能与综合热点分享"
+    lines = [f"{report_date}{report_title}"]
+    for index, bullet in enumerate(edit_bullets(items), start=1):
+        lines.append(f"{index}、{bullet.text}")
 
     return "\n".join(lines)
 
@@ -802,8 +845,9 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build and optionally deliver a human-like Chinese daily AI audio brief.")
     parser.add_argument("--input", default="data/daily-brief.json", help="Primary JSON input, usually data/daily-brief.json")
     parser.add_argument("--fallback", default="data/latest-24h.json", help="Fallback JSON input when the brief has too few clean items")
+    parser.add_argument("--fallback-all", default="data/latest-24h-all.json", help="Optional all-topic fallback JSON used to fill the brief when AI items are insufficient")
     parser.add_argument("--output-dir", default="out/daily-audio", help="Directory for generated audio and text")
-    parser.add_argument("--max-items", type=int, default=6, help="Maximum stories to include")
+    parser.add_argument("--max-items", type=int, default=10, help="Maximum stories to include")
     parser.add_argument("--min-items", type=int, default=4, help="Minimum clean brief stories before using fallback")
     parser.add_argument("--voice", default=os.getenv("AUDIO_TTS_VOICE", DEFAULT_VOICE), help="edge-tts voice name")
     parser.add_argument("--rate", default=os.getenv("AUDIO_TTS_RATE", "+0%"), help="edge-tts speaking rate, e.g. +8%")
@@ -823,12 +867,14 @@ def main() -> int:
     args = parse_args()
     primary_path = Path(args.input)
     fallback_path = Path(args.fallback)
+    fallback_all_path = Path(args.fallback_all)
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
     primary_payload = load_json(primary_path)
     fallback_payload = load_json(fallback_path) if fallback_path.exists() else None
-    items = build_audio_items(primary_payload, fallback_payload, max_items=args.max_items, min_items=args.min_items)
+    general_payload = load_json(fallback_all_path) if fallback_all_path.exists() else None
+    items = build_audio_items(primary_payload, fallback_payload, general_payload, max_items=args.max_items, min_items=args.min_items)
     if not args.no_fetch_summaries:
         items = enrich_items_with_page_summaries(items, timeout=args.summary_timeout)
     script = build_script(

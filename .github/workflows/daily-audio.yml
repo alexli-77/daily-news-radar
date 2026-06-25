@@ -42,7 +42,9 @@ jobs:
           python scripts/build_daily_audio.py \
             --input data/daily-brief.json \
             --fallback data/latest-24h.json \
-            --output-dir out/daily-audio
+            --fallback-all data/latest-24h-all.json \
+            --output-dir out/daily-audio \
+            --max-items 10
 
       - name: Publish latest audio to Pages data
         run: |

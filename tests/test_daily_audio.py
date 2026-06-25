@@ -96,6 +96,29 @@ def test_build_audio_items_falls_back_when_brief_is_too_noisy():
     ]
 
 
+def test_build_audio_items_fills_with_general_hot_news_when_ai_is_short():
+    primary = {
+        "items": [
+            {"title": "OpenAI 发布新的 Codex 工具", "source": "OpenAI Blog", "score": 0.9, "category": "official"},
+        ]
+    }
+    general = {
+        "items_all": [
+            {"title": "南方多地发布暴雨预警", "source": "综合新闻", "score": 0.8, "url": "https://example.com/weather"},
+            {"title": "全国夏粮收割进度超过八成", "source": "综合新闻", "score": 0.7, "url": "https://example.com/grain"},
+        ]
+    }
+
+    items = build_audio_items(primary, None, general, max_items=3, min_items=1)
+
+    assert [item.title for item in items] == [
+        "OpenAI 发布新的 Codex 工具",
+        "南方多地发布暴雨预警",
+        "全国夏粮收割进度超过八成",
+    ]
+    assert [item.is_ai for item in items] == [True, False, False]
+
+
 def test_build_script_is_plain_chinese_speech():
     payload = {
         "items": [
@@ -106,6 +129,7 @@ def test_build_script_is_plain_chinese_speech():
 
     assert "人工智能热点分享" in script
     assert "1、" in script
+    assert "\n一、" not in script
     assert "OpenAI 发布新的 Codex 工具" in script
     assert "Open A I" not in script
     assert "Open A I" in speech_text(script)
