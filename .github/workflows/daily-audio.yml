@@ -3,8 +3,9 @@ name: Deliver Daily AI Audio Brief
 on:
   workflow_dispatch:
   schedule:
-    # 08:45 Asia/Shanghai. The data refresh workflow runs every 30 minutes.
-    - cron: "45 0 * * *"
+    # 08:45 America/Toronto during daylight saving time; 07:45 during standard time.
+    # GitHub Actions cron uses UTC and does not adjust for local daylight saving time.
+    - cron: "45 12 * * *"
 
 permissions:
   contents: write
