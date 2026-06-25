@@ -3,8 +3,11 @@ from __future__ import annotations
 from pathlib import Path
 
 from scripts.build_daily_audio import (
+    AudioItem,
+    bullet_for_item,
     build_audio_items,
     build_script,
+    clean_summary_text,
     get_feishu_tenant_access_token,
     is_low_quality_item,
     send_feishu_webhook,
@@ -62,6 +65,12 @@ def test_title_for_audio_prefers_chinese_side_of_bilingual_title():
     assert title_for_audio(item) == "Gemini 3.5 Flash 中电脑使用介绍"
 
 
+def test_title_for_audio_strips_zero_width_chars():
+    item = {"title": "\u200b前印度信息技术巨头新创企业，欲用 AI 颠覆 IT 服务行业"}
+
+    assert title_for_audio(item).startswith("前印度")
+
+
 def test_build_audio_items_falls_back_when_brief_is_too_noisy():
     primary = {
         "items": [
@@ -111,6 +120,48 @@ def test_speech_friendly_text_rewrites_common_english_tokens():
     assert "大语言模型" in text
     assert "G P T 五点五" in text
     assert "Open A I" in text
+
+
+def test_bullet_for_item_uses_summary_without_heat_filler():
+    item = AudioItem(
+        title="AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制",
+        source="InfoQ",
+        url="https://example.com/agent-access",
+        score=0.9,
+        category="news",
+        reason="",
+        summary="文章讨论企业在部署智能体时，如何处理身份认证、授权边界和工具调用风险。",
+        source_count=3,
+    )
+
+    bullet = bullet_for_item(item)
+
+    assert "多个来源同时出现" not in bullet
+    assert "热度较高" not in bullet
+    assert "身份认证、授权边界和工具调用风险" in bullet
+
+
+def test_bullet_for_item_rewrites_ascii_colon_title():
+    item = AudioItem(
+        title="商汤科技秘密研发多模态模型“U1Pro”:由林达华牵头，预计7月启动内测对标OpenAI",
+        source="AIBase",
+        url="https://example.com/sensetime",
+        score=0.8,
+        category="news",
+        reason="",
+    )
+
+    assert "重点是由林达华牵头" in bullet_for_item(item)
+
+
+def test_clean_summary_text_skips_english_boilerplate():
+    assert clean_summary_text("Subscribe to continue reading this article") == ""
+
+
+def test_clean_summary_text_skips_mostly_english_summaries():
+    text = "Latest data shows that consultation热度 surged sharply after exam results were released."
+
+    assert clean_summary_text(text) == ""
 
 
 def test_feishu_token_response_is_validated():

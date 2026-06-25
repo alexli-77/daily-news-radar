@@ -6,13 +6,15 @@ import json
 import os
 import re
 import sys
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import datetime, timezone
+from html import unescape
 from pathlib import Path
 from typing import Any
 from zoneinfo import ZoneInfo
 
 import requests
+from bs4 import BeautifulSoup
 
 
 DEFAULT_VOICE = "zh-CN-XiaoxiaoNeural"
@@ -24,6 +26,28 @@ BAD_TITLE_PATTERNS = (
     "点击这里",
     "进入 / click",
     "untitled",
+)
+SUMMARY_KEYS = (
+    "summary_zh",
+    "summary",
+    "description_zh",
+    "description",
+    "excerpt_zh",
+    "excerpt",
+    "abstract",
+    "content_summary",
+)
+SUMMARY_SKIP_PATTERNS = (
+    "subscribe",
+    "sign up",
+    "cookie",
+    "javascript",
+    "enable javascript",
+    "click here",
+    "all rights reserved",
+    "read more",
+    "继续阅读",
+    "点击这里",
 )
 AI_SIGNAL_PATTERNS = (
     "ai",
@@ -86,6 +110,7 @@ class AudioItem:
     score: float
     category: str
     reason: str
+    summary: str = ""
     source_count: int = 1
 
 
@@ -121,7 +146,20 @@ def title_for_audio(item: dict[str, Any]) -> str:
 
 
 def normalize_space(text: str) -> str:
+    text = re.sub(r"[\u200b\u200c\u200d\ufeff]", "", text)
     return re.sub(r"\s+", " ", text).strip()
+
+
+def has_cjk(text: str) -> bool:
+    return bool(re.search(r"[\u3400-\u9fff]", text))
+
+
+def cjk_ratio(text: str) -> float:
+    chars = [char for char in text if not char.isspace()]
+    if not chars:
+        return 0.0
+    cjk_chars = [char for char in chars if re.match(r"[\u3400-\u9fff]", char)]
+    return len(cjk_chars) / len(chars)
 
 
 def score_for_item(item: dict[str, Any]) -> float:
@@ -181,6 +219,108 @@ def reason_for_item(item: dict[str, Any]) -> str:
     return "它的相关性和时效性都比较高，适合作为今天的重点观察。"
 
 
+def clean_summary_text(text: str, *, max_len: int = 96) -> str:
+    text = unescape(text or "")
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"[#*_`<>]", "", text)
+    text = normalize_space(text).strip(" -—:：。")
+    if not text or not has_cjk(text) or cjk_ratio(text) < 0.28:
+        return ""
+    lowered = text.casefold()
+    if any(pattern in lowered for pattern in SUMMARY_SKIP_PATTERNS):
+        return ""
+    sentences = re.split(r"(?<=[。！？!?])", text)
+    summary = ""
+    for sentence in sentences:
+        sentence = sentence.strip()
+        if not sentence:
+            continue
+        if len(summary) + len(sentence) > max_len and summary:
+            break
+        summary += sentence
+        if len(summary) >= max_len:
+            break
+    summary = summary or text[:max_len]
+    summary = summary.rstrip("。！？!?，,；;")
+    return summary
+
+
+def summary_for_item(item: dict[str, Any]) -> str:
+    containers: list[dict[str, Any]] = [item]
+    primary = item.get("primary_item")
+    if isinstance(primary, dict):
+        containers.append(primary)
+    for source in item.get("sources") or []:
+        if isinstance(source, dict):
+            containers.append(source)
+    for container in containers:
+        for key in SUMMARY_KEYS:
+            summary = clean_summary_text(first_text(container.get(key)))
+            if summary:
+                return summary
+    return ""
+
+
+def extract_page_summary(html: str) -> str:
+    soup = BeautifulSoup(html, "html.parser")
+    for tag in soup(["script", "style", "noscript", "svg", "nav", "footer", "header"]):
+        tag.decompose()
+
+    candidates: list[str] = []
+    for attrs in (
+        {"property": "og:description"},
+        {"name": "description"},
+        {"name": "twitter:description"},
+    ):
+        meta = soup.find("meta", attrs=attrs)
+        content = meta.get("content") if meta else ""
+        if isinstance(content, str):
+            candidates.append(content)
+
+    for tag in soup.find_all(["p", "li"], limit=24):
+        text = tag.get_text(" ", strip=True)
+        if text:
+            candidates.append(text)
+
+    for candidate in candidates:
+        summary = clean_summary_text(candidate)
+        if summary:
+            return summary
+    return ""
+
+
+def fetch_page_summary(url: str, *, session: requests.Session | None = None, timeout: float = 6.0) -> str:
+    if not url.startswith(("http://", "https://")):
+        return ""
+    session = session or requests.Session()
+    response = session.get(
+        url,
+        headers={"User-Agent": "daily-news-radar-audio/1.0 (+https://github.com/alexli-77/daily-news-radar)"},
+        timeout=timeout,
+    )
+    response.raise_for_status()
+    content_type = response.headers.get("content-type", "").casefold()
+    if "html" not in content_type and "text" not in content_type:
+        return ""
+    return extract_page_summary(response.text)
+
+
+def enrich_items_with_page_summaries(items: list[AudioItem], *, timeout: float = 6.0) -> list[AudioItem]:
+    session = requests.Session()
+    enriched: list[AudioItem] = []
+    for item in items:
+        if item.summary:
+            enriched.append(item)
+            continue
+        summary = ""
+        try:
+            summary = fetch_page_summary(item.url, session=session, timeout=timeout)
+        except requests.RequestException:
+            summary = ""
+        enriched.append(replace(item, summary=summary) if summary else item)
+    return enriched
+
+
 def speech_friendly_text(text: str) -> str:
     result = text
     for pattern, replacement in SPEECH_REPLACEMENTS:
@@ -220,6 +360,16 @@ def bullet_for_item(item: AudioItem) -> str:
         return "Figma 在 Config 2026 强调人类判断，同时把部分画布 AI 能力交给第三方模型，设计工具的人工智能分工更清晰。"
     if "mistral" in lower and ("connector" in lower or "连接器" in title):
         return "Mistral 为连接器增加安全和可控能力，重点是让企业接入数据源时更好管理权限和风险。"
+    if "it 服务行业" in lower and ("颠覆" in title or "新创企业" in title):
+        return "一家由前印度 IT 服务高管创办的新企业，试图用 AI 重构传统 IT 外包和服务交付流程。"
+    if "内容审核" in title and ("meta" in lower or "部署过快" in title):
+        return "Meta 员工警告，公司把 AI 内容审核推得过快，可能在节省成本的同时放大误判和治理风险。"
+    if "地方报纸" in title and "起诉" in title and ("openai" in lower or "微软" in title):
+        return "近四百家地方报纸起诉 OpenAI 和微软，核心争议是新闻内容是否被未经授权用于 AI 训练和产品生成。"
+    if "多模型切换" in title and "gemini" in lower:
+        return "谷歌把电脑操作能力原生接入 Gemini 3.5 Flash，目标是减少多模型切换，让智能体直接完成网页和软件任务。"
+    if "独角兽" in title and "榜单" in title:
+        return "最新全球独角兽榜单显示，大模型公司继续吸引高估值和资本关注，AI 仍是一级市场最强叙事之一。"
     if "微调" in title:
         return f"{compact}，重点是提升模型微调效率，属于开发者训练流程更新。"
     if "电脑使用" in title or "计算机使用" in title:
@@ -230,15 +380,28 @@ def bullet_for_item(item: AudioItem) -> str:
         return f"{compact}，反映 AI 对招聘和岗位结构的影响仍在重新定价。"
     if any(term in title for term in ("服务器", "芯片", "算力", "散热")):
         return f"{compact}，属于 AI 基础设施和算力成本相关信号。"
-    if item.source_count >= 2:
-        return f"{compact}，多个来源同时出现，热度较高。"
-    return f"{compact}，来自 {source}。"
+    summary = clean_summary_text(item.summary)
+    if summary:
+        if compact in summary or summary in compact:
+            return f"{summary}。"
+        return f"{compact}，{summary}。"
+    if "：" in compact or ":" in compact:
+        delimiter = "：" if "：" in compact else ":"
+        subject, detail = compact.split(delimiter, 1)
+        detail = detail.strip()
+        if detail:
+            return f"{subject}，重点是{detail.rstrip('。')}。"
+    if "？" in compact or "?" in compact:
+        return f"{compact}，这条新闻关注相关变化背后的原因和影响。"
+    if source:
+        return f"{compact}。"
+    return f"{compact}。"
 
 
 def dedupe_key(item: dict[str, Any]) -> str:
     key = title_for_audio(item).casefold()
     semantic = key.replace(" ", "")
-    if "gemini" in semantic and ("电脑使用" in semantic or "计算机使用" in semantic or "computeruse" in semantic):
+    if "gemini" in semantic and any(term in semantic for term in ("电脑使用", "计算机使用", "电脑操作", "操作能力", "多模型切换", "computeruse")):
         return "gemini计算机使用"
     if "nemo" in semantic and "automodel" in semantic and "微调" in semantic:
         return "nemoautomodel微调"
@@ -305,6 +468,7 @@ def build_audio_items(
             score=score_for_item(item),
             category=first_text(item.get("category"), "news"),
             reason=reason_for_item(item),
+            summary=summary_for_item(item),
             source_count=int(item.get("source_count") or item.get("item_count") or 1),
         )
         for item in selected
@@ -645,6 +809,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--rate", default=os.getenv("AUDIO_TTS_RATE", "+0%"), help="edge-tts speaking rate, e.g. +8%")
     parser.add_argument("--pitch", default=os.getenv("AUDIO_TTS_PITCH", "+0Hz"), help="edge-tts pitch, e.g. -2Hz")
     parser.add_argument("--date-timezone", default=os.getenv("AUDIO_DATE_TIMEZONE", DEFAULT_DATE_TIMEZONE), help="Timezone used in the spoken date")
+    parser.add_argument("--summary-timeout", type=float, default=float(os.getenv("AUDIO_SUMMARY_TIMEOUT", "6")), help="Seconds to wait when fetching selected article pages for summaries")
+    parser.add_argument("--no-fetch-summaries", action="store_true", help="Skip URL fetching and summarize from JSON/title fields only")
     parser.add_argument("--discord-channel-id", default=os.getenv("DISCORD_CHANNEL_ID", ""), help="Optional Discord channel ID")
     parser.add_argument("--feishu-chat-id", default=os.getenv("FEISHU_CHAT_ID", ""), help="Optional Feishu/Lark chat_id")
     parser.add_argument("--feishu-api-base", default=os.getenv("FEISHU_API_BASE", DEFAULT_FEISHU_API_BASE), help="Feishu/Lark OpenAPI base URL")
@@ -663,6 +829,8 @@ def main() -> int:
     primary_payload = load_json(primary_path)
     fallback_payload = load_json(fallback_path) if fallback_path.exists() else None
     items = build_audio_items(primary_payload, fallback_payload, max_items=args.max_items, min_items=args.min_items)
+    if not args.no_fetch_summaries:
+        items = enrich_items_with_page_summaries(items, timeout=args.summary_timeout)
     script = build_script(
         items,
         generated_at=first_text(primary_payload.get("generated_at")),
