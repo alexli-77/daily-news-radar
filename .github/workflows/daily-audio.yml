@@ -43,13 +43,17 @@ jobs:
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_CHAT_ID: ${{ vars.FEISHU_CHAT_ID }}
           FEISHU_API_BASE: ${{ vars.FEISHU_API_BASE || 'https://open.feishu.cn/open-apis' }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          AUDIO_PUBLIC_URL: ${{ vars.AUDIO_PUBLIC_URL }}
         run: |
           python scripts/build_daily_audio.py \
             --input data/daily-brief.json \
             --fallback data/latest-24h.json \
             --output-dir out/daily-audio \
             --discord-channel-id "${DISCORD_CHANNEL_ID:-}" \
-            --feishu-chat-id "${FEISHU_CHAT_ID:-}"
+            --feishu-chat-id "${FEISHU_CHAT_ID:-}" \
+            --feishu-webhook-url "${FEISHU_WEBHOOK_URL:-}" \
+            --audio-public-url "${AUDIO_PUBLIC_URL:-}"
 
       - name: Upload audio artifact
         if: always()

@@ -570,6 +570,53 @@ def send_feishu_audio(
     }
 
 
+def github_run_url() -> str:
+    server_url = os.getenv("GITHUB_SERVER_URL", "https://github.com")
+    repository = os.getenv("GITHUB_REPOSITORY", "")
+    run_id = os.getenv("GITHUB_RUN_ID", "")
+    if repository and run_id:
+        return f"{server_url.rstrip('/')}/{repository}/actions/runs/{run_id}"
+    return ""
+
+
+def build_webhook_text(*, digest_text: str, audio_url: str = "", run_url: str = "") -> str:
+    lines = ["AI 新闻雷达音频简报", ""]
+    if audio_url:
+        lines.extend([f"音频链接：{audio_url}", ""])
+    elif run_url:
+        lines.extend(
+            [
+                f"音频已生成，可在本次 GitHub Actions 的 daily-ai-audio-brief artifact 下载：{run_url}",
+                "",
+            ]
+        )
+    lines.append(digest_text)
+    return "\n".join(lines).strip()
+
+
+def send_feishu_webhook(
+    *,
+    webhook_url: str,
+    digest_text: str,
+    audio_url: str = "",
+    run_url: str = "",
+    session: Any = requests,
+) -> dict[str, Any]:
+    message = build_webhook_text(digest_text=digest_text, audio_url=audio_url, run_url=run_url)
+    responses = []
+    for chunk in split_chunks(message, 3500):
+        response = session.post(
+            webhook_url,
+            json={"msg_type": "text", "content": {"text": chunk}},
+            timeout=30,
+        )
+        payload = feishu_response_json(response, action="webhook send")
+        if payload.get("code") not in (None, 0):
+            raise RuntimeError(f"Feishu webhook send failed: code={payload.get('code')} msg={payload.get('msg')}")
+        responses.append(payload)
+    return {"status": "ok", "messages": len(responses)}
+
+
 def split_chunks(text: str, max_len: int) -> list[str]:
     chunks: list[str] = []
     remaining = text.strip()
@@ -601,6 +648,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--discord-channel-id", default=os.getenv("DISCORD_CHANNEL_ID", ""), help="Optional Discord channel ID")
     parser.add_argument("--feishu-chat-id", default=os.getenv("FEISHU_CHAT_ID", ""), help="Optional Feishu/Lark chat_id")
     parser.add_argument("--feishu-api-base", default=os.getenv("FEISHU_API_BASE", DEFAULT_FEISHU_API_BASE), help="Feishu/Lark OpenAPI base URL")
+    parser.add_argument("--feishu-webhook-url", default=os.getenv("FEISHU_WEBHOOK_URL", ""), help="Optional Feishu custom bot webhook URL")
+    parser.add_argument("--audio-public-url", default=os.getenv("AUDIO_PUBLIC_URL", ""), help="Optional public URL for the generated audio")
     return parser.parse_args()
 
 
@@ -656,16 +705,30 @@ def main() -> int:
     feishu_app_id = os.getenv("FEISHU_APP_ID", "")
     feishu_app_secret = os.getenv("FEISHU_APP_SECRET", "")
     if args.feishu_chat_id and feishu_app_id and feishu_app_secret:
-        result["feishu"] = send_feishu_audio(
-            app_id=feishu_app_id,
-            app_secret=feishu_app_secret,
-            chat_id=args.feishu_chat_id,
-            audio_path=audio_path,
-            digest_text=digest,
-            api_base=args.feishu_api_base,
-        )
+        try:
+            result["feishu"] = send_feishu_audio(
+                app_id=feishu_app_id,
+                app_secret=feishu_app_secret,
+                chat_id=args.feishu_chat_id,
+                audio_path=audio_path,
+                digest_text=digest,
+                api_base=args.feishu_api_base,
+            )
+        except Exception as exc:
+            result["feishu"] = {"status": "failed", "reason": str(exc)}
     elif args.feishu_chat_id:
         result["feishu"] = {"status": "skipped", "reason": "FEISHU_APP_ID or FEISHU_APP_SECRET is not set"}
+
+    if args.feishu_webhook_url:
+        try:
+            result["feishu_webhook"] = send_feishu_webhook(
+                webhook_url=args.feishu_webhook_url,
+                digest_text=digest,
+                audio_url=args.audio_public_url,
+                run_url=github_run_url(),
+            )
+        except Exception as exc:
+            result["feishu_webhook"] = {"status": "failed", "reason": str(exc)}
 
     metadata_path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(result, ensure_ascii=False))

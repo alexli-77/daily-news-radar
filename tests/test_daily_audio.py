@@ -7,6 +7,7 @@ from scripts.build_daily_audio import (
     build_script,
     get_feishu_tenant_access_token,
     is_low_quality_item,
+    send_feishu_webhook,
     send_feishu_audio,
     speech_friendly_text,
     title_for_audio,
@@ -33,6 +34,8 @@ class FakeFeishuSession:
 
     def post(self, url, **kwargs):
         self.calls.append((url, kwargs))
+        if url.startswith("https://open.feishu.cn/open-apis/bot/v2/hook/"):
+            return FakeResponse({"StatusCode": 0, "StatusMessage": "success"})
         if url.endswith("/auth/v3/tenant_access_token/internal"):
             return FakeResponse({"code": 0, "tenant_access_token": "tenant-token"})
         if url.endswith("/im/v1/files"):
@@ -135,3 +138,20 @@ def test_send_feishu_audio_uploads_file_and_sends_text(tmp_path: Path):
     assert result["text_message_ids"] == ["om_4"]
     assert session.calls[2][1]["json"]["msg_type"] == "file"
     assert session.calls[3][1]["json"]["msg_type"] == "text"
+
+
+def test_send_feishu_webhook_posts_text_with_audio_and_urls():
+    session = FakeFeishuSession()
+
+    result = send_feishu_webhook(
+        webhook_url="https://open.feishu.cn/open-apis/bot/v2/hook/test",
+        digest_text="播报稿\n\n原文：https://example.com/news",
+        audio_url="https://example.com/audio.mp3",
+        session=session,
+    )
+
+    assert result == {"status": "ok", "messages": 1}
+    payload = session.calls[0][1]["json"]
+    assert payload["msg_type"] == "text"
+    assert "https://example.com/audio.mp3" in payload["content"]["text"]
+    assert "https://example.com/news" in payload["content"]["text"]
