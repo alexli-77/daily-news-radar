@@ -37,7 +37,7 @@ jobs:
           AUDIO_TTS_VOICE: ${{ vars.AUDIO_TTS_VOICE || 'zh-CN-XiaoxiaoNeural' }}
           AUDIO_TTS_RATE: ${{ vars.AUDIO_TTS_RATE || '-5%' }}
           AUDIO_TTS_PITCH: ${{ vars.AUDIO_TTS_PITCH || '+0Hz' }}
-          AUDIO_DATE_TIMEZONE: ${{ vars.AUDIO_DATE_TIMEZONE || 'Asia/Shanghai' }}
+          AUDIO_DATE_TIMEZONE: ${{ vars.AUDIO_DATE_TIMEZONE || 'America/Toronto' }}
         run: |
           python scripts/build_daily_audio.py \
             --input data/daily-brief.json \
