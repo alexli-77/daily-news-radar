@@ -438,6 +438,19 @@ def require_feishu_ok(payload: dict[str, Any], *, action: str) -> dict[str, Any]
     raise RuntimeError(f"Feishu {action} failed: code={payload.get('code')} msg={payload.get('msg')}")
 
 
+def feishu_response_json(response: Any, *, action: str) -> dict[str, Any]:
+    try:
+        payload = response.json()
+    except ValueError:
+        payload = {}
+    if not response.ok:
+        raise RuntimeError(
+            f"Feishu {action} HTTP {response.status_code}: "
+            f"code={payload.get('code')} msg={payload.get('msg') or response.text[:300]}"
+        )
+    return payload
+
+
 def get_feishu_tenant_access_token(
     *,
     app_id: str,
@@ -450,8 +463,7 @@ def get_feishu_tenant_access_token(
         json={"app_id": app_id, "app_secret": app_secret},
         timeout=30,
     )
-    response.raise_for_status()
-    payload = response.json()
+    payload = feishu_response_json(response, action="tenant_access_token")
     data = require_feishu_ok(payload, action="tenant_access_token")
     token = first_text(data.get("tenant_access_token"), payload.get("tenant_access_token"))
     if not token:
@@ -475,8 +487,7 @@ def feishu_upload_file(
             files={"file": (file_path.name, file_obj, "audio/mpeg")},
             timeout=60,
         )
-    response.raise_for_status()
-    data = require_feishu_ok(response.json(), action="file upload")
+    data = require_feishu_ok(feishu_response_json(response, action="file upload"), action="file upload")
     file_key = first_text(data.get("file_key"))
     if not file_key:
         raise RuntimeError("Feishu file upload response did not include file_key.")
@@ -506,8 +517,7 @@ def feishu_send_message(
         },
         timeout=30,
     )
-    response.raise_for_status()
-    return require_feishu_ok(response.json(), action=f"send {msg_type} message")
+    return require_feishu_ok(feishu_response_json(response, action=f"send {msg_type} message"), action=f"send {msg_type} message")
 
 
 def send_feishu_audio(

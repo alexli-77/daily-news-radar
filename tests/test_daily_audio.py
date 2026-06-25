@@ -16,6 +16,9 @@ from scripts.build_daily_audio import (
 class FakeResponse:
     def __init__(self, payload):
         self.payload = payload
+        self.ok = True
+        self.status_code = 200
+        self.text = ""
 
     def raise_for_status(self):
         return None
