@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-25T20:14:11.129973Z",
+  "generated_at": "2026-06-25T21:05:27.612525Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0614-36cd-8977-422e5423d002&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-0614-36cd-8977-422e5423d002&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0705-56b3-9622-ebf6fd74e76e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-0705-56b3-9622-ebf6fd74e76e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "37766a5a4ddc62d1612b1f8cbff56686c5b81e6d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0705-56b3-9622-ebf6fd74e76e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f9bcc71e2ffd087a82fb7b19f0b2d50d31526832",
           "title": "点击这里进入 / Click here to enter",
@@ -165,12 +174,21 @@
           "published_at": null
         }
       ],
-      "source_count": 17,
+      "source_count": 18,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "37766a5a4ddc62d1612b1f8cbff56686c5b81e6d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0705-56b3-9622-ebf6fd74e76e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f9bcc71e2ffd087a82fb7b19f0b2d50d31526832",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0614-36cd-8977-422e5423d002&fp=-3",
@@ -324,8 +342,8 @@
           "published_at": null
         }
       ],
-      "item_count": 17,
-      "duplicate_count": 17,
+      "item_count": 18,
+      "duplicate_count": 18,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -343,11 +361,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-24T21:22:14.159799Z",
-      "latest_at": "2026-06-25T20:14:11.129973Z",
+      "latest_at": "2026-06-25T21:05:27.612525Z",
       "primary_item": {
-        "id": "f9bcc71e2ffd087a82fb7b19f0b2d50d31526832",
+        "id": "37766a5a4ddc62d1612b1f8cbff56686c5b81e6d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0614-36cd-8977-422e5423d002&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0705-56b3-9622-ebf6fd74e76e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -387,14 +405,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.927,
+        "recency": 0.8914,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,14 +466,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8235,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -471,6 +489,67 @@
         "title": "我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app",
         "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_43bc8b14a9a3",
+      "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+      "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+      "primary_url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
+          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T18:16:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
+          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T18:16:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8829,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T18:16:46Z",
+      "latest_at": "2026-06-25T18:16:46Z",
+      "primary_item": {
+        "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
+        "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+        "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -509,14 +588,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9562,
+        "recency": 0.9206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -569,14 +648,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9516,
+        "recency": 0.916,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -592,67 +671,6 @@
         "url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_01de969be41c",
-      "title": "现在可以并行运行操作步骤 / Actions steps can now be run in parallel",
-      "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
-      "primary_url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3d22e39f449143dec262b60950247b36c74429c3",
-          "title": "现在可以并行运行操作步骤 / Actions steps can now be run in parallel",
-          "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T16:46:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3d22e39f449143dec262b60950247b36c74429c3",
-          "title": "现在可以并行运行操作步骤 / Actions steps can now be run in parallel",
-          "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T16:46:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8555,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T16:46:09Z",
-      "latest_at": "2026-06-25T16:46:09Z",
-      "primary_item": {
-        "id": "3d22e39f449143dec262b60950247b36c74429c3",
-        "title": "现在可以并行运行操作步骤 / Actions steps can now be run in parallel",
-        "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -690,14 +708,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.9074,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -750,14 +768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9417,
+        "recency": 0.9061,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,14 +828,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.936,
+        "recency": 0.9004,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -870,14 +888,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8316,
+        "recency": 0.796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -930,14 +948,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "recency": 0.791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,14 +1008,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8238,
+        "recency": 0.7882,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1050,14 +1068,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8235,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1110,14 +1128,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8235,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1133,6 +1151,104 @@
         "url": "https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19",
         "source": "Google Blog：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e329806d2a8fe2fa8d5dc5cc9468d3c4f40ae990",
+          "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T00:00:00Z"
+        },
+        {
+          "id": "e73b44a9f3f8de9b98166406b22d8635d858fd45",
+          "title": "法典 CLI 0.142.2 / Codex CLI 0.142.2",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T00:00:00Z"
+        },
+        {
+          "id": "06bdf1d58aed83751fe9dcd3cce0d615c652331f",
+          "title": "Codex Remote 全面上市 / Codex Remote reaches general availability",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T00:00:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "e329806d2a8fe2fa8d5dc5cc9468d3c4f40ae990",
+          "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T00:00:00Z"
+        },
+        {
+          "id": "e73b44a9f3f8de9b98166406b22d8635d858fd45",
+          "title": "法典 CLI 0.142.2 / Codex CLI 0.142.2",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T00:00:00Z"
+        },
+        {
+          "id": "06bdf1d58aed83751fe9dcd3cce0d615c652331f",
+          "title": "Codex Remote 全面上市 / Codex Remote reaches general availability",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T00:00:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.1212,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T00:00:00Z",
+      "latest_at": "2026-06-25T00:00:00Z",
+      "primary_item": {
+        "id": "e329806d2a8fe2fa8d5dc5cc9468d3c4f40ae990",
+        "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1170,14 +1286,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8031,
+        "recency": 0.7675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,21 +1312,21 @@
       }
     },
     {
-      "story_id": "story_95af1288ca5c",
-      "title": "npm 为高影响力帐户添加了预防性帐户保护 / npm adds preventive account protection for high-impact accounts",
-      "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
-      "primary_url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
+      "story_id": "story_01de969be41c",
+      "title": "现在可以并行运行操作步骤 / Actions steps can now be run in parallel",
+      "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
+      "primary_url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "655a83565bd0c4044b82a9a388e64fc66c2a39d8",
-          "title": "npm 为高影响力帐户添加了预防性帐户保护 / npm adds preventive account protection for high-impact accounts",
-          "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
+          "id": "3d22e39f449143dec262b60950247b36c74429c3",
+          "title": "现在可以并行运行操作步骤 / Actions steps can now be run in parallel",
+          "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T16:02:09Z"
+          "published_at": "2026-06-25T16:46:09Z"
         }
       ],
       "source_count": 1,
@@ -1219,25 +1335,25 @@
       ],
       "items": [
         {
-          "id": "655a83565bd0c4044b82a9a388e64fc66c2a39d8",
-          "title": "npm 为高影响力帐户添加了预防性帐户保护 / npm adds preventive account protection for high-impact accounts",
-          "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
+          "id": "3d22e39f449143dec262b60950247b36c74429c3",
+          "title": "现在可以并行运行操作步骤 / Actions steps can now be run in parallel",
+          "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T16:02:09Z"
+          "published_at": "2026-06-25T16:46:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.825,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1246,12 +1362,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T16:02:09Z",
-      "latest_at": "2026-06-25T16:02:09Z",
+      "earliest_at": "2026-06-25T16:46:09Z",
+      "latest_at": "2026-06-25T16:46:09Z",
       "primary_item": {
-        "id": "655a83565bd0c4044b82a9a388e64fc66c2a39d8",
-        "title": "npm 为高影响力帐户添加了预防性帐户保护 / npm adds preventive account protection for high-impact accounts",
-        "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
+        "id": "3d22e39f449143dec262b60950247b36c74429c3",
+        "title": "现在可以并行运行操作步骤 / Actions steps can now be run in parallel",
+        "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1291,14 +1407,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7868,
+      "importance": 0.7868,
+      "importance_score": 0.7868,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9096,
+        "recency": 0.874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1370,21 +1486,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5759,
+        "recency": 0.5403,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T10:03:29.869302Z",
       "latest_at": "2026-06-25T10:03:29.869302Z",
@@ -1397,101 +1512,21 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e329806d2a8fe2fa8d5dc5cc9468d3c4f40ae990",
-          "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        },
-        {
-          "id": "e73b44a9f3f8de9b98166406b22d8635d858fd45",
-          "title": "法典 CLI 0.142.2 / Codex CLI 0.142.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "e329806d2a8fe2fa8d5dc5cc9468d3c4f40ae990",
-          "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        },
-        {
-          "id": "e73b44a9f3f8de9b98166406b22d8635d858fd45",
-          "title": "法典 CLI 0.142.2 / Codex CLI 0.142.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.1568,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T00:00:00Z",
-      "latest_at": "2026-06-25T00:00:00Z",
-      "primary_item": {
-        "id": "e329806d2a8fe2fa8d5dc5cc9468d3c4f40ae990",
-        "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_43a0ba32a32a",
-      "title": "Red Hat Enterprise Linux 运行程序镜像现已推出公共预览版 / Red Hat Enterprise Linux runner images are now in public preview",
-      "url": "https://github.blog/changelog/2026-06-25-red-hat-enterprise-linux-runner-images-are-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-06-25-red-hat-enterprise-linux-runner-images-are-now-in-public-preview",
+      "story_id": "story_95af1288ca5c",
+      "title": "npm 为高影响力帐户添加了预防性帐户保护 / npm adds preventive account protection for high-impact accounts",
+      "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
+      "primary_url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d2b1f309932b20f690f0a2def2d6d2da325653a5",
-          "title": "Red Hat Enterprise Linux 运行程序镜像现已推出公共预览版 / Red Hat Enterprise Linux runner images are now in public preview",
-          "url": "https://github.blog/changelog/2026-06-25-red-hat-enterprise-linux-runner-images-are-now-in-public-preview",
+          "id": "655a83565bd0c4044b82a9a388e64fc66c2a39d8",
+          "title": "npm 为高影响力帐户添加了预防性帐户保护 / npm adds preventive account protection for high-impact accounts",
+          "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T15:40:04Z"
+          "published_at": "2026-06-25T16:02:09Z"
         }
       ],
       "source_count": 1,
@@ -1500,25 +1535,25 @@
       ],
       "items": [
         {
-          "id": "d2b1f309932b20f690f0a2def2d6d2da325653a5",
-          "title": "Red Hat Enterprise Linux 运行程序镜像现已推出公共预览版 / Red Hat Enterprise Linux runner images are now in public preview",
-          "url": "https://github.blog/changelog/2026-06-25-red-hat-enterprise-linux-runner-images-are-now-in-public-preview",
+          "id": "655a83565bd0c4044b82a9a388e64fc66c2a39d8",
+          "title": "npm 为高影响力帐户添加了预防性帐户保护 / npm adds preventive account protection for high-impact accounts",
+          "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T15:40:04Z"
+          "published_at": "2026-06-25T16:02:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8096,
+        "recency": 0.7894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1527,12 +1562,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T15:40:04Z",
-      "latest_at": "2026-06-25T15:40:04Z",
+      "earliest_at": "2026-06-25T16:02:09Z",
+      "latest_at": "2026-06-25T16:02:09Z",
       "primary_item": {
-        "id": "d2b1f309932b20f690f0a2def2d6d2da325653a5",
-        "title": "Red Hat Enterprise Linux 运行程序镜像现已推出公共预览版 / Red Hat Enterprise Linux runner images are now in public preview",
-        "url": "https://github.blog/changelog/2026-06-25-red-hat-enterprise-linux-runner-images-are-now-in-public-preview",
+        "id": "655a83565bd0c4044b82a9a388e64fc66c2a39d8",
+        "title": "npm 为高影响力帐户添加了预防性帐户保护 / npm adds preventive account protection for high-impact accounts",
+        "url": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
