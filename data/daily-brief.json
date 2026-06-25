@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-25T14:16:52.033466Z",
+  "generated_at": "2026-06-25T15:28:26.055467Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0017-258d-9b30-d6542493f1c9&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-0017-258d-9b30-d6542493f1c9&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0128-55f2-abe7-26aa8b2b6818&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-0128-55f2-abe7-26aa8b2b6818&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "e70cd313d50dcf422208ff6d322958b2ef726cae",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0128-55f2-abe7-26aa8b2b6818&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "2c36ec291cdaf8c2ce783a4e381315993591a857",
           "title": "点击这里进入 / Click here to enter",
@@ -138,12 +147,21 @@
           "published_at": null
         }
       ],
-      "source_count": 14,
+      "source_count": 15,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "e70cd313d50dcf422208ff6d322958b2ef726cae",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0128-55f2-abe7-26aa8b2b6818&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "2c36ec291cdaf8c2ce783a4e381315993591a857",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0017-258d-9b30-d6542493f1c9&fp=-3",
@@ -270,8 +288,8 @@
           "published_at": null
         }
       ],
-      "item_count": 14,
-      "duplicate_count": 14,
+      "item_count": 15,
+      "duplicate_count": 15,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -289,13 +307,74 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-24T15:41:18.558289Z",
-      "latest_at": "2026-06-25T14:16:52.033466Z",
+      "latest_at": "2026-06-25T15:28:26.055467Z",
       "primary_item": {
-        "id": "2c36ec291cdaf8c2ce783a4e381315993591a857",
+        "id": "e70cd313d50dcf422208ff6d322958b2ef726cae",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0017-258d-9b30-d6542493f1c9&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0128-55f2-abe7-26aa8b2b6818&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_6e4aaf40ce95",
+      "title": "成本中心现在支持企业团队 / Cost centers now support enterprise teams",
+      "url": "https://github.blog/changelog/2026-06-25-assign-enterprise-teams-to-cost-centers",
+      "primary_url": "https://github.blog/changelog/2026-06-25-assign-enterprise-teams-to-cost-centers",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2a6c485cd1a19304bd59bfaec9fbe109f4fb32c3",
+          "title": "成本中心现在支持企业团队 / Cost centers now support enterprise teams",
+          "url": "https://github.blog/changelog/2026-06-25-assign-enterprise-teams-to-cost-centers",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T10:15:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2a6c485cd1a19304bd59bfaec9fbe109f4fb32c3",
+          "title": "成本中心现在支持企业团队 / Cost centers now support enterprise teams",
+          "url": "https://github.blog/changelog/2026-06-25-assign-enterprise-teams-to-cost-centers",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T10:15:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7826,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T10:15:19Z",
+      "latest_at": "2026-06-25T10:15:19Z",
+      "primary_item": {
+        "id": "2a6c485cd1a19304bd59bfaec9fbe109f4fb32c3",
+        "title": "成本中心现在支持企业团队 / Cost centers now support enterprise teams",
+        "url": "https://github.blog/changelog/2026-06-25-assign-enterprise-teams-to-cost-centers",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -352,14 +431,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.7743,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,14 +510,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.405,
+        "recency": 0.3553,
         "story_heat": 0.25
       },
       "category": "official",
@@ -493,14 +572,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8267,
+        "recency": 0.777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,14 +651,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.7743,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -633,14 +712,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4883,
+        "recency": 0.4386,
         "story_heat": 0.0
       },
       "category": "official",
@@ -713,14 +792,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.7743,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -793,14 +872,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.703,
+        "recency": 0.6533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -873,14 +952,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6775,
-      "importance": 0.6775,
-      "importance_score": 0.6775,
+      "score": 0.6676,
+      "importance": 0.6676,
+      "importance_score": 0.6676,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2025,
+        "recency": 0.1528,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -952,14 +1031,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.703,
+        "recency": 0.6533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1032,14 +1111,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.703,
+        "recency": 0.6533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1056,85 +1135,6 @@
         "url": "https://www.aibase.com/news/29158",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0758bf281f93",
-      "title": "里德·霍夫曼称SpaceX\"不是一家人工智能公司\"，xAI则是\"彻底的灾难\"",
-      "url": "https://aihot.virxact.com/items/cmqs65ogk008hslfuodhruc4w",
-      "primary_url": "https://aihot.virxact.com/items/cmqs65ogk008hslfuodhruc4w",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a26c5a342ec8301569e7741a6fd57e6a1af96bbd",
-          "title": "里德·霍夫曼称SpaceX\"不是一家人工智能公司\"，xAI则是\"彻底的灾难\"",
-          "url": "https://aihot.virxact.com/items/cmqs65ogk008hslfuodhruc4w",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-24T14:20:14Z"
-        },
-        {
-          "id": "fee375796c9518d14a9692c87603a2807f653f9d",
-          "title": "里德·霍夫曼称SpaceX“不是一家人工智能公司”，xAI则是“彻底的灾难”",
-          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-24T14:20:14.340000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "fortune.com"
-      ],
-      "items": [
-        {
-          "id": "a26c5a342ec8301569e7741a6fd57e6a1af96bbd",
-          "title": "里德·霍夫曼称SpaceX\"不是一家人工智能公司\"，xAI则是\"彻底的灾难\"",
-          "url": "https://aihot.virxact.com/items/cmqs65ogk008hslfuodhruc4w",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-24T14:20:14Z"
-        },
-        {
-          "id": "fee375796c9518d14a9692c87603a2807f653f9d",
-          "title": "里德·霍夫曼称SpaceX“不是一家人工智能公司”，xAI则是“彻底的灾难”",
-          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-24T14:20:14.340000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6375,
-      "importance": 0.6375,
-      "importance_score": 0.6375,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0023,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-24T14:20:14Z",
-      "latest_at": "2026-06-24T14:20:14.340000Z",
-      "primary_item": {
-        "id": "a26c5a342ec8301569e7741a6fd57e6a1af96bbd",
-        "title": "里德·霍夫曼称SpaceX\"不是一家人工智能公司\"，xAI则是\"彻底的灾难\"",
-        "url": "https://aihot.virxact.com/items/cmqs65ogk008hslfuodhruc4w",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1172,14 +1172,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.7743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1286,14 +1286,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.584,
+      "importance": 0.584,
+      "importance_score": 0.584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9799,
+        "recency": 0.9302,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1345,14 +1345,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.7743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1368,6 +1368,180 @@
         "url": "https://www.aibase.com/news/29170",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3d0133fcdcee",
+      "title": "今日股市：美光缓解市场对人工智能的担忧，个人消费支出（PCE）数据表现强劲，道指、标普500指数和纳斯达克指数均上涨 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXNtSV9GcnRWZU1xU0xnRG1Lc2pmbWNiUUFwVEhralhEMDJoTlhhUXpGdXBVM2ttQjMtekxjaVRiMDloU3FYSi0xblhxV1FPZXVBa3FIbEdLUHd4eFVJeEpoU2t3LTdNSVRWcUJmU3lLMTlqYTltbVU2Tk9CaVlRVHNudy04aUdTZG5KbUNpMjNTbWNLRC1kWUUyTC00Q21hVlI0bVl0T3JCaWY4aFg0X1FmSk4wZlEwalVSSXlNZlJMaTcyQlpPUHY1cDlONk85WW1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXNtSV9GcnRWZU1xU0xnRG1Lc2pmbWNiUUFwVEhralhEMDJoTlhhUXpGdXBVM2ttQjMtekxjaVRiMDloU3FYSi0xblhxV1FPZXVBa3FIbEdLUHd4eFVJeEpoU2t3LTdNSVRWcUJmU3lLMTlqYTltbVU2Tk9CaVlRVHNudy04aUdTZG5KbUNpMjNTbWNLRC1kWUUyTC00Q21hVlI0bVl0T3JCaWY4aFg0X1FmSk4wZlEwalVSSXlNZlJMaTcyQlpPUHY1cDlONk85WW1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8fb88b59bf520cb3f4c22a7655d74d8c5d764ecb",
+          "title": "今日股市：美光缓解市场对人工智能的担忧，个人消费支出（PCE）数据表现强劲，道指、标普500指数和纳斯达克指数均上涨 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXNtSV9GcnRWZU1xU0xnRG1Lc2pmbWNiUUFwVEhralhEMDJoTlhhUXpGdXBVM2ttQjMtekxjaVRiMDloU3FYSi0xblhxV1FPZXVBa3FIbEdLUHd4eFVJeEpoU2t3LTdNSVRWcUJmU3lLMTlqYTltbVU2Tk9CaVlRVHNudy04aUdTZG5KbUNpMjNTbWNLRC1kWUUyTC00Q21hVlI0bVl0T3JCaWY4aFg0X1FmSk4wZlEwalVSSXlNZlJMaTcyQlpPUHY1cDlONk85WW1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-25T15:08:04.871000Z"
+        },
+        {
+          "id": "6f786e79e83a7f760e2b691f68c7d4ea8cb8dadd",
+          "title": "今日股市：美光缓解市场对人工智能的担忧，个人消费支出（PCE）数据表现强劲，道指、标普500指数和纳斯达克指数均上涨",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-micron-eases-ai-fears-pce-comes-in-hot-232650645.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-25T13:47:55.265000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "finance.yahoo.com",
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "8fb88b59bf520cb3f4c22a7655d74d8c5d764ecb",
+          "title": "今日股市：美光缓解市场对人工智能的担忧，个人消费支出（PCE）数据表现强劲，道指、标普500指数和纳斯达克指数均上涨 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXNtSV9GcnRWZU1xU0xnRG1Lc2pmbWNiUUFwVEhralhEMDJoTlhhUXpGdXBVM2ttQjMtekxjaVRiMDloU3FYSi0xblhxV1FPZXVBa3FIbEdLUHd4eFVJeEpoU2t3LTdNSVRWcUJmU3lLMTlqYTltbVU2Tk9CaVlRVHNudy04aUdTZG5KbUNpMjNTbWNLRC1kWUUyTC00Q21hVlI0bVl0T3JCaWY4aFg0X1FmSk4wZlEwalVSSXlNZlJMaTcyQlpPUHY1cDlONk85WW1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-25T15:08:04.871000Z"
+        },
+        {
+          "id": "6f786e79e83a7f760e2b691f68c7d4ea8cb8dadd",
+          "title": "今日股市：美光缓解市场对人工智能的担忧，个人消费支出（PCE）数据表现强劲，道指、标普500指数和纳斯达克指数均上涨",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-micron-eases-ai-fears-pce-comes-in-hot-232650645.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-25T13:47:55.265000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9859,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-25T13:47:55.265000Z",
+      "latest_at": "2026-06-25T15:08:04.871000Z",
+      "primary_item": {
+        "id": "8fb88b59bf520cb3f4c22a7655d74d8c5d764ecb",
+        "title": "今日股市：美光缓解市场对人工智能的担忧，个人消费支出（PCE）数据表现强劲，道指、标普500指数和纳斯达克指数均上涨 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXNtSV9GcnRWZU1xU0xnRG1Lc2pmbWNiUUFwVEhralhEMDJoTlhhUXpGdXBVM2ttQjMtekxjaVRiMDloU3FYSi0xblhxV1FPZXVBa3FIbEdLUHd4eFVJeEpoU2t3LTdNSVRWcUJmU3lLMTlqYTltbVU2Tk9CaVlRVHNudy04aUdTZG5KbUNpMjNTbWNLRC1kWUUyTC00Q21hVlI0bVl0T3JCaWY4aFg0X1FmSk4wZlEwalVSSXlNZlJMaTcyQlpPUHY1cDlONk85WW1n?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4ede2fa5226b",
+      "title": "福特AI系统出现故障，迫使这家汽车制造商重新聘用“老资格”检测员",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c554be40e4ac15885cf9fe075a739274af287d74",
+          "title": "福特AI系统出现故障，迫使这家汽车制造商重新聘用“老资格”检测员",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-25T15:08:04.974000Z"
+        },
+        {
+          "id": "5e2f84703f3b34b92f2b2db3e24d97ce844b1c1b",
+          "title": "由于人工智能表现未达预期，福特已开始重新招聘质量检查员 / Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-25T14:58:50Z"
+        },
+        {
+          "id": "0a77fc67ce7fba2c4e132c04c1d4901aa3718b1f",
+          "title": "由于人工智能表现未达预期，福特已开始重新招聘质量检查员",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-25T12:28:14.329000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "c554be40e4ac15885cf9fe075a739274af287d74",
+          "title": "福特AI系统出现故障，迫使这家汽车制造商重新聘用“老资格”检测员",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-25T15:08:04.974000Z"
+        },
+        {
+          "id": "5e2f84703f3b34b92f2b2db3e24d97ce844b1c1b",
+          "title": "由于人工智能表现未达预期，福特已开始重新招聘质量检查员 / Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-25T14:58:50Z"
+        },
+        {
+          "id": "0a77fc67ce7fba2c4e132c04c1d4901aa3718b1f",
+          "title": "由于人工智能表现未达预期，福特已开始重新招聘质量检查员",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-25T12:28:14.329000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9859,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-25T12:28:14.329000Z",
+      "latest_at": "2026-06-25T15:08:04.974000Z",
+      "primary_item": {
+        "id": "c554be40e4ac15885cf9fe075a739274af287d74",
+        "title": "福特AI系统出现故障，迫使这家汽车制造商重新聘用“老资格”检测员",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1424,14 +1598,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9503,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1502,14 +1676,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9799,
+        "recency": 0.9302,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1579,14 +1753,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.921,
+        "recency": 0.8713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1601,144 +1775,6 @@
         "url": "https://twitter.com/mfts0/status/2070080422482977095",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_16e81081189b",
-      "title": "文心一言服务全面升级：数据迁移即将开启，百度文心迎来新面貌",
-      "url": "https://www.aibase.com/news/29164",
-      "primary_url": "https://www.aibase.com/news/29164",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "96d2aaba8a611e53dcb1d8e857342c216a2cda32",
-          "title": "文心一言服务全面升级：数据迁移即将开启，百度文心迎来新面貌",
-          "url": "https://www.aibase.com/news/29164",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-25T08:33:36.192397Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "96d2aaba8a611e53dcb1d8e857342c216a2cda32",
-          "title": "文心一言服务全面升级：数据迁移即将开启，百度文心迎来新面貌",
-          "url": "https://www.aibase.com/news/29164",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-25T08:33:36.192397Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7616,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T08:33:36.192397Z",
-      "latest_at": "2026-06-25T08:33:36.192397Z",
-      "primary_item": {
-        "id": "96d2aaba8a611e53dcb1d8e857342c216a2cda32",
-        "title": "文心一言服务全面升级：数据迁移即将开启，百度文心迎来新面貌",
-        "url": "https://www.aibase.com/news/29164",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dd9256881ba9",
-      "title": "xbtlin / 艾伯克希尔 / xbtlin /      ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "primary_url": "https://github.com/xbtlin/ai-berkshire",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "19bc38f02f9927e379e510e46374e8da88257318",
-          "title": "xbtlin / 艾伯克希尔 / xbtlin /      ai-berkshire",
-          "url": "https://github.com/xbtlin/ai-berkshire",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-25T11:23:37.322000Z"
-        },
-        {
-          "id": "9e367224f82168a1b17adcdf8151d2b07784e765",
-          "title": "xbtlin / 艾伯克希尔 / xbtlin / ai-berkshire",
-          "url": "https://github.com/xbtlin/ai-berkshire",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "19bc38f02f9927e379e510e46374e8da88257318",
-          "title": "xbtlin / 艾伯克希尔 / xbtlin /      ai-berkshire",
-          "url": "https://github.com/xbtlin/ai-berkshire",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-25T11:23:37.322000Z"
-        },
-        {
-          "id": "9e367224f82168a1b17adcdf8151d2b07784e765",
-          "title": "xbtlin / 艾伯克希尔 / xbtlin / ai-berkshire",
-          "url": "https://github.com/xbtlin/ai-berkshire",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8797,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-25T11:23:06.109133Z",
-      "latest_at": "2026-06-25T11:23:37.322000Z",
-      "primary_item": {
-        "id": "19bc38f02f9927e379e510e46374e8da88257318",
-        "title": "xbtlin / 艾伯克希尔 / xbtlin /      ai-berkshire",
-        "url": "https://github.com/xbtlin/ai-berkshire",
-        "source": "github",
-        "source_name": "NewsNow"
       }
     }
   ]
