@@ -52,6 +52,7 @@ jobs:
             --feishu-chat-id "${FEISHU_CHAT_ID:-}"
 
       - name: Upload audio artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: daily-ai-audio-brief
