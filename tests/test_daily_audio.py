@@ -31,7 +31,7 @@ class FakeFeishuSession:
     def post(self, url, **kwargs):
         self.calls.append((url, kwargs))
         if url.endswith("/auth/v3/tenant_access_token/internal"):
-            return FakeResponse({"code": 0, "data": {"tenant_access_token": "tenant-token"}})
+            return FakeResponse({"code": 0, "tenant_access_token": "tenant-token"})
         if url.endswith("/im/v1/files"):
             return FakeResponse({"code": 0, "data": {"file_key": "file-key"}})
         if "/im/v1/messages" in url:

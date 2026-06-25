@@ -451,8 +451,9 @@ def get_feishu_tenant_access_token(
         timeout=30,
     )
     response.raise_for_status()
-    data = require_feishu_ok(response.json(), action="tenant_access_token")
-    token = first_text(data.get("tenant_access_token"))
+    payload = response.json()
+    data = require_feishu_ok(payload, action="tenant_access_token")
+    token = first_text(data.get("tenant_access_token"), payload.get("tenant_access_token"))
     if not token:
         raise RuntimeError("Feishu tenant_access_token response did not include a token.")
     return token
