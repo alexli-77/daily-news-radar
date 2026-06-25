@@ -32,6 +32,8 @@ out/
 *.mp3
 *.m4a
 *.aiff
+!data/daily-audio/
+!data/daily-audio/latest.mp3
 
 # Local OS/editor noise
 .DS_Store

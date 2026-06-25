@@ -15,7 +15,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 
-DEFAULT_VOICE = "zh-CN-YunyangNeural"
+DEFAULT_VOICE = "zh-CN-XiaoxiaoNeural"
 DEFAULT_DATE_TIMEZONE = "Asia/Shanghai"
 DEFAULT_FEISHU_API_BASE = "https://open.feishu.cn/open-apis"
 BAD_TITLE_PATTERNS = (
@@ -204,20 +204,20 @@ def section_for_item(item: AudioItem) -> str:
 
 
 def bullet_for_item(item: AudioItem) -> str:
-    title = speech_friendly_text(item.title)
+    title = normalize_space(item.title)
     compact = title.rstrip("。")
     lower = title.casefold()
-    source = speech_friendly_text(item.source)
+    source = normalize_space(item.source)
     if "gemini" in lower and ("电脑使用" in title or "计算机使用" in title):
-        return "谷歌 DeepMind 介绍 Gemini 三点五 Flash 的电脑操作能力，重点是让模型直接使用网页和软件，智能体继续从聊天走向执行。"
+        return "谷歌 DeepMind 介绍 Gemini 3.5 Flash 的电脑操作能力，重点是让模型直接使用网页和软件，智能体继续从聊天走向执行。"
     if "nemo" in lower and "automodel" in lower and "微调" in title:
         return "英伟达和 Hugging Face 更新 NeMo AutoModel 微调流程，开发者可以用更少代码加速 Transformer 模型训练。"
-    if "g p t 五点五" in title.casefold() or "instant" in lower:
-        return "Open A I 更新 G P T 五点五 Instant，对话体验强调更快、更有趣，属于模型产品体验优化。"
+    if "gpt-5.5" in lower or "instant" in lower:
+        return "OpenAI 更新 GPT-5.5 Instant，对话体验强调更快、更有趣，属于模型产品体验优化。"
     if "思考即回忆" in title or "参数化知识" in title:
         return "谷歌研究讨论推理如何调动大语言模型内部知识，重点是提升模型回答复杂问题时的可靠性。"
     if "figma" in lower and "config" in lower:
-        return "Figma 在 Config 二零二六强调人类判断，同时把部分画布人工智能能力交给第三方模型，设计工具的人工智能分工更清晰。"
+        return "Figma 在 Config 2026 强调人类判断，同时把部分画布 AI 能力交给第三方模型，设计工具的人工智能分工更清晰。"
     if "mistral" in lower and ("connector" in lower or "连接器" in title):
         return "Mistral 为连接器增加安全和可控能力，重点是让企业接入数据源时更好管理权限和风险。"
     if "微调" in title:
@@ -225,11 +225,11 @@ def bullet_for_item(item: AudioItem) -> str:
     if "电脑使用" in title or "计算机使用" in title:
         return f"{compact}，指向模型直接操作软件和网页的能力，是智能体产品化的重要方向。"
     if "编码智能体" in title or "cursor" in lower:
-        return f"{compact}，说明人工智能编码能力正在嵌入协作和生产力工具。"
+        return f"{compact}，说明 AI 编码能力正在嵌入协作和生产力工具。"
     if "工程岗位" in title:
-        return f"{compact}，反映人工智能对招聘和岗位结构的影响仍在重新定价。"
+        return f"{compact}，反映 AI 对招聘和岗位结构的影响仍在重新定价。"
     if any(term in title for term in ("服务器", "芯片", "算力", "散热")):
-        return f"{compact}，属于人工智能基础设施和算力成本相关信号。"
+        return f"{compact}，属于 AI 基础设施和算力成本相关信号。"
     if item.source_count >= 2:
         return f"{compact}，多个来源同时出现，热度较高。"
     return f"{compact}，来自 {source}。"

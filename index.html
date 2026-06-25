@@ -8,14 +8,14 @@
       name="description"
       content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
     />
-    <link rel="canonical" href="https://learnprompt.github.io/ai-news-radar/" />
+    <link rel="canonical" href="https://alexli-77.github.io/daily-news-radar/" />
     <meta property="og:title" content="AI News Radar｜24 小时 AI 更新雷达" />
     <meta
       property="og:description"
       content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://learnprompt.github.io/ai-news-radar/" />
+    <meta property="og:url" content="https://alexli-77.github.io/daily-news-radar/" />
     <meta property="og:site_name" content="AI News Radar" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="AI News Radar｜24 小时 AI 更新雷达" />
@@ -54,6 +54,19 @@
       <section class="primary-controls">
         <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" />
         <div class="mode-hint" id="modeHint">AI强相关</div>
+      </section>
+
+      <section class="daily-audio-wrap" id="dailyAudioWrap" hidden>
+        <div class="daily-audio-main">
+          <div>
+            <p class="section-eyebrow">AUDIO BRIEF</p>
+            <h2 id="dailyAudioTitle">今日音频简报</h2>
+          </div>
+          <button class="audio-play-btn" id="dailyAudioPlayBtn" type="button" aria-label="播放今日音频">播放</button>
+        </div>
+        <audio id="dailyAudioPlayer" preload="none" src="./data/daily-audio/latest.mp3"></audio>
+        <p class="daily-audio-summary" id="dailyAudioSummary">加载今日音频简报...</p>
+        <a class="daily-audio-link" href="./data/daily-audio/latest.mp3" download>下载 MP3</a>
       </section>
 
       <details class="advanced-panel">

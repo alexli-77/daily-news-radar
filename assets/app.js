@@ -18,6 +18,7 @@ const state = {
   sourceStatus: null,
   generatedAt: null,
   dailyBrief: null,
+  dailyAudioText: "",
   boleView: "hot",
 };
 
@@ -51,6 +52,11 @@ const bolePicksWrapEl = document.getElementById("bolePicksWrap");
 const boleViewToggleEl = document.getElementById("boleViewToggle");
 const boleHotBtnEl = document.getElementById("boleHotBtn");
 const boleTimelineBtnEl = document.getElementById("boleTimelineBtn");
+const dailyAudioWrapEl = document.getElementById("dailyAudioWrap");
+const dailyAudioTitleEl = document.getElementById("dailyAudioTitle");
+const dailyAudioSummaryEl = document.getElementById("dailyAudioSummary");
+const dailyAudioPlayBtnEl = document.getElementById("dailyAudioPlayBtn");
+const dailyAudioPlayerEl = document.getElementById("dailyAudioPlayer");
 
 const SOURCE_KINDS = {
   official_ai: { label: "官方", tone: "official" },
@@ -1163,18 +1169,38 @@ async function loadDailyBriefData() {
   return res.json();
 }
 
+async function loadDailyAudioText() {
+  const res = await fetch(`./data/daily-audio/latest.txt?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`加载 daily-audio/latest.txt 失败: ${res.status}`);
+  return res.text();
+}
+
+function renderDailyAudio(text) {
+  if (!dailyAudioWrapEl || !dailyAudioPlayerEl || !text.trim()) return;
+  const lines = text.split("\n").map((line) => line.trim()).filter(Boolean);
+  dailyAudioTitleEl.textContent = lines[0] || "今日音频简报";
+  dailyAudioSummaryEl.textContent = lines.slice(1, 4).join(" ");
+  dailyAudioWrapEl.hidden = false;
+}
+
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult, audioResult] = await Promise.allSettled([
     loadNewsData(),
     loadWaytoagiData(),
     loadSourceStatusData(),
     loadDailyBriefData(),
+    loadDailyAudioText(),
   ]);
 
   if (briefResult.status === "fulfilled") {
     state.dailyBrief = briefResult.value;
   } else {
     state.dailyBrief = null;
+  }
+
+  if (audioResult.status === "fulfilled") {
+    state.dailyAudioText = audioResult.value;
+    renderDailyAudio(state.dailyAudioText);
   }
 
   if (newsResult.status === "fulfilled") {
@@ -1294,6 +1320,25 @@ if (boleTimelineBtnEl) {
   boleTimelineBtnEl.addEventListener("click", () => {
     state.boleView = "timeline";
     renderBolePicks();
+  });
+}
+
+if (dailyAudioPlayBtnEl && dailyAudioPlayerEl) {
+  dailyAudioPlayBtnEl.addEventListener("click", async () => {
+    if (dailyAudioPlayerEl.paused) {
+      await dailyAudioPlayerEl.play();
+    } else {
+      dailyAudioPlayerEl.pause();
+    }
+  });
+  dailyAudioPlayerEl.addEventListener("play", () => {
+    dailyAudioPlayBtnEl.textContent = "暂停";
+  });
+  dailyAudioPlayerEl.addEventListener("pause", () => {
+    dailyAudioPlayBtnEl.textContent = "播放";
+  });
+  dailyAudioPlayerEl.addEventListener("ended", () => {
+    dailyAudioPlayBtnEl.textContent = "播放";
   });
 }
 

@@ -210,6 +210,52 @@ button {
   align-items: center;
 }
 
+.daily-audio-wrap {
+  margin-top: 14px;
+  border: 1px solid rgba(18, 106, 115, 0.28);
+  border-radius: var(--radius);
+  background: var(--surface);
+  padding: 14px;
+}
+
+.daily-audio-main {
+  display: flex;
+  gap: 14px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.daily-audio-main h2 {
+  margin: 3px 0 0;
+  font-size: 20px;
+}
+
+.audio-play-btn {
+  min-width: 86px;
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: #fff;
+  padding: 10px 14px;
+  font-weight: 700;
+}
+
+.daily-audio-summary {
+  margin: 10px 0 0;
+  color: var(--muted);
+  line-height: 1.6;
+  font-size: 14px;
+}
+
+.daily-audio-link {
+  display: inline-block;
+  margin-top: 8px;
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
 input,
 select {
   width: 100%;

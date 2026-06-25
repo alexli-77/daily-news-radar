@@ -9,6 +9,7 @@ from scripts.build_daily_audio import (
     is_low_quality_item,
     send_feishu_webhook,
     send_feishu_audio,
+    speech_text,
     speech_friendly_text,
     title_for_audio,
 )
@@ -96,7 +97,9 @@ def test_build_script_is_plain_chinese_speech():
 
     assert "人工智能热点分享" in script
     assert "1、" in script
-    assert "Open A I 发布新的 Codex 工具" in script
+    assert "OpenAI 发布新的 Codex 工具" in script
+    assert "Open A I" not in script
+    assert "Open A I" in speech_text(script)
     assert "它来自官方渠道" not in script
     assert "http" not in script
 

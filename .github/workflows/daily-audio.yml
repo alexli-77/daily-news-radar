@@ -7,7 +7,7 @@ on:
     - cron: "45 0 * * *"
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   audio:
@@ -31,29 +31,72 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements-audio.txt
 
-      - name: Build and optionally deliver audio
+      - name: Build audio
         env:
-          AUDIO_TTS_VOICE: ${{ vars.AUDIO_TTS_VOICE || 'zh-CN-YunyangNeural' }}
-          AUDIO_TTS_RATE: ${{ vars.AUDIO_TTS_RATE || '+0%' }}
+          AUDIO_TTS_VOICE: ${{ vars.AUDIO_TTS_VOICE || 'zh-CN-XiaoxiaoNeural' }}
+          AUDIO_TTS_RATE: ${{ vars.AUDIO_TTS_RATE || '-5%' }}
           AUDIO_TTS_PITCH: ${{ vars.AUDIO_TTS_PITCH || '+0Hz' }}
           AUDIO_DATE_TIMEZONE: ${{ vars.AUDIO_DATE_TIMEZONE || 'Asia/Shanghai' }}
-          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-          DISCORD_CHANNEL_ID: ${{ vars.DISCORD_CHANNEL_ID }}
-          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
-          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
-          FEISHU_CHAT_ID: ${{ vars.FEISHU_CHAT_ID }}
-          FEISHU_API_BASE: ${{ vars.FEISHU_API_BASE || 'https://open.feishu.cn/open-apis' }}
-          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
-          AUDIO_PUBLIC_URL: ${{ vars.AUDIO_PUBLIC_URL }}
         run: |
           python scripts/build_daily_audio.py \
             --input data/daily-brief.json \
             --fallback data/latest-24h.json \
-            --output-dir out/daily-audio \
-            --discord-channel-id "${DISCORD_CHANNEL_ID:-}" \
-            --feishu-chat-id "${FEISHU_CHAT_ID:-}" \
-            --feishu-webhook-url "${FEISHU_WEBHOOK_URL:-}" \
-            --audio-public-url "${AUDIO_PUBLIC_URL:-}"
+            --output-dir out/daily-audio
+
+      - name: Publish latest audio to Pages data
+        run: |
+          git pull --rebase origin master
+          mkdir -p data/daily-audio
+          cp out/daily-audio/daily-ai-brief.mp3 data/daily-audio/latest.mp3
+          cp out/daily-audio/daily-ai-brief-script.txt data/daily-audio/latest.txt
+          cp out/daily-audio/daily-ai-brief.md data/daily-audio/latest.md
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          metadata = json.loads(Path("out/daily-audio/daily-ai-brief.json").read_text())
+          metadata.update({
+              "published_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+              "audio": "data/daily-audio/latest.mp3",
+              "script": "data/daily-audio/latest.txt",
+              "digest": "data/daily-audio/latest.md",
+              "public_audio_url": "https://alexli-77.github.io/daily-news-radar/data/daily-audio/latest.mp3",
+          })
+          Path("data/daily-audio/latest.json").write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + "\n")
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f data/daily-audio/latest.mp3 data/daily-audio/latest.txt data/daily-audio/latest.md data/daily-audio/latest.json
+          if git diff --cached --quiet; then
+            echo "No audio changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update daily audio brief"
+          git push
+
+      - name: Send Feishu webhook
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          AUDIO_PUBLIC_URL: ${{ vars.AUDIO_PUBLIC_URL || 'https://alexli-77.github.io/daily-news-radar/data/daily-audio/latest.mp3' }}
+        run: |
+          if [ -z "${FEISHU_WEBHOOK_URL:-}" ]; then
+            echo "FEISHU_WEBHOOK_URL is not set; skip webhook delivery"
+            exit 0
+          fi
+          python - <<'PY'
+          import os
+          from pathlib import Path
+          from scripts.build_daily_audio import send_feishu_webhook
+
+          send_feishu_webhook(
+              webhook_url=os.environ["FEISHU_WEBHOOK_URL"],
+              digest_text=Path("data/daily-audio/latest.md").read_text(encoding="utf-8"),
+              audio_url=os.environ.get("AUDIO_PUBLIC_URL", ""),
+              run_url="",
+          )
+          print("Feishu webhook sent")
+          PY
 
       - name: Upload audio artifact
         if: always()

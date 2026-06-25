@@ -6,13 +6,13 @@
 
 **Scout Skill helps you find the thoroughbreds among a pile of sources, then turns scattered updates into a traceable AI story timeline.**
 
-[![GitHub stars](https://img.shields.io/github/stars/LearnPrompt/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/LearnPrompt/ai-news-radar/stargazers)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?style=flat-square)](https://learnprompt.github.io/ai-news-radar/)
-[![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
+[![GitHub stars](https://img.shields.io/github/stars/alexli-77/daily-news-radar?style=flat-square&color=f5c542)](https://github.com/alexli-77/daily-news-radar/stargazers)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?style=flat-square)](https://alexli-77.github.io/daily-news-radar/)
+[![Actions](https://img.shields.io/github/actions/workflow/status/alexli-77/daily-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/alexli-77/daily-news-radar/actions/workflows/update-news.yml)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar%20%2B%20Scout-blueviolet?style=flat-square)](skills/radar/README.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 
-[Live site](https://learnprompt.github.io/ai-news-radar/) · [中文](README.md) · [Radar Skill](skills/radar/README.md) · [Scout Skill](skills/ai-news-radar/README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
+[Live site](https://alexli-77.github.io/daily-news-radar/) · [中文](README.md) · [Radar Skill](skills/radar/README.md) · [Scout Skill](skills/ai-news-radar/README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
 
 </div>
 
@@ -20,12 +20,12 @@
 
 ## Pick your lane in 30 seconds
 
-**① Just want the daily AI brief** → no install needed, open the [live site](https://learnprompt.github.io/ai-news-radar/).
+**① Just want the daily AI brief** → no install needed, open the [live site](https://alexli-77.github.io/daily-news-radar/).
 
 **② Want your agent to read it for you** → install the Radar Skill (ai-radar). Zero API, zero key, zero server:
 
 ```bash
-npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
+npx skills add alexli-77/daily-news-radar -s ai-radar -g
 ```
 
 Then just ask your agent: `What happened in AI today?`
@@ -120,7 +120,7 @@ v0.7 ships four things:
 - **Scoring backtest tool**: `scripts/backtest_scoring.py` replays any two versions of the scoring logic against the archive. House rule: scoring changes ship with a ≥14-day replay report.
 - **ai-radar consumer skill**: install it and ask your agent "What happened in AI today?" — it reads this site's public JSON directly. Zero API, zero key, and the whole data pipeline is forkable.
 
-Story merging, AI labels/scores, and source health from v0.6 remain the foundation. See [Releases](https://github.com/LearnPrompt/ai-news-radar/releases) for the full history.
+Story merging, AI labels/scores, and source health from v0.6 remain the foundation. See [Releases](https://github.com/alexli-77/daily-news-radar/releases) for the full history.
 
 ## How it works
 
@@ -185,8 +185,8 @@ Readers do not need to install anything. Open the live site directly.
 To fork and customize your own version locally:
 
 ```bash
-git clone https://github.com/LearnPrompt/ai-news-radar.git
-cd ai-news-radar
+git clone https://github.com/alexli-77/daily-news-radar.git
+cd daily-news-radar
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
