@@ -16,6 +16,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .venv/
+.venv*/
 venv/
 
 # Private source inputs
@@ -25,6 +26,12 @@ feeds/private*.opml
 
 # Optional private/generated digests
 data/email-digest.json
+
+# Generated delivery artifacts
+out/
+*.mp3
+*.m4a
+*.aiff
 
 # Local OS/editor noise
 .DS_Store

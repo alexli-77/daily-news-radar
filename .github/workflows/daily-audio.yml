@@ -1,0 +1,59 @@
+name: Deliver Daily AI Audio Brief
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 08:45 Asia/Shanghai. The data refresh workflow runs every 30 minutes.
+    - cron: "45 0 * * *"
+
+permissions:
+  contents: read
+
+jobs:
+  audio:
+    timeout-minutes: 15
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: |
+            requirements.txt
+            requirements-audio.txt
+
+      - name: Install audio dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-audio.txt
+
+      - name: Build and optionally deliver audio
+        env:
+          AUDIO_TTS_VOICE: ${{ vars.AUDIO_TTS_VOICE || 'zh-CN-YunyangNeural' }}
+          AUDIO_TTS_RATE: ${{ vars.AUDIO_TTS_RATE || '+0%' }}
+          AUDIO_TTS_PITCH: ${{ vars.AUDIO_TTS_PITCH || '+0Hz' }}
+          AUDIO_DATE_TIMEZONE: ${{ vars.AUDIO_DATE_TIMEZONE || 'Asia/Shanghai' }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_CHANNEL_ID: ${{ vars.DISCORD_CHANNEL_ID }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_CHAT_ID: ${{ vars.FEISHU_CHAT_ID }}
+          FEISHU_API_BASE: ${{ vars.FEISHU_API_BASE || 'https://open.feishu.cn/open-apis' }}
+        run: |
+          python scripts/build_daily_audio.py \
+            --input data/daily-brief.json \
+            --fallback data/latest-24h.json \
+            --output-dir out/daily-audio \
+            --discord-channel-id "${DISCORD_CHANNEL_ID:-}" \
+            --feishu-chat-id "${FEISHU_CHAT_ID:-}"
+
+      - name: Upload audio artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-ai-audio-brief
+          path: out/daily-audio/
+          retention-days: 7
