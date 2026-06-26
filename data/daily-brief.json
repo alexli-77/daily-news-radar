@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T23:25:19.484790Z",
+  "generated_at": "2026-06-26T23:49:29.205406Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0925-4826-a798-8f406fba131f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0925-4826-a798-8f406fba131f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0949-568d-a3fb-d7109ca8e7f6&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0949-568d-a3fb-d7109ca8e7f6&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7999c4afaa5dc3502e8821cc5a0eb4769c1b7372",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0949-568d-a3fb-d7109ca8e7f6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "1f20d4fb0d6ab196d4fcd0f13a38ff489859ee4b",
           "title": "点击这里进入 / Click here to enter",
@@ -213,15 +222,6 @@
           "id": "598202c6b0c396dade0bc8d9e34c2b97cef9df25",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1037-24f4-86a7-ec327b964d09&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9fc7674ce50013507e2207561c2d8051d8fad00b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0937-10ba-87df-4ecc6eaefafb&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,6 +234,15 @@
       ],
       "items": [
         {
+          "id": "7999c4afaa5dc3502e8821cc5a0eb4769c1b7372",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0949-568d-a3fb-d7109ca8e7f6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "1f20d4fb0d6ab196d4fcd0f13a38ff489859ee4b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0925-4826-a798-8f406fba131f&fp=-3",
@@ -435,15 +444,6 @@
           "id": "598202c6b0c396dade0bc8d9e34c2b97cef9df25",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1037-24f4-86a7-ec327b964d09&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9fc7674ce50013507e2207561c2d8051d8fad00b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0937-10ba-87df-4ecc6eaefafb&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -468,12 +468,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T23:36:46.769987Z",
-      "latest_at": "2026-06-26T23:25:19.484790Z",
+      "earliest_at": "2026-06-26T00:36:57.776138Z",
+      "latest_at": "2026-06-26T23:49:29.205406Z",
       "primary_item": {
-        "id": "1f20d4fb0d6ab196d4fcd0f13a38ff489859ee4b",
+        "id": "7999c4afaa5dc3502e8821cc5a0eb4769c1b7372",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0925-4826-a798-8f406fba131f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0949-568d-a3fb-d7109ca8e7f6&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -513,14 +513,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8956,
+        "recency": 0.8789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -612,14 +612,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4407,
+        "recency": 0.424,
         "story_heat": 0.5
       },
       "category": "official",
@@ -637,6 +637,66 @@
         "url": "https://openai.com/index/previewing-gpt-5-6-sol",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_85f3f6a5eb71",
+      "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+      "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "primary_url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T23:31:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T23:31:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9875,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T23:31:29Z",
+      "latest_at": "2026-06-26T23:31:29Z",
+      "primary_item": {
+        "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+        "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+        "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -674,14 +734,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7151,
+        "recency": 0.6983,
         "story_heat": 0.0
       },
       "category": "official",
@@ -735,14 +795,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8608,
+        "recency": 0.844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,14 +855,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7396,
+        "recency": 0.7228,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -855,14 +915,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7264,
+        "recency": 0.7096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -915,14 +975,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6753,
+        "recency": 0.6585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,14 +1034,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6622,
+        "recency": 0.6454,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,14 +1112,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4634,
+        "recency": 0.4466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1112,14 +1172,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4636,
+        "recency": 0.4469,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1192,14 +1252,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4634,
+        "recency": 0.4466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1271,14 +1331,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7066,
-      "importance": 0.7066,
-      "importance_score": 0.7066,
+      "score": 0.7032,
+      "importance": 0.7032,
+      "importance_score": 0.7032,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3479,
+        "recency": 0.3311,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1350,14 +1410,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6952,
-      "importance": 0.6952,
-      "importance_score": 0.6952,
+      "score": 0.6918,
+      "importance": 0.6918,
+      "importance_score": 0.6918,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2908,
+        "recency": 0.274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1485,14 +1545,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5907,
-      "importance": 0.5907,
-      "importance_score": 0.5907,
+      "score": 0.5874,
+      "importance": 0.5874,
+      "importance_score": 0.5874,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8386,
+        "recency": 0.8218,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1563,14 +1623,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6952,
-      "importance": 0.6952,
-      "importance_score": 0.6952,
+      "score": 0.6918,
+      "importance": 0.6918,
+      "importance_score": 0.6918,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2908,
+        "recency": 0.274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1586,6 +1646,84 @@
         "url": "https://www.aibase.com/news/29193",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_05e6063b590f",
+      "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
+      "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870793.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d10946e1ca0950aeb48d136e5dfd686127d3cff2",
+          "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
+          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0c166191953b5d23eeb1d0b1c1e7729e38113c9f",
+          "title": "40万次Claude Code真实对话分析：在AI面前，你的“专家”资历归零了",
+          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T23:11:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "d10946e1ca0950aeb48d136e5dfd686127d3cff2",
+          "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
+          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0c166191953b5d23eeb1d0b1c1e7729e38113c9f",
+          "title": "40万次Claude Code真实对话分析：在AI面前，你的“专家”资历归零了",
+          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T23:11:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T23:11:08Z",
+      "latest_at": "2026-06-26T23:49:29.205406Z",
+      "primary_item": {
+        "id": "d10946e1ca0950aeb48d136e5dfd686127d3cff2",
+        "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
+        "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1661,14 +1799,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5506,
-      "importance": 0.5506,
-      "importance_score": 0.5506,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8878,
+        "recency": 0.871,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1756,14 +1894,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5506,
-      "importance": 0.5506,
-      "importance_score": 0.5506,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8878,
+        "recency": 0.8711,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1777,181 +1915,6 @@
         "title": "受人工智能股暴跌影响，EM股市创下三个多月来最差单周表现",
         "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
         "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_47c56e9adbe9",
-      "title": "人工智能行业正向美国大选投入数百万美元",
-      "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-      "primary_url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-      "source": "www.bloodinthemachine.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
-          "title": "人工智能行业正向美国大选投入数百万美元",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "www.bloodinthemachine.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:35:53.860000Z"
-        },
-        {
-          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://news.ycombinator.com/item?id=48687483",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T15:31:54.053000Z"
-        },
-        {
-          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
-          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T15:02:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.bloodinthemachine.com"
-      ],
-      "items": [
-        {
-          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
-          "title": "人工智能行业正向美国大选投入数百万美元",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "www.bloodinthemachine.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:35:53.860000Z"
-        },
-        {
-          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://news.ycombinator.com/item?id=48687483",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T15:31:54.053000Z"
-        },
-        {
-          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
-          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T15:02:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.799,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T15:02:43Z",
-      "latest_at": "2026-06-26T18:35:53.860000Z",
-      "primary_item": {
-        "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
-        "title": "人工智能行业正向美国大选投入数百万美元",
-        "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-        "source": "www.bloodinthemachine.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2732ab390af9",
-      "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T21:15:51.287000Z"
-        },
-        {
-          "id": "80bafd5e654681731a91d6b23ef573c7518ffc58",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机 / NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T20:04:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T21:15:51.287000Z"
-        },
-        {
-          "id": "80bafd5e654681731a91d6b23ef573c7518ffc58",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机 / NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T20:04:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9101,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T20:04:55Z",
-      "latest_at": "2026-06-26T21:15:51.287000Z",
-      "primary_item": {
-        "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
-        "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-        "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-        "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     }
