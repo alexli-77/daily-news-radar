@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T18:34:30.840337Z",
+  "generated_at": "2026-06-26T19:32:19.604271Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0434-57be-bb2d-0d4e05c9ea2b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0434-57be-bb2d-0d4e05c9ea2b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0532-48fe-83a6-18bab84fa73c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0532-48fe-83a6-18bab84fa73c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "80504c714d2394aa7cb80c278ffec0af99cf5336",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0532-48fe-83a6-18bab84fa73c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "c0223c60c7bd9eb30a666f9dc790b4f12c7027d1",
           "title": "点击这里进入 / Click here to enter",
@@ -195,15 +204,6 @@
           "id": "f9bcc71e2ffd087a82fb7b19f0b2d50d31526832",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0614-36cd-8977-422e5423d002&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ccf8734836e1fb51f0b7de6bc9ebf4e4af989767",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0512-243e-9146-34f3e96439df&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,6 +216,15 @@
       ],
       "items": [
         {
+          "id": "80504c714d2394aa7cb80c278ffec0af99cf5336",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0532-48fe-83a6-18bab84fa73c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "c0223c60c7bd9eb30a666f9dc790b4f12c7027d1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0434-57be-bb2d-0d4e05c9ea2b&fp=-3",
@@ -399,15 +408,6 @@
           "id": "f9bcc71e2ffd087a82fb7b19f0b2d50d31526832",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0614-36cd-8977-422e5423d002&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ccf8734836e1fb51f0b7de6bc9ebf4e4af989767",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0512-243e-9146-34f3e96439df&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -432,12 +432,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T19:12:01.056119Z",
-      "latest_at": "2026-06-26T18:34:30.840337Z",
+      "earliest_at": "2026-06-25T20:14:11.129973Z",
+      "latest_at": "2026-06-26T19:32:19.604271Z",
       "primary_item": {
-        "id": "c0223c60c7bd9eb30a666f9dc790b4f12c7027d1",
+        "id": "80504c714d2394aa7cb80c278ffec0af99cf5336",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0434-57be-bb2d-0d4e05c9ea2b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0532-48fe-83a6-18bab84fa73c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -515,14 +515,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8635,
-      "importance": 0.8635,
-      "importance_score": 0.8635,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6427,
+        "recency": 0.6026,
         "story_heat": 0.5
       },
       "category": "official",
@@ -577,14 +577,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9171,
+        "recency": 0.8769,
         "story_heat": 0.0
       },
       "category": "official",
@@ -638,14 +638,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9415,
+        "recency": 0.9014,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -698,14 +698,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.8882,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -758,14 +758,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8772,
+        "recency": 0.8371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,14 +818,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8642,
+        "recency": 0.824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -878,14 +878,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6656,
+        "recency": 0.6254,
         "story_heat": 0.0
       },
       "category": "official",
@@ -958,14 +958,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6654,
+        "recency": 0.6252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1038,14 +1038,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6654,
+        "recency": 0.6252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1118,14 +1118,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5499,
+        "recency": 0.5097,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1178,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6654,
+        "recency": 0.6252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1200,6 +1200,140 @@
         "url": "https://www.aibase.com/news/29203",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b482b19fe032",
+      "title": "美国政府将决定谁可以使用 GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://news.ycombinator.com/item?id=48690101",
+      "primary_url": "https://news.ycombinator.com/item?id=48690101",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5042eeecbc5f1b61aa3d9e5ad24fdff4a01a05ab",
+          "title": "美国政府将决定谁可以使用 GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://news.ycombinator.com/item?id=48690101",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T19:32:52.782000Z"
+        },
+        {
+          "id": "42c925379d0718e205a57b76176a393454d3f306",
+          "title": "美国政府将决定谁可以使用GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "www.washingtonpost.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T19:23:47.983000Z"
+        },
+        {
+          "id": "50db710d2e4e9927accbe0c0a22fa6970ef3db3c",
+          "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
+          "url": "https://news.ycombinator.com/item?id=48690101",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T18:35:02.059000Z"
+        },
+        {
+          "id": "fd493b5d17526d2a171ff10b12d3edf8b7a9fdd1",
+          "title": "美国政府将决定谁可以使用GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T18:23:14Z"
+        },
+        {
+          "id": "deb1dafbefc0275785e3af982da691ec8adc4add",
+          "title": "美国政府将决定谁可以使用GPT-5.6 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T18:23:14Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.washingtonpost.com"
+      ],
+      "items": [
+        {
+          "id": "5042eeecbc5f1b61aa3d9e5ad24fdff4a01a05ab",
+          "title": "美国政府将决定谁可以使用 GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://news.ycombinator.com/item?id=48690101",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T19:32:52.782000Z"
+        },
+        {
+          "id": "42c925379d0718e205a57b76176a393454d3f306",
+          "title": "美国政府将决定谁可以使用GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "www.washingtonpost.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T19:23:47.983000Z"
+        },
+        {
+          "id": "50db710d2e4e9927accbe0c0a22fa6970ef3db3c",
+          "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
+          "url": "https://news.ycombinator.com/item?id=48690101",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T18:35:02.059000Z"
+        },
+        {
+          "id": "fd493b5d17526d2a171ff10b12d3edf8b7a9fdd1",
+          "title": "美国政府将决定谁可以使用GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T18:23:14Z"
+        },
+        {
+          "id": "deb1dafbefc0275785e3af982da691ec8adc4add",
+          "title": "美国政府将决定谁可以使用GPT-5.6 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T18:23:14Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.623,
+      "importance": 0.623,
+      "importance_score": 0.623,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T18:23:14Z",
+      "latest_at": "2026-06-26T19:32:52.782000Z",
+      "primary_item": {
+        "id": "5042eeecbc5f1b61aa3d9e5ad24fdff4a01a05ab",
+        "title": "美国政府将决定谁可以使用 GPT-5.6 / U.S. government will decide who gets to use GPT-5.6",
+        "url": "https://news.ycombinator.com/item?id=48690101",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1256,14 +1390,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4928,
+        "recency": 0.4526,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1335,14 +1469,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4928,
+        "recency": 0.4526,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1358,6 +1492,103 @@
         "url": "https://www.aibase.com/news/29193",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_47c56e9adbe9",
+      "title": "人工智能行业正向美国大选投入数百万美元",
+      "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+      "primary_url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+      "source": "www.bloodinthemachine.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
+          "title": "人工智能行业正向美国大选投入数百万美元",
+          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "source": "www.bloodinthemachine.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T18:35:53.860000Z"
+        },
+        {
+          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
+          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
+          "url": "https://news.ycombinator.com/item?id=48687483",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T15:31:54.053000Z"
+        },
+        {
+          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
+          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
+          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T15:02:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.bloodinthemachine.com"
+      ],
+      "items": [
+        {
+          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
+          "title": "人工智能行业正向美国大选投入数百万美元",
+          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "source": "www.bloodinthemachine.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T18:35:53.860000Z"
+        },
+        {
+          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
+          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
+          "url": "https://news.ycombinator.com/item?id=48687483",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T15:31:54.053000Z"
+        },
+        {
+          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
+          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
+          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T15:02:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5652,
+      "importance": 0.5652,
+      "importance_score": 0.5652,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9608,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T15:02:43Z",
+      "latest_at": "2026-06-26T18:35:53.860000Z",
+      "primary_item": {
+        "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
+        "title": "人工智能行业正向美国大选投入数百万美元",
+        "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+        "source": "www.bloodinthemachine.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1395,14 +1626,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7328,
-      "importance": 0.7328,
-      "importance_score": 0.7328,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6039,
+        "recency": 0.5638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1417,84 +1648,6 @@
         "url": "https://www.aibase.com/news/29200",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b482b19fe032",
-      "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
-      "url": "https://news.ycombinator.com/item?id=48690101",
-      "primary_url": "https://news.ycombinator.com/item?id=48690101",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "50db710d2e4e9927accbe0c0a22fa6970ef3db3c",
-          "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
-          "url": "https://news.ycombinator.com/item?id=48690101",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T18:35:02.059000Z"
-        },
-        {
-          "id": "deb1dafbefc0275785e3af982da691ec8adc4add",
-          "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
-          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T18:23:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "50db710d2e4e9927accbe0c0a22fa6970ef3db3c",
-          "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
-          "url": "https://news.ycombinator.com/item?id=48690101",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T18:35:02.059000Z"
-        },
-        {
-          "id": "deb1dafbefc0275785e3af982da691ec8adc4add",
-          "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
-          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T18:23:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T18:23:14Z",
-      "latest_at": "2026-06-26T18:35:02.059000Z",
-      "primary_item": {
-        "id": "50db710d2e4e9927accbe0c0a22fa6970ef3db3c",
-        "title": "美国政府将决定谁可以使用 ChatGPT 的最新升级 / U.S. government will decide who gets to use latest upgrade to ChatGPT",
-        "url": "https://news.ycombinator.com/item?id=48690101",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1551,14 +1704,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9455,
+        "recency": 0.9053,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1629,14 +1782,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9455,
+        "recency": 0.9053,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1726,14 +1879,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8121,
+        "recency": 0.772,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1747,83 +1900,6 @@
         "title": "为什么当前的大型语言模型（LLM）成本不可持续",
         "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
         "source": "aditya.patadia.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c966518140ec",
-      "title": "AI引发的抛售潮导致新兴市场股票遭遇3月以来最糟糕的一周",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "47091c129938935add5cd6e8663414c7c48d8aca",
-          "title": "AI引发的抛售潮导致新兴市场股票遭遇3月以来最糟糕的一周",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T16:11:50.654000Z"
-        },
-        {
-          "id": "687dcef4aa9156b7347362bc92fb56d61627f413",
-          "title": "随着AI相关交易走势震荡，新兴市场股票本周料将收跌",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T11:39:48.572000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "47091c129938935add5cd6e8663414c7c48d8aca",
-          "title": "AI引发的抛售潮导致新兴市场股票遭遇3月以来最糟糕的一周",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T16:11:50.654000Z"
-        },
-        {
-          "id": "687dcef4aa9156b7347362bc92fb56d61627f413",
-          "title": "随着AI相关交易走势震荡，新兴市场股票本周料将收跌",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T11:39:48.572000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9009,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T11:39:48.572000Z",
-      "latest_at": "2026-06-26T16:11:50.654000Z",
-      "primary_item": {
-        "id": "47091c129938935add5cd6e8663414c7c48d8aca",
-        "title": "AI引发的抛售潮导致新兴市场股票遭遇3月以来最糟糕的一周",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     }
