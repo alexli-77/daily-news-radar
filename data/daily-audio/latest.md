@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年6月25日人工智能热点分享
-1、Google Finance 推出新版 Android 应用和投资组合功能，试图把行情查看、资产跟踪和财经信息整合到一个移动端入口。
-2、OLMo Hybrid 与 Transformer 的对比显示，混合架构在名词、动词等实义词预测上更强，但对重复短语改善有限。
-3、多数主流AI聊天机器人政治立场偏左，"反觉醒"模型也不例外，华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。
-4、Google AI 宣布 Gemini 3.5 Flash 的 Computer Use 工具正式可用，支持构建能观察并操作浏览器、移动端和桌面环境的 AI 智能体，可处理长期任务。
-5、General Intuition 完成三点二亿美元融资，计划用游戏数据训练通用 AI 智能体，估值升至二十三亿美元。
-6、Ornith 发布面向智能体编程的开源模型家族，覆盖小参数 Dense 模型到接近四千亿参数的 MoE 模型。
-7、一家由前印度 IT 服务高管创办的新企业，试图用 AI 重构传统 IT 外包和服务交付流程。
-8、商汤科技挺进智能体赛道，重点是全新“全模态”基座蓄势待发。
-9、商汤科技秘密研发多模态模型“U1Pro”，重点是由林达华牵头，预计7月启动内测对标OpenAI。
-10、最新全球独角兽榜单显示，大模型公司继续吸引高估值和资本关注，AI 仍是一级市场最强叙事之一。
+2026年6月26日人工智能热点分享
+1、百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品。
+2、钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段。
+3、OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子。
+4、AI导购精准度仅16%，上海消保委直指电商算法，重点是别把消费者当韭菜。
+5、Mistral AI发布OCR4 模型，重点是支持 170 种语言，输出质量超越GPT与Gemini。
+6、法国 AI 初创企业 Mistral AI 发布 OCR4模型，重点是覆盖170种语言，交互体验更人性化。
+7、5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源。
+8、扩产受限需求高涨，AI存储紧缺周期或将延续至明年末。
+9、美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力。
+10、跨模型和任务评估 GitHub Copilot 代理工具的性能和效率。
 
 ## 原始链接
-1. 我们最新的 Google 财经升级，包括新应用（Google AI Blog） - https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026
-2. OLMo Hybrid vs Transformer：混合模型在实义词上优势明显，但重复短语上几无优势（Hugging Face：Blog（RSS）） - https://aihot.virxact.com/items/cmqtpf8w405opsl0e2ldkd1q1
-3. 多数主流AI聊天机器人政治立场偏左，"反觉醒"模型也不例外（The Decoder） - https://aihot.virxact.com/items/cmqtp5syl05k5sl0ec5cvuedt
-4. Gemini 3.5 Flash 的 Computer Use 工具正式可用（X：Google AI for Developers (@googleaidevs)） - https://aihot.virxact.com/items/cmqtpdugb05nnsl0e5e1zykrd
-5. General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体（TechCrunch：AI（RSS）） - https://aihot.virxact.com/items/cmqtq76j105ubsl0e8j4fy8se
-6. Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模（X：Berry Xia (@berryxia)） - https://aihot.virxact.com/items/cmqtpj36o05pusl0e9ingyoye
-7. 前印度信息技术巨头新创企业，欲用 AI 颠覆 IT 服务行业（AIbase） - https://www.aibase.com/news/29167
-8. 商汤科技挺进智能体赛道：全新“全模态”基座蓄势待发（AIbase） - https://www.aibase.com/news/29169
-9. 商汤科技秘密研发多模态模型“U1Pro”:由林达华牵头，预计7月启动内测对标OpenAI（AIbase） - https://www.aibase.com/news/29168
-10. 大模型成独角兽“吸金”引擎： 2026 全球榜单揭晓，霸榜前三名（AIbase） - https://www.aibase.com/news/29157
+1. 百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品（AIbase） - https://www.aibase.com/news/29205
+2. 钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段（AIbase） - https://www.aibase.com/news/29204
+3. OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子（AIbase） - https://www.aibase.com/news/29198
+4. AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜（AIbase） - https://www.aibase.com/news/29203
+5. Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini（AIbase） - https://www.aibase.com/news/29192
+6. 法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化（AIbase） - https://www.aibase.com/news/29193
+7. 5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源（AIbase） - https://www.aibase.com/news/29200
+8. 扩产受限需求高涨，AI存储紧缺周期或将延续至明年末（AIbase） - https://www.aibase.com/news/29199
+9. 美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力（AIbase） - https://www.aibase.com/news/29201
+10. 跨模型和任务评估 GitHub Copilot 代理工具的性能和效率（GitHub AI & ML） - https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks
