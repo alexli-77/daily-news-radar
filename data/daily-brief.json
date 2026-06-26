@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T11:51:56.806446Z",
+  "generated_at": "2026-06-26T12:40:27.005332Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2152-2658-9b3e-9b624c9f0ee4&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-2152-2658-9b3e-9b624c9f0ee4&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2240-588e-bf62-9d81b4b3d3a6&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-2240-588e-bf62-9d81b4b3d3a6&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "8d3004460c723a8feb0a1779486d208a53ba4a87",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2240-588e-bf62-9d81b4b3d3a6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "7439d2a670b362823af8db51540d838e151557f9",
           "title": "点击这里进入 / Click here to enter",
@@ -195,15 +204,6 @@
           "id": "8318613a10b7785ea79562c61341e80a500a289a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2316-2189-8818-45b0ebd0f815&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "07262a20fc6ff69ec9c29f86f38342ec3a32fe8d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2216-4497-829c-07316b5d3d15&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,6 +216,15 @@
       ],
       "items": [
         {
+          "id": "8d3004460c723a8feb0a1779486d208a53ba4a87",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2240-588e-bf62-9d81b4b3d3a6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "7439d2a670b362823af8db51540d838e151557f9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2152-2658-9b3e-9b624c9f0ee4&fp=-3",
@@ -399,15 +408,6 @@
           "id": "8318613a10b7785ea79562c61341e80a500a289a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2316-2189-8818-45b0ebd0f815&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "07262a20fc6ff69ec9c29f86f38342ec3a32fe8d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2216-4497-829c-07316b5d3d15&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -432,12 +432,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T12:16:18.440015Z",
-      "latest_at": "2026-06-26T11:51:56.806446Z",
+      "earliest_at": "2026-06-25T13:15:51.795918Z",
+      "latest_at": "2026-06-26T12:40:27.005332Z",
       "primary_item": {
-        "id": "7439d2a670b362823af8db51540d838e151557f9",
+        "id": "8d3004460c723a8feb0a1779486d208a53ba4a87",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2152-2658-9b3e-9b624c9f0ee4&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2240-588e-bf62-9d81b4b3d3a6&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -477,14 +477,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "score": 0.8553,
+      "importance": 0.8553,
+      "importance_score": 0.8553,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9452,
+        "recency": 0.9115,
         "story_heat": 0.0
       },
       "category": "official",
@@ -504,7 +504,7 @@
       }
     },
     {
-      "story_id": "story_6ecf5f4c0ba9",
+      "story_id": "story_b5de8a57ec0d",
       "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
       "url": "https://www.aibase.com/news/29205",
       "primary_url": "https://www.aibase.com/news/29205",
@@ -557,14 +557,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9449,
+        "recency": 0.9113,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -584,7 +584,7 @@
       }
     },
     {
-      "story_id": "story_532f268bb0d4",
+      "story_id": "story_6000d1f20189",
       "title": "钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段",
       "url": "https://www.aibase.com/news/29204",
       "primary_url": "https://www.aibase.com/news/29204",
@@ -637,14 +637,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9449,
+        "recency": 0.9113,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -698,14 +698,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4638,
+        "recency": 0.4301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -759,14 +759,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7423,
+        "recency": 0.7086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,14 +838,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8294,
+        "recency": 0.7958,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -899,14 +899,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5903,
+        "recency": 0.5566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -920,65 +920,6 @@
         "title": "Claude Code 6个实用Hook玩法",
         "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7c6b9936b816",
-      "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-      "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-      "primary_url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-      "source": "X：小互 (@xiaohu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
-          "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-          "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T01:26:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：小互 (@xiaohu)"
-      ],
-      "items": [
-        {
-          "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
-          "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-          "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T01:26:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5656,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T01:26:23Z",
-      "latest_at": "2026-06-26T01:26:23Z",
-      "primary_item": {
-        "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
-        "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-        "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-        "source": "X：小互 (@xiaohu)",
         "source_name": "AI HOT"
       }
     },
@@ -1017,21 +958,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4093,
+        "recency": 0.3756,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T21:41:18Z",
       "latest_at": "2026-06-25T21:41:18Z",
@@ -1078,20 +1018,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6986,
+        "recency": 0.6649,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T04:37:58Z",
       "latest_at": "2026-06-26T04:37:58Z",
@@ -1138,14 +1077,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9449,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1198,21 +1137,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4019,
+        "recency": 0.3682,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T21:30:42Z",
       "latest_at": "2026-06-25T21:30:42Z",
@@ -1278,14 +1216,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7723,
+        "recency": 0.7387,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1358,14 +1296,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7723,
+        "recency": 0.7387,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1382,83 +1320,6 @@
         "url": "https://www.aibase.com/news/29193",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_99d213ebfa6b",
-      "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-      "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-      "primary_url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
-          "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-26T18:18:18Z"
-        },
-        {
-          "id": "b865665fe4c83d38b572600ab501eb9fbc9fde26",
-          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-25T12:12:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
-          "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-26T18:18:18Z"
-        },
-        {
-          "id": "b865665fe4c83d38b572600ab501eb9fbc9fde26",
-          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-25T12:12:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.626,
-      "importance": 0.626,
-      "importance_score": 0.626,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-25T12:12:13Z",
-      "latest_at": "2026-06-26T18:18:18Z",
-      "primary_item": {
-        "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
-        "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-        "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
       }
     },
     {
@@ -1496,14 +1357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8835,
+        "recency": 0.8498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1556,14 +1417,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8835,
+        "recency": 0.8498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1579,6 +1440,276 @@
         "url": "https://www.aibase.com/news/29199",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1f3c1784acfd",
+      "title": "美国政府将逐一审批谁能获得GPT 5.6",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+      "primary_url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+      "source": "old.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0997d8eeaebcd9214e2621d12be825f3d02d67ee",
+          "title": "美国政府将逐一审批谁能获得GPT 5.6",
+          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T12:27:53.292000Z"
+        },
+        {
+          "id": "6cbff037779b9186c6eedd09321aa57ecf165842",
+          "title": "美国政府将单独批准谁获得 GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
+          "url": "https://news.ycombinator.com/item?id=48683021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T07:46:56.967000Z"
+        },
+        {
+          "id": "52c63cf73c7b38e8794b7da7672443984b8567fc",
+          "title": "美国政府将逐一审批谁能获得GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
+          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T06:24:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "old.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "0997d8eeaebcd9214e2621d12be825f3d02d67ee",
+          "title": "美国政府将逐一审批谁能获得GPT 5.6",
+          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T12:27:53.292000Z"
+        },
+        {
+          "id": "6cbff037779b9186c6eedd09321aa57ecf165842",
+          "title": "美国政府将单独批准谁获得 GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
+          "url": "https://news.ycombinator.com/item?id=48683021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T07:46:56.967000Z"
+        },
+        {
+          "id": "52c63cf73c7b38e8794b7da7672443984b8567fc",
+          "title": "美国政府将逐一审批谁能获得GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
+          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T06:24:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5713,
+      "importance": 0.5713,
+      "importance_score": 0.5713,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9913,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T06:24:39Z",
+      "latest_at": "2026-06-26T12:27:53.292000Z",
+      "primary_item": {
+        "id": "0997d8eeaebcd9214e2621d12be825f3d02d67ee",
+        "title": "美国政府将逐一审批谁能获得GPT 5.6",
+        "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+        "source": "old.reddit.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2d4795866f89",
+      "title": "AI Trade 经历艰难一周，迫使投资者更加审慎选择",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "22e4a4bb9932d8e11a32107d5968bbbf695ae849",
+          "title": "AI Trade 经历艰难一周，迫使投资者更加审慎选择",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T11:55:48.959000Z"
+        },
+        {
+          "id": "5a015d4b68fcf4d91391eaacd10a92deedc9789f",
+          "title": "人工智能行业可能正处于一个关键节点。是时候挑选赢家了",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T10:35:53.185000Z"
+        },
+        {
+          "id": "7f2caf2536f11b5032dea3545a65710f3835257c",
+          "title": "AI交易已不再仅仅是持有单一标的：盘点现状",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T06:35:49.241000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "22e4a4bb9932d8e11a32107d5968bbbf695ae849",
+          "title": "AI Trade 经历艰难一周，迫使投资者更加审慎选择",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T11:55:48.959000Z"
+        },
+        {
+          "id": "5a015d4b68fcf4d91391eaacd10a92deedc9789f",
+          "title": "人工智能行业可能正处于一个关键节点。是时候挑选赢家了",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T10:35:53.185000Z"
+        },
+        {
+          "id": "7f2caf2536f11b5032dea3545a65710f3835257c",
+          "title": "AI交易已不再仅仅是持有单一标的：盘点现状",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T06:35:49.241000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5668,
+      "importance": 0.5668,
+      "importance_score": 0.5668,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.969,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T06:35:49.241000Z",
+      "latest_at": "2026-06-26T11:55:48.959000Z",
+      "primary_item": {
+        "id": "22e4a4bb9932d8e11a32107d5968bbbf695ae849",
+        "title": "AI Trade 经历艰难一周，迫使投资者更加审慎选择",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7082193c2490",
+      "title": "Meta 得了「AI 精神病」",
+      "url": "https://www.huxiu.com/article/4870741.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870741.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1ab6808b6ab1f391e4f65c046a27f4a2b5505b57",
+          "title": "Meta 得了「AI 精神病」",
+          "url": "https://www.huxiu.com/article/4870741.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "601bb4eb06bb2300ba6af2ff03b04561c316213c",
+          "title": "Meta得了“AI精神病”",
+          "url": "https://www.huxiu.com/article/4870741.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T12:23:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "1ab6808b6ab1f391e4f65c046a27f4a2b5505b57",
+          "title": "Meta 得了「AI 精神病」",
+          "url": "https://www.huxiu.com/article/4870741.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "601bb4eb06bb2300ba6af2ff03b04561c316213c",
+          "title": "Meta得了“AI精神病”",
+          "url": "https://www.huxiu.com/article/4870741.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T12:23:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T12:23:16Z",
+      "latest_at": "2026-06-26T12:40:27.005332Z",
+      "primary_item": {
+        "id": "1ab6808b6ab1f391e4f65c046a27f4a2b5505b57",
+        "title": "Meta 得了「AI 精神病」",
+        "url": "https://www.huxiu.com/article/4870741.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1616,14 +1747,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8835,
+        "recency": 0.8498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1639,84 +1770,6 @@
         "url": "https://www.aibase.com/news/29201",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_77e86e050609",
-      "title": "Rokid 发布首款 AI 智能眼镜 AIOS 系统",
-      "url": "https://36kr.com/newsflashes/3869905580168196?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3869905580168196?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3b2e60d18cbcbd961b39a41508ff00b8a3d6416f",
-          "title": "Rokid 发布首款 AI 智能眼镜 AIOS 系统",
-          "url": "https://36kr.com/newsflashes/3869905580168196?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "cdfe16b2ce378b747f6bce19c96e531d16084fa5",
-          "title": "Rokid发布首款AI智能眼镜AIOS系统",
-          "url": "https://36kr.com/newsflashes/3869905580168196?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T11:11:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3b2e60d18cbcbd961b39a41508ff00b8a3d6416f",
-          "title": "Rokid 发布首款 AI 智能眼镜 AIOS 系统",
-          "url": "https://36kr.com/newsflashes/3869905580168196?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "cdfe16b2ce378b747f6bce19c96e531d16084fa5",
-          "title": "Rokid发布首款AI智能眼镜AIOS系统",
-          "url": "https://36kr.com/newsflashes/3869905580168196?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T11:11:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T11:11:31Z",
-      "latest_at": "2026-06-26T11:51:56.806446Z",
-      "primary_item": {
-        "id": "3b2e60d18cbcbd961b39a41508ff00b8a3d6416f",
-        "title": "Rokid 发布首款 AI 智能眼镜 AIOS 系统",
-        "url": "https://36kr.com/newsflashes/3869905580168196?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
