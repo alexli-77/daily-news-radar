@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T15:53:40.420154Z",
+  "generated_at": "2026-06-27T16:23:31.604488Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0154-107f-87a2-069af0a3485e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0154-107f-87a2-069af0a3485e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0224-01d0-9ce4-1ef239ba59e6&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0224-01d0-9ce4-1ef239ba59e6&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "347fbe033cdab0490ec5bcf9f2092fa11bd44cad",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0224-01d0-9ce4-1ef239ba59e6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b90f5a228877f23dc13032220dbe4e02983abcc3",
           "title": "点击这里进入 / Click here to enter",
@@ -255,12 +264,21 @@
           "published_at": null
         }
       ],
-      "source_count": 27,
+      "source_count": 28,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "347fbe033cdab0490ec5bcf9f2092fa11bd44cad",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0224-01d0-9ce4-1ef239ba59e6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b90f5a228877f23dc13032220dbe4e02983abcc3",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0154-107f-87a2-069af0a3485e&fp=-3",
@@ -504,8 +522,8 @@
           "published_at": null
         }
       ],
-      "item_count": 27,
-      "duplicate_count": 27,
+      "item_count": 28,
+      "duplicate_count": 28,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -523,13 +541,73 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-26T16:39:06.342188Z",
-      "latest_at": "2026-06-27T15:53:40.420154Z",
+      "latest_at": "2026-06-27T16:23:31.604488Z",
       "primary_item": {
-        "id": "b90f5a228877f23dc13032220dbe4e02983abcc3",
+        "id": "347fbe033cdab0490ec5bcf9f2092fa11bd44cad",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0154-107f-87a2-069af0a3485e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0224-01d0-9ce4-1ef239ba59e6&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_ed562065c656",
+      "title": "一次失败的（民族国家？）攻击的剖析",
+      "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+      "primary_url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c599b1c9fce09f0e49b9e92eee79d4e9a0371ab",
+          "title": "一次失败的（民族国家？）攻击的剖析",
+          "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T15:39:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "0c599b1c9fce09f0e49b9e92eee79d4e9a0371ab",
+          "title": "一次失败的（民族国家？）攻击的剖析",
+          "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T15:39:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9697,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T15:39:53Z",
+      "latest_at": "2026-06-27T15:39:53Z",
+      "primary_item": {
+        "id": "0c599b1c9fce09f0e49b9e92eee79d4e9a0371ab",
+        "title": "一次失败的（民族国家？）攻击的剖析",
+        "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -605,14 +683,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6823,
+        "recency": 0.6615,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -666,14 +744,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.784,
+      "importance": 0.784,
+      "importance_score": 0.784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8808,
+        "recency": 0.8601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,14 +804,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8553,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -805,14 +883,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4899,
+        "recency": 0.4691,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -940,14 +1018,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6034,
-      "importance": 0.6034,
-      "importance_score": 0.6034,
+      "score": 0.5992,
+      "importance": 0.5992,
+      "importance_score": 0.5992,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9018,
+        "recency": 0.8811,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1074,14 +1152,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5477,
-      "importance": 0.5477,
-      "importance_score": 0.5477,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6237,
+        "recency": 0.603,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1152,14 +1230,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9905,
+        "recency": 0.9698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1230,14 +1308,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9682,
+        "recency": 0.9475,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1308,14 +1386,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9429,
+        "recency": 0.9222,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1386,14 +1464,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8866,
+        "recency": 0.8658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1464,14 +1542,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.5118,
+      "importance": 0.5118,
+      "importance_score": 0.5118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8396,
+        "recency": 0.8189,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1615,14 +1693,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5372,
+        "recency": 0.5165,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1692,14 +1770,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
+      "score": 0.4918,
+      "importance": 0.4918,
+      "importance_score": 0.4918,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7399,
+        "recency": 0.7192,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1770,14 +1848,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.495,
-      "importance": 0.495,
-      "importance_score": 0.495,
+      "score": 0.4908,
+      "importance": 0.4908,
+      "importance_score": 0.4908,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7349,
+        "recency": 0.7142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1848,14 +1926,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8759,
+        "recency": 0.8551,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1926,14 +2004,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.5118,
+      "importance": 0.5118,
+      "importance_score": 0.5118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8396,
+        "recency": 0.8189,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2004,14 +2082,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4779,
-      "importance": 0.4779,
-      "importance_score": 0.4779,
+      "score": 0.4737,
+      "importance": 0.4737,
+      "importance_score": 0.4737,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6493,
+        "recency": 0.6286,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2082,14 +2160,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
+      "score": 0.4953,
+      "importance": 0.4953,
+      "importance_score": 0.4953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7571,
+        "recency": 0.7364,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2104,84 +2182,6 @@
         "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6e98f8d3012c",
-      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-      "url": "https://www.36kr.com/p/3870720040588295",
-      "primary_url": "https://www.36kr.com/p/3870720040588295",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "593b11c266b9b15d81fb4b86ba50b8603bbb3c3c",
-          "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-          "url": "https://www.36kr.com/p/3870720040588295",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "33ac930fa4a2c905d0c1e1e1271575e579b115f3",
-          "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-          "url": "https://36kr.com/p/3870720040588295?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T01:02:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "36氪 · 24小时热榜"
-      ],
-      "items": [
-        {
-          "id": "593b11c266b9b15d81fb4b86ba50b8603bbb3c3c",
-          "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-          "url": "https://www.36kr.com/p/3870720040588295",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "33ac930fa4a2c905d0c1e1e1271575e579b115f3",
-          "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-          "url": "https://36kr.com/p/3870720040588295?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T01:02:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4554,
-      "importance": 0.4554,
-      "importance_score": 0.4554,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5368,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T01:02:37Z",
-      "latest_at": "2026-06-27T04:46:37.522362Z",
-      "primary_item": {
-        "id": "593b11c266b9b15d81fb4b86ba50b8603bbb3c3c",
-        "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-        "url": "https://www.36kr.com/p/3870720040588295",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
       }
     }
   ]
