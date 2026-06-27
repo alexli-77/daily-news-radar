@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T16:49:57.771410Z",
+  "generated_at": "2026-06-27T17:23:56.873835Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0250-244f-8903-e222aec69379&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0250-244f-8903-e222aec69379&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0324-221a-8759-3e12f00d1669&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0324-221a-8759-3e12f00d1669&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "eb22542fb49c79096123cf26a60d89bcab09419c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0324-221a-8759-3e12f00d1669&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ec33a72252a68ed9a9afca335e2cbef39f770e42",
           "title": "点击这里进入 / Click here to enter",
@@ -264,12 +273,21 @@
           "published_at": null
         }
       ],
-      "source_count": 28,
+      "source_count": 29,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "eb22542fb49c79096123cf26a60d89bcab09419c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0324-221a-8759-3e12f00d1669&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ec33a72252a68ed9a9afca335e2cbef39f770e42",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0250-244f-8903-e222aec69379&fp=-3",
@@ -522,8 +540,8 @@
           "published_at": null
         }
       ],
-      "item_count": 28,
-      "duplicate_count": 28,
+      "item_count": 29,
+      "duplicate_count": 29,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -541,13 +559,73 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-26T17:33:24.643449Z",
-      "latest_at": "2026-06-27T16:49:57.771410Z",
+      "latest_at": "2026-06-27T17:23:56.873835Z",
       "primary_item": {
-        "id": "ec33a72252a68ed9a9afca335e2cbef39f770e42",
+        "id": "eb22542fb49c79096123cf26a60d89bcab09419c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0250-244f-8903-e222aec69379&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0324-221a-8759-3e12f00d1669&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_5eafaf2ce433",
+      "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+      "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+      "primary_url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "43459c8b3dbd2170bb89a8b7eb60c03909ed9033",
+          "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+          "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T16:59:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "43459c8b3dbd2170bb89a8b7eb60c03909ed9033",
+          "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+          "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T16:59:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T16:59:58Z",
+      "latest_at": "2026-06-27T16:59:58Z",
+      "primary_item": {
+        "id": "43459c8b3dbd2170bb89a8b7eb60c03909ed9033",
+        "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+        "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -585,14 +663,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -683,14 +761,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6432,
+        "recency": 0.6196,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -744,14 +822,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.8181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,14 +882,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8162,
+        "recency": 0.7926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,14 +961,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4508,
+        "recency": 0.4272,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1018,14 +1096,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5955,
-      "importance": 0.5955,
-      "importance_score": 0.5955,
+      "score": 0.5908,
+      "importance": 0.5908,
+      "importance_score": 0.5908,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8627,
+        "recency": 0.8391,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1043,30 +1121,30 @@
       }
     },
     {
-      "story_id": "story_6a7998f56b03",
-      "title": "白嫖 AI 的日子，彻底结束了",
-      "url": "https://www.huxiu.com/article/4870953.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870953.html?f=rss",
+      "story_id": "story_3d3110b16cbb",
+      "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+      "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870954.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
-          "title": "白嫖 AI 的日子，彻底结束了",
-          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "4f2e90925000001a6068474fdb78500a65786012",
-          "title": "白嫖AI的日子，彻底结束了",
-          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
+          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T16:14:41Z"
+          "published_at": "2026-06-27T16:28:07Z"
         }
       ],
       "source_count": 2,
@@ -1076,22 +1154,22 @@
       ],
       "items": [
         {
-          "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
-          "title": "白嫖 AI 的日子，彻底结束了",
-          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "4f2e90925000001a6068474fdb78500a65786012",
-          "title": "白嫖AI的日子，彻底结束了",
-          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
+          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T16:14:41Z"
+          "published_at": "2026-06-27T16:28:07Z"
         }
       ],
       "item_count": 2,
@@ -1110,12 +1188,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T16:14:41Z",
-      "latest_at": "2026-06-27T16:49:57.771410Z",
+      "earliest_at": "2026-06-27T16:28:07Z",
+      "latest_at": "2026-06-27T17:23:56.873835Z",
       "primary_item": {
-        "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
-        "title": "白嫖 AI 的日子，彻底结束了",
-        "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+        "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+        "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+        "url": "https://www.huxiu.com/article/4870954.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1230,14 +1308,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5846,
+        "recency": 0.561,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1308,14 +1386,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9514,
+        "recency": 0.9278,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1386,14 +1464,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9291,
+        "recency": 0.9055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1408,6 +1486,84 @@
         "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6a7998f56b03",
+      "title": "白嫖 AI 的日子，彻底结束了",
+      "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870953.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
+          "title": "白嫖 AI 的日子，彻底结束了",
+          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f2e90925000001a6068474fdb78500a65786012",
+          "title": "白嫖AI的日子，彻底结束了",
+          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T16:14:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
+          "title": "白嫖 AI 的日子，彻底结束了",
+          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f2e90925000001a6068474fdb78500a65786012",
+          "title": "白嫖AI的日子，彻底结束了",
+          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T16:14:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9764,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T16:14:41Z",
+      "latest_at": "2026-06-27T16:49:57.771410Z",
+      "primary_item": {
+        "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
+        "title": "白嫖 AI 的日子，彻底结束了",
+        "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1464,14 +1620,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5175,
-      "importance": 0.5175,
-      "importance_score": 0.5175,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8475,
+        "recency": 0.8239,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1542,14 +1698,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.7769,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1564,84 +1720,6 @@
         "url": "https://github.com/Anil-matcha/Open-Generative-AI",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8da79cacec05",
-      "title": "上半年 AI 热钱涌动，国资基金抢滩人工智能",
-      "url": "https://www.huxiu.com/article/4870924.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870924.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3baf68967756702c3479c9f934846f2fe7b520e4",
-          "title": "上半年 AI 热钱涌动，国资基金抢滩人工智能",
-          "url": "https://www.huxiu.com/article/4870924.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "163a8b16d62dddd1d91d9cb66bbfcbd8c8f46693",
-          "title": "上半年AI热钱涌动，国资基金抢滩人工智能",
-          "url": "https://www.huxiu.com/article/4870924.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T12:59:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "3baf68967756702c3479c9f934846f2fe7b520e4",
-          "title": "上半年 AI 热钱涌动，国资基金抢滩人工智能",
-          "url": "https://www.huxiu.com/article/4870924.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "163a8b16d62dddd1d91d9cb66bbfcbd8c8f46693",
-          "title": "上半年AI热钱涌动，国资基金抢滩人工智能",
-          "url": "https://www.huxiu.com/article/4870924.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T12:59:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9038,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T12:59:27Z",
-      "latest_at": "2026-06-27T14:31:28.517934Z",
-      "primary_item": {
-        "id": "3baf68967756702c3479c9f934846f2fe7b520e4",
-        "title": "上半年 AI 热钱涌动，国资基金抢滩人工智能",
-        "url": "https://www.huxiu.com/article/4870924.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1771,14 +1849,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4981,
+        "recency": 0.4745,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1848,14 +1926,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4882,
-      "importance": 0.4882,
-      "importance_score": 0.4882,
+      "score": 0.4835,
+      "importance": 0.4835,
+      "importance_score": 0.4835,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7009,
+        "recency": 0.6773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1926,14 +2004,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4872,
-      "importance": 0.4872,
-      "importance_score": 0.4872,
+      "score": 0.4824,
+      "importance": 0.4824,
+      "importance_score": 0.4824,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6958,
+        "recency": 0.6722,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2004,14 +2082,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.7769,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2082,14 +2160,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4701,
-      "importance": 0.4701,
-      "importance_score": 0.4701,
+      "score": 0.4653,
+      "importance": 0.4653,
+      "importance_score": 0.4653,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6103,
+        "recency": 0.5867,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2104,84 +2182,6 @@
         "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
         "source": "36氪 (36Kr)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_64d9d42451e6",
-      "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-      "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-      "primary_url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "741a55884485351a658d521cdf0869ad1db6872e",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T10:03:56.528000Z"
-        },
-        {
-          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T09:48:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "741a55884485351a658d521cdf0869ad1db6872e",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T10:03:56.528000Z"
-        },
-        {
-          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T09:48:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4916,
-      "importance": 0.4916,
-      "importance_score": 0.4916,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.718,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T09:48:02Z",
-      "latest_at": "2026-06-27T10:03:56.528000Z",
-      "primary_item": {
-        "id": "741a55884485351a658d521cdf0869ad1db6872e",
-        "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-        "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
