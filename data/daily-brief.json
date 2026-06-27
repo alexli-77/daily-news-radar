@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T23:21:42.405081Z",
+  "generated_at": "2026-06-27T23:47:55.829822Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0922-1518-bbd0-399f813d103f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0922-1518-bbd0-399f813d103f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0948-20a1-9519-c9a6ee49f8de&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0948-20a1-9519-c9a6ee49f8de&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d17336087d11a733164c5e8aebf06f840383b581",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0948-20a1-9519-c9a6ee49f8de&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ed0b674bbc996acbe62a16fdcdb9cf45a4a81d9a",
           "title": "点击这里进入 / Click here to enter",
@@ -285,15 +294,6 @@
           "id": "7999c4afaa5dc3502e8821cc5a0eb4769c1b7372",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0949-568d-a3fb-d7109ca8e7f6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1f20d4fb0d6ab196d4fcd0f13a38ff489859ee4b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0925-4826-a798-8f406fba131f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,6 +306,15 @@
       ],
       "items": [
         {
+          "id": "d17336087d11a733164c5e8aebf06f840383b581",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0948-20a1-9519-c9a6ee49f8de&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ed0b674bbc996acbe62a16fdcdb9cf45a4a81d9a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0922-1518-bbd0-399f813d103f&fp=-3",
@@ -579,15 +588,6 @@
           "id": "7999c4afaa5dc3502e8821cc5a0eb4769c1b7372",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0949-568d-a3fb-d7109ca8e7f6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1f20d4fb0d6ab196d4fcd0f13a38ff489859ee4b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0925-4826-a798-8f406fba131f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -612,12 +612,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T23:25:19.484790Z",
-      "latest_at": "2026-06-27T23:21:42.405081Z",
+      "earliest_at": "2026-06-26T23:49:29.205406Z",
+      "latest_at": "2026-06-27T23:47:55.829822Z",
       "primary_item": {
-        "id": "ed0b674bbc996acbe62a16fdcdb9cf45a4a81d9a",
+        "id": "d17336087d11a733164c5e8aebf06f840383b581",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0922-1518-bbd0-399f813d103f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0948-20a1-9519-c9a6ee49f8de&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -657,14 +657,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8956,
+        "recency": 0.8774,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -717,14 +717,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.739,
+        "recency": 0.7207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -777,14 +777,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7349,
+        "recency": 0.7167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,14 +837,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6793,
+        "recency": 0.6611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,14 +934,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3711,
+        "recency": 0.3529,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -994,14 +994,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5696,
+        "recency": 0.5514,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,65 +1015,6 @@
         "title": "Runway API 推出广告本地化 Recipe",
         "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
         "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_507f99a64e1f",
-      "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
-      "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
-      "primary_url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8b1e50b2d11395cd5e30a3fba208a1f96b29f8a4",
-          "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
-          "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T12:25:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8b1e50b2d11395cd5e30a3fba208a1f96b29f8a4",
-          "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
-          "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T12:25:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5442,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-27T12:25:21Z",
-      "latest_at": "2026-06-27T12:25:21Z",
-      "primary_item": {
-        "id": "8b1e50b2d11395cd5e30a3fba208a1f96b29f8a4",
-        "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
-        "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1131,14 +1072,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6727,
-      "importance": 0.6727,
-      "importance_score": 0.6727,
+      "score": 0.6691,
+      "importance": 0.6691,
+      "importance_score": 0.6691,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1787,
+        "recency": 0.1605,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1228,14 +1169,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.669,
-      "importance": 0.669,
-      "importance_score": 0.669,
+      "score": 0.6653,
+      "importance": 0.6653,
+      "importance_score": 0.6653,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0349,
+        "recency": 0.0167,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1251,6 +1192,103 @@
         "url": "https://aihot.virxact.com/items/cmqvmlpxh0edhsl806wmhc2d0",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_84e0d65e5b7f",
+      "title": "亚洲人工智能初创企业推出类似Mythos的模型",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+      "primary_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+      "source": "techcrunch.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b26206afe1b583847b1ea18a5794848ac9e9ab8b",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T23:23:10.059000Z"
+        },
+        {
+          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like models",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T13:10:21Z"
+        },
+        {
+          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T12:00:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "TechCrunch",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "b26206afe1b583847b1ea18a5794848ac9e9ab8b",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T23:23:10.059000Z"
+        },
+        {
+          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like models",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T13:10:21Z"
+        },
+        {
+          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T12:00:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9828,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T12:00:00Z",
+      "latest_at": "2026-06-27T23:23:10.059000Z",
+      "primary_item": {
+        "id": "b26206afe1b583847b1ea18a5794848ac9e9ab8b",
+        "title": "亚洲人工智能初创企业推出类似Mythos的模型",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+        "source": "techcrunch.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1306,14 +1344,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9083,
+        "recency": 0.8901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1384,14 +1422,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7905,
+        "recency": 0.7723,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,14 +1500,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4983,
-      "importance": 0.4983,
-      "importance_score": 0.4983,
+      "score": 0.4947,
+      "importance": 0.4947,
+      "importance_score": 0.4947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7516,
+        "recency": 0.7333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1540,14 +1578,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4839,
-      "importance": 0.4839,
-      "importance_score": 0.4839,
+      "score": 0.4802,
+      "importance": 0.4802,
+      "importance_score": 0.4802,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6794,
+        "recency": 0.6612,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1618,14 +1656,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4794,
-      "importance": 0.4794,
-      "importance_score": 0.4794,
+      "score": 0.4758,
+      "importance": 0.4758,
+      "importance_score": 0.4758,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6571,
+        "recency": 0.6389,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1695,14 +1733,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4753,
-      "importance": 0.4753,
-      "importance_score": 0.4753,
+      "score": 0.4716,
+      "importance": 0.4716,
+      "importance_score": 0.4716,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6364,
+        "recency": 0.6182,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1773,14 +1811,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4936,
-      "importance": 0.4936,
-      "importance_score": 0.4936,
+      "score": 0.4899,
+      "importance": 0.4899,
+      "importance_score": 0.4899,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.728,
+        "recency": 0.7097,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1795,84 +1833,6 @@
         "url": "https://www.huxiu.com/article/4870953.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_84e0d65e5b7f",
-      "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-      "primary_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
-          "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T13:10:21Z"
-        },
-        {
-          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
-          "title": "随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T12:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "TechCrunch"
-      ],
-      "items": [
-        {
-          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
-          "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T13:10:21Z"
-        },
-        {
-          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
-          "title": "随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T12:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4631,
-      "importance": 0.4631,
-      "importance_score": 0.4631,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5754,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T12:00:00Z",
-      "latest_at": "2026-06-27T13:10:21Z",
-      "primary_item": {
-        "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
-        "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
-        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -1929,14 +1889,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4537,
-      "importance": 0.4537,
-      "importance_score": 0.4537,
+      "score": 0.45,
+      "importance": 0.45,
+      "importance_score": 0.45,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5284,
+        "recency": 0.5102,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2006,14 +1966,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4661,
-      "importance": 0.4661,
-      "importance_score": 0.4661,
+      "score": 0.4625,
+      "importance": 0.4625,
+      "importance_score": 0.4625,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5907,
+        "recency": 0.5724,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2028,6 +1988,83 @@
         "url": "https://news.ycombinator.com/item?id=48696585",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2de2d1d791f8",
+      "title": "可疑的不连续性 / Suspicious Discontinuities",
+      "url": "https://danluu.com/discontinuities",
+      "primary_url": "https://danluu.com/discontinuities",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2b628386ab4e913216e3538f8ff19ebcfc5ef70f",
+          "title": "可疑的不连续性 / Suspicious Discontinuities",
+          "url": "https://danluu.com/discontinuities",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:32:20Z"
+        },
+        {
+          "id": "4da7457422ceac3ec37f61e993b74e0772918059",
+          "title": "可疑的不连续性 / Suspicious Discontinuities (2020)",
+          "url": "https://danluu.com/discontinuities",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:32:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2b628386ab4e913216e3538f8ff19ebcfc5ef70f",
+          "title": "可疑的不连续性 / Suspicious Discontinuities",
+          "url": "https://danluu.com/discontinuities",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:32:20Z"
+        },
+        {
+          "id": "4da7457422ceac3ec37f61e993b74e0772918059",
+          "title": "可疑的不连续性 / Suspicious Discontinuities (2020)",
+          "url": "https://danluu.com/discontinuities",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:32:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4625,
+      "importance": 0.4625,
+      "importance_score": 0.4625,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5725,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T13:32:20Z",
+      "latest_at": "2026-06-27T13:32:20Z",
+      "primary_item": {
+        "id": "2b628386ab4e913216e3538f8ff19ebcfc5ef70f",
+        "title": "可疑的不连续性 / Suspicious Discontinuities",
+        "url": "https://danluu.com/discontinuities",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
