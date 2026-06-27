@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T12:25:22.807136Z",
+  "generated_at": "2026-06-27T12:54:55.651866Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2225-56c9-8795-cc8ea3c16a5d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-2225-56c9-8795-cc8ea3c16a5d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2255-25cc-9d37-ac47a370c93a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-2255-25cc-9d37-ac47a370c93a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "50d57bf3963d8691bd90cac37d7b6f80594af8bd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2255-25cc-9d37-ac47a370c93a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "d38b4460e602e82eeb443cb6a281b8edce053d53",
           "title": "点击这里进入 / Click here to enter",
@@ -231,15 +240,6 @@
           "id": "4c8d8f549fad77c1a3be8a4147a4eedad6e48f02",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2339-586d-91a3-ba89f2da2cb9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8d3004460c723a8feb0a1779486d208a53ba4a87",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2240-588e-bf62-9d81b4b3d3a6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,6 +252,15 @@
       ],
       "items": [
         {
+          "id": "50d57bf3963d8691bd90cac37d7b6f80594af8bd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2255-25cc-9d37-ac47a370c93a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "d38b4460e602e82eeb443cb6a281b8edce053d53",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2225-56c9-8795-cc8ea3c16a5d&fp=-3",
@@ -471,15 +480,6 @@
           "id": "4c8d8f549fad77c1a3be8a4147a4eedad6e48f02",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2339-586d-91a3-ba89f2da2cb9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8d3004460c723a8feb0a1779486d208a53ba4a87",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2240-588e-bf62-9d81b4b3d3a6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -504,12 +504,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T12:40:27.005332Z",
-      "latest_at": "2026-06-27T12:25:22.807136Z",
+      "earliest_at": "2026-06-26T13:39:29.756674Z",
+      "latest_at": "2026-06-27T12:54:55.651866Z",
       "primary_item": {
-        "id": "d38b4460e602e82eeb443cb6a281b8edce053d53",
+        "id": "50d57bf3963d8691bd90cac37d7b6f80594af8bd",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2225-56c9-8795-cc8ea3c16a5d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2255-25cc-9d37-ac47a370c93a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -587,14 +587,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8269,
+        "recency": 0.8064,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -610,6 +610,66 @@
         "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
         "url": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_507f99a64e1f",
+      "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
+      "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+      "primary_url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8b1e50b2d11395cd5e30a3fba208a1f96b29f8a4",
+          "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
+          "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T12:25:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8b1e50b2d11395cd5e30a3fba208a1f96b29f8a4",
+          "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
+          "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T12:25:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9795,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T12:25:21Z",
+      "latest_at": "2026-06-27T12:25:21Z",
+      "primary_item": {
+        "id": "8b1e50b2d11395cd5e30a3fba208a1f96b29f8a4",
+        "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
+        "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -667,14 +727,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6345,
+        "recency": 0.614,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -728,14 +788,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3539,
+        "recency": 0.3334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -751,65 +811,6 @@
         "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_40c9e862254e",
-      "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
-      "url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
-      "primary_url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1e668d2f49984689b2f510d41f1adef9684d12f9",
-          "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
-          "url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T01:43:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1e668d2f49984689b2f510d41f1adef9684d12f9",
-          "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
-          "url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T01:43:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5541,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-27T01:43:18Z",
-      "latest_at": "2026-06-27T01:43:18Z",
-      "primary_item": {
-        "id": "1e668d2f49984689b2f510d41f1adef9684d12f9",
-        "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
-        "url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -922,14 +923,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5767,
-      "importance": 0.5767,
-      "importance_score": 0.5767,
+      "score": 0.5726,
+      "importance": 0.5726,
+      "importance_score": 0.5726,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7684,
+        "recency": 0.7478,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1073,14 +1074,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5594,
-      "importance": 0.5594,
-      "importance_score": 0.5594,
+      "score": 0.5553,
+      "importance": 0.5553,
+      "importance_score": 0.5553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6819,
+        "recency": 0.6613,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1095,6 +1096,84 @@
         "url": "https://news.ycombinator.com/item?id=48692995",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_da2ca93e797f",
+      "title": "DeepSeek 开始造富",
+      "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870918.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
+          "title": "DeepSeek 开始造富",
+          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d2e47da75d198ec6bd3885f844609d2692bd7480",
+          "title": "DeepSeek开始造富",
+          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T12:14:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
+          "title": "DeepSeek 开始造富",
+          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d2e47da75d198ec6bd3885f844609d2692bd7480",
+          "title": "DeepSeek开始造富",
+          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T12:14:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T12:14:04Z",
+      "latest_at": "2026-06-27T12:54:55.651866Z",
+      "primary_item": {
+        "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
+        "title": "DeepSeek 开始造富",
+        "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1151,14 +1230,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9842,
+        "recency": 0.9637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1173,84 +1252,6 @@
         "url": "https://github.com/Anil-matcha/Open-Generative-AI",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_9d9e6dcf15a6",
-      "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
-      "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870890.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
-          "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
-          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2ee4058ee386ce6a101df8dcb2f92f2d9a28fa3",
-          "title": "人形机器人降至万元级，上半年具身智能融资超460亿元",
-          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T09:31:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
-          "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
-          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2ee4058ee386ce6a101df8dcb2f92f2d9a28fa3",
-          "title": "人形机器人降至万元级，上半年具身智能融资超460亿元",
-          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T09:31:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9259,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T09:31:07Z",
-      "latest_at": "2026-06-27T10:38:42.387768Z",
-      "primary_item": {
-        "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
-        "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
-        "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1307,14 +1308,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5284,
-      "importance": 0.5284,
-      "importance_score": 0.5284,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9018,
+        "recency": 0.8813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1404,14 +1405,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.556,
-      "importance": 0.556,
-      "importance_score": 0.556,
+      "score": 0.5519,
+      "importance": 0.5519,
+      "importance_score": 0.5519,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9152,
+        "recency": 0.8947,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1481,14 +1482,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8846,
+        "recency": 0.8641,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1559,14 +1560,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8796,
+        "recency": 0.859,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1637,14 +1638,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9842,
+        "recency": 0.9637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1715,14 +1716,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
+      "score": 0.5027,
+      "importance": 0.5027,
+      "importance_score": 0.5027,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.794,
+        "recency": 0.7735,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1740,30 +1741,30 @@
       }
     },
     {
-      "story_id": "story_fc5244fef89b",
-      "title": "都在说缺算力，90% 的 AI 芯片却被「浪费」了？",
-      "url": "https://www.huxiu.com/article/4870895.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870895.html?f=rss",
+      "story_id": "story_9d9e6dcf15a6",
+      "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
+      "url": "https://www.huxiu.com/article/4870890.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870890.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "d8710c1fc6584981effcad1d64cdd636521e2184",
-          "title": "都在说缺算力，90% 的 AI 芯片却被「浪费」了？",
-          "url": "https://www.huxiu.com/article/4870895.html?f=rss",
+          "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
+          "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
+          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "03b7015a5f881f63f35409100b025eb503410bd5",
-          "title": "都在说缺算力，90% 的AI 芯片却被“浪费”了？",
-          "url": "https://www.huxiu.com/article/4870895.html?f=rss",
+          "id": "e2ee4058ee386ce6a101df8dcb2f92f2d9a28fa3",
+          "title": "人形机器人降至万元级，上半年具身智能融资超460亿元",
+          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T10:11:57Z"
+          "published_at": "2026-06-27T09:31:07Z"
         }
       ],
       "source_count": 2,
@@ -1773,46 +1774,46 @@
       ],
       "items": [
         {
-          "id": "d8710c1fc6584981effcad1d64cdd636521e2184",
-          "title": "都在说缺算力，90% 的 AI 芯片却被「浪费」了？",
-          "url": "https://www.huxiu.com/article/4870895.html?f=rss",
+          "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
+          "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
+          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "03b7015a5f881f63f35409100b025eb503410bd5",
-          "title": "都在说缺算力，90% 的AI 芯片却被“浪费”了？",
-          "url": "https://www.huxiu.com/article/4870895.html?f=rss",
+          "id": "e2ee4058ee386ce6a101df8dcb2f92f2d9a28fa3",
+          "title": "人形机器人降至万元级，上半年具身智能融资超460亿元",
+          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T10:11:57Z"
+          "published_at": "2026-06-27T09:31:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9259,
+        "recency": 0.9054,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T10:11:57Z",
+      "earliest_at": "2026-06-27T09:31:07Z",
       "latest_at": "2026-06-27T10:38:42.387768Z",
       "primary_item": {
-        "id": "d8710c1fc6584981effcad1d64cdd636521e2184",
-        "title": "都在说缺算力，90% 的 AI 芯片却被「浪费」了？",
-        "url": "https://www.huxiu.com/article/4870895.html?f=rss",
+        "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
+        "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
+        "url": "https://www.huxiu.com/article/4870890.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1871,14 +1872,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4843,
-      "importance": 0.4843,
-      "importance_score": 0.4843,
+      "score": 0.4802,
+      "importance": 0.4802,
+      "importance_score": 0.4802,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6814,
+        "recency": 0.6609,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1968,14 +1969,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4756,
-      "importance": 0.4756,
-      "importance_score": 0.4756,
+      "score": 0.4715,
+      "importance": 0.4715,
+      "importance_score": 0.4715,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5128,
+        "recency": 0.4923,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1993,79 +1994,79 @@
       }
     },
     {
-      "story_id": "story_56d1d6c35c6b",
-      "title": "具身世界模型「我悟」通过合规备案",
-      "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+      "story_id": "story_fc5244fef89b",
+      "title": "都在说缺算力，90% 的 AI 芯片却被「浪费」了？",
+      "url": "https://www.huxiu.com/article/4870895.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870895.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "2cd6138aa8866a488910eae33bac3e286b5772df",
-          "title": "具身世界模型「我悟」通过合规备案",
-          "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+          "id": "d8710c1fc6584981effcad1d64cdd636521e2184",
+          "title": "都在说缺算力，90% 的 AI 芯片却被「浪费」了？",
+          "url": "https://www.huxiu.com/article/4870895.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "13334370ee6b7b88b02258b1d0e4c27c9cdee742",
-          "title": "具身世界模型“我悟”通过合规备案",
-          "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "03b7015a5f881f63f35409100b025eb503410bd5",
+          "title": "都在说缺算力，90% 的AI 芯片却被“浪费”了？",
+          "url": "https://www.huxiu.com/article/4870895.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T09:21:55Z"
+          "published_at": "2026-06-27T10:11:57Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "2cd6138aa8866a488910eae33bac3e286b5772df",
-          "title": "具身世界模型「我悟」通过合规备案",
-          "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+          "id": "d8710c1fc6584981effcad1d64cdd636521e2184",
+          "title": "都在说缺算力，90% 的 AI 芯片却被「浪费」了？",
+          "url": "https://www.huxiu.com/article/4870895.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "13334370ee6b7b88b02258b1d0e4c27c9cdee742",
-          "title": "具身世界模型“我悟”通过合规备案",
-          "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "03b7015a5f881f63f35409100b025eb503410bd5",
+          "title": "都在说缺算力，90% 的AI 芯片却被“浪费”了？",
+          "url": "https://www.huxiu.com/article/4870895.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T09:21:55Z"
+          "published_at": "2026-06-27T10:11:57Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.887,
+        "recency": 0.9054,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T09:21:55Z",
-      "latest_at": "2026-06-27T09:42:41.646201Z",
+      "earliest_at": "2026-06-27T10:11:57Z",
+      "latest_at": "2026-06-27T10:38:42.387768Z",
       "primary_item": {
-        "id": "2cd6138aa8866a488910eae33bac3e286b5772df",
-        "title": "具身世界模型「我悟」通过合规备案",
-        "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+        "id": "d8710c1fc6584981effcad1d64cdd636521e2184",
+        "title": "都在说缺算力，90% 的 AI 芯片却被「浪费」了？",
+        "url": "https://www.huxiu.com/article/4870895.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -2124,14 +2125,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4483,
-      "importance": 0.4483,
-      "importance_score": 0.4483,
+      "score": 0.4442,
+      "importance": 0.4442,
+      "importance_score": 0.4442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5017,
+        "recency": 0.4812,
         "story_heat": 0.25
       },
       "category": "watch",
