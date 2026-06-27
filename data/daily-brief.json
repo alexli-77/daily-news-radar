@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T06:11:29.117959Z",
+  "generated_at": "2026-06-27T07:32:12.351750Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1611-57ca-994f-f2e04418f099&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-1611-57ca-994f-f2e04418f099&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1732-429a-8565-1b690a9c1471&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-1732-429a-8565-1b690a9c1471&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "843764f8d1954f5b10ca1671d17bdfb5c57fa5f6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1732-429a-8565-1b690a9c1471&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "58e3521db5b29db5020df8b1f6fdb7d3d23b955c",
           "title": "点击这里进入 / Click here to enter",
@@ -222,15 +231,6 @@
           "id": "1185da1b113d78878b8056ed25a4d004da0eda71",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1746-5145-8aef-856e12d47924&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "36e4479d31de7a5834e6eae99e066ba6517db80b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1624-3192-acaa-1c4cce6de3a3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -243,6 +243,15 @@
       ],
       "items": [
         {
+          "id": "843764f8d1954f5b10ca1671d17bdfb5c57fa5f6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1732-429a-8565-1b690a9c1471&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "58e3521db5b29db5020df8b1f6fdb7d3d23b955c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1611-57ca-994f-f2e04418f099&fp=-3",
@@ -453,15 +462,6 @@
           "id": "1185da1b113d78878b8056ed25a4d004da0eda71",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1746-5145-8aef-856e12d47924&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "36e4479d31de7a5834e6eae99e066ba6517db80b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1624-3192-acaa-1c4cce6de3a3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -486,12 +486,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T06:24:06.471221Z",
-      "latest_at": "2026-06-27T06:11:29.117959Z",
+      "earliest_at": "2026-06-26T07:46:20.373657Z",
+      "latest_at": "2026-06-27T07:32:12.351750Z",
       "primary_item": {
-        "id": "58e3521db5b29db5020df8b1f6fdb7d3d23b955c",
+        "id": "843764f8d1954f5b10ca1671d17bdfb5c57fa5f6",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1611-57ca-994f-f2e04418f099&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1732-429a-8565-1b690a9c1471&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -550,14 +550,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8381,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -611,14 +611,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6136,
+        "recency": 0.5575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -710,14 +710,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.1587,
+        "recency": 0.1026,
         "story_heat": 0.5
       },
       "category": "official",
@@ -772,14 +772,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7503,
+        "recency": 0.6943,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,20 +832,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7222,
+        "recency": 0.6662,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T23:31:29Z",
       "latest_at": "2026-06-26T23:31:29Z",
@@ -892,14 +891,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8138,
+        "recency": 0.7577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,21 +951,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4331,
+        "recency": 0.377,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T16:35:06Z",
       "latest_at": "2026-06-26T16:35:06Z",
@@ -976,65 +974,6 @@
         "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0f359af5e38c",
-      "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-      "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-      "primary_url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
-          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-          "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T20:04:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
-          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-          "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T20:04:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5788,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T20:04:55Z",
-      "latest_at": "2026-06-26T20:04:55Z",
-      "primary_item": {
-        "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
-        "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-        "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1091,14 +1030,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6733,
-      "importance": 0.6733,
-      "importance_score": 0.6733,
+      "score": 0.6621,
+      "importance": 0.6621,
+      "importance_score": 0.6621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1814,
+        "recency": 0.1253,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1170,14 +1109,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6733,
-      "importance": 0.6733,
-      "importance_score": 0.6733,
+      "score": 0.6621,
+      "importance": 0.6621,
+      "importance_score": 0.6621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1814,
+        "recency": 0.1253,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1193,6 +1132,140 @@
         "url": "https://www.aibase.com/news/29204",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2f3830581c59",
+      "title": "数学领域的人工智能正引发重大问题",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "primary_url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "source": "spectrum.ieee.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "33929fe17a57cb8f0e14284ad97b5164a26eee95",
+          "title": "数学领域的人工智能正引发重大问题",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T06:51:49.402000Z"
+        },
+        {
+          "id": "5d84d25fe2ac570f1b4903abb2a5d2454d2837f4",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T02:52:01.640000Z"
+        },
+        {
+          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
+          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+          "url": "https://news.ycombinator.com/item?id=48692883",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T00:35:12.291000Z"
+        },
+        {
+          "id": "bbe48ed56aada2c99206584379926d65038647e1",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / What does it mean to be a mathematician when AI does the math?",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T00:27:42Z"
+        },
+        {
+          "id": "b9c3fc59a5cff8cfbd7bf152d105512b9b046926",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / AI in mathematics is forcing big questions",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T22:36:51Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "hackernews",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "33929fe17a57cb8f0e14284ad97b5164a26eee95",
+          "title": "数学领域的人工智能正引发重大问题",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T06:51:49.402000Z"
+        },
+        {
+          "id": "5d84d25fe2ac570f1b4903abb2a5d2454d2837f4",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T02:52:01.640000Z"
+        },
+        {
+          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
+          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+          "url": "https://news.ycombinator.com/item?id=48692883",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T00:35:12.291000Z"
+        },
+        {
+          "id": "bbe48ed56aada2c99206584379926d65038647e1",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / What does it mean to be a mathematician when AI does the math?",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T00:27:42Z"
+        },
+        {
+          "id": "b9c3fc59a5cff8cfbd7bf152d105512b9b046926",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / AI in mathematics is forcing big questions",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T22:36:51Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6174,
+      "importance": 0.6174,
+      "importance_score": 0.6174,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.972,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T22:36:51Z",
+      "latest_at": "2026-06-27T06:51:49.402000Z",
+      "primary_item": {
+        "id": "33929fe17a57cb8f0e14284ad97b5164a26eee95",
+        "title": "数学领域的人工智能正引发重大问题",
+        "url": "https://spectrum.ieee.org/ai-in-mathematics",
+        "source": "spectrum.ieee.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1322,14 +1395,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6113,
-      "importance": 0.6113,
-      "importance_score": 0.6113,
+      "score": 0.6001,
+      "importance": 0.6001,
+      "importance_score": 0.6001,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9415,
+        "recency": 0.8854,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1400,14 +1473,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6502,
-      "importance": 0.6502,
-      "importance_score": 0.6502,
+      "score": 0.639,
+      "importance": 0.639,
+      "importance_score": 0.639,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0659,
+        "recency": 0.0098,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1426,225 +1499,30 @@
       }
     },
     {
-      "story_id": "story_2f3830581c59",
-      "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "primary_url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "source": "spectrum.ieee.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5d84d25fe2ac570f1b4903abb2a5d2454d2837f4",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T02:52:01.640000Z"
-        },
-        {
-          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
-          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
-          "url": "https://news.ycombinator.com/item?id=48692883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T00:35:12.291000Z"
-        },
-        {
-          "id": "bbe48ed56aada2c99206584379926d65038647e1",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / What does it mean to be a mathematician when AI does the math?",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T00:27:42Z"
-        },
-        {
-          "id": "b9c3fc59a5cff8cfbd7bf152d105512b9b046926",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / AI in mathematics is forcing big questions",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T22:36:51Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "5d84d25fe2ac570f1b4903abb2a5d2454d2837f4",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T02:52:01.640000Z"
-        },
-        {
-          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
-          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
-          "url": "https://news.ycombinator.com/item?id=48692883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T00:35:12.291000Z"
-        },
-        {
-          "id": "bbe48ed56aada2c99206584379926d65038647e1",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / What does it mean to be a mathematician when AI does the math?",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T00:27:42Z"
-        },
-        {
-          "id": "b9c3fc59a5cff8cfbd7bf152d105512b9b046926",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / AI in mathematics is forcing big questions",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T22:36:51Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8615,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T22:36:51Z",
-      "latest_at": "2026-06-27T02:52:01.640000Z",
-      "primary_item": {
-        "id": "5d84d25fe2ac570f1b4903abb2a5d2454d2837f4",
-        "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
-        "url": "https://spectrum.ieee.org/ai-in-mathematics",
-        "source": "spectrum.ieee.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f50c009bf1f4",
-      "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-      "url": "https://www.aibase.com/news/29192",
-      "primary_url": "https://www.aibase.com/news/29192",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
-          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-          "url": "https://www.aibase.com/news/29192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T06:24:06.471221Z"
-        },
-        {
-          "id": "2df6f48c735ca0917c5ec12829868df2fc223472",
-          "title": "Mistral AI 发布 OCR4 模型：支持 170 种语言，输出质量超越 GPT 与 Gemini",
-          "url": "https://www.aibase.com/zh/news/29192",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
-          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-          "url": "https://www.aibase.com/news/29192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T06:24:06.471221Z"
-        },
-        {
-          "id": "2df6f48c735ca0917c5ec12829868df2fc223472",
-          "title": "Mistral AI 发布 OCR4 模型：支持 170 种语言，输出质量超越 GPT 与 Gemini",
-          "url": "https://www.aibase.com/zh/news/29192",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6388,
-      "importance": 0.6388,
-      "importance_score": 0.6388,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0088,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T06:24:06.471221Z",
-      "latest_at": "2026-06-26T06:24:06.471221Z",
-      "primary_item": {
-        "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
-        "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-        "url": "https://www.aibase.com/news/29192",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a08aaf1a534b",
-      "title": "大神 Karpathy 用 Claude 的方式，原来是这样的？",
-      "url": "https://www.huxiu.com/article/4870849.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870849.html?f=rss",
+      "story_id": "story_df4f900a24f0",
+      "title": "一盆冷水：99% 的 AI 原生创业，根本没有护城河",
+      "url": "https://www.huxiu.com/article/4870861.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870861.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "33c41200ac5fed846c40aa512487e7c1aa125fbe",
-          "title": "大神 Karpathy 用 Claude 的方式，原来是这样的？",
-          "url": "https://www.huxiu.com/article/4870849.html?f=rss",
+          "id": "25c8e8893ac6503ded694ca3fa7be978f20b0eaa",
+          "title": "一盆冷水：99% 的 AI 原生创业，根本没有护城河",
+          "url": "https://www.huxiu.com/article/4870861.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "b34d39f66d42e9adaef2b643581b3eb4db5a93de",
-          "title": "大神Karpathy用Claude的方式，原来是这样的？",
-          "url": "https://www.huxiu.com/article/4870849.html?f=rss",
+          "id": "d5d149a656f15e23e483240b38c5293273e5383a",
+          "title": "一盆冷水：99%的AI原生创业，根本没有护城河",
+          "url": "https://www.huxiu.com/article/4870861.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T04:38:30Z"
+          "published_at": "2026-06-27T06:05:33Z"
         }
       ],
       "source_count": 2,
@@ -1654,22 +1532,22 @@
       ],
       "items": [
         {
-          "id": "33c41200ac5fed846c40aa512487e7c1aa125fbe",
-          "title": "大神 Karpathy 用 Claude 的方式，原来是这样的？",
-          "url": "https://www.huxiu.com/article/4870849.html?f=rss",
+          "id": "25c8e8893ac6503ded694ca3fa7be978f20b0eaa",
+          "title": "一盆冷水：99% 的 AI 原生创业，根本没有护城河",
+          "url": "https://www.huxiu.com/article/4870861.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "b34d39f66d42e9adaef2b643581b3eb4db5a93de",
-          "title": "大神Karpathy用Claude的方式，原来是这样的？",
-          "url": "https://www.huxiu.com/article/4870849.html?f=rss",
+          "id": "d5d149a656f15e23e483240b38c5293273e5383a",
+          "title": "一盆冷水：99%的AI原生创业，根本没有护城河",
+          "url": "https://www.huxiu.com/article/4870861.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T04:38:30Z"
+          "published_at": "2026-06-27T06:05:33Z"
         }
       ],
       "item_count": 2,
@@ -1688,14 +1566,92 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T04:38:30Z",
-      "latest_at": "2026-06-27T06:11:29.117959Z",
+      "earliest_at": "2026-06-27T06:05:33Z",
+      "latest_at": "2026-06-27T07:32:12.351750Z",
       "primary_item": {
-        "id": "33c41200ac5fed846c40aa512487e7c1aa125fbe",
-        "title": "大神 Karpathy 用 Claude 的方式，原来是这样的？",
-        "url": "https://www.huxiu.com/article/4870849.html?f=rss",
+        "id": "25c8e8893ac6503ded694ca3fa7be978f20b0eaa",
+        "title": "一盆冷水：99% 的 AI 原生创业，根本没有护城河",
+        "url": "https://www.huxiu.com/article/4870861.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_5d886a9e358e",
+      "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
+      "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
+      "source": "36氪 (36Kr)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4c2abe37b4d8124f0088de4f0340a5e99e831349",
+          "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
+          "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T07:28:44Z"
+        },
+        {
+          "id": "b31685f461d1c7e6d1f2c33f643570e61605c852",
+          "title": "今年以来算力相关产品加速出海 有武汉企业 800G 以上光模块出口同比增长超过 100 倍",
+          "url": "https://api3.cls.cn/share/article/2410867?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4c2abe37b4d8124f0088de4f0340a5e99e831349",
+          "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
+          "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T07:28:44Z"
+        },
+        {
+          "id": "b31685f461d1c7e6d1f2c33f643570e61605c852",
+          "title": "今年以来算力相关产品加速出海 有武汉企业 800G 以上光模块出口同比增长超过 100 倍",
+          "url": "https://api3.cls.cn/share/article/2410867?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5475,
+      "importance": 0.5475,
+      "importance_score": 0.5475,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9976,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T06:11:29.117959Z",
+      "latest_at": "2026-06-27T07:28:44Z",
+      "primary_item": {
+        "id": "4c2abe37b4d8124f0088de4f0340a5e99e831349",
+        "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
+        "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
+        "source": "36氪 (36Kr)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1752,14 +1708,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9411,
+        "recency": 0.885,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1849,14 +1805,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7725,
+        "recency": 0.7164,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1874,82 +1830,81 @@
       }
     },
     {
-      "story_id": "story_fd1d0ddc02c3",
-      "title": "法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化",
-      "url": "https://www.aibase.com/news/29193",
-      "primary_url": "https://www.aibase.com/news/29193",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a08aaf1a534b",
+      "title": "大神 Karpathy 用 Claude 的方式，原来是这样的？",
+      "url": "https://www.huxiu.com/article/4870849.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870849.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "b538c5414b6a3e938c6fd0d76e97ea05b9be110c",
-          "title": "法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化",
-          "url": "https://www.aibase.com/news/29193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T06:24:06.471221Z"
-        },
-        {
-          "id": "abb3e3baf9e4d8da568684d83f71065527034db6",
-          "title": "法国 AI 初创企业 Mistral AI 发布 OCR4 模型：覆盖 170 种语言，交互体验更人性化",
-          "url": "https://www.aibase.com/zh/news/29193",
+          "id": "33c41200ac5fed846c40aa512487e7c1aa125fbe",
+          "title": "大神 Karpathy 用 Claude 的方式，原来是这样的？",
+          "url": "https://www.huxiu.com/article/4870849.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "b34d39f66d42e9adaef2b643581b3eb4db5a93de",
+          "title": "大神Karpathy用Claude的方式，原来是这样的？",
+          "url": "https://www.huxiu.com/article/4870849.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T04:38:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "b538c5414b6a3e938c6fd0d76e97ea05b9be110c",
-          "title": "法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化",
-          "url": "https://www.aibase.com/news/29193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T06:24:06.471221Z"
-        },
-        {
-          "id": "abb3e3baf9e4d8da568684d83f71065527034db6",
-          "title": "法国 AI 初创企业 Mistral AI 发布 OCR4 模型：覆盖 170 种语言，交互体验更人性化",
-          "url": "https://www.aibase.com/zh/news/29193",
+          "id": "33c41200ac5fed846c40aa512487e7c1aa125fbe",
+          "title": "大神 Karpathy 用 Claude 的方式，原来是这样的？",
+          "url": "https://www.huxiu.com/article/4870849.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "b34d39f66d42e9adaef2b643581b3eb4db5a93de",
+          "title": "大神Karpathy用Claude的方式，原来是这样的？",
+          "url": "https://www.huxiu.com/article/4870849.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T04:38:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6388,
-      "importance": 0.6388,
-      "importance_score": 0.6388,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0088,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-26T06:24:06.471221Z",
-      "latest_at": "2026-06-26T06:24:06.471221Z",
+      "earliest_at": "2026-06-27T04:38:30Z",
+      "latest_at": "2026-06-27T06:11:29.117959Z",
       "primary_item": {
-        "id": "b538c5414b6a3e938c6fd0d76e97ea05b9be110c",
-        "title": "法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化",
-        "url": "https://www.aibase.com/news/29193",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "33c41200ac5fed846c40aa512487e7c1aa125fbe",
+        "title": "大神 Karpathy 用 Claude 的方式，原来是这样的？",
+        "url": "https://www.huxiu.com/article/4870849.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -2006,14 +1961,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9415,
+        "recency": 0.8854,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2028,6 +1983,84 @@
         "url": "https://news.ycombinator.com/item?id=48694802",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_c791ccfc6401",
+      "title": "NLNet Labs 大型语言模型政策",
+      "url": "https://nlnetlabs.nl/llm-policy",
+      "primary_url": "https://nlnetlabs.nl/llm-policy",
+      "source": "nlnetlabs.nl",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
+          "title": "NLNet Labs 大型语言模型政策",
+          "url": "https://nlnetlabs.nl/llm-policy",
+          "source": "nlnetlabs.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:27:51.623000Z"
+        },
+        {
+          "id": "5b211aabb67b1169d98b2a26a634fd924972d84c",
+          "title": "NLNet Labs 大型语言模型政策 / NLNet Labs LLM Policy",
+          "url": "https://nlnetlabs.nl/llm-policy",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T00:08:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "nlnetlabs.nl"
+      ],
+      "items": [
+        {
+          "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
+          "title": "NLNet Labs 大型语言模型政策",
+          "url": "https://nlnetlabs.nl/llm-policy",
+          "source": "nlnetlabs.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:27:51.623000Z"
+        },
+        {
+          "id": "5b211aabb67b1169d98b2a26a634fd924972d84c",
+          "title": "NLNet Labs 大型语言模型政策 / NLNet Labs LLM Policy",
+          "url": "https://nlnetlabs.nl/llm-policy",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T00:08:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4891,
+      "importance": 0.4891,
+      "importance_score": 0.4891,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7053,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T00:08:45Z",
+      "latest_at": "2026-06-27T00:27:51.623000Z",
+      "primary_item": {
+        "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
+        "title": "NLNet Labs 大型语言模型政策",
+        "url": "https://nlnetlabs.nl/llm-policy",
+        "source": "nlnetlabs.nl",
+        "source_name": "Buzzing"
       }
     }
   ]
