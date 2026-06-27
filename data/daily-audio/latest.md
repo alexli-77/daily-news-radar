@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年6月26日人工智能热点分享
-1、百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品。
-2、钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段。
-3、OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子。
-4、AI导购精准度仅16%，上海消保委直指电商算法，重点是别把消费者当韭菜。
-5、Mistral AI发布OCR4 模型，重点是支持 170 种语言，输出质量超越GPT与Gemini。
-6、法国 AI 初创企业 Mistral AI 发布 OCR4模型，重点是覆盖170种语言，交互体验更人性化。
-7、5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源。
-8、扩产受限需求高涨，AI存储紧缺周期或将延续至明年末。
-9、美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力。
-10、跨模型和任务评估 GitHub Copilot 代理工具的性能和效率。
+2026年6月27日人工智能热点分享
+1、AI 账单失控后 DeepSeek 成"香饽饽"，部分美国企业已 100% 切换，美国企业面临 AI 账单失控，开始转向 Token 最小化策略。
+2、"Raise Us"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击，前美国商务部长Raimondo与前印第安纳州长Holcomb共同发起非营利“Raise Us”，目标为AI经济下工人再培训筹集10亿美元，已锁定5亿。
+3、阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色，阿里千问输入法 macOS 版今日上线官网，支持最快 300 字/分的 AI 语音输入，可自动润色、将口语转为工整文字，并支持 9 种方言，纯净无广告。
+4、数学领域的人工智能正引发重大问题。
+5、美国允许 Anthropic 向“值得信赖”的美国组织发布 Mythos AI。
+6、DeepSeek 开源推理优化，生成速度提高 60–85% [pdf]。
+7、DeepSeek 开始造富，近期，DeepSeek启动大规模招聘并完成510亿元A轮融资，估值4000亿元，标志其从神秘研究机构转型为商业化公司，推动中国AI产业进入以Agent为重点的竞争新阶段。
+8、Fission-AI / OpenSpec。
+9、人形机器人降至万元级，上半年具身智能融资超 460 亿元，2026年MWC上海展会上，人形机器人进行点球大战，展示具身智能从展示走向商业化的进程。行业融资超460亿元，单价降至万元级，产业拐点将至。
+10、都在说缺算力，90% 的 AI 芯片却被「浪费」了？，属于 AI 基础设施和算力成本相关信号。
 
 ## 原始链接
-1. 百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品（AIbase） - https://www.aibase.com/news/29205
-2. 钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段（AIbase） - https://www.aibase.com/news/29204
-3. OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子（AIbase） - https://www.aibase.com/news/29198
-4. AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜（AIbase） - https://www.aibase.com/news/29203
-5. Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini（AIbase） - https://www.aibase.com/news/29192
-6. 法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化（AIbase） - https://www.aibase.com/news/29193
-7. 5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源（AIbase） - https://www.aibase.com/news/29200
-8. 扩产受限需求高涨，AI存储紧缺周期或将延续至明年末（AIbase） - https://www.aibase.com/news/29199
-9. 美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力（AIbase） - https://www.aibase.com/news/29201
-10. 跨模型和任务评估 GitHub Copilot 代理工具的性能和效率（GitHub AI & ML） - https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks
+1. AI 账单失控后 DeepSeek 成"香饽饽"，部分美国企业已 100% 切换（IT之家（RSS）） - https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi
+2. "Raise Us"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击（The Decoder） - https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8
+3. 阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色（IT之家（RSS）） - https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17
+4. 数学领域的人工智能正引发重大问题（spectrum.ieee.org） - https://spectrum.ieee.org/ai-in-mathematics
+5. 美国允许 Anthropic 向“值得信赖”的美国组织发布 Mythos AI（hackernews） - https://news.ycombinator.com/item?id=48692995
+6. DeepSeek 开源推理优化，生成速度提高 60–85% [pdf]（hackernews） - https://news.ycombinator.com/item?id=48696585
+7. DeepSeek 开始造富（Readhub · AI） - https://www.huxiu.com/article/4870918.html?f=rss
+8. Fission-AI / OpenSpec（github） - https://github.com/Fission-AI/OpenSpec
+9. 人形机器人降至万元级，上半年具身智能融资超 460 亿元（Readhub · AI） - https://www.huxiu.com/article/4870890.html?f=rss
+10. 都在说缺算力，90% 的 AI 芯片却被「浪费」了？（Readhub · AI） - https://www.huxiu.com/article/4870895.html?f=rss
