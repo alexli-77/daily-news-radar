@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-28T18:23:29.853529Z",
+  "generated_at": "2026-06-28T18:51:51.290940Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0423-546d-b43e-feb4de6dd70f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260629-0423-546d-b43e-feb4de6dd70f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0452-17c3-a5d7-dc9a204f2e9b&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260629-0452-17c3-a5d7-dc9a204f2e9b&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5ccac7f678153712599e32aa70faf44d159fa0aa",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0452-17c3-a5d7-dc9a204f2e9b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "fb1819b3352f71dded25f5fad069456719a8eb85",
           "title": "点击这里进入 / Click here to enter",
@@ -258,15 +267,6 @@
           "id": "b6f7c243e608198e2f2897d5b3cfc0b9c0c9ce42",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0452-50f6-abe4-9a9fd54c4dc9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "865936849cb41a8121204e70846abbbd2ee97986",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0423-56ed-8b7d-f034424d92bd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -279,6 +279,15 @@
       ],
       "items": [
         {
+          "id": "5ccac7f678153712599e32aa70faf44d159fa0aa",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0452-17c3-a5d7-dc9a204f2e9b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "fb1819b3352f71dded25f5fad069456719a8eb85",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0423-546d-b43e-feb4de6dd70f&fp=-3",
@@ -525,15 +534,6 @@
           "id": "b6f7c243e608198e2f2897d5b3cfc0b9c0c9ce42",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0452-50f6-abe4-9a9fd54c4dc9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "865936849cb41a8121204e70846abbbd2ee97986",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0423-56ed-8b7d-f034424d92bd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -558,12 +558,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-27T18:23:30.863442Z",
-      "latest_at": "2026-06-28T18:23:29.853529Z",
+      "earliest_at": "2026-06-27T18:52:24.509845Z",
+      "latest_at": "2026-06-28T18:51:51.290940Z",
       "primary_item": {
-        "id": "fb1819b3352f71dded25f5fad069456719a8eb85",
+        "id": "5ccac7f678153712599e32aa70faf44d159fa0aa",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0423-546d-b43e-feb4de6dd70f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0452-17c3-a5d7-dc9a204f2e9b&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -603,14 +603,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8065,
+      "importance": 0.8065,
+      "importance_score": 0.8065,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9923,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,14 +663,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9442,
+        "recency": 0.9245,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -723,14 +723,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9413,
+        "recency": 0.9216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -783,14 +783,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6851,
+        "recency": 0.6654,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -842,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6616,
+        "recency": 0.6419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -867,62 +867,100 @@
       }
     },
     {
-      "story_id": "story_9c7fd1a6733a",
-      "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-      "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-      "primary_url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_064435cfcb3b",
+      "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "primary_url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "source": "antoine.fi",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
-          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-          "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T07:44:41Z"
+          "id": "eaede1cf4eee0f8cd6196307e703903afe4953f8",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "antoine.fi",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T18:35:07.707000Z"
+        },
+        {
+          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
+          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://news.ycombinator.com/item?id=48708941",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T16:58:27.474000Z"
+        },
+        {
+          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T16:35:19Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "Hacker News",
+        "antoine.fi",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
-          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-          "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T07:44:41Z"
+          "id": "eaede1cf4eee0f8cd6196307e703903afe4953f8",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "antoine.fi",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T18:35:07.707000Z"
+        },
+        {
+          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
+          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://news.ycombinator.com/item?id=48708941",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T16:58:27.474000Z"
+        },
+        {
+          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T16:35:19Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5707,
+      "importance": 0.5707,
+      "importance_score": 0.5707,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5564,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9884,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-28T07:44:41Z",
-      "latest_at": "2026-06-28T07:44:41Z",
+      "earliest_at": "2026-06-28T16:35:19Z",
+      "latest_at": "2026-06-28T18:35:07.707000Z",
       "primary_item": {
-        "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
-        "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-        "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "eaede1cf4eee0f8cd6196307e703903afe4953f8",
+        "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "source": "antoine.fi",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -998,14 +1036,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5635,
-      "importance": 0.5635,
-      "importance_score": 0.5635,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9523,
+        "recency": 0.9326,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1095,14 +1133,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
+      "score": 0.5573,
+      "importance": 0.5573,
+      "importance_score": 0.5573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9413,
+        "recency": 0.9216,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1173,14 +1211,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9635,
+        "recency": 0.9438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1251,14 +1289,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.962,
+        "recency": 0.9423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1329,14 +1367,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9602,
+        "recency": 0.9405,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1406,14 +1444,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9204,
+        "recency": 0.9007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1503,14 +1541,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
+      "score": 0.5529,
+      "importance": 0.5529,
+      "importance_score": 0.5529,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.919,
+        "recency": 0.8994,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1581,14 +1619,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8638,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1658,14 +1696,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8337,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1736,14 +1774,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8301,
+        "recency": 0.8104,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1813,14 +1851,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5118,
-      "importance": 0.5118,
-      "importance_score": 0.5118,
+      "score": 0.5079,
+      "importance": 0.5079,
+      "importance_score": 0.5079,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8191,
+        "recency": 0.7994,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1891,14 +1929,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5078,
-      "importance": 0.5078,
-      "importance_score": 0.5078,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7991,
+        "recency": 0.7794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1916,81 +1954,81 @@
       }
     },
     {
-      "story_id": "story_064435cfcb3b",
-      "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-      "url": "https://news.ycombinator.com/item?id=48708941",
-      "primary_url": "https://news.ycombinator.com/item?id=48708941",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_42f0775e82d8",
+      "title": "澳大利亚 Firmus Technologies 与英伟达达成人工智能合作协议",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
+      "primary_url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
-          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-          "url": "https://news.ycombinator.com/item?id=48708941",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T16:58:27.474000Z"
+          "id": "dca4a1c7b0c6a0d873f079f3f6cb07f39709f052",
+          "title": "澳大利亚 Firmus Technologies 与英伟达达成人工智能合作协议",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
-          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T16:35:19Z"
+          "id": "fc40ee687942c7826d02f317bd846a4568f7a70d",
+          "title": "澳大利亚Firmus Technologies公司与英伟达达成人工智能合作协议",
+          "url": "https://www.reuters.com/world/asia-pacific/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia-2026-06-28",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T14:18:49.079000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Readhub · AI",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
-          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-          "url": "https://news.ycombinator.com/item?id=48708941",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T16:58:27.474000Z"
+          "id": "dca4a1c7b0c6a0d873f079f3f6cb07f39709f052",
+          "title": "澳大利亚 Firmus Technologies 与英伟达达成人工智能合作协议",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
-          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T16:35:19Z"
+          "id": "fc40ee687942c7826d02f317bd846a4568f7a70d",
+          "title": "澳大利亚Firmus Technologies公司与英伟达达成人工智能合作协议",
+          "url": "https://www.reuters.com/world/asia-pacific/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia-2026-06-28",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T14:18:49.079000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9409,
+        "recency": 0.8583,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-28T16:35:19Z",
-      "latest_at": "2026-06-28T16:58:27.474000Z",
+      "earliest_at": "2026-06-28T14:18:49.079000Z",
+      "latest_at": "2026-06-28T15:27:50.774549Z",
       "primary_item": {
-        "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
-        "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
-        "url": "https://news.ycombinator.com/item?id=48708941",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "dca4a1c7b0c6a0d873f079f3f6cb07f39709f052",
+        "title": "澳大利亚 Firmus Technologies 与英伟达达成人工智能合作协议",
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-inieyriq2746741.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
