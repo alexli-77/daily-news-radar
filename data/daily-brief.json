@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T23:47:55.829822Z",
+  "generated_at": "2026-06-28T00:34:07.941102Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0948-20a1-9519-c9a6ee49f8de&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0948-20a1-9519-c9a6ee49f8de&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-1034-323d-8615-9452993fe157&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-1034-323d-8615-9452993fe157&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "db91a6f28058e9c8e5f498d1bed8b7b2003ec15b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-1034-323d-8615-9452993fe157&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "d17336087d11a733164c5e8aebf06f840383b581",
           "title": "点击这里进入 / Click here to enter",
@@ -285,15 +294,6 @@
           "id": "9dcb7f6ee184eef4c4e297c84ae9d1e972b40228",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1035-07c2-a04f-67f62960f72b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7999c4afaa5dc3502e8821cc5a0eb4769c1b7372",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0949-568d-a3fb-d7109ca8e7f6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,6 +306,15 @@
       ],
       "items": [
         {
+          "id": "db91a6f28058e9c8e5f498d1bed8b7b2003ec15b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-1034-323d-8615-9452993fe157&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "d17336087d11a733164c5e8aebf06f840383b581",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0948-20a1-9519-c9a6ee49f8de&fp=-3",
@@ -579,15 +588,6 @@
           "id": "9dcb7f6ee184eef4c4e297c84ae9d1e972b40228",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1035-07c2-a04f-67f62960f72b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7999c4afaa5dc3502e8821cc5a0eb4769c1b7372",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0949-568d-a3fb-d7109ca8e7f6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -612,12 +612,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T23:49:29.205406Z",
-      "latest_at": "2026-06-27T23:47:55.829822Z",
+      "earliest_at": "2026-06-27T00:34:42.883299Z",
+      "latest_at": "2026-06-28T00:34:07.941102Z",
       "primary_item": {
-        "id": "d17336087d11a733164c5e8aebf06f840383b581",
+        "id": "db91a6f28058e9c8e5f498d1bed8b7b2003ec15b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0948-20a1-9519-c9a6ee49f8de&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-1034-323d-8615-9452993fe157&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -657,14 +657,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8774,
+        "recency": 0.8453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -717,20 +717,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7207,
+        "recency": 0.6887,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-27T17:05:48Z",
       "latest_at": "2026-06-27T17:05:48Z",
@@ -777,20 +776,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7167,
+        "recency": 0.6846,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-27T16:59:58Z",
       "latest_at": "2026-06-27T16:59:58Z",
@@ -837,14 +835,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6611,
+        "recency": 0.629,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,14 +932,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3529,
+        "recency": 0.3208,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -956,65 +954,6 @@
         "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
         "url": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_803668c7791b",
-      "title": "Runway API 推出广告本地化 Recipe",
-      "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-      "primary_url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5cbe948822e0c30093f97e5d36ba484a9bbd3b19",
-          "title": "Runway API 推出广告本地化 Recipe",
-          "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T13:02:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "5cbe948822e0c30093f97e5d36ba484a9bbd3b19",
-          "title": "Runway API 推出广告本地化 Recipe",
-          "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T13:02:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5514,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-27T13:02:00Z",
-      "latest_at": "2026-06-27T13:02:00Z",
-      "primary_item": {
-        "id": "5cbe948822e0c30093f97e5d36ba484a9bbd3b19",
-        "title": "Runway API 推出广告本地化 Recipe",
-        "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -1072,14 +1011,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6691,
-      "importance": 0.6691,
-      "importance_score": 0.6691,
+      "score": 0.6627,
+      "importance": 0.6627,
+      "importance_score": 0.6627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1605,
+        "recency": 0.1284,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1094,103 +1033,6 @@
         "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
         "url": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8c1519803ca8",
-      "title": "美国允许Anthropic向\"可信合作伙伴\"发布Mythos 5模型",
-      "url": "https://aihot.virxact.com/items/cmqvmlpxh0edhsl806wmhc2d0",
-      "primary_url": "https://aihot.virxact.com/items/cmqvmlpxh0edhsl806wmhc2d0",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27e360f1be9474900889aae1fb4deb0143449d0a",
-          "title": "美国允许Anthropic向\"可信合作伙伴\"发布Mythos 5模型",
-          "url": "https://aihot.virxact.com/items/cmqvmlpxh0edhsl806wmhc2d0",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T00:11:58Z"
-        },
-        {
-          "id": "dd45309d419eea6f6d84e242694e96e5e019c1ef",
-          "title": "美国允许Anthropic向“可信”的美国组织发布Mythos AI",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T02:04:00.943000Z"
-        },
-        {
-          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
-          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:11:58.551000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "27e360f1be9474900889aae1fb4deb0143449d0a",
-          "title": "美国允许Anthropic向\"可信合作伙伴\"发布Mythos 5模型",
-          "url": "https://aihot.virxact.com/items/cmqvmlpxh0edhsl806wmhc2d0",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T00:11:58Z"
-        },
-        {
-          "id": "dd45309d419eea6f6d84e242694e96e5e019c1ef",
-          "title": "美国允许Anthropic向“可信”的美国组织发布Mythos AI",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T02:04:00.943000Z"
-        },
-        {
-          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
-          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:11:58.551000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6653,
-      "importance": 0.6653,
-      "importance_score": 0.6653,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0167,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-27T00:11:58Z",
-      "latest_at": "2026-06-27T02:04:00.943000Z",
-      "primary_item": {
-        "id": "27e360f1be9474900889aae1fb4deb0143449d0a",
-        "title": "美国允许Anthropic向\"可信合作伙伴\"发布Mythos 5模型",
-        "url": "https://aihot.virxact.com/items/cmqvmlpxh0edhsl806wmhc2d0",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1267,14 +1109,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5631,
+      "importance": 0.5631,
+      "importance_score": 0.5631,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9828,
+        "recency": 0.9507,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1289,6 +1131,181 @@
         "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
         "source": "techcrunch.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8a8c4233764e",
+      "title": "中国 AI 权力榜，梁文锋百度阿里腾讯华为们正在卡向这七个位置",
+      "url": "https://www.huxiu.com/article/4870958.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870958.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "bb31e42e2b15079ef8753412f72835587da38b64",
+          "title": "中国 AI 权力榜，梁文锋百度阿里腾讯华为们正在卡向这七个位置",
+          "url": "https://www.huxiu.com/article/4870958.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d2ea052ecf979e1f08fbf9234489e780b781f51e",
+          "title": "中国AI权力榜，梁文锋百度阿里腾讯华为们正在卡向这七个位置",
+          "url": "https://www.huxiu.com/article/4870958.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T23:38:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "bb31e42e2b15079ef8753412f72835587da38b64",
+          "title": "中国 AI 权力榜，梁文锋百度阿里腾讯华为们正在卡向这七个位置",
+          "url": "https://www.huxiu.com/article/4870958.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d2ea052ecf979e1f08fbf9234489e780b781f51e",
+          "title": "中国AI权力榜，梁文锋百度阿里腾讯华为们正在卡向这七个位置",
+          "url": "https://www.huxiu.com/article/4870958.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T23:38:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T23:38:05Z",
+      "latest_at": "2026-06-28T00:34:07.941102Z",
+      "primary_item": {
+        "id": "bb31e42e2b15079ef8753412f72835587da38b64",
+        "title": "中国 AI 权力榜，梁文锋百度阿里腾讯华为们正在卡向这七个位置",
+        "url": "https://www.huxiu.com/article/4870958.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "如果一个人练习射击一百万次会怎样？射门 90172，足球进展 [视频] / What If a Man Practised Shooting a Million Times? Shot 90172, Football Progress [video]",
+      "url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+      "primary_url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "68dfab153bf443fffcd461656a5df7a65238b01b",
+          "title": "如果一个人练习射击一百万次会怎样？射门 90172，足球进展 [视频] / What If a Man Practised Shooting a Million Times? Shot 90172, Football Progress [video]",
+          "url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T20:29:53Z"
+        },
+        {
+          "id": "506e569ccd2109289d0105596a8b8bbefd5a3c9a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T09:31:56.215000Z"
+        },
+        {
+          "id": "f07679b53b908eedd31a61be7985b8e2eb29f80a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题 / \"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:17:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "68dfab153bf443fffcd461656a5df7a65238b01b",
+          "title": "如果一个人练习射击一百万次会怎样？射门 90172，足球进展 [视频] / What If a Man Practised Shooting a Million Times? Shot 90172, Football Progress [video]",
+          "url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T20:29:53Z"
+        },
+        {
+          "id": "506e569ccd2109289d0105596a8b8bbefd5a3c9a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T09:31:56.215000Z"
+        },
+        {
+          "id": "f07679b53b908eedd31a61be7985b8e2eb29f80a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题 / \"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:17:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8304,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T09:17:42Z",
+      "latest_at": "2026-06-27T20:29:53Z",
+      "primary_item": {
+        "id": "68dfab153bf443fffcd461656a5df7a65238b01b",
+        "title": "如果一个人练习射击一百万次会怎样？射门 90172，足球进展 [视频] / What If a Man Practised Shooting a Million Times? Shot 90172, Football Progress [video]",
+        "url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1344,14 +1361,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8901,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1422,14 +1439,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5025,
-      "importance": 0.5025,
-      "importance_score": 0.5025,
+      "score": 0.496,
+      "importance": 0.496,
+      "importance_score": 0.496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7723,
+        "recency": 0.7402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1444,84 +1461,6 @@
         "url": "https://spectrum.ieee.org/ai-radio-chip-design",
         "source": "spectrum.ieee.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3d3110b16cbb",
-      "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
-      "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870954.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
-          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
-          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
-          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
-          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T16:28:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
-          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
-          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
-          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
-          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T16:28:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7333,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T16:28:07Z",
-      "latest_at": "2026-06-27T17:23:56.873835Z",
-      "primary_item": {
-        "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
-        "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
-        "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1578,14 +1517,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4802,
-      "importance": 0.4802,
-      "importance_score": 0.4802,
+      "score": 0.4738,
+      "importance": 0.4738,
+      "importance_score": 0.4738,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6612,
+        "recency": 0.6291,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1656,14 +1595,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4758,
-      "importance": 0.4758,
-      "importance_score": 0.4758,
+      "score": 0.4694,
+      "importance": 0.4694,
+      "importance_score": 0.4694,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6389,
+        "recency": 0.6068,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1681,107 +1620,30 @@
       }
     },
     {
-      "story_id": "story_525c27ccf30b",
-      "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
-      "primary_url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "383fcdedebd4d5cf723275e0f553e4660dc5a6ce",
-          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T14:38:05Z"
-        },
-        {
-          "id": "60e45658ccf1a0cd17171d1b55159c5a9fb9c99f",
-          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's war on whistleblowers",
-          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T14:38:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "383fcdedebd4d5cf723275e0f553e4660dc5a6ce",
-          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T14:38:05Z"
-        },
-        {
-          "id": "60e45658ccf1a0cd17171d1b55159c5a9fb9c99f",
-          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's war on whistleblowers",
-          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T14:38:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4716,
-      "importance": 0.4716,
-      "importance_score": 0.4716,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6182,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T14:38:05Z",
-      "latest_at": "2026-06-27T14:38:05Z",
-      "primary_item": {
-        "id": "383fcdedebd4d5cf723275e0f553e4660dc5a6ce",
-        "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-        "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_6a7998f56b03",
-      "title": "白嫖 AI 的日子，彻底结束了",
-      "url": "https://www.huxiu.com/article/4870953.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870953.html?f=rss",
+      "story_id": "story_3d3110b16cbb",
+      "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+      "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870954.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
-          "title": "白嫖 AI 的日子，彻底结束了",
-          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "4f2e90925000001a6068474fdb78500a65786012",
-          "title": "白嫖AI的日子，彻底结束了",
-          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
+          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T16:14:41Z"
+          "published_at": "2026-06-27T16:28:07Z"
         }
       ],
       "source_count": 2,
@@ -1791,46 +1653,46 @@
       ],
       "items": [
         {
-          "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
-          "title": "白嫖 AI 的日子，彻底结束了",
-          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "4f2e90925000001a6068474fdb78500a65786012",
-          "title": "白嫖AI的日子，彻底结束了",
-          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
+          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T16:14:41Z"
+          "published_at": "2026-06-27T16:28:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4899,
-      "importance": 0.4899,
-      "importance_score": 0.4899,
+      "score": 0.4883,
+      "importance": 0.4883,
+      "importance_score": 0.4883,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7097,
+        "recency": 0.7013,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T16:14:41Z",
-      "latest_at": "2026-06-27T16:49:57.771410Z",
+      "earliest_at": "2026-06-27T16:28:07Z",
+      "latest_at": "2026-06-27T17:23:56.873835Z",
       "primary_item": {
-        "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
-        "title": "白嫖 AI 的日子，彻底结束了",
-        "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+        "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+        "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+        "url": "https://www.huxiu.com/article/4870954.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1889,14 +1751,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.45,
-      "importance": 0.45,
-      "importance_score": 0.45,
+      "score": 0.4436,
+      "importance": 0.4436,
+      "importance_score": 0.4436,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5102,
+        "recency": 0.4782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1911,6 +1773,83 @@
         "url": "https://github.com/Anil-matcha/Open-Generative-AI",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_525c27ccf30b",
+      "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+      "primary_url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "383fcdedebd4d5cf723275e0f553e4660dc5a6ce",
+          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T14:38:05Z"
+        },
+        {
+          "id": "60e45658ccf1a0cd17171d1b55159c5a9fb9c99f",
+          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's war on whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T14:38:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "383fcdedebd4d5cf723275e0f553e4660dc5a6ce",
+          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T14:38:05Z"
+        },
+        {
+          "id": "60e45658ccf1a0cd17171d1b55159c5a9fb9c99f",
+          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's war on whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T14:38:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4652,
+      "importance": 0.4652,
+      "importance_score": 0.4652,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5861,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T14:38:05Z",
+      "latest_at": "2026-06-27T14:38:05Z",
+      "primary_item": {
+        "id": "383fcdedebd4d5cf723275e0f553e4660dc5a6ce",
+        "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+        "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1966,14 +1905,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4625,
-      "importance": 0.4625,
-      "importance_score": 0.4625,
+      "score": 0.4561,
+      "importance": 0.4561,
+      "importance_score": 0.4561,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5724,
+        "recency": 0.5404,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1991,80 +1930,177 @@
       }
     },
     {
-      "story_id": "story_2de2d1d791f8",
-      "title": "可疑的不连续性 / Suspicious Discontinuities",
-      "url": "https://danluu.com/discontinuities",
-      "primary_url": "https://danluu.com/discontinuities",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_42658ae9e5a8",
+      "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "primary_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2b628386ab4e913216e3538f8ff19ebcfc5ef70f",
-          "title": "可疑的不连续性 / Suspicious Discontinuities",
-          "url": "https://danluu.com/discontinuities",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T13:32:20Z"
+          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:19:53.844000Z"
         },
         {
-          "id": "4da7457422ceac3ec37f61e993b74e0772918059",
-          "title": "可疑的不连续性 / Suspicious Discontinuities (2020)",
-          "url": "https://danluu.com/discontinuities",
+          "id": "6bec3c0adfd0daa4ecf03f6687b322ae4d4cc6df",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-06-27T13:32:20Z"
+          "published_at": "2026-06-27T09:18:52Z"
+        },
+        {
+          "id": "e98297a754737fb90175d27eef8575e462557009",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:18:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:19:53.844000Z"
+        },
+        {
+          "id": "6bec3c0adfd0daa4ecf03f6687b322ae4d4cc6df",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T09:18:52Z"
+        },
+        {
+          "id": "e98297a754737fb90175d27eef8575e462557009",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:18:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4544,
+      "importance": 0.4544,
+      "importance_score": 0.4544,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4068,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T09:18:52Z",
+      "latest_at": "2026-06-27T10:19:53.844000Z",
+      "primary_item": {
+        "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
+        "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d57c54f8f9fe",
+      "title": "[OpenAI] GPT5.6 到底发布了没？",
+      "url": "https://www.v2ex.com/t/1223326",
+      "primary_url": "https://www.v2ex.com/t/1223326",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "91e81b401254fca9c42157af73797b46876e1b66",
+          "title": "[OpenAI] GPT5.6 到底发布了没？",
+          "url": "https://www.v2ex.com/t/1223326",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:39:12Z"
+        },
+        {
+          "id": "bd403034118727514c8dbaffce641ebeb9e2504c",
+          "title": "[程序员] GPT5.6 到底发布了没？",
+          "url": "https://www.v2ex.com/t/1223326",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:39:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "2b628386ab4e913216e3538f8ff19ebcfc5ef70f",
-          "title": "可疑的不连续性 / Suspicious Discontinuities",
-          "url": "https://danluu.com/discontinuities",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T13:32:20Z"
+          "id": "91e81b401254fca9c42157af73797b46876e1b66",
+          "title": "[OpenAI] GPT5.6 到底发布了没？",
+          "url": "https://www.v2ex.com/t/1223326",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:39:12Z"
         },
         {
-          "id": "4da7457422ceac3ec37f61e993b74e0772918059",
-          "title": "可疑的不连续性 / Suspicious Discontinuities (2020)",
-          "url": "https://danluu.com/discontinuities",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T13:32:20Z"
+          "id": "bd403034118727514c8dbaffce641ebeb9e2504c",
+          "title": "[程序员] GPT5.6 到底发布了没？",
+          "url": "https://www.v2ex.com/t/1223326",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:39:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4625,
-      "importance": 0.4625,
-      "importance_score": 0.4625,
+      "score": 0.4237,
+      "importance": 0.4237,
+      "importance_score": 0.4237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5725,
+        "recency": 0.3785,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T13:32:20Z",
-      "latest_at": "2026-06-27T13:32:20Z",
+      "earliest_at": "2026-06-27T09:39:12Z",
+      "latest_at": "2026-06-27T09:39:12Z",
       "primary_item": {
-        "id": "2b628386ab4e913216e3538f8ff19ebcfc5ef70f",
-        "title": "可疑的不连续性 / Suspicious Discontinuities",
-        "url": "https://danluu.com/discontinuities",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "91e81b401254fca9c42157af73797b46876e1b66",
+        "title": "[OpenAI] GPT5.6 到底发布了没？",
+        "url": "https://www.v2ex.com/t/1223326",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
