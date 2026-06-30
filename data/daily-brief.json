@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-30T03:04:46.319809Z",
+  "generated_at": "2026-06-30T04:51:58.950668Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1305-19f2-80cf-175519db8b8c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260630-1305-19f2-80cf-175519db8b8c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1452-248d-8fd2-3aa940391cac&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260630-1452-248d-8fd2-3aa940391cac&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d99ff3b549f44591c3b56a313dab78b2f9bb5798",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1452-248d-8fd2-3aa940391cac&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a917a4e6fb9732ed93e5c7a10e77636d46a181b7",
           "title": "点击这里进入 / Click here to enter",
@@ -186,15 +195,6 @@
           "id": "9ca30cc0d7afe1c3f54e885ad97c24a23fc9b8a9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1505-0819-a0dd-efe3db8d6cea&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5d537d00be50e0924e542a7291555fe0bb0f6bf6",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1306-361e-afc8-a6a6307e5102&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -207,6 +207,15 @@
       ],
       "items": [
         {
+          "id": "d99ff3b549f44591c3b56a313dab78b2f9bb5798",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1452-248d-8fd2-3aa940391cac&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a917a4e6fb9732ed93e5c7a10e77636d46a181b7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1305-19f2-80cf-175519db8b8c&fp=-3",
@@ -381,15 +390,6 @@
           "id": "9ca30cc0d7afe1c3f54e885ad97c24a23fc9b8a9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1505-0819-a0dd-efe3db8d6cea&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5d537d00be50e0924e542a7291555fe0bb0f6bf6",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1306-361e-afc8-a6a6307e5102&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -414,12 +414,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T03:06:03.075309Z",
-      "latest_at": "2026-06-30T03:04:46.319809Z",
+      "earliest_at": "2026-06-29T05:04:41.586146Z",
+      "latest_at": "2026-06-30T04:51:58.950668Z",
       "primary_item": {
-        "id": "a917a4e6fb9732ed93e5c7a10e77636d46a181b7",
+        "id": "d99ff3b549f44591c3b56a313dab78b2f9bb5798",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1305-19f2-80cf-175519db8b8c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1452-248d-8fd2-3aa940391cac&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -478,14 +478,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9255,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -502,6 +502,126 @@
         "url": "https://www.aibase.com/news/29255",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1a05c41933dd",
+      "title": "AI就业争论变得更加混乱",
+      "url": "https://aihot.virxact.com/items/cmr05b2wq0414slkivvyyjlbl",
+      "primary_url": "https://aihot.virxact.com/items/cmr05b2wq0414slkivvyyjlbl",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c925de35decf7df2997a1b83ee0cbbbb0158c183",
+          "title": "AI就业争论变得更加混乱",
+          "url": "https://aihot.virxact.com/items/cmr05b2wq0414slkivvyyjlbl",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T04:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c925de35decf7df2997a1b83ee0cbbbb0158c183",
+          "title": "AI就业争论变得更加混乱",
+          "url": "https://aihot.virxact.com/items/cmr05b2wq0414slkivvyyjlbl",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T04:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9646,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T04:01:00Z",
+      "latest_at": "2026-06-30T04:01:00Z",
+      "primary_item": {
+        "id": "c925de35decf7df2997a1b83ee0cbbbb0158c183",
+        "title": "AI就业争论变得更加混乱",
+        "url": "https://aihot.virxact.com/items/cmr05b2wq0414slkivvyyjlbl",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ef41a6f4e13e",
+      "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
+      "url": "https://aihot.virxact.com/items/cmr03h5tq03jjslki3a281zet",
+      "primary_url": "https://aihot.virxact.com/items/cmr03h5tq03jjslki3a281zet",
+      "source": "X：小互 (@xiaohu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3f1eadb86d60b1d328aba879e682cf398122cc04",
+          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
+          "url": "https://aihot.virxact.com/items/cmr03h5tq03jjslki3a281zet",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T03:23:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小互 (@xiaohu)"
+      ],
+      "items": [
+        {
+          "id": "3f1eadb86d60b1d328aba879e682cf398122cc04",
+          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
+          "url": "https://aihot.virxact.com/items/cmr03h5tq03jjslki3a281zet",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T03:23:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9385,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T03:23:23Z",
+      "latest_at": "2026-06-30T03:23:23Z",
+      "primary_item": {
+        "id": "3f1eadb86d60b1d328aba879e682cf398122cc04",
+        "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
+        "url": "https://aihot.virxact.com/items/cmr03h5tq03jjslki3a281zet",
+        "source": "X：小互 (@xiaohu)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -558,14 +678,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9255,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -619,14 +739,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9536,
+        "recency": 0.8792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -679,14 +799,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.946,
+        "recency": 0.8715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -739,14 +859,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5712,
+        "recency": 0.4967,
         "story_heat": 0.0
       },
       "category": "official",
@@ -800,14 +920,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5384,
+        "recency": 0.4639,
         "story_heat": 0.0
       },
       "category": "official",
@@ -827,81 +947,61 @@
       }
     },
     {
-      "story_id": "story_b7abc0f829a9",
-      "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-      "url": "https://www.aibase.com/news/29240",
-      "primary_url": "https://www.aibase.com/news/29240",
+      "story_id": "story_e80d39790202",
+      "title": "告别“长文本焦虑”：小红书 RedKnot 推理引擎开源，长上下文处理效率翻倍",
+      "url": "https://www.aibase.com/news/29262",
+      "primary_url": "https://www.aibase.com/news/29262",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "77517201b056f92ebf014910ed17b392a7b0c9a7",
-          "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.aibase.com/news/29240",
+          "id": "83b2188b3d7ee64deb9d43a06d82aff384a999ae",
+          "title": "告别“长文本焦虑”：小红书 RedKnot 推理引擎开源，长上下文处理效率翻倍",
+          "url": "https://www.aibase.com/news/29262",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T01:40:05.766652Z"
-        },
-        {
-          "id": "743b40d1b23690f8254304a9a9e38ba280b536f6",
-          "title": "即日起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.ithome.com/0/970/251.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-06-30T04:51:58.950668Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "77517201b056f92ebf014910ed17b392a7b0c9a7",
-          "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.aibase.com/news/29240",
+          "id": "83b2188b3d7ee64deb9d43a06d82aff384a999ae",
+          "title": "告别“长文本焦虑”：小红书 RedKnot 推理引擎开源，长上下文处理效率翻倍",
+          "url": "https://www.aibase.com/news/29262",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T01:40:05.766652Z"
-        },
-        {
-          "id": "743b40d1b23690f8254304a9a9e38ba280b536f6",
-          "title": "即日起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.ithome.com/0/970/251.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-06-30T04:51:58.950668Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T00:34:39.017111Z",
-      "latest_at": "2026-06-30T01:40:05.766652Z",
+      "earliest_at": "2026-06-30T04:51:58.950668Z",
+      "latest_at": "2026-06-30T04:51:58.950668Z",
       "primary_item": {
-        "id": "77517201b056f92ebf014910ed17b392a7b0c9a7",
-        "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-        "url": "https://www.aibase.com/news/29240",
+        "id": "83b2188b3d7ee64deb9d43a06d82aff384a999ae",
+        "title": "告别“长文本焦虑”：小红书 RedKnot 推理引擎开源，长上下文处理效率翻倍",
+        "url": "https://www.aibase.com/news/29262",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -941,20 +1041,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7623,
+        "recency": 0.6879,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T21:22:33Z",
       "latest_at": "2026-06-29T21:22:33Z",
@@ -1001,20 +1100,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7514,
+        "recency": 0.6769,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T21:06:43Z",
       "latest_at": "2026-06-29T21:06:43Z",
@@ -1061,20 +1159,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7472,
+        "recency": 0.6728,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T21:00:47Z",
       "latest_at": "2026-06-29T21:00:47Z",
@@ -1121,20 +1218,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.713,
+        "recency": 0.6386,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T20:11:33Z",
       "latest_at": "2026-06-29T20:11:33Z",
@@ -1181,14 +1277,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5442,
+        "recency": 0.4697,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1205,6 +1301,66 @@
         "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ab7c73aef8eb",
+      "title": "微软加码 AI 算力：Azure 全面引入 Anthropic Claude 模型，搭载英伟达 GB300 架构",
+      "url": "https://www.aibase.com/news/29264",
+      "primary_url": "https://www.aibase.com/news/29264",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b5ff46499538745f69d4f8a050c6c300b0b9e2c3",
+          "title": "微软加码 AI 算力：Azure 全面引入 Anthropic Claude 模型，搭载英伟达 GB300 架构",
+          "url": "https://www.aibase.com/news/29264",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T04:51:58.950668Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b5ff46499538745f69d4f8a050c6c300b0b9e2c3",
+          "title": "微软加码 AI 算力：Azure 全面引入 Anthropic Claude 模型，搭载英伟达 GB300 架构",
+          "url": "https://www.aibase.com/news/29264",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T04:51:58.950668Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T04:51:58.950668Z",
+      "latest_at": "2026-06-30T04:51:58.950668Z",
+      "primary_item": {
+        "id": "b5ff46499538745f69d4f8a050c6c300b0b9e2c3",
+        "title": "微软加码 AI 算力：Azure 全面引入 Anthropic Claude 模型，搭载英伟达 GB300 架构",
+        "url": "https://www.aibase.com/news/29264",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1242,14 +1398,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6238,
+        "recency": 0.5493,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1264,66 +1420,6 @@
         "url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_557d0e475992",
-      "title": "AI撞墙期？美名校毕业生投 8000 份简历空手而归",
-      "url": "https://www.aibase.com/news/29260",
-      "primary_url": "https://www.aibase.com/news/29260",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9755e6518f57f0beda2faf4b3e8add03faa5ce06",
-          "title": "AI撞墙期？美名校毕业生投 8000 份简历空手而归",
-          "url": "https://www.aibase.com/news/29260",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T03:04:46.319809Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9755e6518f57f0beda2faf4b3e8add03faa5ce06",
-          "title": "AI撞墙期？美名校毕业生投 8000 份简历空手而归",
-          "url": "https://www.aibase.com/news/29260",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T03:04:46.319809Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T03:04:46.319809Z",
-      "latest_at": "2026-06-30T03:04:46.319809Z",
-      "primary_item": {
-        "id": "9755e6518f57f0beda2faf4b3e8add03faa5ce06",
-        "title": "AI撞墙期？美名校毕业生投 8000 份简历空手而归",
-        "url": "https://www.aibase.com/news/29260",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1418,14 +1514,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7175,
-      "importance": 0.7175,
-      "importance_score": 0.7175,
+      "score": 0.7026,
+      "importance": 0.7026,
+      "importance_score": 0.7026,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1524,
+        "recency": 0.078,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1478,14 +1574,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7245,
+      "importance": 0.7245,
+      "importance_score": 0.7245,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6372,
+        "recency": 0.5627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1503,21 +1599,21 @@
       }
     },
     {
-      "story_id": "story_b70a7b77431b",
-      "title": "OpenAI 进军硬件圈：携手 Work Louder 打造 Codex 专用快捷控制台",
-      "url": "https://www.aibase.com/news/29256",
-      "primary_url": "https://www.aibase.com/news/29256",
+      "story_id": "story_cd8fd0bbda82",
+      "title": "最近那些爆火的AI短剧，原来都是这么做的...",
+      "url": "https://www.aibase.com/news/29263",
+      "primary_url": "https://www.aibase.com/news/29263",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9d9cfe7027557534ddf974c7a29179710191b35a",
-          "title": "OpenAI 进军硬件圈：携手 Work Louder 打造 Codex 专用快捷控制台",
-          "url": "https://www.aibase.com/news/29256",
+          "id": "19f032d9ff73ecfd686774909a2dc7041f121ad2",
+          "title": "最近那些爆火的AI短剧，原来都是这么做的...",
+          "url": "https://www.aibase.com/news/29263",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T03:04:46.319809Z"
+          "published_at": "2026-06-30T04:51:58.950668Z"
         }
       ],
       "source_count": 1,
@@ -1526,13 +1622,13 @@
       ],
       "items": [
         {
-          "id": "9d9cfe7027557534ddf974c7a29179710191b35a",
-          "title": "OpenAI 进军硬件圈：携手 Work Louder 打造 Codex 专用快捷控制台",
-          "url": "https://www.aibase.com/news/29256",
+          "id": "19f032d9ff73ecfd686774909a2dc7041f121ad2",
+          "title": "最近那些爆火的AI短剧，原来都是这么做的...",
+          "url": "https://www.aibase.com/news/29263",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T03:04:46.319809Z"
+          "published_at": "2026-06-30T04:51:58.950668Z"
         }
       ],
       "item_count": 1,
@@ -1552,132 +1648,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T03:04:46.319809Z",
-      "latest_at": "2026-06-30T03:04:46.319809Z",
+      "earliest_at": "2026-06-30T04:51:58.950668Z",
+      "latest_at": "2026-06-30T04:51:58.950668Z",
       "primary_item": {
-        "id": "9d9cfe7027557534ddf974c7a29179710191b35a",
-        "title": "OpenAI 进军硬件圈：携手 Work Louder 打造 Codex 专用快捷控制台",
-        "url": "https://www.aibase.com/news/29256",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f9124574c952",
-      "title": "严防隐私泄露！美国拟立法禁止AI公司向数据中间商出售健康数据",
-      "url": "https://www.aibase.com/news/29252",
-      "primary_url": "https://www.aibase.com/news/29252",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1e91ae1a6016f19d193d61f7dd492236808903bc",
-          "title": "严防隐私泄露！美国拟立法禁止AI公司向数据中间商出售健康数据",
-          "url": "https://www.aibase.com/news/29252",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T03:04:46.319809Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1e91ae1a6016f19d193d61f7dd492236808903bc",
-          "title": "严防隐私泄露！美国拟立法禁止AI公司向数据中间商出售健康数据",
-          "url": "https://www.aibase.com/news/29252",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T03:04:46.319809Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T03:04:46.319809Z",
-      "latest_at": "2026-06-30T03:04:46.319809Z",
-      "primary_item": {
-        "id": "1e91ae1a6016f19d193d61f7dd492236808903bc",
-        "title": "严防隐私泄露！美国拟立法禁止AI公司向数据中间商出售健康数据",
-        "url": "https://www.aibase.com/news/29252",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_30061292dc91",
-      "title": "体验再升级！谷歌Gemini个性化AI绘图功能对美国用户免费开放",
-      "url": "https://www.aibase.com/news/29249",
-      "primary_url": "https://www.aibase.com/news/29249",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7412b9ecf51713c1c07ad671d1bf9d352c06a305",
-          "title": "体验再升级！谷歌Gemini个性化AI绘图功能对美国用户免费开放",
-          "url": "https://www.aibase.com/news/29249",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T03:04:46.319809Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7412b9ecf51713c1c07ad671d1bf9d352c06a305",
-          "title": "体验再升级！谷歌Gemini个性化AI绘图功能对美国用户免费开放",
-          "url": "https://www.aibase.com/news/29249",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T03:04:46.319809Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T03:04:46.319809Z",
-      "latest_at": "2026-06-30T03:04:46.319809Z",
-      "primary_item": {
-        "id": "7412b9ecf51713c1c07ad671d1bf9d352c06a305",
-        "title": "体验再升级！谷歌Gemini个性化AI绘图功能对美国用户免费开放",
-        "url": "https://www.aibase.com/news/29249",
+        "id": "19f032d9ff73ecfd686774909a2dc7041f121ad2",
+        "title": "最近那些爆火的AI短剧，原来都是这么做的...",
+        "url": "https://www.aibase.com/news/29263",
         "source": "AIbase",
         "source_name": "AIbase"
       }
