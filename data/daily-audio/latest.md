@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年6月29日人工智能热点分享
-1、SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元，SK 集团会长崔泰源 6 月 29 日宣布，计划到 2035 年建成 15GW AI 数据中心容量，作为韩国国家级基础设施和实体 AI 时代核心底座。
-2、美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标，美军在打击伊朗时首次大规模使用AI选择目标（Anthropic的Claude模型嵌入Palantir的Maven Smart System，首日建议约1000个目标），但对一所学校的导弹袭击导致约120名儿童死亡。
-3、Meta发布Brain2Qwerty v2：非侵入式实时句子解码，Meta公布Brain2Qwerty v2，这是非侵入式脑电信号解码研究的最新里程碑。
-4、模型变小，能力不减，重点是新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路。
-5、六成英国消费者，重点是一次错误就不再信任 AI 购物助手。
-6、太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代，属于 AI 基础设施和算力成本相关信号。
-7、小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速，RedKnot 将 KV Cache 沿注意力头维度拆解，通过头分类稀疏（局部头占 83.4%–96.8%）、稀疏 FFN 和 SegPagedAttention 三个机制统一算法与存储粒度。
-8、EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能，EverMind 推出开源智能体记忆运行时 EverOS（Apache 2.0 许可）。
-9、Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制，安全研究人员在 Mozilla 的 GenAI 漏洞赏金平台 0DIN 发现新攻击向量。
-10、国务院印发《教育发展"十五五"规划》，推进人工智能全学段教育，国务院日前印发《教育发展“十五五”规划》，要求推进人工智能全学段教育，提升学生人工智能素养及提出问题、解决问题的能力。
+2026年6月30日人工智能热点分享
+1、工业智造新突破，重点是全球首个工业跨具身泛化大模型“智合”在沪发布。
+2、平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡。
+3、开启英国的下一个生产力时代，重点是建设一个人工智能开拓者的国家。
+4、Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示，Meta通过承包商Covelen发起代号“Cannes”的项目，雇佣数百人假扮未成年人，向ChatGPT、Gemini和Character.AI发送关于自杀、自残、饮食障碍和毒品的敏感提示，并将回复录入表格。
+5、偷梁换柱！黑客滥用OpenAI邀请功能精准钓鱼企业员工。
+6、商业化路径初显，重点是月之暗面黄震昕详解 Kimi 差异化战略。
+7、联想 ThinkPad P1 AI 2026 正式发布，重点是重塑超便携高性能移动工作站标杆。
+8、算力界的“巨无霸”来了：美团开源万亿参数模型 LongCat-2.0，属于 AI 基础设施和算力成本相关信号。
+9、菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求，属于 AI 基础设施和算力成本相关信号。
+10、打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制，这条新闻关注相关变化背后的原因和影响。
 
 ## 原始链接
-1. SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元（IT之家（RSS）） - https://aihot.virxact.com/items/cmqyvdkok000qslf1ctykave9
-2. 美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标（The Decoder） - https://aihot.virxact.com/items/cmqz7d8df001gslurh618qik6
-3. Meta发布Brain2Qwerty v2：非侵入式实时句子解码（X：AI at Meta (@AIatMeta)） - https://aihot.virxact.com/items/cmqz708gp006kslj16zzl8far
-4. 模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路（AIbase） - https://www.aibase.com/news/29236
-5. 六成英国消费者：一次错误就不再信任 AI 购物助手（AIbase） - https://www.aibase.com/news/29238
-6. 太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代（AIbase） - https://www.aibase.com/news/29239
-7. 小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速（公众号：小红书技术（dots.llm）） - https://aihot.virxact.com/items/cmqz49v7400e4sldyr126zupc
-8. EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能（MarkTechPost（RSS）） - https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949
-9. Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制（The Decoder） - https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt
-10. 国务院印发《教育发展"十五五"规划》，推进人工智能全学段教育（IT之家（RSS）） - https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv
+1. 工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布（AIbase） - https://www.aibase.com/news/29272
+2. 平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡（AIbase） - https://www.aibase.com/news/29273
+3. 开启英国的下一个生产力时代：建设一个人工智能开拓者的国家（Google AI Blog） - https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers
+4. Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示（The Decoder） - https://aihot.virxact.com/items/cmr0kov5302qnslolcwg00yqd
+5. 偷梁换柱！黑客滥用OpenAI邀请功能精准钓鱼企业员工（AIbase） - https://www.aibase.com/news/29271
+6. 商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略（AIbase） - https://www.aibase.com/news/29276
+7. 联想 ThinkPad P1 AI 2026 正式发布：重塑超便携高性能移动工作站标杆（AIbase） - https://www.aibase.com/news/29277
+8. 算力界的“巨无霸”来了：美团开源万亿参数模型 LongCat-2.0（AIbase） - https://www.aibase.com/news/29267
+9. 菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求（AIbase） - https://www.aibase.com/news/29265
+10. 打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制（AIbase） - https://www.aibase.com/news/29275
