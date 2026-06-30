@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-30T15:49:45.346312Z",
+  "generated_at": "2026-06-30T16:43:03.789102Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0150-1540-a037-fa1effd72820&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-0150-1540-a037-fa1effd72820&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0243-23bb-83f2-9e5f14f29643&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-0243-23bb-83f2-9e5f14f29643&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "055da3d4c7f3dc33843ccd3522c862615ddd3e89",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0243-23bb-83f2-9e5f14f29643&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "bfe66caa01417c0b11f4697eef8ce274605e1019",
           "title": "点击这里进入 / Click here to enter",
@@ -219,12 +228,21 @@
           "published_at": null
         }
       ],
-      "source_count": 23,
+      "source_count": 24,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "055da3d4c7f3dc33843ccd3522c862615ddd3e89",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0243-23bb-83f2-9e5f14f29643&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "bfe66caa01417c0b11f4697eef8ce274605e1019",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0150-1540-a037-fa1effd72820&fp=-3",
@@ -432,8 +450,8 @@
           "published_at": null
         }
       ],
-      "item_count": 23,
-      "duplicate_count": 23,
+      "item_count": 24,
+      "duplicate_count": 24,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -451,13 +469,135 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-29T17:03:58.996519Z",
-      "latest_at": "2026-06-30T15:49:45.346312Z",
+      "latest_at": "2026-06-30T16:43:03.789102Z",
       "primary_item": {
-        "id": "bfe66caa01417c0b11f4697eef8ce274605e1019",
+        "id": "055da3d4c7f3dc33843ccd3522c862615ddd3e89",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0150-1540-a037-fa1effd72820&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0243-23bb-83f2-9e5f14f29643&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_66857aac9970",
+      "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+      "primary_url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
+          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T16:00:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
+          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T16:00:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8671,
+      "importance": 0.8671,
+      "importance_score": 0.8671,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9703,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T16:00:19Z",
+      "latest_at": "2026-06-30T16:00:19Z",
+      "primary_item": {
+        "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
+        "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+        "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fb435a036a32",
+      "title": "ChatGPT 的采用范围如何扩大 / How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "primary_url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
+          "title": "ChatGPT 的采用范围如何扩大 / How ChatGPT adoption has expanded",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
+          "title": "ChatGPT 的采用范围如何扩大 / How ChatGPT adoption has expanded",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6784,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T09:00:00Z",
+      "latest_at": "2026-06-30T09:00:00Z",
+      "primary_item": {
+        "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
+        "title": "ChatGPT 的采用范围如何扩大 / How ChatGPT adoption has expanded",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -495,14 +635,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.899,
+        "recency": 0.862,
         "story_heat": 0.0
       },
       "category": "official",
@@ -519,6 +659,126 @@
         "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b31db4ee6197",
+      "title": "Claude Desktop 推出 Linux 公测版",
+      "url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
+      "primary_url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af6350e5a790a77665d1d46d08deec36b6989d64",
+          "title": "Claude Desktop 推出 Linux 公测版",
+          "url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:06:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "af6350e5a790a77665d1d46d08deec36b6989d64",
+          "title": "Claude Desktop 推出 Linux 公测版",
+          "url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:06:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9749,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T16:06:59Z",
+      "latest_at": "2026-06-30T16:06:59Z",
+      "primary_item": {
+        "id": "af6350e5a790a77665d1d46d08deec36b6989d64",
+        "title": "Claude Desktop 推出 Linux 公测版",
+        "url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0b538f9b98ee",
+      "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
+      "url": "https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h",
+      "primary_url": "https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h",
+      "source": "Google DeepMind：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "422fe115277faa503ff45259a394e0ae262fbff3",
+          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
+          "url": "https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:02:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "422fe115277faa503ff45259a394e0ae262fbff3",
+          "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
+          "url": "https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T16:02:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9719,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T16:02:40Z",
+      "latest_at": "2026-06-30T16:02:40Z",
+      "primary_item": {
+        "id": "422fe115277faa503ff45259a394e0ae262fbff3",
+        "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
+        "url": "https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h",
+        "source": "Google DeepMind：Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -556,14 +816,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9195,
+        "recency": 0.8825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -636,14 +896,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7189,
+        "recency": 0.6819,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -697,14 +957,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5904,
+        "recency": 0.5534,
         "story_heat": 0.0
       },
       "category": "official",
@@ -758,14 +1018,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8091,
+        "recency": 0.7721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,6 +1040,65 @@
         "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
         "url": "https://aihot.virxact.com/items/cmr0kov5302qnslolcwg00yqd",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4163eb41bb7b",
+      "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
+      "url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
+      "primary_url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e766c0b6701177e64c348e0f67dde1ffb4f3fa87",
+          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
+          "url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "e766c0b6701177e64c348e0f67dde1ffb4f3fa87",
+          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
+          "url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6784,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-30T09:00:00Z",
+      "latest_at": "2026-06-30T09:00:00Z",
+      "primary_item": {
+        "id": "e766c0b6701177e64c348e0f67dde1ffb4f3fa87",
+        "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
+        "url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "source_name": "AI HOT"
       }
     },
@@ -837,14 +1156,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7189,
+        "recency": 0.6819,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -898,14 +1217,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6715,
+        "recency": 0.6345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -957,14 +1276,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5784,
+        "recency": 0.5414,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1035,14 +1354,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6652,
+        "recency": 0.6281,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1096,14 +1415,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6217,
+        "recency": 0.5847,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,14 +1474,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7833,
+        "recency": 0.7462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,14 +1534,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7833,
+        "recency": 0.7462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,14 +1613,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6084,
+        "recency": 0.5714,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1321,453 +1640,100 @@
       }
     },
     {
-      "story_id": "story_ec5ac2e3d3fa",
-      "title": "菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求",
-      "url": "https://www.aibase.com/news/29265",
-      "primary_url": "https://www.aibase.com/news/29265",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "855117a5ec09de3ec494643cf5185a1203bd812b",
-          "title": "菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求",
-          "url": "https://www.aibase.com/news/29265",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T06:25:52.846654Z"
-        },
-        {
-          "id": "5f4c85b2ea314d28143b5cb632e28925ac59c129",
-          "title": "菜鸟推出科技出海全链路物流方案，重点服务 AI 算力与机器人跨境需求",
-          "url": "https://www.aibase.com/zh/news/29265",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "855117a5ec09de3ec494643cf5185a1203bd812b",
-          "title": "菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求",
-          "url": "https://www.aibase.com/news/29265",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T06:25:52.846654Z"
-        },
-        {
-          "id": "5f4c85b2ea314d28143b5cb632e28925ac59c129",
-          "title": "菜鸟推出科技出海全链路物流方案，重点服务 AI 算力与机器人跨境需求",
-          "url": "https://www.aibase.com/zh/news/29265",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6084,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T06:25:52.846654Z",
-      "latest_at": "2026-06-30T06:25:52.846654Z",
-      "primary_item": {
-        "id": "855117a5ec09de3ec494643cf5185a1203bd812b",
-        "title": "菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求",
-        "url": "https://www.aibase.com/news/29265",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dca46b3f7e38",
-      "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-      "url": "https://www.aibase.com/news/29275",
-      "primary_url": "https://www.aibase.com/news/29275",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T09:04:56.934833Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T09:04:56.934833Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7189,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T09:04:56.934833Z",
-      "latest_at": "2026-06-30T09:04:56.934833Z",
-      "primary_item": {
-        "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-        "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-        "url": "https://www.aibase.com/news/29275",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_32a00c8254e6",
-      "title": "SAP在组织调整中将人工智能产品的监管权交由首席执行官和首席运营官负责",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c76b2465dc625e1514ef9fdebcc30b4ae1bcf3d1",
-          "title": "SAP在组织调整中将人工智能产品的监管权交由首席执行官和首席运营官负责",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T15:23:10.129000Z"
-        },
-        {
-          "id": "e58c1050934f2ebed9e44be841c7e131e14f55c9",
-          "title": "SAP在组织调整中将人工智能产品的监管权交由高管负责",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T10:18:53.394000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "c76b2465dc625e1514ef9fdebcc30b4ae1bcf3d1",
-          "title": "SAP在组织调整中将人工智能产品的监管权交由首席执行官和首席运营官负责",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T15:23:10.129000Z"
-        },
-        {
-          "id": "e58c1050934f2ebed9e44be841c7e131e14f55c9",
-          "title": "SAP在组织调整中将人工智能产品的监管权交由高管负责",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T10:18:53.394000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9815,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-30T10:18:53.394000Z",
-      "latest_at": "2026-06-30T15:23:10.129000Z",
-      "primary_item": {
-        "id": "c76b2465dc625e1514ef9fdebcc30b4ae1bcf3d1",
-        "title": "SAP在组织调整中将人工智能产品的监管权交由首席执行官和首席运营官负责",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8b17c15f1294",
-      "title": "言语是意识的副产品。对于法学硕士来说，这是倒退的 / Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
-      "url": "https://news.ycombinator.com/item?id=48733062",
-      "primary_url": "https://news.ycombinator.com/item?id=48733062",
+      "story_id": "story_a2e900a63d1b",
+      "title": "克劳德代码正在以隐写方式标记请求 / Claude Code Is Steganographically Marking Requests",
+      "url": "https://news.ycombinator.com/item?id=48734373",
+      "primary_url": "https://news.ycombinator.com/item?id=48734373",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "5e3150ba8cc848f0562edebe63749e8aa4b577a1",
-          "title": "言语是意识的副产品。对于法学硕士来说，这是倒退的 / Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
-          "url": "https://news.ycombinator.com/item?id=48733062",
+          "id": "367d84739bfc38901a0903b9820d9883aa89c4ff",
+          "title": "克劳德代码正在以隐写方式标记请求 / Claude Code Is Steganographically Marking Requests",
+          "url": "https://news.ycombinator.com/item?id=48734373",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-30T14:33:14.199000Z"
+          "published_at": "2026-06-30T16:43:27.887000Z"
         },
         {
-          "id": "fad86af5ee8557d8ac5f22696cb112d249ae4a3d",
-          "title": "言语是意识的副产品。对于法学硕士来说，这是倒退的 / Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
-          "url": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-30T14:16:57Z"
+          "id": "ab602b9406bae38ed52f88b6bb81a1d9f9083235",
+          "title": "Claude Code 正在通过隐写术对请求进行标记",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "thereallo.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-30T16:11:02.651000Z"
+        },
+        {
+          "id": "9acbc720e24d264566db8f913d962d0103816cdc",
+          "title": "Claude Code 正在通过隐写术对请求进行标记 / Claude Code Is Steganographically Marking Requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T15:44:24Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "thereallo.dev"
       ],
       "items": [
         {
-          "id": "5e3150ba8cc848f0562edebe63749e8aa4b577a1",
-          "title": "言语是意识的副产品。对于法学硕士来说，这是倒退的 / Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
-          "url": "https://news.ycombinator.com/item?id=48733062",
+          "id": "367d84739bfc38901a0903b9820d9883aa89c4ff",
+          "title": "克劳德代码正在以隐写方式标记请求 / Claude Code Is Steganographically Marking Requests",
+          "url": "https://news.ycombinator.com/item?id=48734373",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-30T14:33:14.199000Z"
+          "published_at": "2026-06-30T16:43:27.887000Z"
         },
         {
-          "id": "fad86af5ee8557d8ac5f22696cb112d249ae4a3d",
-          "title": "言语是意识的副产品。对于法学硕士来说，这是倒退的 / Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
-          "url": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-30T14:16:57Z"
+          "id": "ab602b9406bae38ed52f88b6bb81a1d9f9083235",
+          "title": "Claude Code 正在通过隐写术对请求进行标记",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "thereallo.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-30T16:11:02.651000Z"
+        },
+        {
+          "id": "9acbc720e24d264566db8f913d962d0103816cdc",
+          "title": "Claude Code 正在通过隐写术对请求进行标记 / Claude Code Is Steganographically Marking Requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T15:44:24Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9469,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-30T14:16:57Z",
-      "latest_at": "2026-06-30T14:33:14.199000Z",
+      "earliest_at": "2026-06-30T15:44:24Z",
+      "latest_at": "2026-06-30T16:43:27.887000Z",
       "primary_item": {
-        "id": "5e3150ba8cc848f0562edebe63749e8aa4b577a1",
-        "title": "言语是意识的副产品。对于法学硕士来说，这是倒退的 / Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
-        "url": "https://news.ycombinator.com/item?id=48733062",
+        "id": "367d84739bfc38901a0903b9820d9883aa89c4ff",
+        "title": "克劳德代码正在以隐写方式标记请求 / Claude Code Is Steganographically Marking Requests",
+        "url": "https://news.ycombinator.com/item?id=48734373",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3770e23b558d",
-      "title": "新数据给“人工智能导致裁员”的争论泼了一盆冷水",
-      "url": "https://www.businessinsider.com/the-ai-layoffs-story-just-got-more-complicated-2026-6",
-      "primary_url": "https://www.businessinsider.com/the-ai-layoffs-story-just-got-more-complicated-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "612aa53d9986926618e5ec13b62601cfc30d1fb6",
-          "title": "新数据给“人工智能导致裁员”的争论泼了一盆冷水",
-          "url": "https://www.businessinsider.com/the-ai-layoffs-story-just-got-more-complicated-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T14:19:03.761000Z"
-        },
-        {
-          "id": "ff675ab50aaeb99d4802164a81553cfbb0e642b0",
-          "title": "新数据给“人工智能导致裁员”的争论泼了一盆冷水 / Is AI causing layoffs? This report says it's complicated.",
-          "url": "https://www.businessinsider.com/the-ai-layoffs-story-just-got-more-complicated-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-30T13:57:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "612aa53d9986926618e5ec13b62601cfc30d1fb6",
-          "title": "新数据给“人工智能导致裁员”的争论泼了一盆冷水",
-          "url": "https://www.businessinsider.com/the-ai-layoffs-story-just-got-more-complicated-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T14:19:03.761000Z"
-        },
-        {
-          "id": "ff675ab50aaeb99d4802164a81553cfbb0e642b0",
-          "title": "新数据给“人工智能导致裁员”的争论泼了一盆冷水 / Is AI causing layoffs? This report says it's complicated.",
-          "url": "https://www.businessinsider.com/the-ai-layoffs-story-just-got-more-complicated-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-30T13:57:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.937,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-30T13:57:53Z",
-      "latest_at": "2026-06-30T14:19:03.761000Z",
-      "primary_item": {
-        "id": "612aa53d9986926618e5ec13b62601cfc30d1fb6",
-        "title": "新数据给“人工智能导致裁员”的争论泼了一盆冷水",
-        "url": "https://www.businessinsider.com/the-ai-layoffs-story-just-got-more-complicated-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5b8f0c199556",
-      "title": "Show HN: SUNWÆE——您生活的AI操作系统",
-      "url": "https://news.ycombinator.com/item?id=48732413",
-      "primary_url": "https://news.ycombinator.com/item?id=48732413",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d221ca0e35c24d138ecafff389008c096b9526ac",
-          "title": "Show HN: SUNWÆE——您生活的AI操作系统",
-          "url": "https://news.ycombinator.com/item?id=48732413",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T14:03:07.979000Z"
-        },
-        {
-          "id": "bb48c79024f29ff88543154c7bcd41ed02519292",
-          "title": "Sunwæe——你的人生AI操作系统",
-          "url": "https://news.ycombinator.com/item?id=48732413",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T13:30:58.128000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "d221ca0e35c24d138ecafff389008c096b9526ac",
-          "title": "Show HN: SUNWÆE——您生活的AI操作系统",
-          "url": "https://news.ycombinator.com/item?id=48732413",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T14:03:07.979000Z"
-        },
-        {
-          "id": "bb48c79024f29ff88543154c7bcd41ed02519292",
-          "title": "Sunwæe——你的人生AI操作系统",
-          "url": "https://news.ycombinator.com/item?id=48732413",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T13:30:58.128000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.926,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-30T13:30:58.128000Z",
-      "latest_at": "2026-06-30T14:03:07.979000Z",
-      "primary_item": {
-        "id": "d221ca0e35c24d138ecafff389008c096b9526ac",
-        "title": "Show HN: SUNWÆE——您生活的AI操作系统",
-        "url": "https://news.ycombinator.com/item?id=48732413",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
       }
     }
   ]
