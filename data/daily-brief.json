@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-30T17:34:35.510441Z",
+  "generated_at": "2026-06-30T18:35:10.384192Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0335-032e-b510-8d4ea263c21a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-0335-032e-b510-8d4ea263c21a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0435-35b4-90ee-e71edb105139&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-0435-35b4-90ee-e71edb105139&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "884892dd1461ae0f7bf301e0419ba45c6f748783",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0435-35b4-90ee-e71edb105139&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "02271f7aca0c97af4ce5d1f348dc25e2a9f2e604",
           "title": "点击这里进入 / Click here to enter",
@@ -213,15 +222,6 @@
           "id": "82cb7b373b5b3344a5ebcffa71f42f512e93a338",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0511-584e-aeb1-3cc1af950ab0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f822de94947accde94d7b027f94344f4ab2cca70",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0414-346c-ae9f-df16f0f730b9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,6 +234,15 @@
       ],
       "items": [
         {
+          "id": "884892dd1461ae0f7bf301e0419ba45c6f748783",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0435-35b4-90ee-e71edb105139&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "02271f7aca0c97af4ce5d1f348dc25e2a9f2e604",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0335-032e-b510-8d4ea263c21a&fp=-3",
@@ -435,15 +444,6 @@
           "id": "82cb7b373b5b3344a5ebcffa71f42f512e93a338",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0511-584e-aeb1-3cc1af950ab0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f822de94947accde94d7b027f94344f4ab2cca70",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-0414-346c-ae9f-df16f0f730b9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -468,14 +468,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T18:14:11.539283Z",
-      "latest_at": "2026-06-30T17:34:35.510441Z",
+      "earliest_at": "2026-06-29T19:11:30.445076Z",
+      "latest_at": "2026-06-30T18:35:10.384192Z",
       "primary_item": {
-        "id": "02271f7aca0c97af4ce5d1f348dc25e2a9f2e604",
+        "id": "884892dd1461ae0f7bf301e0419ba45c6f748783",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0335-032e-b510-8d4ea263c21a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-0435-35b4-90ee-e71edb105139&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_8654826289ec",
+      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8847,
+      "importance": 0.8847,
+      "importance_score": 0.8847,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9984,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:32:50Z",
+      "latest_at": "2026-06-30T18:32:50Z",
+      "primary_item": {
+        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -513,14 +574,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.8599,
-      "importance_score": 0.8599,
+      "score": 0.8515,
+      "importance": 0.8515,
+      "importance_score": 0.8515,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9345,
+        "recency": 0.8925,
         "story_heat": 0.0
       },
       "category": "official",
@@ -574,14 +635,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8537,
-      "importance": 0.8537,
-      "importance_score": 0.8537,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9637,
+        "recency": 0.9217,
         "story_heat": 0.0
       },
       "category": "official",
@@ -598,6 +659,366 @@
         "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c0c202445456",
+      "title": "Claude Sonnet 5 发布，性能接近 Opus 4.8",
+      "url": "https://aihot.virxact.com/items/cmr0zc8c5007csldxa5i8iyy0",
+      "primary_url": "https://aihot.virxact.com/items/cmr0zc8c5007csldxa5i8iyy0",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "27fafd615f06b107968f54a22339db21de18378b",
+          "title": "Claude Sonnet 5 发布，性能接近 Opus 4.8",
+          "url": "https://aihot.virxact.com/items/cmr0zc8c5007csldxa5i8iyy0",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:21:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "items": [
+        {
+          "id": "27fafd615f06b107968f54a22339db21de18378b",
+          "title": "Claude Sonnet 5 发布，性能接近 Opus 4.8",
+          "url": "https://aihot.virxact.com/items/cmr0zc8c5007csldxa5i8iyy0",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:21:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:21:32Z",
+      "latest_at": "2026-06-30T18:21:32Z",
+      "primary_item": {
+        "id": "27fafd615f06b107968f54a22339db21de18378b",
+        "title": "Claude Sonnet 5 发布，性能接近 Opus 4.8",
+        "url": "https://aihot.virxact.com/items/cmr0zc8c5007csldxa5i8iyy0",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_09345a996c1c",
+      "title": "Claude Sonnet 5上架OpenRouter，促销价$2/$10 per M",
+      "url": "https://aihot.virxact.com/items/cmr0zasvg006csldxyvzab0ub",
+      "primary_url": "https://aihot.virxact.com/items/cmr0zasvg006csldxyvzab0ub",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3819e5cf2c442e33a23f85e61239f0b1eb73034b",
+          "title": "Claude Sonnet 5上架OpenRouter，促销价$2/$10 per M",
+          "url": "https://aihot.virxact.com/items/cmr0zasvg006csldxyvzab0ub",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:11:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "3819e5cf2c442e33a23f85e61239f0b1eb73034b",
+          "title": "Claude Sonnet 5上架OpenRouter，促销价$2/$10 per M",
+          "url": "https://aihot.virxact.com/items/cmr0zasvg006csldxyvzab0ub",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:11:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9834,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:11:20Z",
+      "latest_at": "2026-06-30T18:11:20Z",
+      "primary_item": {
+        "id": "3819e5cf2c442e33a23f85e61239f0b1eb73034b",
+        "title": "Claude Sonnet 5上架OpenRouter，促销价$2/$10 per M",
+        "url": "https://aihot.virxact.com/items/cmr0zasvg006csldxyvzab0ub",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a47afff019fd",
+      "title": "Claude Sonnet 5 发布：1M上下文窗口，编码工具性能顶级",
+      "url": "https://aihot.virxact.com/items/cmr0zcsq4007ysldx93c0ojs3",
+      "primary_url": "https://aihot.virxact.com/items/cmr0zcsq4007ysldx93c0ojs3",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b173fe032962b427d4d2f480870c1d34700fd8b0",
+          "title": "Claude Sonnet 5 发布：1M上下文窗口，编码工具性能顶级",
+          "url": "https://aihot.virxact.com/items/cmr0zcsq4007ysldx93c0ojs3",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:04:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "b173fe032962b427d4d2f480870c1d34700fd8b0",
+          "title": "Claude Sonnet 5 发布：1M上下文窗口，编码工具性能顶级",
+          "url": "https://aihot.virxact.com/items/cmr0zcsq4007ysldx93c0ojs3",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:04:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9788,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:04:42Z",
+      "latest_at": "2026-06-30T18:04:42Z",
+      "primary_item": {
+        "id": "b173fe032962b427d4d2f480870c1d34700fd8b0",
+        "title": "Claude Sonnet 5 发布：1M上下文窗口，编码工具性能顶级",
+        "url": "https://aihot.virxact.com/items/cmr0zcsq4007ysldx93c0ojs3",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ba31fc6e5e6b",
+      "title": "Claude Sonnet 5 发布",
+      "url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+      "primary_url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "63c193b45cc7afc63e02d7fb4952866670c47d7c",
+          "title": "Claude Sonnet 5 发布",
+          "url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:02:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "63c193b45cc7afc63e02d7fb4952866670c47d7c",
+          "title": "Claude Sonnet 5 发布",
+          "url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:02:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.977,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:02:06Z",
+      "latest_at": "2026-06-30T18:02:06Z",
+      "primary_item": {
+        "id": "63c193b45cc7afc63e02d7fb4952866670c47d7c",
+        "title": "Claude Sonnet 5 发布",
+        "url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d7413bc16178",
+      "title": "Claude Sonnet 5：最具智能体能力的版本",
+      "url": "https://aihot.virxact.com/items/cmr0zcrvj007wsldxpzqb195s",
+      "primary_url": "https://aihot.virxact.com/items/cmr0zcrvj007wsldxpzqb195s",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "de53db57b5922472f2559a7801bb3b3cb427ba67",
+          "title": "Claude Sonnet 5：最具智能体能力的版本",
+          "url": "https://aihot.virxact.com/items/cmr0zcrvj007wsldxpzqb195s",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:00:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "de53db57b5922472f2559a7801bb3b3cb427ba67",
+          "title": "Claude Sonnet 5：最具智能体能力的版本",
+          "url": "https://aihot.virxact.com/items/cmr0zcrvj007wsldxpzqb195s",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:00:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9759,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:00:31Z",
+      "latest_at": "2026-06-30T18:00:31Z",
+      "primary_item": {
+        "id": "de53db57b5922472f2559a7801bb3b3cb427ba67",
+        "title": "Claude Sonnet 5：最具智能体能力的版本",
+        "url": "https://aihot.virxact.com/items/cmr0zcrvj007wsldxpzqb195s",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bc3e2eb17da4",
+      "title": "Anthropic 推出 Claude Sonnet 5，主打低成本智能体能力",
+      "url": "https://aihot.virxact.com/items/cmr0zczfm008nsldx1shbdrax",
+      "primary_url": "https://aihot.virxact.com/items/cmr0zczfm008nsldx1shbdrax",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb92250362b7223e2e08283b390a56d3cd326c31",
+          "title": "Anthropic 推出 Claude Sonnet 5，主打低成本智能体能力",
+          "url": "https://aihot.virxact.com/items/cmr0zczfm008nsldx1shbdrax",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "eb92250362b7223e2e08283b390a56d3cd326c31",
+          "title": "Anthropic 推出 Claude Sonnet 5，主打低成本智能体能力",
+          "url": "https://aihot.virxact.com/items/cmr0zczfm008nsldx1shbdrax",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9756,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:00:00Z",
+      "latest_at": "2026-06-30T18:00:00Z",
+      "primary_item": {
+        "id": "eb92250362b7223e2e08283b390a56d3cd326c31",
+        "title": "Anthropic 推出 Claude Sonnet 5，主打低成本智能体能力",
+        "url": "https://aihot.virxact.com/items/cmr0zczfm008nsldx1shbdrax",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -635,14 +1056,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6426,
+        "recency": 0.6006,
         "story_heat": 0.0
       },
       "category": "official",
@@ -696,14 +1117,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9957,
+        "recency": 0.9537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -756,14 +1177,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9882,
+        "recency": 0.9462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -778,66 +1199,6 @@
         "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
         "url": "https://aihot.virxact.com/items/cmr0wupt4007gsl403t7s6dbn",
         "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b218b108a0f",
-      "title": "Claude Science 科研应用 beta 版发布",
-      "url": "https://aihot.virxact.com/items/cmr0x6w9l0019slb3jnckkfm3",
-      "primary_url": "https://aihot.virxact.com/items/cmr0x6w9l0019slb3jnckkfm3",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b9b2f2617022e4dd78a78add3560e0267c50edc8",
-          "title": "Claude Science 科研应用 beta 版发布",
-          "url": "https://aihot.virxact.com/items/cmr0x6w9l0019slb3jnckkfm3",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:02:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "b9b2f2617022e4dd78a78add3560e0267c50edc8",
-          "title": "Claude Science 科研应用 beta 版发布",
-          "url": "https://aihot.virxact.com/items/cmr0x6w9l0019slb3jnckkfm3",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:02:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9774,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T17:02:04Z",
-      "latest_at": "2026-06-30T17:02:04Z",
-      "primary_item": {
-        "id": "b9b2f2617022e4dd78a78add3560e0267c50edc8",
-        "title": "Claude Science 科研应用 beta 版发布",
-        "url": "https://aihot.virxact.com/items/cmr0x6w9l0019slb3jnckkfm3",
-        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       }
     },
@@ -876,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.9335,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -936,14 +1297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -958,66 +1319,6 @@
         "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
         "url": "https://aihot.virxact.com/items/cmr0wwa6g0085sl40xkkzeruy",
         "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b31db4ee6197",
-      "title": "Claude Desktop 推出 Linux 公测版",
-      "url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
-      "primary_url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af6350e5a790a77665d1d46d08deec36b6989d64",
-          "title": "Claude Desktop 推出 Linux 公测版",
-          "url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:06:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "af6350e5a790a77665d1d46d08deec36b6989d64",
-          "title": "Claude Desktop 推出 Linux 公测版",
-          "url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:06:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9392,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T16:06:59Z",
-      "latest_at": "2026-06-30T16:06:59Z",
-      "primary_item": {
-        "id": "af6350e5a790a77665d1d46d08deec36b6989d64",
-        "title": "Claude Desktop 推出 Linux 公测版",
-        "url": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
-        "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
       }
     },
@@ -1056,14 +1357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.8941,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1116,14 +1417,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
+        "recency": 0.8876,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1176,14 +1477,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8529,
-      "importance": 0.8529,
-      "importance_score": 0.8529,
+      "score": 0.8445,
+      "importance": 0.8445,
+      "importance_score": 0.8445,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9594,
+        "recency": 0.9173,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1203,462 +1504,162 @@
       }
     },
     {
-      "story_id": "story_3fc589d804fb",
-      "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
-      "url": "https://www.aibase.com/news/29272",
-      "primary_url": "https://www.aibase.com/news/29272",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "60de1a406a8e570cb3f742cca7ecdfcd45b8777d",
-          "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
-          "url": "https://www.aibase.com/news/29272",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T09:04:56.934833Z"
-        },
-        {
-          "id": "3b62ee91758566d23dfdc7f3a396d649602bae1a",
-          "title": "工业智造新突破：全球首个工业跨具身泛化大模型「智合」在沪发布",
-          "url": "https://www.aibase.com/zh/news/29272",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "60de1a406a8e570cb3f742cca7ecdfcd45b8777d",
-          "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
-          "url": "https://www.aibase.com/news/29272",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T09:04:56.934833Z"
-        },
-        {
-          "id": "3b62ee91758566d23dfdc7f3a396d649602bae1a",
-          "title": "工业智造新突破：全球首个工业跨具身泛化大模型「智合」在沪发布",
-          "url": "https://www.aibase.com/zh/news/29272",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6461,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T09:04:56.934833Z",
-      "latest_at": "2026-06-30T09:04:56.934833Z",
-      "primary_item": {
-        "id": "60de1a406a8e570cb3f742cca7ecdfcd45b8777d",
-        "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
-        "url": "https://www.aibase.com/news/29272",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6e98bdfa6975",
-      "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "source": "Google AI Blog",
+      "story_id": "story_0f764e9bc764",
+      "title": "克劳德·索内特 5 / Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "primary_url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-          "source": "Google AI Blog",
+          "id": "7e39f08e8809094e45239d1f341e029dfd62682f",
+          "title": "克劳德·索内特 5 / Introducing Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Anthropic News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T06:00:00Z"
+          "published_at": "2026-06-30T00:00:00Z"
+        },
+        {
+          "id": "67fa563844e9154887350136b4fe9208b8030f96",
+          "title": "克劳德·索内特 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-30T18:19:05.316000Z"
+        },
+        {
+          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
+          "title": "克劳德·索内特 5 / Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T17:59:52Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Google AI Blog"
+        "Anthropic News",
+        "Hacker News (黑客新闻)",
+        "www.anthropic.com"
       ],
       "items": [
         {
-          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-          "source": "Google AI Blog",
+          "id": "7e39f08e8809094e45239d1f341e029dfd62682f",
+          "title": "克劳德·索内特 5 / Introducing Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Anthropic News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T06:00:00Z"
+          "published_at": "2026-06-30T00:00:00Z"
+        },
+        {
+          "id": "67fa563844e9154887350136b4fe9208b8030f96",
+          "title": "克劳德·索内特 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-30T18:19:05.316000Z"
+        },
+        {
+          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
+          "title": "克劳德·索内特 5 / Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-30T17:59:52Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5176,
-        "story_heat": 0.0
+        "ai_relevance": 0.95,
+        "recency": 0.2256,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T06:00:00Z",
-      "latest_at": "2026-06-30T06:00:00Z",
-      "primary_item": {
-        "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-        "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ef7eb6a30414",
-      "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
-      "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b289077459097c40473999515d248be3b047e5c8",
-          "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
-          "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:30:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b289077459097c40473999515d248be3b047e5c8",
-          "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
-          "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:30:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9553,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T16:30:17Z",
-      "latest_at": "2026-06-30T16:30:17Z",
-      "primary_item": {
-        "id": "b289077459097c40473999515d248be3b047e5c8",
-        "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
-        "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ce0bc95fddb6",
-      "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
-      "url": "https://aihot.virxact.com/items/cmr0kov5302qnslolcwg00yqd",
-      "primary_url": "https://aihot.virxact.com/items/cmr0kov5302qnslolcwg00yqd",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c3f94ac694ee8ad97b53ac2a7db227d4689ce3e1",
-          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
-          "url": "https://aihot.virxact.com/items/cmr0kov5302qnslolcwg00yqd",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T11:14:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c3f94ac694ee8ad97b53ac2a7db227d4689ce3e1",
-          "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
-          "url": "https://aihot.virxact.com/items/cmr0kov5302qnslolcwg00yqd",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T11:14:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7363,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T11:14:52Z",
-      "latest_at": "2026-06-30T11:14:52Z",
-      "primary_item": {
-        "id": "c3f94ac694ee8ad97b53ac2a7db227d4689ce3e1",
-        "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
-        "url": "https://aihot.virxact.com/items/cmr0kov5302qnslolcwg00yqd",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4163eb41bb7b",
-      "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
-      "url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
-      "primary_url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e766c0b6701177e64c348e0f67dde1ffb4f3fa87",
-          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
-          "url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "e766c0b6701177e64c348e0f67dde1ffb4f3fa87",
-          "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
-          "url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6426,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T09:00:00Z",
-      "latest_at": "2026-06-30T09:00:00Z",
-      "primary_item": {
-        "id": "e766c0b6701177e64c348e0f67dde1ffb4f3fa87",
-        "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
-        "url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_522d50461dd0",
-      "title": "平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡",
-      "url": "https://www.aibase.com/news/29273",
-      "primary_url": "https://www.aibase.com/news/29273",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b84c701ab0d2b6aec08394580d4c43f893baaac9",
-          "title": "平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡",
-          "url": "https://www.aibase.com/news/29273",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T09:04:56.934833Z"
-        },
-        {
-          "id": "220bae895a82213d12177627b122c0e6a07a993d",
-          "title": "平安银行联合腾讯云与中国银联推出「AI 智算卡」，下月将推 AI 主题信用卡",
-          "url": "https://www.aibase.com/zh/news/29273",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b84c701ab0d2b6aec08394580d4c43f893baaac9",
-          "title": "平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡",
-          "url": "https://www.aibase.com/news/29273",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T09:04:56.934833Z"
-        },
-        {
-          "id": "220bae895a82213d12177627b122c0e6a07a993d",
-          "title": "平安银行联合腾讯云与中国银联推出「AI 智算卡」，下月将推 AI 主题信用卡",
-          "url": "https://www.aibase.com/zh/news/29273",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6461,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T09:04:56.934833Z",
-      "latest_at": "2026-06-30T09:04:56.934833Z",
+      "earliest_at": "2026-06-30T00:00:00Z",
+      "latest_at": "2026-06-30T18:19:05.316000Z",
       "primary_item": {
-        "id": "b84c701ab0d2b6aec08394580d4c43f893baaac9",
-        "title": "平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡",
-        "url": "https://www.aibase.com/news/29273",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "7e39f08e8809094e45239d1f341e029dfd62682f",
+        "title": "克劳德·索内特 5 / Introducing Claude Sonnet 5",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "source": "Anthropic News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_3fc7a3c57899",
-      "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-      "url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
-      "primary_url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
-      "source": "IT之家（RSS）",
+      "story_id": "story_2ae783a46924",
+      "title": "Acti 将 AI 智能体直接放入手机键盘",
+      "url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+      "primary_url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "24c386907103941fb36b1b6ec41c630f73c33c24",
-          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-          "url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
-          "source": "IT之家（RSS）",
+          "id": "a10f523c4555bb0117b58e4d65b203e2b505cb61",
+          "title": "Acti 将 AI 智能体直接放入手机键盘",
+          "url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T07:56:46Z"
+          "published_at": "2026-06-30T17:52:46Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "24c386907103941fb36b1b6ec41c630f73c33c24",
-          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-          "url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
-          "source": "IT之家（RSS）",
+          "id": "a10f523c4555bb0117b58e4d65b203e2b505cb61",
+          "title": "Acti 将 AI 智能体直接放入手机键盘",
+          "url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-30T07:56:46Z"
+          "published_at": "2026-06-30T17:52:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5987,
+        "recency": 0.9706,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-30T07:56:46Z",
-      "latest_at": "2026-06-30T07:56:46Z",
+      "earliest_at": "2026-06-30T17:52:46Z",
+      "latest_at": "2026-06-30T17:52:46Z",
       "primary_item": {
-        "id": "24c386907103941fb36b1b6ec41c630f73c33c24",
-        "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-        "url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
-        "source": "IT之家（RSS）",
+        "id": "a10f523c4555bb0117b58e4d65b203e2b505cb61",
+        "title": "Acti 将 AI 智能体直接放入手机键盘",
+        "url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     }
