@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-01T09:45:35.825667Z",
+  "generated_at": "2026-07-01T11:04:33.062313Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-1946-09cd-a069-82ccf987f194&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-1946-09cd-a069-82ccf987f194&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2104-598d-813f-a088e6b79b5d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-2104-598d-813f-a088e6b79b5d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "a31d36b3c371275e84323b2bbf7b25e3a01f0561",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2104-598d-813f-a088e6b79b5d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "0446660bf9e535fb153d2b8c34855d1ab641fe83",
           "title": "点击这里进入 / Click here to enter",
@@ -204,15 +213,6 @@
           "id": "82faa50edf81a212a46c97a409880e8650c14d14",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2152-303c-8ceb-83fe00e15151&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "09a3f60e928fbc91737046c5535e6841ee0d7716",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2038-09d2-b87d-44aedf89d457&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -225,6 +225,15 @@
       ],
       "items": [
         {
+          "id": "a31d36b3c371275e84323b2bbf7b25e3a01f0561",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2104-598d-813f-a088e6b79b5d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "0446660bf9e535fb153d2b8c34855d1ab641fe83",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-1946-09cd-a069-82ccf987f194&fp=-3",
@@ -417,15 +426,6 @@
           "id": "82faa50edf81a212a46c97a409880e8650c14d14",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2152-303c-8ceb-83fe00e15151&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "09a3f60e928fbc91737046c5535e6841ee0d7716",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2038-09d2-b87d-44aedf89d457&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -450,12 +450,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T10:37:39.178707Z",
-      "latest_at": "2026-07-01T09:45:35.825667Z",
+      "earliest_at": "2026-06-30T11:52:04.355285Z",
+      "latest_at": "2026-07-01T11:04:33.062313Z",
       "primary_item": {
-        "id": "0446660bf9e535fb153d2b8c34855d1ab641fe83",
+        "id": "a31d36b3c371275e84323b2bbf7b25e3a01f0561",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-1946-09cd-a069-82ccf987f194&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2104-598d-813f-a088e6b79b5d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -514,14 +514,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9452,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -538,6 +538,66 @@
         "url": "https://www.aibase.com/news/29311",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_38e1fe9095de",
+      "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+      "url": "https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly",
+      "primary_url": "https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3f721d4a56741f80141e5c397f48a878e4c83fa1",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+          "url": "https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T10:03:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3f721d4a56741f80141e5c397f48a878e4c83fa1",
+          "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+          "url": "https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-01T10:03:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9577,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T10:03:41Z",
+      "latest_at": "2026-07-01T10:03:41Z",
+      "primary_item": {
+        "id": "3f721d4a56741f80141e5c397f48a878e4c83fa1",
+        "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+        "url": "https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -575,14 +635,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5933,
+        "recency": 0.5385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -636,14 +696,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9338,
+        "recency": 0.879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -696,14 +756,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8834,
+        "recency": 0.8286,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,14 +835,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8268,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -836,21 +896,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3661,
+        "recency": 0.3113,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T18:32:50Z",
       "latest_at": "2026-06-30T18:32:50Z",
@@ -916,21 +975,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.601,
+        "recency": 0.5461,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T00:11:00Z",
       "latest_at": "2026-07-01T00:55:08Z",
@@ -977,14 +1035,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9452,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1037,20 +1095,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6933,
+        "recency": 0.6385,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T02:24:00Z",
       "latest_at": "2026-07-01T02:24:00Z",
@@ -1097,14 +1154,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3196,
+        "recency": 0.2648,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1157,14 +1214,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6453,
+        "recency": 0.5905,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1216,14 +1273,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9452,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,125 +1296,6 @@
         "url": "https://www.aibase.com/news/29310",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_416bf0ef067d",
-      "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-      "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-      "primary_url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "536a68851422847b125ea7d7c7b6095b24429a7e",
-          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-          "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T23:43:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "536a68851422847b125ea7d7c7b6095b24429a7e",
-          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-          "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T23:43:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5819,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T23:43:32Z",
-      "latest_at": "2026-06-30T23:43:32Z",
-      "primary_item": {
-        "id": "536a68851422847b125ea7d7c7b6095b24429a7e",
-        "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-        "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_66857aac9970",
-      "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-      "primary_url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
-          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:00:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
-          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:00:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2602,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T16:00:19Z",
-      "latest_at": "2026-06-30T16:00:19Z",
-      "primary_item": {
-        "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
-        "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-        "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1395,14 +1333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9452,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1455,14 +1393,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9452,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1515,14 +1453,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1575,14 +1513,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1691,14 +1629,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5803,
-      "importance": 0.5803,
-      "importance_score": 0.5803,
+      "score": 0.5693,
+      "importance": 0.5693,
+      "importance_score": 0.5693,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9115,
+        "recency": 0.8567,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1712,6 +1650,103 @@
         "title": "重新部署《Fable 5》",
         "url": "https://www.anthropic.com/news/redeploying-fable-5",
         "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fd9b9a3da8ea",
+      "title": "Godot 将不再接受由 AI 编写的代码贡献",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
+      "primary_url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
+      "source": "www.pcgamer.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8c5d9eecd92fb76ee39cbc6d2f56a9fe82ea422b",
+          "title": "Godot 将不再接受由 AI 编写的代码贡献",
+          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
+          "source": "www.pcgamer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T09:46:28.008000Z"
+        },
+        {
+          "id": "161772600e4eb163c035916f488fc8478abb0d74",
+          "title": "Godot 将不再接受 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
+          "url": "https://news.ycombinator.com/item?id=48743472",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-01T09:20:39.946000Z"
+        },
+        {
+          "id": "d3ed87b8a4d4da3abad1c894786e859ebeffaf2a",
+          "title": "Godot 将不再接受由 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
+          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-01T07:43:22Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.pcgamer.com"
+      ],
+      "items": [
+        {
+          "id": "8c5d9eecd92fb76ee39cbc6d2f56a9fe82ea422b",
+          "title": "Godot 将不再接受由 AI 编写的代码贡献",
+          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
+          "source": "www.pcgamer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-01T09:46:28.008000Z"
+        },
+        {
+          "id": "161772600e4eb163c035916f488fc8478abb0d74",
+          "title": "Godot 将不再接受 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
+          "url": "https://news.ycombinator.com/item?id=48743472",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-01T09:20:39.946000Z"
+        },
+        {
+          "id": "d3ed87b8a4d4da3abad1c894786e859ebeffaf2a",
+          "title": "Godot 将不再接受由 AI 编写的代码贡献 / Godot will no longer accept AI-authored code contributions",
+          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-01T07:43:22Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9458,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-01T07:43:22Z",
+      "latest_at": "2026-07-01T09:46:28.008000Z",
+      "primary_item": {
+        "id": "8c5d9eecd92fb76ee39cbc6d2f56a9fe82ea422b",
+        "title": "Godot 将不再接受由 AI 编写的代码贡献",
+        "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it",
+        "source": "www.pcgamer.com",
         "source_name": "Buzzing"
       }
     }
