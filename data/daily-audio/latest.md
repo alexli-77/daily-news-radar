@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月1日人工智能热点分享
-1、奥特曼 AI 创业故事搬上大银幕，重点是Neon 拿下发行权，目标锁定奥斯卡。
-2、OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略，OpenAI论文首次列出GPT-5.6的三个Pro变体：Luna Pro、Terra Pro和Sol Pro，取代以往单一Pro模式。
-3、AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！，属于 AI 基础设施和算力成本相关信号。
-4、Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云。
-5、ChatGPT全球用户激增，重点是非英语用户占比过半，全面跨越早期圈层。
-6、性能提升超两倍，重点是英伟达发布 Nemotron-Labs-TwoTower 扩散语言模型。
-7、调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工。
-8、孙正义再砸重金，重点是软银完成对OpenAI百亿追加投资， 10 月将再投 100 亿。
-9、快手发布反诈治理新报告，AI 大模型助力打击网络诈骗！。
-10、NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型。
+2026年7月2日人工智能热点分享
+1、browser-use 发布开源 AI 视频剪辑 Skill「video-use」，browser-use 团队推出面向 Codex、Claude Code 等 AI 编码智能体的开源 Skill「video-use」，让 LLM 通过 ElevenLabs Scribe 将音频转写为约 12KB 文本。
+2、谷歌AI建设导致2025年用电量增长37%，2025年，谷歌年度用电量同比上涨37%，创历史最大增幅。数据中心全年消耗超4200万兆瓦时，超过新西兰、丹麦、尼日利亚等国总用电量。
+3、让Agent越用越强，重点是AReaL2.0开源，打造面向自演进智能体的RL基础设施。
+4、AI 互动酿成悲剧，重点是用户起诉 OpenAI，称 ChatGPT 加剧其心理病情。
+5、Anthropic 移除 Claude Code 中隐藏的用户代码引发关注。
+6、Godot 游戏引擎发布新政策，重点是禁止 AI 生成代码，强化贡献审核。
+7、软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场，属于 AI 基础设施和算力成本相关信号。
+8、Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试，Senior SWE-Bench是一个开源基准测试，用于评估AI智能体完成高级软件工程师级别任务的能力。
+9、千问团队朱达：C端Agent Harness的"多快好省"工程哲学与主动服务探索，千问团队2026年1月上线通用复杂任务Agent（千问App胶囊入口），总结“多快好省”方法论：支持信息搜集、研究分析等任务；执行时间降至初始1/3；通过搜索范式与上下文管理优化交付质量；Token消耗仅为海外产品1/1。
+10、OpenAI提议美国政府持股5%估值426亿美元，据Financial Times和CNBC报道，OpenAI提议向美国政府提供公司5%的股份，按近期8520亿美元估值计算，价值约426亿美元。
 
 ## 原始链接
-1. 奥特曼 AI 创业故事搬上大银幕：Neon 拿下发行权，目标锁定奥斯卡（AIbase） - https://www.aibase.com/news/29311
-2. OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略（The Decoder） - https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly
-3. AI芯片独角兽Etched 融资成功，估值飙升至50亿美元！（AIbase） - https://www.aibase.com/news/29301
-4. Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云（AIbase） - https://www.aibase.com/news/29313
-5. ChatGPT全球用户激增：非英语用户占比过半，全面跨越早期圈层（AIbase） - https://www.aibase.com/news/29310
-6. 性能提升超两倍：英伟达发布 Nemotron-Labs-TwoTower 扩散语言模型（AIbase） - https://www.aibase.com/news/29312
-7. 调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工（AIbase） - https://www.aibase.com/news/29309
-8. 孙正义再砸重金：软银完成对OpenAI百亿追加投资， 10 月将再投 100 亿（AIbase） - https://www.aibase.com/news/29308
-9. 快手发布反诈治理新报告，AI 大模型助力打击网络诈骗！（AIbase） - https://www.aibase.com/news/29304
-10. NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型（MarkTechPost（RSS）） - https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa
+1. browser-use 发布开源 AI 视频剪辑 Skill「video-use」（X：邵猛 (@shao__meng)） - https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko
+2. 谷歌AI建设导致2025年用电量增长37%（Ars Technica：AI（RSS）） - https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33
+3. 让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施（AIbase） - https://www.aibase.com/news/29342
+4. AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情（AIbase） - https://www.aibase.com/news/29346
+5. Anthropic 移除 Claude Code 中隐藏的用户代码引发关注（AIbase） - https://www.aibase.com/news/29347
+6. Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核（AIbase） - https://www.aibase.com/news/29344
+7. 软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场（AIbase） - https://www.aibase.com/news/29345
+8. Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps
+9. 千问团队朱达：C端Agent Harness的"多快好省"工程哲学与主动服务探索（公众号：千问APP（阿里）） - https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v
+10. OpenAI提议美国政府持股5%估值426亿美元（X：Testing Catalog (@testingcatalog)） - https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r
