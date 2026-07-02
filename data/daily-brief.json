@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-02T11:04:49.648464Z",
+  "generated_at": "2026-07-02T13:15:06.855033Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2105-1877-9b1a-bdce6f976e2f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-2105-1877-9b1a-bdce6f976e2f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2315-30ff-a2a2-bc61d5028a1e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-2315-30ff-a2a2-bc61d5028a1e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "931e7ddea891d9cf4f012116e38158f72cc602fe",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2315-30ff-a2a2-bc61d5028a1e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "991f5823dc7eb48e5886d644c9841780f4ef0283",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "6c788356936aca80448ac5389fd7b2deddbbcca1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2324-026d-b9b0-9c157c46cec8&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b33b6a766ec8770213dfbdb05f61a9c6ebb4edb2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2224-4324-9c9a-e25c1b83bac0&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "931e7ddea891d9cf4f012116e38158f72cc602fe",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2315-30ff-a2a2-bc61d5028a1e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "991f5823dc7eb48e5886d644c9841780f4ef0283",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2105-1877-9b1a-bdce6f976e2f&fp=-3",
@@ -291,15 +300,6 @@
           "id": "6c788356936aca80448ac5389fd7b2deddbbcca1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2324-026d-b9b0-9c157c46cec8&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b33b6a766ec8770213dfbdb05f61a9c6ebb4edb2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2224-4324-9c9a-e25c1b83bac0&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T12:22:43.719707Z",
-      "latest_at": "2026-07-02T11:04:49.648464Z",
+      "earliest_at": "2026-07-01T13:23:31.475893Z",
+      "latest_at": "2026-07-02T13:15:06.855033Z",
       "primary_item": {
-        "id": "991f5823dc7eb48e5886d644c9841780f4ef0283",
+        "id": "931e7ddea891d9cf4f012116e38158f72cc602fe",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2105-1877-9b1a-bdce6f976e2f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2315-30ff-a2a2-bc61d5028a1e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -369,14 +369,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8836,
+        "recency": 0.7932,
         "story_heat": 0.0
       },
       "category": "official",
@@ -396,48 +396,48 @@
       }
     },
     {
-      "story_id": "story_90ddcf143e5b",
-      "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-      "url": "https://www.aibase.com/news/29346",
-      "primary_url": "https://www.aibase.com/news/29346",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2afdb3c90329",
+      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+      "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+      "primary_url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-          "url": "https://www.aibase.com/news/29346",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:04:49.648464Z"
+          "id": "84ae6dad2369911041e6220aef4433fd27bf9df0",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-          "url": "https://www.aibase.com/news/29346",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:04:49.648464Z"
+          "id": "84ae6dad2369911041e6220aef4433fd27bf9df0",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -445,14 +445,274 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T11:04:49.648464Z",
-      "latest_at": "2026-07-02T11:04:49.648464Z",
+      "earliest_at": "2026-07-02T12:37:49Z",
+      "latest_at": "2026-07-02T12:37:49Z",
       "primary_item": {
-        "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-        "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-        "url": "https://www.aibase.com/news/29346",
+        "id": "84ae6dad2369911041e6220aef4433fd27bf9df0",
+        "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+        "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_12dca60d063e",
+      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+      "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+      "primary_url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9291,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:33:01Z",
+      "latest_at": "2026-07-02T11:33:01Z",
+      "primary_item": {
+        "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
+        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+        "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b5afe5ee83db",
+      "title": "谷歌AI建设导致2025年用电量增长37%",
+      "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+      "primary_url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
+          "title": "谷歌AI建设导致2025年用电量增长37%",
+          "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:15:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
+          "title": "谷歌AI建设导致2025年用电量增长37%",
+          "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:15:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9172,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:15:49Z",
+      "latest_at": "2026-07-02T11:15:49Z",
+      "primary_item": {
+        "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
+        "title": "谷歌AI建设导致2025年用电量增长37%",
+        "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_49bd0efe02c7",
+      "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+      "url": "https://www.aibase.com/news/29342",
+      "primary_url": "https://www.aibase.com/news/29342",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
+          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.aibase.com/news/29342",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:08:48.610768Z"
+        },
+        {
+          "id": "c79946eea79ed513406f94c906906633d71cea5b",
+          "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.qbitai.com/2026/07/442134.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
+          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.aibase.com/news/29342",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:08:48.610768Z"
+        },
+        {
+          "id": "c79946eea79ed513406f94c906906633d71cea5b",
+          "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.qbitai.com/2026/07/442134.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7873,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:08:48.610768Z",
+      "latest_at": "2026-07-02T13:15:06.855033Z",
+      "primary_item": {
+        "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
+        "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+        "url": "https://www.aibase.com/news/29342",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6e9ecfa08048",
+      "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+      "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+      "primary_url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "12ba6c966302a6728bb739b73ea693ca2e8178ba",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+          "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:04:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "12ba6c966302a6728bb739b73ea693ca2e8178ba",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+          "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:04:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:04:07Z",
+      "latest_at": "2026-07-02T11:04:07Z",
+      "primary_item": {
+        "id": "12ba6c966302a6728bb739b73ea693ca2e8178ba",
+        "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+        "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -490,14 +750,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9703,
+        "recency": 0.8799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -550,14 +810,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9207,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,14 +870,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8138,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -632,66 +892,6 @@
         "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
         "url": "https://aihot.virxact.com/items/cmr3a67dj01zusly043ms4axe",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_58fac03013b5",
-      "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-      "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-      "primary_url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
-          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-          "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:24:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
-          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-          "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:24:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8889,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:24:53Z",
-      "latest_at": "2026-07-02T08:24:53Z",
-      "primary_item": {
-        "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
-        "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-        "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -730,14 +930,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.7667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -752,6 +952,126 @@
         "title": "OpenAI提议美国政府持股5%估值426亿美元",
         "url": "https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r",
         "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_90ddcf143e5b",
+      "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+      "url": "https://www.aibase.com/news/29346",
+      "primary_url": "https://www.aibase.com/news/29346",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
+          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+          "url": "https://www.aibase.com/news/29346",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T11:04:49.648464Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
+          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+          "url": "https://www.aibase.com/news/29346",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T11:04:49.648464Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9095,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:04:49.648464Z",
+      "latest_at": "2026-07-02T11:04:49.648464Z",
+      "primary_item": {
+        "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
+        "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+        "url": "https://www.aibase.com/news/29346",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_58fac03013b5",
+      "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+      "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+      "primary_url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+          "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:24:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+          "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:24:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7985,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:24:53Z",
+      "latest_at": "2026-07-02T08:24:53Z",
+      "primary_item": {
+        "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
+        "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+        "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -790,14 +1110,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9095,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,66 +1131,6 @@
         "id": "4828a4c1675d9973c58a7519851767a715973ae1",
         "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
         "url": "https://www.aibase.com/news/29347",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_24bc8df62c78",
-      "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
-      "url": "https://www.aibase.com/news/29344",
-      "primary_url": "https://www.aibase.com/news/29344",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
-          "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
-          "url": "https://www.aibase.com/news/29344",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:04:49.648464Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
-          "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
-          "url": "https://www.aibase.com/news/29344",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:04:49.648464Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T11:04:49.648464Z",
-      "latest_at": "2026-07-02T11:04:49.648464Z",
-      "primary_item": {
-        "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
-        "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
-        "url": "https://www.aibase.com/news/29344",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -910,14 +1170,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6588,
+        "recency": 0.5683,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,65 +1191,6 @@
         "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
         "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
         "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bdb94de730c9",
-      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-      "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-      "primary_url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5306c77425ba3d9a2452225ccad7b1a5a5b2867f",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "5306c77425ba3d9a2452225ccad7b1a5a5b2867f",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5779,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T00:56:56Z",
-      "latest_at": "2026-07-02T00:56:56Z",
-      "primary_item": {
-        "id": "5306c77425ba3d9a2452225ccad7b1a5a5b2867f",
-        "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-        "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -1028,21 +1229,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4739,
+        "recency": 0.3834,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T22:27:16Z",
       "latest_at": "2026-07-01T22:27:16Z",
@@ -1055,17 +1255,17 @@
       }
     },
     {
-      "story_id": "story_2c928a3c2071",
-      "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
-      "url": "https://www.aibase.com/news/29345",
-      "primary_url": "https://www.aibase.com/news/29345",
+      "story_id": "story_24bc8df62c78",
+      "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
+      "url": "https://www.aibase.com/news/29344",
+      "primary_url": "https://www.aibase.com/news/29344",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6116c63eb64ebb92753fd8e96b8dfc6421cbee27",
-          "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
-          "url": "https://www.aibase.com/news/29345",
+          "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
+          "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
+          "url": "https://www.aibase.com/news/29344",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1078,9 +1278,9 @@
       ],
       "items": [
         {
-          "id": "6116c63eb64ebb92753fd8e96b8dfc6421cbee27",
-          "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
-          "url": "https://www.aibase.com/news/29345",
+          "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
+          "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
+          "url": "https://www.aibase.com/news/29344",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1089,14 +1289,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9095,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1107,9 +1307,9 @@
       "earliest_at": "2026-07-02T11:04:49.648464Z",
       "latest_at": "2026-07-02T11:04:49.648464Z",
       "primary_item": {
-        "id": "6116c63eb64ebb92753fd8e96b8dfc6421cbee27",
-        "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
-        "url": "https://www.aibase.com/news/29345",
+        "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
+        "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
+        "url": "https://www.aibase.com/news/29344",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1149,14 +1349,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6572,
+        "recency": 0.5667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1171,6 +1371,66 @@
         "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2c928a3c2071",
+      "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
+      "url": "https://www.aibase.com/news/29345",
+      "primary_url": "https://www.aibase.com/news/29345",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6116c63eb64ebb92753fd8e96b8dfc6421cbee27",
+          "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
+          "url": "https://www.aibase.com/news/29345",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T11:04:49.648464Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6116c63eb64ebb92753fd8e96b8dfc6421cbee27",
+          "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
+          "url": "https://www.aibase.com/news/29345",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T11:04:49.648464Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9095,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:04:49.648464Z",
+      "latest_at": "2026-07-02T11:04:49.648464Z",
+      "primary_item": {
+        "id": "6116c63eb64ebb92753fd8e96b8dfc6421cbee27",
+        "title": "软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场",
+        "url": "https://www.aibase.com/news/29345",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1208,21 +1468,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3945,
+        "recency": 0.304,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T20:32:52Z",
       "latest_at": "2026-07-01T20:32:52Z",
@@ -1230,246 +1489,6 @@
         "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
         "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
         "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4cfc32091eff",
-      "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
-      "url": "https://www.aibase.com/news/29343",
-      "primary_url": "https://www.aibase.com/news/29343",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "35633bbaf13fe2293401400f26a31b105fc21609",
-          "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
-          "url": "https://www.aibase.com/news/29343",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:08:48.610768Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "35633bbaf13fe2293401400f26a31b105fc21609",
-          "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
-          "url": "https://www.aibase.com/news/29343",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:08:48.610768Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8778,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:08:48.610768Z",
-      "latest_at": "2026-07-02T08:08:48.610768Z",
-      "primary_item": {
-        "id": "35633bbaf13fe2293401400f26a31b105fc21609",
-        "title": "Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面",
-        "url": "https://www.aibase.com/news/29343",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_87c518803758",
-      "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
-      "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-      "primary_url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e5c384b6d2337d32bf7a939188e14b728bd64e78",
-          "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
-          "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T21:30:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e5c384b6d2337d32bf7a939188e14b728bd64e78",
-          "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
-          "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T21:30:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4344,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T21:30:20Z",
-      "latest_at": "2026-07-01T21:30:20Z",
-      "primary_item": {
-        "id": "e5c384b6d2337d32bf7a939188e14b728bd64e78",
-        "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
-        "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_101c33e5f552",
-      "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
-      "url": "https://www.aibase.com/news/29339",
-      "primary_url": "https://www.aibase.com/news/29339",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b15107a93b7df15a0b2237231e8b4d3fa98c5500",
-          "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
-          "url": "https://www.aibase.com/news/29339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:08:48.610768Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b15107a93b7df15a0b2237231e8b4d3fa98c5500",
-          "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
-          "url": "https://www.aibase.com/news/29339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:08:48.610768Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8778,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:08:48.610768Z",
-      "latest_at": "2026-07-02T08:08:48.610768Z",
-      "primary_item": {
-        "id": "b15107a93b7df15a0b2237231e8b4d3fa98c5500",
-        "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
-        "url": "https://www.aibase.com/news/29339",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_774ebb0256c8",
-      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.3156,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T18:39:17Z",
-      "latest_at": "2026-07-01T18:39:17Z",
-      "primary_item": {
-        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
