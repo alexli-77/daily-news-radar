@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月2日人工智能热点分享
-1、browser-use 发布开源 AI 视频剪辑 Skill「video-use」，browser-use 团队推出面向 Codex、Claude Code 等 AI 编码智能体的开源 Skill「video-use」，让 LLM 通过 ElevenLabs Scribe 将音频转写为约 12KB 文本。
-2、谷歌AI建设导致2025年用电量增长37%，2025年，谷歌年度用电量同比上涨37%，创历史最大增幅。数据中心全年消耗超4200万兆瓦时，超过新西兰、丹麦、尼日利亚等国总用电量。
-3、让Agent越用越强，重点是AReaL2.0开源，打造面向自演进智能体的RL基础设施。
-4、AI 互动酿成悲剧，重点是用户起诉 OpenAI，称 ChatGPT 加剧其心理病情。
-5、Anthropic 移除 Claude Code 中隐藏的用户代码引发关注。
-6、Godot 游戏引擎发布新政策，重点是禁止 AI 生成代码，强化贡献审核。
-7、软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场，属于 AI 基础设施和算力成本相关信号。
-8、Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试，Senior SWE-Bench是一个开源基准测试，用于评估AI智能体完成高级软件工程师级别任务的能力。
-9、千问团队朱达：C端Agent Harness的"多快好省"工程哲学与主动服务探索，千问团队2026年1月上线通用复杂任务Agent（千问App胶囊入口），总结“多快好省”方法论：支持信息搜集、研究分析等任务；执行时间降至初始1/3；通过搜索范式与上下文管理优化交付质量；Token消耗仅为海外产品1/1。
-10、OpenAI提议美国政府持股5%估值426亿美元，据Financial Times和CNBC报道，OpenAI提议向美国政府提供公司5%的股份，按近期8520亿美元估值计算，价值约426亿美元。
+2026年7月3日人工智能热点分享
+1、全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成，安全厂商 Sysdig 首次记录到 AI Agent“JADEPUFFER”自动完成的勒索攻击。
+2、让机器人学会番茄炒蛋的“幕后推手”，重点是Genesis AI 开源全栈训练场。
+3、订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费，这条新闻关注相关变化背后的原因和影响。
+4、9.9元解锁无限出图！香蕉 2、Image2免费随便造。
+5、AI 智能体 Elements Claw 成功“闭环”超导材料研发。
+6、AI 研究进入“自动驾驶”时代，重点是杨植麟谈大模型训练的第三阶段。
+7、字节豆包 AI 手机项目生变，重点是硬件负责人离职，项目进入“调整期”。
+8、高盛研判下半年市场，重点是资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐。
+9、面向 Web 开发者的 Safari MCP 服务器，属于 AI 基础设施和算力成本相关信号。
+10、国家网信办就《互联网信息服务管理办法》再次征求意见，首设"智能信息服务"专章规范AI服务，7月3日，国家互联网信息办公室就《互联网信息服务管理办法（修订草案征求意见稿）》再次公开征求意见。
 
 ## 原始链接
-1. browser-use 发布开源 AI 视频剪辑 Skill「video-use」（X：邵猛 (@shao__meng)） - https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko
-2. 谷歌AI建设导致2025年用电量增长37%（Ars Technica：AI（RSS）） - https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33
-3. 让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施（AIbase） - https://www.aibase.com/news/29342
-4. AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情（AIbase） - https://www.aibase.com/news/29346
-5. Anthropic 移除 Claude Code 中隐藏的用户代码引发关注（AIbase） - https://www.aibase.com/news/29347
-6. Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核（AIbase） - https://www.aibase.com/news/29344
-7. 软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场（AIbase） - https://www.aibase.com/news/29345
-8. Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps
-9. 千问团队朱达：C端Agent Harness的"多快好省"工程哲学与主动服务探索（公众号：千问APP（阿里）） - https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v
-10. OpenAI提议美国政府持股5%估值426亿美元（X：Testing Catalog (@testingcatalog)） - https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r
+1. 全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成（IT之家（RSS）） - https://aihot.virxact.com/items/cmr4w2clt05kasll56e54tanx
+2. 让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场（AIbase） - https://www.aibase.com/news/29379
+3. 订阅制红利终结？Anthropic收紧最强AI模型，Claude Fable5 将按量计费（AIbase） - https://www.aibase.com/news/29368
+4. 9.9元解锁无限出图！香蕉 2、Image2免费随便造（AIbase） - https://www.aibase.com/news/29378
+5. AI 智能体 Elements Claw 成功“闭环”超导材料研发（AIbase） - https://www.aibase.com/news/29373
+6. AI 研究进入“自动驾驶”时代：杨植麟谈大模型训练的第三阶段（AIbase） - https://www.aibase.com/news/29374
+7. 字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”（AIbase） - https://www.aibase.com/news/29376
+8. 高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐（AIbase） - https://www.aibase.com/news/29377
+9. 面向 Web 开发者的 Safari MCP 服务器（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031
+10. 国家网信办就《互联网信息服务管理办法》再次征求意见，首设"智能信息服务"专章规范AI服务（IT之家（RSS）） - https://aihot.virxact.com/items/cmr4rs02404h6sll50myozvz0
