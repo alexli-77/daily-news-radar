@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-04T20:29:12.328539Z",
+  "generated_at": "2026-07-04T21:27:49.861321Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0629-37dd-8560-d410043eb235&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0629-37dd-8560-d410043eb235&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0728-1541-895c-6a83a57df9a2&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0728-1541-895c-6a83a57df9a2&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "8f1d19861d6045fed60c6b84482c3b71d7024f12",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0728-1541-895c-6a83a57df9a2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "127c0c0dfa0bf61e917b7ecabfcc06f1c02afe51",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "a7cdd9c776fd8cb8cceed466a686777911744080",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0759-2804-8d25-2db0f75d5392&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "41dde3b6ec5d3bffc5d2c0baa9dcbc1b39dd9d84",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0636-3062-a65c-245b06a5742d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "8f1d19861d6045fed60c6b84482c3b71d7024f12",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0728-1541-895c-6a83a57df9a2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "127c0c0dfa0bf61e917b7ecabfcc06f1c02afe51",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0629-37dd-8560-d410043eb235&fp=-3",
@@ -255,15 +264,6 @@
           "id": "a7cdd9c776fd8cb8cceed466a686777911744080",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0759-2804-8d25-2db0f75d5392&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "41dde3b6ec5d3bffc5d2c0baa9dcbc1b39dd9d84",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0636-3062-a65c-245b06a5742d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T20:36:02.880218Z",
-      "latest_at": "2026-07-04T20:29:12.328539Z",
+      "earliest_at": "2026-07-03T21:59:03.844491Z",
+      "latest_at": "2026-07-04T21:27:49.861321Z",
       "primary_item": {
-        "id": "127c0c0dfa0bf61e917b7ecabfcc06f1c02afe51",
+        "id": "8f1d19861d6045fed60c6b84482c3b71d7024f12",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0629-37dd-8560-d410043eb235&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0728-1541-895c-6a83a57df9a2&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -352,14 +352,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5462,
-      "importance": 0.5462,
-      "importance_score": 0.5462,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9911,
+        "recency": 0.9504,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -430,14 +430,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8515,
+        "recency": 0.8108,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -452,103 +452,6 @@
         "url": "https://www.huxiu.com/article/4872701.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_616f8e70b9f8",
-      "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "source": "epoch.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:56:54.240000Z"
-        },
-        {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "epoch.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:56:54.240000Z"
-        },
-        {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4789,
-      "importance": 0.4789,
-      "importance_score": 0.4789,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5295,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:16:16Z",
-      "latest_at": "2026-07-04T09:11:45.212000Z",
-      "primary_item": {
-        "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-        "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-        "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "source": "epoch.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -605,14 +508,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4776,
-      "importance": 0.4776,
-      "importance_score": 0.4776,
+      "score": 0.4695,
+      "importance": 0.4695,
+      "importance_score": 0.4695,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.648,
+        "recency": 0.6073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -682,14 +585,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
+      "score": 0.4868,
+      "importance": 0.4868,
+      "importance_score": 0.4868,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7346,
+        "recency": 0.6938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -760,14 +663,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4605,
-      "importance": 0.4605,
-      "importance_score": 0.4605,
+      "score": 0.4524,
+      "importance": 0.4524,
+      "importance_score": 0.4524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5627,
+        "recency": 0.522,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -838,14 +741,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4776,
-      "importance": 0.4776,
-      "importance_score": 0.4776,
+      "score": 0.4695,
+      "importance": 0.4695,
+      "importance_score": 0.4695,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.648,
+        "recency": 0.6073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -916,14 +819,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4561,
-      "importance": 0.4561,
-      "importance_score": 0.4561,
+      "score": 0.448,
+      "importance": 0.448,
+      "importance_score": 0.448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5406,
+        "recency": 0.4999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1012,14 +915,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4233,
-      "importance": 0.4233,
-      "importance_score": 0.4233,
+      "score": 0.4152,
+      "importance": 0.4152,
+      "importance_score": 0.4152,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2517,
+        "recency": 0.2109,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1090,14 +993,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4194,
-      "importance": 0.4194,
-      "importance_score": 0.4194,
+      "score": 0.4112,
+      "importance": 0.4112,
+      "importance_score": 0.4112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3568,
+        "recency": 0.3161,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1168,14 +1071,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4776,
-      "importance": 0.4776,
-      "importance_score": 0.4776,
+      "score": 0.4695,
+      "importance": 0.4695,
+      "importance_score": 0.4695,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.648,
+        "recency": 0.6073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1246,14 +1149,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4158,
-      "importance": 0.4158,
-      "importance_score": 0.4158,
+      "score": 0.4076,
+      "importance": 0.4076,
+      "importance_score": 0.4076,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3389,
+        "recency": 0.2982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1324,14 +1227,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4423,
-      "importance": 0.4423,
-      "importance_score": 0.4423,
+      "score": 0.4341,
+      "importance": 0.4341,
+      "importance_score": 0.4341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4714,
+        "recency": 0.4307,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1402,14 +1305,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.4568,
+      "importance": 0.4568,
+      "importance_score": 0.4568,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5845,
+        "recency": 0.5438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1480,14 +1383,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4028,
-      "importance": 0.4028,
-      "importance_score": 0.4028,
+      "score": 0.3946,
+      "importance": 0.3946,
+      "importance_score": 0.3946,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2739,
+        "recency": 0.2332,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1558,14 +1461,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
+      "score": 0.437,
+      "importance": 0.437,
+      "importance_score": 0.437,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4857,
+        "recency": 0.4449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1580,84 +1483,6 @@
         "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2e04f3e69e59",
-      "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-      "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-      "primary_url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T00:01:23Z"
-        },
-        {
-          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
-          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:24:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Daring Fireball",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T00:01:23Z"
-        },
-        {
-          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
-          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:24:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3775,
-      "importance": 0.3775,
-      "importance_score": 0.3775,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1473,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:24:05Z",
-      "latest_at": "2026-07-04T00:01:23Z",
-      "primary_item": {
-        "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-        "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1713,14 +1538,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.367,
-      "importance": 0.367,
-      "importance_score": 0.367,
+      "score": 0.3589,
+      "importance": 0.3589,
+      "importance_score": 0.3589,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0952,
+        "recency": 0.0545,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,81 +1563,158 @@
       }
     },
     {
-      "story_id": "story_45ca8d17b7af",
-      "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-      "url": "https://news.ycombinator.com/item?id=48780128",
-      "primary_url": "https://news.ycombinator.com/item?id=48780128",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_374bcce2a56f",
+      "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+      "primary_url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://news.ycombinator.com/item?id=48780128",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T21:59:50.034000Z"
+          "id": "149bb261267401f1de46a124cee45d1503b04343",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:40:29Z"
         },
         {
-          "id": "8b31b6696b6a371e06af7bc5dae42146f8d3cc1b",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T21:21:08Z"
+          "id": "021404ebcdd10f9848461b5c0b211ecc57ff9f11",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches: new research",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:40:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://news.ycombinator.com/item?id=48780128",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T21:59:50.034000Z"
+          "id": "149bb261267401f1de46a124cee45d1503b04343",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:40:29Z"
         },
         {
-          "id": "8b31b6696b6a371e06af7bc5dae42146f8d3cc1b",
-          "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-          "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T21:21:08Z"
+          "id": "021404ebcdd10f9848461b5c0b211ecc57ff9f11",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches: new research",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:40:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3606,
-      "importance": 0.3606,
-      "importance_score": 0.3606,
+      "score": 0.3581,
+      "importance": 0.3581,
+      "importance_score": 0.3581,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0629,
+        "recency": 0.0505,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T21:21:08Z",
-      "latest_at": "2026-07-03T21:59:50.034000Z",
+      "earliest_at": "2026-07-03T22:40:29Z",
+      "latest_at": "2026-07-03T22:40:29Z",
       "primary_item": {
-        "id": "ae5202692aa13612f34edecf55fd49ee6864fadb",
-        "title": "人工智能优先：联邦政府如何将人工智能置于人类和地球之上 / AI First: How the Federal Government Is Prioritizing AI over People and Planet",
-        "url": "https://news.ycombinator.com/item?id=48780128",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "149bb261267401f1de46a124cee45d1503b04343",
+        "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_d73ee8c7b5f3",
+      "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
+      "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872597.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "cd7180fffe94a5207edaa3826d07636fbe1cd096",
+          "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
+          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "76e79084efd3930c63d23172944ba84805e8b824",
+          "title": "GPU帝国松动：推理芯片正在重写AI算力格局",
+          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:28:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "cd7180fffe94a5207edaa3826d07636fbe1cd096",
+          "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
+          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "76e79084efd3930c63d23172944ba84805e8b824",
+          "title": "GPU帝国松动：推理芯片正在重写AI算力格局",
+          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:28:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3553,
+      "importance": 0.3553,
+      "importance_score": 0.3553,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.66,
+        "recency": 0.0217,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:28:39Z",
+      "latest_at": "2026-07-03T21:59:03.844491Z",
+      "primary_item": {
+        "id": "cd7180fffe94a5207edaa3826d07636fbe1cd096",
+        "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
+        "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
