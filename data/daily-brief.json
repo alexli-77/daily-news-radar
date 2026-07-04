@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-04T15:39:47.818499Z",
+  "generated_at": "2026-07-04T16:55:23.389988Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0140-226d-bdbe-78ff377f8209&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0140-226d-bdbe-78ff377f8209&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0255-5309-b5e5-5c1cb246c4fa&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0255-5309-b5e5-5c1cb246c4fa&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "66537103e3262bf778d689188b7256b8d7a9b499",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0255-5309-b5e5-5c1cb246c4fa&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "25f6b71d924e01eb6a3e0372be5aaec250d52791",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "680889a3a5b080f06370d8cb229aaa12d7562883",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0355-28ff-a2c1-d944ded16357&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "e733bf63b791b91f3cd9bc4e8c7ff083207ebef4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0220-28d9-acc0-fed247a07dc4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "66537103e3262bf778d689188b7256b8d7a9b499",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0255-5309-b5e5-5c1cb246c4fa&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "25f6b71d924e01eb6a3e0372be5aaec250d52791",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0140-226d-bdbe-78ff377f8209&fp=-3",
@@ -237,15 +246,6 @@
           "id": "680889a3a5b080f06370d8cb229aaa12d7562883",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0355-28ff-a2c1-d944ded16357&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "e733bf63b791b91f3cd9bc4e8c7ff083207ebef4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0220-28d9-acc0-fed247a07dc4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T16:20:05.275265Z",
-      "latest_at": "2026-07-04T15:39:47.818499Z",
+      "earliest_at": "2026-07-03T17:55:03.850699Z",
+      "latest_at": "2026-07-04T16:55:23.389988Z",
       "primary_item": {
-        "id": "25f6b71d924e01eb6a3e0372be5aaec250d52791",
+        "id": "66537103e3262bf778d689188b7256b8d7a9b499",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0140-226d-bdbe-78ff377f8209&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0255-5309-b5e5-5c1cb246c4fa&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,20 +315,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7284,
+        "recency": 0.6759,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-04T09:08:41Z",
       "latest_at": "2026-07-04T09:08:41Z",
@@ -375,14 +374,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6201,
+        "recency": 0.5676,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -400,137 +399,79 @@
       }
     },
     {
-      "story_id": "story_9c109395d2b1",
-      "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-      "url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-      "primary_url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b283599ce4a606d523943c87ff8ca447fe3b0f78",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b283599ce4a606d523943c87ff8ca447fe3b0f78",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5564,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-04T05:01:02Z",
-      "latest_at": "2026-07-04T05:01:02Z",
-      "primary_item": {
-        "id": "b283599ce4a606d523943c87ff8ca447fe3b0f78",
-        "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-        "url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_96aeaf10e3fa",
-      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-      "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
-      "primary_url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+      "story_id": "story_abc36e33f856",
+      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9355,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T12:02:17.228286Z",
-      "latest_at": "2026-07-04T14:06:58.411333Z",
+      "earliest_at": "2026-07-04T15:19:14Z",
+      "latest_at": "2026-07-04T16:55:23.389988Z",
       "primary_item": {
-        "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-        "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -608,14 +549,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.5086,
+      "importance": 0.5086,
+      "importance_score": 0.5086,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7305,
+        "recency": 0.678,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -686,14 +627,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.849,
+        "recency": 0.7965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -707,6 +648,83 @@
         "title": "CoplayDev / unity-mcp",
         "url": "https://github.com/CoplayDev/unity-mcp",
         "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_96aeaf10e3fa",
+      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+      "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+      "primary_url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.883,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T12:02:17.228286Z",
+      "latest_at": "2026-07-04T14:06:58.411333Z",
+      "primary_item": {
+        "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
+        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+        "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -764,14 +782,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5007,
-      "importance": 0.5007,
-      "importance_score": 0.5007,
+      "score": 0.4902,
+      "importance": 0.4902,
+      "importance_score": 0.4902,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7637,
+        "recency": 0.7112,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -842,14 +860,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.849,
+        "recency": 0.7965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -920,14 +938,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4825,
-      "importance": 0.4825,
-      "importance_score": 0.4825,
+      "score": 0.472,
+      "importance": 0.472,
+      "importance_score": 0.472,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6724,
+        "recency": 0.6199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -942,84 +960,6 @@
         "url": "https://news.ycombinator.com/item?id=48782890",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cec279eb3744",
-      "title": "都有 AI 了，还要读书博主干吗？",
-      "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872670.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-          "title": "都有 AI 了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
-          "title": "都有AI了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T09:35:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-          "title": "都有 AI 了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
-          "title": "都有AI了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T09:35:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7855,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T09:35:34Z",
-      "latest_at": "2026-07-04T10:30:51.940917Z",
-      "primary_item": {
-        "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-        "title": "都有 AI 了，还要读书博主干吗？",
-        "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1076,14 +1016,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4963,
-      "importance": 0.4963,
-      "importance_score": 0.4963,
+      "score": 0.4858,
+      "importance": 0.4858,
+      "importance_score": 0.4858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7416,
+        "recency": 0.6891,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1172,14 +1112,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4635,
-      "importance": 0.4635,
-      "importance_score": 0.4635,
+      "score": 0.453,
+      "importance": 0.453,
+      "importance_score": 0.453,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4526,
+        "recency": 0.4001,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1250,14 +1190,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4596,
-      "importance": 0.4596,
-      "importance_score": 0.4596,
+      "score": 0.4491,
+      "importance": 0.4491,
+      "importance_score": 0.4491,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5578,
+        "recency": 0.5053,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1328,14 +1268,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.849,
+        "recency": 0.7965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1406,14 +1346,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.456,
-      "importance": 0.456,
-      "importance_score": 0.456,
+      "score": 0.4455,
+      "importance": 0.4455,
+      "importance_score": 0.4455,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5399,
+        "recency": 0.4874,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1428,6 +1368,84 @@
         "url": "https://danluu.com/ai-coding",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_cec279eb3744",
+      "title": "都有 AI 了，还要读书博主干吗？",
+      "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872670.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
+          "title": "都有 AI 了，还要读书博主干吗？",
+          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
+          "title": "都有AI了，还要读书博主干吗？",
+          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T09:35:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
+          "title": "都有 AI 了，还要读书博主干吗？",
+          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
+          "title": "都有AI了，还要读书博主干吗？",
+          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T09:35:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4946,
+      "importance": 0.4946,
+      "importance_score": 0.4946,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.733,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T09:35:34Z",
+      "latest_at": "2026-07-04T10:30:51.940917Z",
+      "primary_item": {
+        "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
+        "title": "都有 AI 了，还要读书博主干吗？",
+        "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1484,14 +1502,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.443,
-      "importance": 0.443,
-      "importance_score": 0.443,
+      "score": 0.4325,
+      "importance": 0.4325,
+      "importance_score": 0.4325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4749,
+        "recency": 0.4224,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1600,14 +1618,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4375,
-      "importance": 0.4375,
-      "importance_score": 0.4375,
+      "score": 0.427,
+      "importance": 0.427,
+      "importance_score": 0.427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1973,
+        "recency": 0.1448,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1678,14 +1696,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4853,
-      "importance": 0.4853,
-      "importance_score": 0.4853,
+      "score": 0.4748,
+      "importance": 0.4748,
+      "importance_score": 0.4748,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6866,
+        "recency": 0.6341,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1756,14 +1774,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4177,
-      "importance": 0.4177,
-      "importance_score": 0.4177,
+      "score": 0.4072,
+      "importance": 0.4072,
+      "importance_score": 0.4072,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3483,
+        "recency": 0.2958,
         "story_heat": 0.25
       },
       "category": "watch",
