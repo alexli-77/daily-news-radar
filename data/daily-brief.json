@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-04T01:05:32.820213Z",
+  "generated_at": "2026-07-04T05:03:01.185875Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1106-00a8-80d2-b383b30749dd&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-1106-00a8-80d2-b383b30749dd&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1503-2327-85a8-9a1d2161511f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-1503-2327-85a8-9a1d2161511f&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ff2f019e870390e2b798024227d0bee9a3ef166e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1503-2327-85a8-9a1d2161511f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4b286918883148ca6c5b97980b2d6dcb1b4ae772",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "f60e1f888c3ea19561f9e7a858af71ef7ac78edb",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1745-1523-80d3-073bc8067b88&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "384cfb11821fcb3223e87860ca15d7506bda7e61",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1424-231d-b63a-f010b223ac5a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "ff2f019e870390e2b798024227d0bee9a3ef166e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1503-2327-85a8-9a1d2161511f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4b286918883148ca6c5b97980b2d6dcb1b4ae772",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1106-00a8-80d2-b383b30749dd&fp=-3",
@@ -219,15 +228,6 @@
           "id": "f60e1f888c3ea19561f9e7a858af71ef7ac78edb",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1745-1523-80d3-073bc8067b88&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "384cfb11821fcb3223e87860ca15d7506bda7e61",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1424-231d-b63a-f010b223ac5a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T04:23:57.670393Z",
-      "latest_at": "2026-07-04T01:05:32.820213Z",
+      "earliest_at": "2026-07-03T07:44:48.306567Z",
+      "latest_at": "2026-07-04T05:03:01.185875Z",
       "primary_item": {
-        "id": "4b286918883148ca6c5b97980b2d6dcb1b4ae772",
+        "id": "ff2f019e870390e2b798024227d0bee9a3ef166e",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1106-00a8-80d2-b383b30749dd&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1503-2327-85a8-9a1d2161511f&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,21 +297,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5557,
+        "recency": 0.3908,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T14:25:43Z",
       "latest_at": "2026-07-03T14:25:43Z",
@@ -358,20 +357,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7599,
+        "recency": 0.595,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T19:19:45Z",
       "latest_at": "2026-07-03T19:19:45Z",
@@ -418,20 +416,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.74,
+        "recency": 0.5751,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T18:51:06Z",
       "latest_at": "2026-07-03T18:51:06Z",
@@ -440,65 +437,6 @@
         "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
         "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
         "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94916d673c4a",
-      "title": "Leanstral 1.5：人人可用的证明丰富性",
-      "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-      "primary_url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5933,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T15:19:52Z",
-      "latest_at": "2026-07-03T15:19:52Z",
-      "primary_item": {
-        "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-        "title": "Leanstral 1.5：人人可用的证明丰富性",
-        "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -556,17 +494,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
+      "score": 0.6945,
+      "importance": 0.6945,
+      "importance_score": 0.6945,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4524,
+        "recency": 0.2875,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -635,14 +573,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7151,
-      "importance": 0.7151,
-      "importance_score": 0.7151,
+      "score": 0.6821,
+      "importance": 0.6821,
+      "importance_score": 0.6821,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3906,
+        "recency": 0.2257,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -658,6 +596,85 @@
         "url": "https://www.aibase.com/news/29379",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1d6a0d8f7365",
+      "title": "面向 Web 开发者的 Safari MCP 服务器",
+      "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+      "primary_url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T09:59:42Z"
+        },
+        {
+          "id": "99e9259b5479ee162bbb3a9d1956bfa40caffab1",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+          "source": "webkit.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T09:59:42.679000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "webkit.org"
+      ],
+      "items": [
+        {
+          "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T09:59:42Z"
+        },
+        {
+          "id": "99e9259b5479ee162bbb3a9d1956bfa40caffab1",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+          "source": "webkit.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T09:59:42.679000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6782,
+      "importance": 0.6782,
+      "importance_score": 0.6782,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.206,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T09:59:42Z",
+      "latest_at": "2026-07-03T09:59:42.679000Z",
+      "primary_item": {
+        "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+        "title": "面向 Web 开发者的 Safari MCP 服务器",
+        "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -714,14 +731,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6925,
-      "importance": 0.6925,
-      "importance_score": 0.6925,
+      "score": 0.6595,
+      "importance": 0.6595,
+      "importance_score": 0.6595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2773,
+        "recency": 0.1124,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -793,14 +810,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6801,
-      "importance": 0.6801,
-      "importance_score": 0.6801,
+      "score": 0.6472,
+      "importance": 0.6472,
+      "importance_score": 0.6472,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2157,
+        "recency": 0.0508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -819,82 +836,237 @@
       }
     },
     {
-      "story_id": "story_d6403d02c2c6",
-      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-      "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-      "primary_url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_e34f076112fc",
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "url": "https://www.36kr.com/p/3880629882679301",
+      "primary_url": "https://www.36kr.com/p/3880629882679301",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06Z"
+          "id": "214fd98757e9a3b5f2abadb597a74db09dde621d",
+          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "url": "https://www.36kr.com/p/3880629882679301",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
+          "id": "313797d77cee023d6cf1b214745bf2f5227124f0",
+          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T01:03:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
+        "36氪 (36Kr)",
+        "36氪 · 24小时热榜"
       ],
       "items": [
         {
-          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06Z"
+          "id": "214fd98757e9a3b5f2abadb597a74db09dde621d",
+          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "url": "https://www.36kr.com/p/3880629882679301",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
+          "id": "313797d77cee023d6cf1b214745bf2f5227124f0",
+          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T01:03:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.669,
-      "importance": 0.669,
-      "importance_score": 0.669,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.1601,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-03T04:56:06Z",
-      "latest_at": "2026-07-03T04:56:06.814000Z",
+      "earliest_at": "2026-07-04T01:03:44Z",
+      "latest_at": "2026-07-04T05:03:01.185875Z",
       "primary_item": {
-        "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
-        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-        "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "214fd98757e9a3b5f2abadb597a74db09dde621d",
+        "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+        "url": "https://www.36kr.com/p/3880629882679301",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_5fa8133bc14c",
+      "title": "Leanstral 1.5：面向所有人的丰富性证明",
+      "url": "https://mistral.ai/news/leanstral-1-5",
+      "primary_url": "https://mistral.ai/news/leanstral-1-5",
+      "source": "mistral.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "a28ad85e2f46382eea59a5d125b45c7678ea34fb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明 / Leanstral 1.5: Proof abundance for all",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "a28ad85e2f46382eea59a5d125b45c7678ea34fb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明 / Leanstral 1.5: Proof abundance for all",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9171,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T22:33:10Z",
+      "latest_at": "2026-07-04T03:03:37.023000Z",
+      "primary_item": {
+        "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+        "title": "Leanstral 1.5：面向所有人的丰富性证明",
+        "url": "https://mistral.ai/news/leanstral-1-5",
+        "source": "mistral.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b7e86ff92336",
+      "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "primary_url": "https://www.wafer.ai/blog/glm52-amd",
+      "source": "www.wafer.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T02:31:35.646000Z"
+        },
+        {
+          "id": "faa9fd4ba6a828ca085b5ca81ab9627a0f7b7ec1",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T21:49:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.wafer.ai"
+      ],
+      "items": [
+        {
+          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T02:31:35.646000Z"
+        },
+        {
+          "id": "faa9fd4ba6a828ca085b5ca81ab9627a0f7b7ec1",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T21:49:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8948,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:49:06Z",
+      "latest_at": "2026-07-04T02:31:35.646000Z",
+      "primary_item": {
+        "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+        "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+        "url": "https://www.wafer.ai/blog/glm52-amd",
+        "source": "www.wafer.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -989,14 +1161,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8044,
+        "recency": 0.6395,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1067,14 +1239,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.4972,
+      "importance": 0.4972,
+      "importance_score": 0.4972,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9107,
+        "recency": 0.7458,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1145,14 +1317,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9044,
+        "recency": 0.7395,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1167,6 +1339,83 @@
         "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_30ac56cabc02",
+      "title": "阿姆斯特丹发明了消防队 / Amsterdam invented the fire department",
+      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+      "primary_url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
+          "title": "阿姆斯特丹发明了消防队 / Amsterdam invented the fire department",
+          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:46:18Z"
+        },
+        {
+          "id": "dd3e44657bab409de0897fbaad07d9ca7ae06604",
+          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
+          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:46:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
+          "title": "阿姆斯特丹发明了消防队 / Amsterdam invented the fire department",
+          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:46:18Z"
+        },
+        {
+          "id": "dd3e44657bab409de0897fbaad07d9ca7ae06604",
+          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
+          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:46:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4957,
+      "importance": 0.4957,
+      "importance_score": 0.4957,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7384,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T22:46:18Z",
+      "latest_at": "2026-07-03T22:46:18Z",
+      "primary_item": {
+        "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
+        "title": "阿姆斯特丹发明了消防队 / Amsterdam invented the fire department",
+        "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1223,14 +1472,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.4921,
+      "importance": 0.4921,
+      "importance_score": 0.4921,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.66,
-        "recency": 0.8705,
+        "recency": 0.7056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,14 +1569,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5205,
-      "importance": 0.5205,
-      "importance_score": 0.5205,
+      "score": 0.4875,
+      "importance": 0.4875,
+      "importance_score": 0.4875,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7376,
+        "recency": 0.5727,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1345,30 +1594,30 @@
       }
     },
     {
-      "story_id": "story_8efe66f6c2e3",
-      "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
-      "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
-      "primary_url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+      "story_id": "story_374bcce2a56f",
+      "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+      "primary_url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "b23399df6cec0ab3e3dd64ccea21265fc1ea20d0",
-          "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
-          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "id": "149bb261267401f1de46a124cee45d1503b04343",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T21:42:19Z"
+          "published_at": "2026-07-03T22:40:29Z"
         },
         {
-          "id": "3e8cfdde29d4b9e13adb09f9cd0385d2e0dced05",
-          "title": "再见，永远，大概吧 / Goodebye Forever Probably: Why I’m leaving developer relations",
-          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "id": "021404ebcdd10f9848461b5c0b211ecc57ff9f11",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches: new research",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T12:27:23Z"
+          "published_at": "2026-07-03T22:40:29Z"
         }
       ],
       "source_count": 2,
@@ -1377,46 +1626,46 @@
       ],
       "items": [
         {
-          "id": "b23399df6cec0ab3e3dd64ccea21265fc1ea20d0",
-          "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
-          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "id": "149bb261267401f1de46a124cee45d1503b04343",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T21:42:19Z"
+          "published_at": "2026-07-03T22:40:29Z"
         },
         {
-          "id": "3e8cfdde29d4b9e13adb09f9cd0385d2e0dced05",
-          "title": "再见，永远，大概吧 / Goodebye Forever Probably: Why I’m leaving developer relations",
-          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "id": "021404ebcdd10f9848461b5c0b211ecc57ff9f11",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches: new research",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T12:27:23Z"
+          "published_at": "2026-07-03T22:40:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8589,
+        "recency": 0.7343,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T12:27:23Z",
-      "latest_at": "2026-07-03T21:42:19Z",
+      "earliest_at": "2026-07-03T22:40:29Z",
+      "latest_at": "2026-07-03T22:40:29Z",
       "primary_item": {
-        "id": "b23399df6cec0ab3e3dd64ccea21265fc1ea20d0",
-        "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
-        "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+        "id": "149bb261267401f1de46a124cee45d1503b04343",
+        "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1494,14 +1743,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.4901,
+      "importance": 0.4901,
+      "importance_score": 0.4901,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7505,
+        "recency": 0.5856,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1516,258 +1765,6 @@
         "url": "https://news.ycombinator.com/item?id=48777144",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c1684a2b8eee",
-      "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
-      "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872592.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4253949248bcd3e2a8592fb2ea782d12fdb92d51",
-          "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
-          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "058ee1328dbe08a55f985cd70f0f1ac051dd497f",
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T21:02:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "4253949248bcd3e2a8592fb2ea782d12fdb92d51",
-          "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
-          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "058ee1328dbe08a55f985cd70f0f1ac051dd497f",
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T21:02:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8705,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:02:49Z",
-      "latest_at": "2026-07-03T21:59:03.844491Z",
-      "primary_item": {
-        "id": "4253949248bcd3e2a8592fb2ea782d12fdb92d51",
-        "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
-        "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9b40a0a6a0ae",
-      "title": "请停止这场关于人工智能的“自信秀”",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "primary_url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "source": "www.elenaverna.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
-          "title": "请停止这场关于人工智能的“自信秀”",
-          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-          "source": "www.elenaverna.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T14:31:55.291000Z"
-        },
-        {
-          "id": "2378c5b3bd688fed54ed9cdc0bb462009a9729e1",
-          "title": "请停止AI信心剧场 / Please stop the AI confidence theater",
-          "url": "https://news.ycombinator.com/item?id=48774414",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T14:14:32.877000Z"
-        },
-        {
-          "id": "e57ec620f64951bfc9f616e3ef61f05e76966e5b",
-          "title": "请停止这场关于人工智能的“自信秀” / Please stop the AI confidence theater",
-          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T12:51:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.elenaverna.com"
-      ],
-      "items": [
-        {
-          "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
-          "title": "请停止这场关于人工智能的“自信秀”",
-          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-          "source": "www.elenaverna.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T14:31:55.291000Z"
-        },
-        {
-          "id": "2378c5b3bd688fed54ed9cdc0bb462009a9729e1",
-          "title": "请停止AI信心剧场 / Please stop the AI confidence theater",
-          "url": "https://news.ycombinator.com/item?id=48774414",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T14:14:32.877000Z"
-        },
-        {
-          "id": "e57ec620f64951bfc9f616e3ef61f05e76966e5b",
-          "title": "请停止这场关于人工智能的“自信秀” / Please stop the AI confidence theater",
-          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T12:51:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.485,
-      "importance": 0.485,
-      "importance_score": 0.485,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.56,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T12:51:17Z",
-      "latest_at": "2026-07-03T14:31:55.291000Z",
-      "primary_item": {
-        "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
-        "title": "请停止这场关于人工智能的“自信秀”",
-        "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-        "source": "www.elenaverna.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b21c281561e9",
-      "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
-          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T16:55:50.711000Z"
-        },
-        {
-          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
-          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T15:51:47.909000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
-          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T16:55:50.711000Z"
-        },
-        {
-          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
-          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T15:51:47.909000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.48,
-      "importance": 0.48,
-      "importance_score": 0.48,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6599,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T15:51:47.909000Z",
-      "latest_at": "2026-07-03T16:55:50.711000Z",
-      "primary_item": {
-        "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
-        "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
       }
     }
   ]
