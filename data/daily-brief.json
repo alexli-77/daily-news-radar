@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-04T23:30:42.454314Z",
+  "generated_at": "2026-07-05T02:14:56.100070Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0931-07b5-b6da-27ada905b8f8&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0931-07b5-b6da-27ada905b8f8&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1215-2431-be56-a19b708c5042&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-1215-2431-be56-a19b708c5042&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "e9cdea61abe7540da77f697919983d223ad2ac6f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1215-2431-be56-a19b708c5042&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "0fd5bca79fadc0cf052a2ae0364894154fc76361",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "ff2f019e870390e2b798024227d0bee9a3ef166e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1503-2327-85a8-9a1d2161511f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4b286918883148ca6c5b97980b2d6dcb1b4ae772",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1106-00a8-80d2-b383b30749dd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "e9cdea61abe7540da77f697919983d223ad2ac6f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1215-2431-be56-a19b708c5042&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "0fd5bca79fadc0cf052a2ae0364894154fc76361",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0931-07b5-b6da-27ada905b8f8&fp=-3",
@@ -255,15 +264,6 @@
           "id": "ff2f019e870390e2b798024227d0bee9a3ef166e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1503-2327-85a8-9a1d2161511f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4b286918883148ca6c5b97980b2d6dcb1b4ae772",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1106-00a8-80d2-b383b30749dd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,24 +288,33 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-04T01:05:32.820213Z",
-      "latest_at": "2026-07-04T23:30:42.454314Z",
+      "earliest_at": "2026-07-04T05:03:01.185875Z",
+      "latest_at": "2026-07-05T02:14:56.100070Z",
       "primary_item": {
-        "id": "0fd5bca79fadc0cf052a2ae0364894154fc76361",
+        "id": "e9cdea61abe7540da77f697919983d223ad2ac6f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0931-07b5-b6da-27ada905b8f8&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1215-2431-be56-a19b708c5042&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
       "story_id": "story_7e9ffc3a6038",
-      "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://news.ycombinator.com/item?id=48789428",
-      "primary_url": "https://news.ycombinator.com/item?id=48789428",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "primary_url": "https://github.com/openai/codex/issues/30364",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "1491dceae844e236964ec16492437e204db4290b",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T23:51:31.657000Z"
+        },
         {
           "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
           "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
@@ -317,7 +326,7 @@
         },
         {
           "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
           "url": "https://github.com/openai/codex/issues/30364",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -325,13 +334,23 @@
           "published_at": "2026-07-04T21:51:09Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
+        "github.com",
         "hackernews"
       ],
       "items": [
         {
+          "id": "1491dceae844e236964ec16492437e204db4290b",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T23:51:31.657000Z"
+        },
+        {
           "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
           "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
           "url": "https://news.ycombinator.com/item?id=48789428",
@@ -342,7 +361,7 @@
         },
         {
           "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
           "url": "https://github.com/openai/codex/issues/30364",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -350,28 +369,184 @@
           "published_at": "2026-07-04T21:51:09Z"
         }
       ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5531,
+      "importance": 0.5531,
+      "importance_score": 0.5531,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9004,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T21:51:09Z",
+      "latest_at": "2026-07-04T23:51:31.657000Z",
+      "primary_item": {
+        "id": "1491dceae844e236964ec16492437e204db4290b",
+        "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_85705186a84e",
+      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://news.ycombinator.com/item?id=48789986",
+      "primary_url": "https://news.ycombinator.com/item?id=48789986",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:15:47.602000Z"
+        },
+        {
+          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:25:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:15:47.602000Z"
+        },
+        {
+          "id": "842a41ee41e25e7c49bce7afcc949483e9dac42b",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T23:25:53Z"
+        }
+      ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9485,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T21:51:09Z",
-      "latest_at": "2026-07-04T22:16:36.431000Z",
+      "earliest_at": "2026-07-04T23:25:53Z",
+      "latest_at": "2026-07-05T02:15:47.602000Z",
       "primary_item": {
-        "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-        "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-        "url": "https://news.ycombinator.com/item?id=48789428",
+        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+        "url": "https://news.ycombinator.com/item?id=48789986",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_9e78dadfe763",
+      "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "url": "https://news.ycombinator.com/item?id=48789325",
+      "primary_url": "https://news.ycombinator.com/item?id=48789325",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:15:47.602000Z"
+        },
+        {
+          "id": "d42df26464b2a7805bcbe1ab12eaec8a04a8aa2e",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T21:35:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:15:47.602000Z"
+        },
+        {
+          "id": "d42df26464b2a7805bcbe1ab12eaec8a04a8aa2e",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T21:35:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T21:35:30Z",
+      "latest_at": "2026-07-05T02:15:47.602000Z",
+      "primary_item": {
+        "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+        "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+        "url": "https://news.ycombinator.com/item?id=48789325",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -429,14 +604,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
+      "score": 0.4835,
+      "importance": 0.4835,
+      "importance_score": 0.4835,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7914,
+        "recency": 0.6773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -507,14 +682,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4931,
-      "importance": 0.4931,
-      "importance_score": 0.4931,
+      "score": 0.4703,
+      "importance": 0.4703,
+      "importance_score": 0.4703,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7255,
+        "recency": 0.6114,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -529,6 +704,83 @@
         "url": "https://www.huxiu.com/article/4872701.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_09d5ebd5eb2a",
+      "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+      "url": "https://www.v2ex.com/t/1225003",
+      "primary_url": "https://www.v2ex.com/t/1225003",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "7d353032b7daa24cf69029deb13679e494371135",
+          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        },
+        {
+          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
+          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "7d353032b7daa24cf69029deb13679e494371135",
+          "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        },
+        {
+          "id": "926c3b12a08ac735cdc96746f144a82e670e9c96",
+          "title": "[程序员] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+          "url": "https://www.v2ex.com/t/1225003",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T16:19:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4653,
+      "importance": 0.4653,
+      "importance_score": 0.4653,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5865,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T16:19:27Z",
+      "latest_at": "2026-07-04T16:19:27Z",
+      "primary_item": {
+        "id": "7d353032b7daa24cf69029deb13679e494371135",
+        "title": "[Claude] 之前的 Claude code 账号被封了，重新注册了一个还会被封吗？",
+        "url": "https://www.v2ex.com/t/1225003",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -585,14 +837,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.4982,
+      "importance": 0.4982,
+      "importance_score": 0.4982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8651,
+        "recency": 0.751,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -663,14 +915,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4524,
-      "importance": 0.4524,
-      "importance_score": 0.4524,
+      "score": 0.4296,
+      "importance": 0.4296,
+      "importance_score": 0.4296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5219,
+        "recency": 0.4079,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -740,14 +992,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4697,
-      "importance": 0.4697,
-      "importance_score": 0.4697,
+      "score": 0.4469,
+      "importance": 0.4469,
+      "importance_score": 0.4469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6085,
+        "recency": 0.4945,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -818,14 +1070,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4353,
-      "importance": 0.4353,
-      "importance_score": 0.4353,
+      "score": 0.4125,
+      "importance": 0.4125,
+      "importance_score": 0.4125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4367,
+        "recency": 0.3226,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -896,14 +1148,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4524,
-      "importance": 0.4524,
-      "importance_score": 0.4524,
+      "score": 0.4296,
+      "importance": 0.4296,
+      "importance_score": 0.4296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5219,
+        "recency": 0.4079,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -974,14 +1226,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4309,
-      "importance": 0.4309,
-      "importance_score": 0.4309,
+      "score": 0.4081,
+      "importance": 0.4081,
+      "importance_score": 0.4081,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4145,
+        "recency": 0.3005,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -996,84 +1248,6 @@
         "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e34f076112fc",
-      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-      "url": "https://www.36kr.com/p/3880629882679301",
-      "primary_url": "https://www.36kr.com/p/3880629882679301",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "214fd98757e9a3b5f2abadb597a74db09dde621d",
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "url": "https://www.36kr.com/p/3880629882679301",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "313797d77cee023d6cf1b214745bf2f5227124f0",
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "url": "https://36kr.com/p/3880629882679301?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T01:03:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "36氪 · 24小时热榜"
-      ],
-      "items": [
-        {
-          "id": "214fd98757e9a3b5f2abadb597a74db09dde621d",
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "url": "https://www.36kr.com/p/3880629882679301",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "313797d77cee023d6cf1b214745bf2f5227124f0",
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "url": "https://36kr.com/p/3880629882679301?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T01:03:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3942,
-      "importance": 0.3942,
-      "importance_score": 0.3942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2308,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T01:03:44Z",
-      "latest_at": "2026-07-04T05:03:01.185875Z",
-      "primary_item": {
-        "id": "214fd98757e9a3b5f2abadb597a74db09dde621d",
-        "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-        "url": "https://www.36kr.com/p/3880629882679301",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1130,14 +1304,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4524,
-      "importance": 0.4524,
-      "importance_score": 0.4524,
+      "score": 0.4296,
+      "importance": 0.4296,
+      "importance_score": 0.4296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5219,
+        "recency": 0.4079,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1208,14 +1382,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3906,
-      "importance": 0.3906,
-      "importance_score": 0.3906,
+      "score": 0.3678,
+      "importance": 0.3678,
+      "importance_score": 0.3678,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2129,
+        "recency": 0.0988,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1286,14 +1460,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4397,
-      "importance": 0.4397,
-      "importance_score": 0.4397,
+      "score": 0.4169,
+      "importance": 0.4169,
+      "importance_score": 0.4169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4584,
+        "recency": 0.3444,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1306,6 +1480,84 @@
         "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
         "title": "都有 AI 了，还要读书博主干吗？",
         "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_ec5e6b0606c1",
+      "title": "业内首个 AI-eSIM 产业协同平台成立",
+      "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
+          "title": "业内首个 AI-eSIM 产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T07:20:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
+          "title": "业内首个 AI-eSIM 产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T07:20:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3971,
+      "importance": 0.3971,
+      "importance_score": 0.3971,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2456,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T07:20:31Z",
+      "latest_at": "2026-07-04T08:08:33.379475Z",
+      "primary_item": {
+        "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
+        "title": "业内首个 AI-eSIM 产业协同平台成立",
+        "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1364,14 +1616,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4171,
-      "importance": 0.4171,
-      "importance_score": 0.4171,
+      "score": 0.3943,
+      "importance": 0.3943,
+      "importance_score": 0.3943,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3453,
+        "recency": 0.2313,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1386,84 +1638,6 @@
         "url": "https://news.ycombinator.com/item?id=48782890",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ec5e6b0606c1",
-      "title": "业内首个 AI-eSIM 产业协同平台成立",
-      "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
-          "title": "业内首个 AI-eSIM 产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T07:20:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
-          "title": "业内首个 AI-eSIM 产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T07:20:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4199,
-      "importance": 0.4199,
-      "importance_score": 0.4199,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3596,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T07:20:31Z",
-      "latest_at": "2026-07-04T08:08:33.379475Z",
-      "primary_item": {
-        "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
-        "title": "业内首个 AI-eSIM 产业协同平台成立",
-        "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
