@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-05T14:26:15.459952Z",
+  "generated_at": "2026-07-05T15:44:50.982960Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0026-44a9-ad95-aaef6ef15cf4&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0026-44a9-ad95-aaef6ef15cf4&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0145-186f-8f6a-a0ec29bab1d5&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0145-186f-8f6a-a0ec29bab1d5&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b271cfa85393a220b36221f2eaf37bc241cefd93",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0145-186f-8f6a-a0ec29bab1d5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e02f7bc6cebade7484d886e9c4745375b3c296bb",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "66537103e3262bf778d689188b7256b8d7a9b499",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0255-5309-b5e5-5c1cb246c4fa&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "25f6b71d924e01eb6a3e0372be5aaec250d52791",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0140-226d-bdbe-78ff377f8209&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "b271cfa85393a220b36221f2eaf37bc241cefd93",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0145-186f-8f6a-a0ec29bab1d5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e02f7bc6cebade7484d886e9c4745375b3c296bb",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0026-44a9-ad95-aaef6ef15cf4&fp=-3",
@@ -255,15 +264,6 @@
           "id": "66537103e3262bf778d689188b7256b8d7a9b499",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0255-5309-b5e5-5c1cb246c4fa&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "25f6b71d924e01eb6a3e0372be5aaec250d52791",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0140-226d-bdbe-78ff377f8209&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-04T15:39:47.818499Z",
-      "latest_at": "2026-07-05T14:26:15.459952Z",
+      "earliest_at": "2026-07-04T16:55:23.389988Z",
+      "latest_at": "2026-07-05T15:44:50.982960Z",
       "primary_item": {
-        "id": "e02f7bc6cebade7484d886e9c4745375b3c296bb",
+        "id": "b271cfa85393a220b36221f2eaf37bc241cefd93",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0026-44a9-ad95-aaef6ef15cf4&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0145-186f-8f6a-a0ec29bab1d5&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,20 +333,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.725,
+        "recency": 0.6705,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T07:50:19Z",
       "latest_at": "2026-07-05T07:50:19Z",
@@ -356,6 +355,181 @@
         "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_44de5f528adc",
+      "title": "Claude 设计系统提示词",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "primary_url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T15:35:42.919000Z"
+        },
+        {
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:47:09.637000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T15:35:42.919000Z"
+        },
+        {
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T12:47:09.637000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5717,
+      "importance": 0.5717,
+      "importance_score": 0.5717,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9937,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T08:43:37Z",
+      "latest_at": "2026-07-05T15:35:42.919000Z",
+      "primary_item": {
+        "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+        "title": "Claude 设计系统提示词",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9c447cfb3acb",
+      "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+      "url": "https://news.ycombinator.com/item?id=48794803",
+      "primary_url": "https://news.ycombinator.com/item?id=48794803",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3c3ee946a69790b95bb5ff01978156de54be4c44",
+          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+          "url": "https://news.ycombinator.com/item?id=48794803",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T15:45:25.113000Z"
+        },
+        {
+          "id": "be216cbd56f0fcf069ac16ced70190a2c66568bf",
+          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+          "url": "https://github.com/christopherkarani/Espresso",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T15:02:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3c3ee946a69790b95bb5ff01978156de54be4c44",
+          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+          "url": "https://news.ycombinator.com/item?id=48794803",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T15:45:25.113000Z"
+        },
+        {
+          "id": "be216cbd56f0fcf069ac16ced70190a2c66568bf",
+          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+          "url": "https://github.com/christopherkarani/Espresso",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T15:02:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T15:02:43Z",
+      "latest_at": "2026-07-05T15:45:25.113000Z",
+      "primary_item": {
+        "id": "3c3ee946a69790b95bb5ff01978156de54be4c44",
+        "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+        "url": "https://news.ycombinator.com/item?id=48794803",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -412,14 +586,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -434,84 +608,6 @@
         "url": "https://www.huxiu.com/article/4872781.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_44de5f528adc",
-      "title": "克劳德设计系统提示 / Claude Design System Prompt",
-      "url": "https://news.ycombinator.com/item?id=48792399",
-      "primary_url": "https://news.ycombinator.com/item?id=48792399",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://news.ycombinator.com/item?id=48792399",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T12:47:09.637000Z"
-        },
-        {
-          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T08:43:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://news.ycombinator.com/item?id=48792399",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T12:47:09.637000Z"
-        },
-        {
-          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
-          "title": "克劳德设计系统提示 / Claude Design System Prompt",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T08:43:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9312,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T08:43:37Z",
-      "latest_at": "2026-07-05T12:47:09.637000Z",
-      "primary_item": {
-        "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
-        "title": "克劳德设计系统提示 / Claude Design System Prompt",
-        "url": "https://news.ycombinator.com/item?id=48792399",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -568,14 +664,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9163,
+        "recency": 0.8617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -589,6 +685,84 @@
         "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
         "url": "https://github.com/hesreallyhim/awesome-claude-code",
         "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_d7e88052ae44",
+      "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+      "url": "https://news.ycombinator.com/item?id=48793298",
+      "primary_url": "https://news.ycombinator.com/item?id=48793298",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://news.ycombinator.com/item?id=48793298",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T15:45:25.113000Z"
+        },
+        {
+          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://prediohq.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T11:30:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://news.ycombinator.com/item?id=48793298",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T15:45:25.113000Z"
+        },
+        {
+          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://prediohq.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T11:30:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T11:30:14Z",
+      "latest_at": "2026-07-05T15:45:25.113000Z",
+      "primary_item": {
+        "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+        "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+        "url": "https://news.ycombinator.com/item?id=48793298",
+        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -646,14 +820,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8704,
+        "recency": 0.8159,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -724,14 +898,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9163,
+        "recency": 0.8617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,14 +976,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8678,
+        "recency": 0.8133,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -879,14 +1053,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4895,
-      "importance": 0.4895,
-      "importance_score": 0.4895,
+      "score": 0.4786,
+      "importance": 0.4786,
+      "importance_score": 0.4786,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7077,
+        "recency": 0.6532,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -901,84 +1075,6 @@
         "url": "https://craigmod.com/essays/fast_software",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_f2aca3c59c5e",
-      "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://news.ycombinator.com/item?id=48791708",
-      "primary_url": "https://news.ycombinator.com/item?id=48791708",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://news.ycombinator.com/item?id=48791708",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T09:26:34.114000Z"
-        },
-        {
-          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T06:19:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://news.ycombinator.com/item?id=48791708",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T09:26:34.114000Z"
-        },
-        {
-          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T06:19:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7919,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T06:19:34Z",
-      "latest_at": "2026-07-05T09:26:34.114000Z",
-      "primary_item": {
-        "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
-        "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "url": "https://news.ycombinator.com/item?id=48791708",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1035,14 +1131,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7815,
+        "recency": 0.727,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1055,6 +1151,240 @@
         "id": "cf7afea64aed01d68f17a5d41f557c2957cfa10c",
         "title": "哈佛大学研究发现，人工智能原生初创企业招聘的入门级员工数量正在减少",
         "url": "https://www.businessinsider.com/ai-startups-entry-level-workers-jobs-careers-harvard-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f2aca3c59c5e",
+      "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://news.ycombinator.com/item?id=48791708",
+      "primary_url": "https://news.ycombinator.com/item?id=48791708",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://news.ycombinator.com/item?id=48791708",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T09:26:34.114000Z"
+        },
+        {
+          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T06:19:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://news.ycombinator.com/item?id=48791708",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T09:26:34.114000Z"
+        },
+        {
+          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T06:19:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7373,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T06:19:34Z",
+      "latest_at": "2026-07-05T09:26:34.114000Z",
+      "primary_item": {
+        "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
+        "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "url": "https://news.ycombinator.com/item?id=48791708",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_4a7960e33ae9",
+      "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
+      "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872728.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
+          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
+          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
+          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
+          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T07:53:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
+          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
+          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
+          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
+          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T07:53:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4954,
+      "importance": 0.4954,
+      "importance_score": 0.4954,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7369,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T07:53:38Z",
+      "latest_at": "2026-07-05T09:25:58.168700Z",
+      "primary_item": {
+        "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
+        "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
+        "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_141dc99ed661",
+      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
+        },
+        {
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T08:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "19017868000fe1555529a118219dd004ce6095fe",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T08:55:31.703000Z"
+        },
+        {
+          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
+          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
+          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T08:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4911,
+      "importance": 0.4911,
+      "importance_score": 0.4911,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7157,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T08:41:01Z",
+      "latest_at": "2026-07-05T08:55:31.703000Z",
+      "primary_item": {
+        "id": "19017868000fe1555529a118219dd004ce6095fe",
+        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
+        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1132,14 +1462,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4515,
-      "importance": 0.4515,
-      "importance_score": 0.4515,
+      "score": 0.4406,
+      "importance": 0.4406,
+      "importance_score": 0.4406,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3925,
+        "recency": 0.338,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1154,240 +1484,6 @@
         "url": "https://github.com/openai/codex/issues/30364",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4a7960e33ae9",
-      "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-      "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872728.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
-          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T07:53:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
-          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T07:53:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7915,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T07:53:38Z",
-      "latest_at": "2026-07-05T09:25:58.168700Z",
-      "primary_item": {
-        "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-        "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-        "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_141dc99ed661",
-      "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-      "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "primary_url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
-        },
-        {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "19017868000fe1555529a118219dd004ce6095fe",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T08:55:31.703000Z"
-        },
-        {
-          "id": "e33a82fb6087d743c5e2606ffefd9cea3af41eff",
-          "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。 / I've been a trucker for nearly 5 decades. AI made the job safer, but autonomous trucks still need to prove themselves.",
-          "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T08:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7703,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T08:41:01Z",
-      "latest_at": "2026-07-05T08:55:31.703000Z",
-      "primary_item": {
-        "id": "19017868000fe1555529a118219dd004ce6095fe",
-        "title": "我当卡车司机已有近50年了。人工智能让这份工作变得更安全了，但自动驾驶卡车仍需进一步改进。",
-        "url": "https://www.businessinsider.com/veteran-trucker-ai-safer-autonomous-trucks-not-ready-ingrid-brown-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_854a38c44b10",
-      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://news.ycombinator.com/item?id=48791380",
-      "primary_url": "https://news.ycombinator.com/item?id=48791380",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T05:54:15.296000Z"
-        },
-        {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://news.ycombinator.com/item?id=48791380",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T05:54:15.296000Z"
-        },
-        {
-          "id": "7099819c095c4c195d71135dec37d895ad569659",
-          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-          "url": "https://hic-ai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T05:01:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4769,
-      "importance": 0.4769,
-      "importance_score": 0.4769,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6444,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T05:01:14Z",
-      "latest_at": "2026-07-05T05:54:15.296000Z",
-      "primary_item": {
-        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
-        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
-        "url": "https://news.ycombinator.com/item?id=48791380",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1443,14 +1539,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4244,
-      "importance": 0.4244,
-      "importance_score": 0.4244,
+      "score": 0.4135,
+      "importance": 0.4135,
+      "importance_score": 0.4135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3819,
+        "recency": 0.3273,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1521,14 +1617,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4809,
-      "importance": 0.4809,
-      "importance_score": 0.4809,
+      "score": 0.4699,
+      "importance": 0.4699,
+      "importance_score": 0.4699,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6643,
+        "recency": 0.6097,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1543,6 +1639,84 @@
         "url": "https://www.huxiu.com/article/4872739.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_854a38c44b10",
+      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48791380",
+      "primary_url": "https://news.ycombinator.com/item?id=48791380",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T05:54:15.296000Z"
+        },
+        {
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T05:54:15.296000Z"
+        },
+        {
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.466,
+      "importance": 0.466,
+      "importance_score": 0.466,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5899,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T05:01:14Z",
+      "latest_at": "2026-07-05T05:54:15.296000Z",
+      "primary_item": {
+        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48791380",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1598,14 +1772,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3819,
-      "importance": 0.3819,
-      "importance_score": 0.3819,
+      "score": 0.371,
+      "importance": 0.371,
+      "importance_score": 0.371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1695,
+        "recency": 0.1149,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1620,160 +1794,6 @@
         "url": "https://rakyll.org/coding-agents",
         "source": "Lobsters (技术社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_2083792150ae",
-      "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-      "url": "https://www.v2ex.com/t/1225009",
-      "primary_url": "https://www.v2ex.com/t/1225009",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
-          "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        },
-        {
-          "id": "a9a58c17ceb6ff2a520c4f4d3526b208cc3463c6",
-          "title": "[问与答] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
-          "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        },
-        {
-          "id": "a9a58c17ceb6ff2a520c4f4d3526b208cc3463c6",
-          "title": "[问与答] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3749,
-      "importance": 0.3749,
-      "importance_score": 0.3749,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1347,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T17:40:10Z",
-      "latest_at": "2026-07-04T17:40:10Z",
-      "primary_item": {
-        "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
-        "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-        "url": "https://www.v2ex.com/t/1225009",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_212c09bd917e",
-      "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-      "url": "https://www.cggonzalez.com/blog/index.html",
-      "primary_url": "https://www.cggonzalez.com/blog/index.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        },
-        {
-          "id": "e3a40c848379619601668a5028136a155dfa63ab",
-          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        },
-        {
-          "id": "e3a40c848379619601668a5028136a155dfa63ab",
-          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4224,
-      "importance": 0.4224,
-      "importance_score": 0.4224,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3722,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T23:22:15Z",
-      "latest_at": "2026-07-04T23:22:15Z",
-      "primary_item": {
-        "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-        "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-        "url": "https://www.cggonzalez.com/blog/index.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
