@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月6日人工智能热点分享
-1、乐机器人v0.6.0，重点是想象、评估、改进。
-2、Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题，据《连线》报道，Meta 通过外包公司 Covalen 开展代号“Cannes”的项目，让数百名外包人员伪装成未成年人，向 OpenAI ChatGPT、谷歌 Gemini 及 Character.AI 发送涉及自杀、自。
-3、15 岁少年利用AI实施勒索攻击，致知名平台全站停服。
-4、Mistral AI开源数学证明利器，重点是119B参数只激活6B，解题成本仅为竞品百分之一。
-5、降低数学科研门槛，重点是Mistral AI 发布开源模型 Leanstral 1.5。
-6、AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%，斯坦福数字经济实验室基于ADP薪资数据发现，美国22-25岁软件开发人员就业较2022年峰值下降19%，而41-49岁增长14%。
-7、腾讯混元Hy3发布，重点是Agent能力和产品体验跃升。
-8、🤗 内核，重点是主要更新。
-9、8 小时追平、 2 天反超，重点是面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？。
-10、全球首例AI智能体勒索攻击浮出水面，重点是无需人类干预的自动化“作案”链条。
+2026年7月7日人工智能热点分享
+1、Claude Sonnet 5 上线后遭大量投诉，重点是频繁反驳、说教成风。
+2、微信大招加码，重点是10 亿大模型额度免费送，AI生图额度暴涨十倍。
+3、气象预警再升级，重点是“妈祖”大模型已覆盖全球 40 余国。
+4、澳大利亚官员警告，重点是部分 AI 模型已学会在实验中“作弊与欺骗”。
+5、乐机器人v0.6.0，重点是想象、评估、改进。
+6、美国首批自主地面车辆在乌克兰参战，美国自动驾驶车辆公司 Forterra 宣布，过去九个月已向乌克兰战场部署超过 100 辆基于 Polaris ATV 的 Lancer 自主地面车辆。
+7、告别纯文本！Skill-Omni重塑多模态智能体经验范式。
+8、智能体进化新刻度，重点是字节Seed发布EdgeBench基准测试。
+9、爆发式增长！国家发改委预测，重点是今年 AI 手机电脑销量将首超传统产品。
+10、蚂蚁集团开源Avernet，重点是多智能体协作迎来新基础设施。
 
 ## 原始链接
-1. 乐机器人v0.6.0：想象、评估、改进（Hugging Face 博客） - https://huggingface.co/blog/lerobot-release-v060
-2. Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题（IT之家（RSS）） - https://aihot.virxact.com/items/cmr91yrn100noslmpusn7u7q0
-3. 15 岁少年利用AI实施勒索攻击，致知名平台全站停服（AIbase） - https://www.aibase.com/news/29405
-4. Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一（AIbase） - https://www.aibase.com/news/29403
-5. 降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5（AIbase） - https://www.aibase.com/news/29404
-6. AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy
-7. 腾讯混元Hy3发布：Agent能力和产品体验跃升（AIbase） - https://www.aibase.com/news/29400
-8. 🤗 内核：主要更新（Hugging Face 博客） - https://huggingface.co/blog/revamped-kernels
-9. 8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？（AIbase） - https://www.aibase.com/news/29397
-10. 全球首例AI智能体勒索攻击浮出水面：无需人类干预的自动化“作案”链条（AIbase） - https://www.aibase.com/news/29396
+1. Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风（AIbase） - https://www.aibase.com/news/29436
+2. 微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍（AIbase） - https://www.aibase.com/news/29443
+3. 气象预警再升级：“妈祖”大模型已覆盖全球 40 余国（AIbase） - https://www.aibase.com/news/29441
+4. 澳大利亚官员警告：部分 AI 模型已学会在实验中“作弊与欺骗”（AIbase） - https://www.aibase.com/news/29440
+5. 乐机器人v0.6.0：想象、评估、改进（Hugging Face 博客） - https://huggingface.co/blog/lerobot-release-v060
+6. 美国首批自主地面车辆在乌克兰参战（TechCrunch：AI（RSS）） - https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w
+7. 告别纯文本！Skill-Omni重塑多模态智能体经验范式（AIbase） - https://www.aibase.com/news/29437
+8. 智能体进化新刻度：字节Seed发布EdgeBench基准测试（AIbase） - https://www.aibase.com/news/29439
+9. 爆发式增长！国家发改委预测：今年 AI 手机电脑销量将首超传统产品（AIbase） - https://www.aibase.com/news/29435
+10. 蚂蚁集团开源Avernet：多智能体协作迎来新基础设施（AIbase） - https://www.aibase.com/news/29438
