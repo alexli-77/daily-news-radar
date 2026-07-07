@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-07T00:11:58.150053Z",
+  "generated_at": "2026-07-07T04:30:30.162674Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1012-208b-9c96-8c9f816eae84&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260707-1012-208b-9c96-8c9f816eae84&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1430-57c7-b7f4-c42b1ef706ae&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260707-1430-57c7-b7f4-c42b1ef706ae&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "75b0f0a23f1b9964a593c8b10c0d70c9e7c12a8d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1430-57c7-b7f4-c42b1ef706ae&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a8b79a81a13679036027208ce36c3302756b0c0b",
           "title": "点击这里进入 / Click here to enter",
@@ -60,15 +69,6 @@
           "id": "3a334cfca3de81033d24018b59c1c3b32dc980e4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1813-10b5-b600-e39535a75125&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "af3b09f768c9e23374cf5d9baf725239b44c76b7",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1354-366a-95da-d926d056ea40&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -81,6 +81,15 @@
       ],
       "items": [
         {
+          "id": "75b0f0a23f1b9964a593c8b10c0d70c9e7c12a8d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1430-57c7-b7f4-c42b1ef706ae&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a8b79a81a13679036027208ce36c3302756b0c0b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1012-208b-9c96-8c9f816eae84&fp=-3",
@@ -129,15 +138,6 @@
           "id": "3a334cfca3de81033d24018b59c1c3b32dc980e4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1813-10b5-b600-e39535a75125&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "af3b09f768c9e23374cf5d9baf725239b44c76b7",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1354-366a-95da-d926d056ea40&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,12 +162,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T03:54:13.124476Z",
-      "latest_at": "2026-07-07T00:11:58.150053Z",
+      "earliest_at": "2026-07-06T08:12:43.111549Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
       "primary_item": {
-        "id": "a8b79a81a13679036027208ce36c3302756b0c0b",
+        "id": "75b0f0a23f1b9964a593c8b10c0d70c9e7c12a8d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1012-208b-9c96-8c9f816eae84&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1430-57c7-b7f4-c42b1ef706ae&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -207,14 +207,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8923,
-      "importance": 0.8923,
-      "importance_score": 0.8923,
+      "score": 0.8564,
+      "importance": 0.8564,
+      "importance_score": 0.8564,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9917,
+        "recency": 0.8122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,6 +231,246 @@
         "url": "https://huggingface.co/blog/lerobot-release-v060",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d318fef7b9ba",
+      "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
+      "url": "https://www.aibase.com/news/29419",
+      "primary_url": "https://www.aibase.com/news/29419",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1d407812a2eae659e948025343ecedd1884e4e5a",
+          "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
+          "url": "https://www.aibase.com/news/29419",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1d407812a2eae659e948025343ecedd1884e4e5a",
+          "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
+          "url": "https://www.aibase.com/news/29419",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T04:30:30.162674Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
+      "primary_item": {
+        "id": "1d407812a2eae659e948025343ecedd1884e4e5a",
+        "title": "AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档",
+        "url": "https://www.aibase.com/news/29419",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_150cf288ab79",
+      "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
+      "url": "https://www.aibase.com/news/29411",
+      "primary_url": "https://www.aibase.com/news/29411",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2f789038815ac645adfc944e8fa7143dd1abee9f",
+          "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
+          "url": "https://www.aibase.com/news/29411",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2f789038815ac645adfc944e8fa7143dd1abee9f",
+          "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
+          "url": "https://www.aibase.com/news/29411",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T04:30:30.162674Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
+      "primary_item": {
+        "id": "2f789038815ac645adfc944e8fa7143dd1abee9f",
+        "title": "xAI全面升级Grok Voice，新增 21 款多语言旗舰语音",
+        "url": "https://www.aibase.com/news/29411",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6c2696abe1fb",
+      "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
+      "url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+      "primary_url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2bb52f219236674a6ce0e031aaf5a3b505df604",
+          "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
+          "url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:56:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b2bb52f219236674a6ce0e031aaf5a3b505df604",
+          "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
+          "url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:56:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8095,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T23:56:14Z",
+      "latest_at": "2026-07-06T23:56:14Z",
+      "primary_item": {
+        "id": "b2bb52f219236674a6ce0e031aaf5a3b505df604",
+        "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
+        "url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1160c785cb6c",
+      "title": "Gemini Spark 可智能追踪话题实时反应",
+      "url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+      "primary_url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "343ab4fe1c9370f6382042970dc00908ef79f0ca",
+          "title": "Gemini Spark 可智能追踪话题实时反应",
+          "url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "343ab4fe1c9370f6382042970dc00908ef79f0ca",
+          "title": "Gemini Spark 可智能追踪话题实时反应",
+          "url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8073,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T23:52:57Z",
+      "latest_at": "2026-07-06T23:52:57Z",
+      "primary_item": {
+        "id": "343ab4fe1c9370f6382042970dc00908ef79f0ca",
+        "title": "Gemini Spark 可智能追踪话题实时反应",
+        "url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -268,14 +508,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9525,
+        "recency": 0.773,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,14 +568,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.944,
+        "recency": 0.7644,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -351,6 +591,66 @@
         "url": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
         "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d9e57ddb245d",
+      "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
+      "url": "https://www.aibase.com/news/29431",
+      "primary_url": "https://www.aibase.com/news/29431",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "356d42d5092d289d65541f6e1db6af46eb870804",
+          "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
+          "url": "https://www.aibase.com/news/29431",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "356d42d5092d289d65541f6e1db6af46eb870804",
+          "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
+          "url": "https://www.aibase.com/news/29431",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T04:30:30.162674Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
+      "primary_item": {
+        "id": "356d42d5092d289d65541f6e1db6af46eb870804",
+        "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
+        "url": "https://www.aibase.com/news/29431",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -388,20 +688,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7894,
+        "recency": 0.6099,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T19:08:45Z",
       "latest_at": "2026-07-06T19:08:45Z",
@@ -410,66 +709,6 @@
         "title": "Claude Code 团队详解四种智能体循环类型",
         "url": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
         "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7d7c67e77779",
-      "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-      "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
-      "primary_url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e74a4cfbae8fa07dce35599b15a1db4b1afa905d",
-          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-          "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:35:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e74a4cfbae8fa07dce35599b15a1db4b1afa905d",
-          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-          "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:35:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.766,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T18:35:00Z",
-      "latest_at": "2026-07-06T18:35:00Z",
-      "primary_item": {
-        "id": "e74a4cfbae8fa07dce35599b15a1db4b1afa905d",
-        "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-        "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -508,20 +747,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7557,
+        "recency": 0.5762,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T18:20:11Z",
       "latest_at": "2026-07-06T18:20:11Z",
@@ -568,20 +806,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7316,
+        "recency": 0.5521,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T17:45:30Z",
       "latest_at": "2026-07-06T17:45:30Z",
@@ -594,48 +831,48 @@
       }
     },
     {
-      "story_id": "story_ae89b6473f2d",
-      "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
-      "url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-      "primary_url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
+      "story_id": "story_8503c6afa662",
+      "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+      "url": "https://www.aibase.com/news/29433",
+      "primary_url": "https://www.aibase.com/news/29433",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "dc2fcaa2b844230ee2a7464a2f85c745547abffd",
-          "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
-          "url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:11:47Z"
+          "id": "c50170106c4c63293a6884053b51f510deb4eb3e",
+          "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+          "url": "https://www.aibase.com/news/29433",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "dc2fcaa2b844230ee2a7464a2f85c745547abffd",
-          "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
-          "url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:11:47Z"
+          "id": "c50170106c4c63293a6884053b51f510deb4eb3e",
+          "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+          "url": "https://www.aibase.com/news/29433",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7082,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -643,91 +880,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T17:11:47Z",
-      "latest_at": "2026-07-06T17:11:47Z",
+      "earliest_at": "2026-07-07T04:30:30.162674Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
       "primary_item": {
-        "id": "dc2fcaa2b844230ee2a7464a2f85c745547abffd",
-        "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
-        "url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
+        "id": "c50170106c4c63293a6884053b51f510deb4eb3e",
+        "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+        "url": "https://www.aibase.com/news/29433",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_142cdbeab35d",
-      "title": "免费开源API中转站监测网站tokhub.me上线",
-      "url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-      "primary_url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "80185cfaff2d44de5a4b08f245dd58e124dac2a0",
-          "title": "免费开源API中转站监测网站tokhub.me上线",
-          "url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T13:57:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "80185cfaff2d44de5a4b08f245dd58e124dac2a0",
-          "title": "免费开源API中转站监测网站tokhub.me上线",
-          "url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T13:57:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5735,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T13:57:49Z",
-      "latest_at": "2026-07-06T13:57:49Z",
-      "primary_item": {
-        "id": "80185cfaff2d44de5a4b08f245dd58e124dac2a0",
-        "title": "免费开源API中转站监测网站tokhub.me上线",
-        "url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_da0a4fef15a2",
-      "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-      "url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
-      "primary_url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
+      "story_id": "story_7d7c67e77779",
+      "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
+      "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
+      "primary_url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
       "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3f5992f5565e5d155b9d486e9cd480842b7bc59d",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
+          "id": "e74a4cfbae8fa07dce35599b15a1db4b1afa905d",
+          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
+          "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
+          "published_at": "2026-07-06T18:35:00Z"
         }
       ],
       "source_count": 1,
@@ -736,25 +914,84 @@
       ],
       "items": [
         {
-          "id": "3f5992f5565e5d155b9d486e9cd480842b7bc59d",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
+          "id": "e74a4cfbae8fa07dce35599b15a1db4b1afa905d",
+          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
+          "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
+          "published_at": "2026-07-06T18:35:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7035,
+        "recency": 0.5865,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T18:35:00Z",
+      "latest_at": "2026-07-06T18:35:00Z",
+      "primary_item": {
+        "id": "e74a4cfbae8fa07dce35599b15a1db4b1afa905d",
+        "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
+        "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7ae4d44106ce",
+      "title": "你的数据正在“喂养”AI：谷歌隐私设置静默更新，如何守护个人信息？",
+      "url": "https://www.aibase.com/news/29428",
+      "primary_url": "https://www.aibase.com/news/29428",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "88ca794ac4c972f6f71d6387f48e7cb5a20501a6",
+          "title": "你的数据正在“喂养”AI：谷歌隐私设置静默更新，如何守护个人信息？",
+          "url": "https://www.aibase.com/news/29428",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "88ca794ac4c972f6f71d6387f48e7cb5a20501a6",
+          "title": "你的数据正在“喂养”AI：谷歌隐私设置静默更新，如何守护个人信息？",
+          "url": "https://www.aibase.com/news/29428",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -762,14 +999,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T17:04:58Z",
-      "latest_at": "2026-07-06T17:04:58Z",
+      "earliest_at": "2026-07-07T04:30:30.162674Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
       "primary_item": {
-        "id": "3f5992f5565e5d155b9d486e9cd480842b7bc59d",
-        "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-        "url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "88ca794ac4c972f6f71d6387f48e7cb5a20501a6",
+        "title": "你的数据正在“喂养”AI：谷歌隐私设置静默更新，如何守护个人信息？",
+        "url": "https://www.aibase.com/news/29428",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -826,14 +1063,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7136,
-      "importance": 0.7136,
-      "importance_score": 0.7136,
+      "score": 0.6777,
+      "importance": 0.6777,
+      "importance_score": 0.6777,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.383,
+        "recency": 0.2034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -852,628 +1089,243 @@
       }
     },
     {
-      "story_id": "story_503c1a6c1abe",
-      "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
-      "url": "https://www.aibase.com/news/29400",
-      "primary_url": "https://www.aibase.com/news/29400",
+      "story_id": "story_b25d853849a7",
+      "title": "全新蜕变！xAI 正式更名为 SpaceXAI，马斯克完成商业版图大整合",
+      "url": "https://www.aibase.com/news/29416",
+      "primary_url": "https://www.aibase.com/news/29416",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "65ed7f60f26f3d2a2f9e7b22a8ef54393a1d7d94",
-          "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
-          "url": "https://www.aibase.com/news/29400",
+          "id": "e0de454703cb1a3f2ad103a2c48c5b01ff6b9c2c",
+          "title": "全新蜕变！xAI 正式更名为 SpaceXAI，马斯克完成商业版图大整合",
+          "url": "https://www.aibase.com/news/29416",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T08:12:43.111549Z"
-        },
-        {
-          "id": "a7ff61077368d3137c4cb75909028f744aa2dbfe",
-          "title": "腾讯混元 Hy3 发布：Agent 能力和产品体验跃升",
-          "url": "https://www.aibase.com/zh/news/29400",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "65ed7f60f26f3d2a2f9e7b22a8ef54393a1d7d94",
-          "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
-          "url": "https://www.aibase.com/news/29400",
+          "id": "e0de454703cb1a3f2ad103a2c48c5b01ff6b9c2c",
+          "title": "全新蜕变！xAI 正式更名为 SpaceXAI，马斯克完成商业版图大整合",
+          "url": "https://www.aibase.com/news/29416",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T08:12:43.111549Z"
-        },
-        {
-          "id": "a7ff61077368d3137c4cb75909028f744aa2dbfe",
-          "title": "腾讯混元 Hy3 发布：Agent 能力和产品体验跃升",
-          "url": "https://www.aibase.com/zh/news/29400",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7038,
-      "importance": 0.7038,
-      "importance_score": 0.7038,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3339,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-06T08:12:43.111549Z",
-      "latest_at": "2026-07-06T08:12:43.111549Z",
+      "earliest_at": "2026-07-07T04:30:30.162674Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
       "primary_item": {
-        "id": "65ed7f60f26f3d2a2f9e7b22a8ef54393a1d7d94",
-        "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
-        "url": "https://www.aibase.com/news/29400",
+        "id": "e0de454703cb1a3f2ad103a2c48c5b01ff6b9c2c",
+        "title": "全新蜕变！xAI 正式更名为 SpaceXAI，马斯克完成商业版图大整合",
+        "url": "https://www.aibase.com/news/29416",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0a87620d57e5",
-      "title": "SpaceX 公布 AI 数据中心计划，同步推进星链卫星脱轨",
-      "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_ff6072162147",
+      "title": "史上首次！苹果手表上线 Siri AI， 11 年语音助手迎来彻底进化",
+      "url": "https://www.aibase.com/news/29410",
+      "primary_url": "https://www.aibase.com/news/29410",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "2eb5e19f77e2778c35a02042e7d1ba3af106d179",
-          "title": "SpaceX 公布 AI 数据中心计划，同步推进星链卫星脱轨",
-          "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "81097be94aa80e3b39b41f8d2f470938ab72bdb0",
-          "title": "SpaceX公布AI数据中心计划，同步推进星链卫星脱轨",
-          "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T23:19:56Z"
+          "id": "2574f20240800c743dbc6ffcc049a14bb63f3fb9",
+          "title": "史上首次！苹果手表上线 Siri AI， 11 年语音助手迎来彻底进化",
+          "url": "https://www.aibase.com/news/29410",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "2eb5e19f77e2778c35a02042e7d1ba3af106d179",
-          "title": "SpaceX 公布 AI 数据中心计划，同步推进星链卫星脱轨",
-          "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "81097be94aa80e3b39b41f8d2f470938ab72bdb0",
-          "title": "SpaceX公布AI数据中心计划，同步推进星链卫星脱轨",
-          "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T23:19:56Z"
+          "id": "2574f20240800c743dbc6ffcc049a14bb63f3fb9",
+          "title": "史上首次！苹果手表上线 Siri AI， 11 年语音助手迎来彻底进化",
+          "url": "https://www.aibase.com/news/29410",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-06T23:19:56Z",
-      "latest_at": "2026-07-07T00:11:58.150053Z",
+      "earliest_at": "2026-07-07T04:30:30.162674Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
       "primary_item": {
-        "id": "2eb5e19f77e2778c35a02042e7d1ba3af106d179",
-        "title": "SpaceX 公布 AI 数据中心计划，同步推进星链卫星脱轨",
-        "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "2574f20240800c743dbc6ffcc049a14bb63f3fb9",
+        "title": "史上首次！苹果手表上线 Siri AI， 11 年语音助手迎来彻底进化",
+        "url": "https://www.aibase.com/news/29410",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f99d93502f25",
-      "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_0285ae816c5d",
+      "title": "国产算力新里程碑：美团LongCat-2. 0 大模型正式开源",
+      "url": "https://www.aibase.com/news/29415",
+      "primary_url": "https://www.aibase.com/news/29415",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        },
-        {
-          "id": "c0edef91074bd1918b880c882d0a93dbe1ec476f",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T16:47:44Z"
+          "id": "f76a2bc32827d35a035408ed6972f707622ccff7",
+          "title": "国产算力新里程碑：美团LongCat-2. 0 大模型正式开源",
+          "url": "https://www.aibase.com/news/29415",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T23:03:34.910000Z"
-        },
-        {
-          "id": "c0edef91074bd1918b880c882d0a93dbe1ec476f",
-          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T16:47:44Z"
+          "id": "f76a2bc32827d35a035408ed6972f707622ccff7",
+          "title": "国产算力新里程碑：美团LongCat-2. 0 大模型正式开源",
+          "url": "https://www.aibase.com/news/29415",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9525,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T16:47:44Z",
-      "latest_at": "2026-07-06T23:03:34.910000Z",
-      "primary_item": {
-        "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
-        "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-        "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_22b32121ee2a",
-      "title": "语言模型中的全局工作区",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "primary_url": "https://www.anthropic.com/research/global-workspace",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5bdd217dcff9da240d490605e1cf97bf950eac36",
-          "title": "语言模型中的全局工作区",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T20:39:27.143000Z"
-        },
-        {
-          "id": "e0c669aebee635a291ed0aa5e8fc359deeaf8fed",
-          "title": "语言模型中的全局工作区 / A global workspace in language models",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-06T17:44:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "5bdd217dcff9da240d490605e1cf97bf950eac36",
-          "title": "语言模型中的全局工作区",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T20:39:27.143000Z"
-        },
-        {
-          "id": "e0c669aebee635a291ed0aa5e8fc359deeaf8fed",
-          "title": "语言模型中的全局工作区 / A global workspace in language models",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-06T17:44:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8524,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T17:44:08Z",
-      "latest_at": "2026-07-06T20:39:27.143000Z",
-      "primary_item": {
-        "id": "5bdd217dcff9da240d490605e1cf97bf950eac36",
-        "title": "语言模型中的全局工作区",
-        "url": "https://www.anthropic.com/research/global-workspace",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_eeecf41fad4a",
-      "title": "防范系统性风险与理财越界，英监管机构评估纳管 AI 金融服务",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
-      "primary_url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "237c78343caa3f01d492647233f953ae1c709f21",
-          "title": "防范系统性风险与理财越界，英监管机构评估纳管 AI 金融服务",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "82be724a18cb9405f8959b11146a71bc00418e1b",
-          "title": "防范系统性风险与理财越界，英监管机构评估纳管AI金融服务",
-          "url": "https://36kr.com/newsflashes/3884784672763906?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T23:27:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "237c78343caa3f01d492647233f953ae1c709f21",
-          "title": "防范系统性风险与理财越界，英监管机构评估纳管 AI 金融服务",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "82be724a18cb9405f8959b11146a71bc00418e1b",
-          "title": "防范系统性风险与理财越界，英监管机构评估纳管AI金融服务",
-          "url": "https://36kr.com/newsflashes/3884784672763906?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T23:27:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-06T23:27:19Z",
-      "latest_at": "2026-07-07T00:11:58.150053Z",
+      "earliest_at": "2026-07-07T04:30:30.162674Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
       "primary_item": {
-        "id": "237c78343caa3f01d492647233f953ae1c709f21",
-        "title": "防范系统性风险与理财越界，英监管机构评估纳管 AI 金融服务",
-        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "f76a2bc32827d35a035408ed6972f707622ccff7",
+        "title": "国产算力新里程碑：美团LongCat-2. 0 大模型正式开源",
+        "url": "https://www.aibase.com/news/29415",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3008d8a91638",
-      "title": "GLM 5.2 与即将到来的 AI 利润率崩盘",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2",
-      "primary_url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2",
-      "source": "martinalderson.com",
-      "source_name": "Buzzing",
+      "story_id": "story_a3e28312ff96",
+      "title": "安全研究员揪出ChatGPT漏洞：提示词注入竟能绕过文件访问限制",
+      "url": "https://www.aibase.com/news/29414",
+      "primary_url": "https://www.aibase.com/news/29414",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "a36664b9d36900db01fff44bb2273d5189cd4418",
-          "title": "GLM 5.2 与即将到来的 AI 利润率崩盘",
-          "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2",
-          "source": "martinalderson.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T20:23:31.831000Z"
-        },
-        {
-          "id": "ae535b72c3a173d158d9a74bb12e61aa13390bf8",
-          "title": "GLM 5.2 与即将到来的 AI 利润率崩盘 / GLM 5.2 and the coming AI margin collapse",
-          "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T20:15:25Z"
+          "id": "c7e12c89bf63619375ed47da648cb63e8b0a6611",
+          "title": "安全研究员揪出ChatGPT漏洞：提示词注入竟能绕过文件访问限制",
+          "url": "https://www.aibase.com/news/29414",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Lobsters (技术社区)",
-        "martinalderson.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "a36664b9d36900db01fff44bb2273d5189cd4418",
-          "title": "GLM 5.2 与即将到来的 AI 利润率崩盘",
-          "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2",
-          "source": "martinalderson.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T20:23:31.831000Z"
-        },
-        {
-          "id": "ae535b72c3a173d158d9a74bb12e61aa13390bf8",
-          "title": "GLM 5.2 与即将到来的 AI 利润率崩盘 / GLM 5.2 and the coming AI margin collapse",
-          "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T20:15:25Z"
+          "id": "c7e12c89bf63619375ed47da648cb63e8b0a6611",
+          "title": "安全研究员揪出ChatGPT漏洞：提示词注入竟能绕过文件访问限制",
+          "url": "https://www.aibase.com/news/29414",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T04:30:30.162674Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8414,
-        "story_heat": 0.25
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-06T20:15:25Z",
-      "latest_at": "2026-07-06T20:23:31.831000Z",
+      "earliest_at": "2026-07-07T04:30:30.162674Z",
+      "latest_at": "2026-07-07T04:30:30.162674Z",
       "primary_item": {
-        "id": "a36664b9d36900db01fff44bb2273d5189cd4418",
-        "title": "GLM 5.2 与即将到来的 AI 利润率崩盘",
-        "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2",
-        "source": "martinalderson.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b5abddb278c6",
-      "title": "在Anthropic表明反监控立场后，秘密的“克劳德”追踪器令用户震惊",
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e5e4c3069736521a244dcfffe5f9c506c650fcb5",
-          "title": "在Anthropic表明反监控立场后，秘密的“克劳德”追踪器令用户震惊",
-          "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T17:43:36.322000Z"
-        },
-        {
-          "id": "c650e2e3fe873e3ac1e08bc781d782ddd0db372a",
-          "title": "在Anthropic表明反监控立场后，秘密的“克劳德”追踪器令用户震惊 / Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-          "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T16:44:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "e5e4c3069736521a244dcfffe5f9c506c650fcb5",
-          "title": "在Anthropic表明反监控立场后，秘密的“克劳德”追踪器令用户震惊",
-          "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T17:43:36.322000Z"
-        },
-        {
-          "id": "c650e2e3fe873e3ac1e08bc781d782ddd0db372a",
-          "title": "在Anthropic表明反监控立场后，秘密的“克劳德”追踪器令用户震惊 / Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-          "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T16:44:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4941,
-      "importance": 0.4941,
-      "importance_score": 0.4941,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7303,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T16:44:18Z",
-      "latest_at": "2026-07-06T17:43:36.322000Z",
-      "primary_item": {
-        "id": "e5e4c3069736521a244dcfffe5f9c506c650fcb5",
-        "title": "在Anthropic表明反监控立场后，秘密的“克劳德”追踪器令用户震惊",
-        "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b719c88aa7f5",
-      "title": "AMD Ryzen AI Halo——4000美元的人工智能开发套件",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "primary_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "source": "www.lttlabs.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3762c7c92129c94fc9d501ab57225961d34819d9",
-          "title": "AMD Ryzen AI Halo——4000美元的人工智能开发套件",
-          "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-          "source": "www.lttlabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T17:27:34.644000Z"
-        },
-        {
-          "id": "d6d8c2eec671100619afacdd0920d18197ef3546",
-          "title": "AMD Ryzen AI Halo——4000美元的人工智能开发套件 / AMD Ryzen AI Halo – $4k AI Dev Kit",
-          "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T15:01:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.lttlabs.com"
-      ],
-      "items": [
-        {
-          "id": "3762c7c92129c94fc9d501ab57225961d34819d9",
-          "title": "AMD Ryzen AI Halo——4000美元的人工智能开发套件",
-          "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-          "source": "www.lttlabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T17:27:34.644000Z"
-        },
-        {
-          "id": "d6d8c2eec671100619afacdd0920d18197ef3546",
-          "title": "AMD Ryzen AI Halo——4000美元的人工智能开发套件 / AMD Ryzen AI Halo – $4k AI Dev Kit",
-          "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T15:01:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4918,
-      "importance": 0.4918,
-      "importance_score": 0.4918,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7192,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T15:01:18Z",
-      "latest_at": "2026-07-06T17:27:34.644000Z",
-      "primary_item": {
-        "id": "3762c7c92129c94fc9d501ab57225961d34819d9",
-        "title": "AMD Ryzen AI Halo——4000美元的人工智能开发套件",
-        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-        "source": "www.lttlabs.com",
-        "source_name": "Buzzing"
+        "id": "c7e12c89bf63619375ed47da648cb63e8b0a6611",
+        "title": "安全研究员揪出ChatGPT漏洞：提示词注入竟能绕过文件访问限制",
+        "url": "https://www.aibase.com/news/29414",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
