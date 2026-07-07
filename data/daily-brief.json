@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-06T22:59:30.258290Z",
+  "generated_at": "2026-07-07T00:11:58.150053Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0859-578b-a53f-201f0a9e3148&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260707-0859-578b-a53f-201f0a9e3148&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1012-208b-9c96-8c9f816eae84&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260707-1012-208b-9c96-8c9f816eae84&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "a8b79a81a13679036027208ce36c3302756b0c0b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1012-208b-9c96-8c9f816eae84&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ecf328908412b873805b4437fa33bb43454980e5",
           "title": "点击这里进入 / Click here to enter",
@@ -60,15 +69,6 @@
           "id": "af3b09f768c9e23374cf5d9baf725239b44c76b7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1354-366a-95da-d926d056ea40&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "55a68573ce426dcf273158cb56a9cda7ebf949f3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0959-49f2-814e-a370e513798e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -81,6 +81,15 @@
       ],
       "items": [
         {
+          "id": "a8b79a81a13679036027208ce36c3302756b0c0b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1012-208b-9c96-8c9f816eae84&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ecf328908412b873805b4437fa33bb43454980e5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0859-578b-a53f-201f0a9e3148&fp=-3",
@@ -129,15 +138,6 @@
           "id": "af3b09f768c9e23374cf5d9baf725239b44c76b7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1354-366a-95da-d926d056ea40&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "55a68573ce426dcf273158cb56a9cda7ebf949f3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0959-49f2-814e-a370e513798e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,12 +162,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-05T23:59:22.805598Z",
-      "latest_at": "2026-07-06T22:59:30.258290Z",
+      "earliest_at": "2026-07-06T03:54:13.124476Z",
+      "latest_at": "2026-07-07T00:11:58.150053Z",
       "primary_item": {
-        "id": "ecf328908412b873805b4437fa33bb43454980e5",
+        "id": "a8b79a81a13679036027208ce36c3302756b0c0b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0859-578b-a53f-201f0a9e3148&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1012-208b-9c96-8c9f816eae84&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -207,14 +207,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.894,
-      "importance": 0.894,
-      "importance_score": 0.894,
+      "score": 0.8923,
+      "importance": 0.8923,
+      "importance_score": 0.8923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 1.0,
+        "recency": 0.9917,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,6 +231,126 @@
         "url": "https://huggingface.co/blog/lerobot-release-v060",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_63376e615966",
+      "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+      "url": "https://aihot.virxact.com/items/cmr9u2kma003gihdb8r5drdfd",
+      "primary_url": "https://aihot.virxact.com/items/cmr9u2kma003gihdb8r5drdfd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5c23c8620e464362d2a9a351fc91afafe85da1e4",
+          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+          "url": "https://aihot.virxact.com/items/cmr9u2kma003gihdb8r5drdfd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:03:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "5c23c8620e464362d2a9a351fc91afafe85da1e4",
+          "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+          "url": "https://aihot.virxact.com/items/cmr9u2kma003gihdb8r5drdfd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:03:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9525,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T23:03:34Z",
+      "latest_at": "2026-07-06T23:03:34Z",
+      "primary_item": {
+        "id": "5c23c8620e464362d2a9a351fc91afafe85da1e4",
+        "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+        "url": "https://aihot.virxact.com/items/cmr9u2kma003gihdb8r5drdfd",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_900cb8b12841",
+      "title": "Claude Code v2.1.202 发布",
+      "url": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
+      "primary_url": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30b67da7d858a359b517f26710f829e7f42276c5",
+          "title": "Claude Code v2.1.202 发布",
+          "url": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T22:51:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "30b67da7d858a359b517f26710f829e7f42276c5",
+          "title": "Claude Code v2.1.202 发布",
+          "url": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T22:51:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.944,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T22:51:16Z",
+      "latest_at": "2026-07-06T22:51:16Z",
+      "primary_item": {
+        "id": "30b67da7d858a359b517f26710f829e7f42276c5",
+        "title": "Claude Code v2.1.202 发布",
+        "url": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -268,14 +388,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8398,
+        "recency": 0.7894,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,14 +448,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8163,
+        "recency": 0.766,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,14 +508,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -448,14 +568,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7819,
+        "recency": 0.7316,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -508,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7585,
+        "recency": 0.7082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -568,14 +688,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6238,
+        "recency": 0.5735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -627,14 +747,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7538,
+        "recency": 0.7035,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -706,17 +826,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
-      "importance_label": "行业动态",
+      "score": 0.7136,
+      "importance": 0.7136,
+      "importance_score": 0.7136,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4333,
+        "recency": 0.383,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -729,183 +849,6 @@
         "url": "https://aihot.virxact.com/items/cmr91yrn100noslmpusn7u7q0",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_083716f16ea9",
-      "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-      "url": "https://www.aibase.com/news/29405",
-      "primary_url": "https://www.aibase.com/news/29405",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-          "url": "https://www.aibase.com/news/29405",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:22:25.072201Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-          "url": "https://www.aibase.com/news/29405",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:22:25.072201Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T12:22:25.072201Z",
-      "latest_at": "2026-07-06T12:22:25.072201Z",
-      "primary_item": {
-        "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-        "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-        "url": "https://www.aibase.com/news/29405",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a2d65654a136",
-      "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-      "url": "https://www.aibase.com/news/29403",
-      "primary_url": "https://www.aibase.com/news/29403",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:22:25.072201Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:22:25.072201Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T12:22:25.072201Z",
-      "latest_at": "2026-07-06T12:22:25.072201Z",
-      "primary_item": {
-        "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-        "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-        "url": "https://www.aibase.com/news/29403",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_07dd471aa88d",
-      "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-      "url": "https://www.aibase.com/news/29404",
-      "primary_url": "https://www.aibase.com/news/29404",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
-          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-          "url": "https://www.aibase.com/news/29404",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:22:25.072201Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
-          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-          "url": "https://www.aibase.com/news/29404",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:22:25.072201Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T12:22:25.072201Z",
-      "latest_at": "2026-07-06T12:22:25.072201Z",
-      "primary_item": {
-        "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
-        "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-        "url": "https://www.aibase.com/news/29404",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -962,14 +905,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7138,
-      "importance": 0.7138,
-      "importance_score": 0.7138,
+      "score": 0.7038,
+      "importance": 0.7038,
+      "importance_score": 0.7038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3842,
+        "recency": 0.3339,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -985,6 +928,162 @@
         "url": "https://www.aibase.com/news/29400",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0a87620d57e5",
+      "title": "SpaceX 公布 AI 数据中心计划，同步推进星链卫星脱轨",
+      "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2eb5e19f77e2778c35a02042e7d1ba3af106d179",
+          "title": "SpaceX 公布 AI 数据中心计划，同步推进星链卫星脱轨",
+          "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "81097be94aa80e3b39b41f8d2f470938ab72bdb0",
+          "title": "SpaceX公布AI数据中心计划，同步推进星链卫星脱轨",
+          "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T23:19:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2eb5e19f77e2778c35a02042e7d1ba3af106d179",
+          "title": "SpaceX 公布 AI 数据中心计划，同步推进星链卫星脱轨",
+          "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "81097be94aa80e3b39b41f8d2f470938ab72bdb0",
+          "title": "SpaceX公布AI数据中心计划，同步推进星链卫星脱轨",
+          "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T23:19:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-06T23:19:56Z",
+      "latest_at": "2026-07-07T00:11:58.150053Z",
+      "primary_item": {
+        "id": "2eb5e19f77e2778c35a02042e7d1ba3af106d179",
+        "title": "SpaceX 公布 AI 数据中心计划，同步推进星链卫星脱轨",
+        "url": "https://36kr.com/newsflashes/3884777410031879?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_f99d93502f25",
+      "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "primary_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
+          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T23:03:34.910000Z"
+        },
+        {
+          "id": "c0edef91074bd1918b880c882d0a93dbe1ec476f",
+          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T16:47:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
+          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-06T23:03:34.910000Z"
+        },
+        {
+          "id": "c0edef91074bd1918b880c882d0a93dbe1ec476f",
+          "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件 / OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T16:47:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9525,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-06T16:47:44Z",
+      "latest_at": "2026-07-06T23:03:34.910000Z",
+      "primary_item": {
+        "id": "ba19c049fc47525250db293a0bf3a01cb738f6e5",
+        "title": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
+        "url": "https://github.com/iOfficeAI/OfficeCLI",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1041,14 +1140,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9027,
+        "recency": 0.8524,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1063,6 +1162,84 @@
         "url": "https://www.anthropic.com/research/global-workspace",
         "source": "www.anthropic.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_eeecf41fad4a",
+      "title": "防范系统性风险与理财越界，英监管机构评估纳管 AI 金融服务",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
+      "primary_url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "237c78343caa3f01d492647233f953ae1c709f21",
+          "title": "防范系统性风险与理财越界，英监管机构评估纳管 AI 金融服务",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "82be724a18cb9405f8959b11146a71bc00418e1b",
+          "title": "防范系统性风险与理财越界，英监管机构评估纳管AI金融服务",
+          "url": "https://36kr.com/newsflashes/3884784672763906?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T23:27:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "237c78343caa3f01d492647233f953ae1c709f21",
+          "title": "防范系统性风险与理财越界，英监管机构评估纳管 AI 金融服务",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "82be724a18cb9405f8959b11146a71bc00418e1b",
+          "title": "防范系统性风险与理财越界，英监管机构评估纳管AI金融服务",
+          "url": "https://36kr.com/newsflashes/3884784672763906?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T23:27:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-06T23:27:19Z",
+      "latest_at": "2026-07-07T00:11:58.150053Z",
+      "primary_item": {
+        "id": "237c78343caa3f01d492647233f953ae1c709f21",
+        "title": "防范系统性风险与理财越界，英监管机构评估纳管 AI 金融服务",
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpii1636817.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1119,14 +1296,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8917,
+        "recency": 0.8414,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1141,84 +1318,6 @@
         "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2",
         "source": "martinalderson.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_665884a82b58",
-      "title": "当哈佛学生高喊「F*ck AI」，复旦学生已经开始考 AI 了",
-      "url": "https://www.huxiu.com/article/4873106.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4873106.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "562a05f20c5c42e310f87884bed5d4dbf101177a",
-          "title": "当哈佛学生高喊「F*ck AI」，复旦学生已经开始考 AI 了",
-          "url": "https://www.huxiu.com/article/4873106.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f90a5db824da614b62e8ba89c399e5fdf7e44903",
-          "title": "当哈佛学生高喊“F*ck AI”，复旦学生已经开始考AI了",
-          "url": "https://www.huxiu.com/article/4873106.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T16:23:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "562a05f20c5c42e310f87884bed5d4dbf101177a",
-          "title": "当哈佛学生高喊「F*ck AI」，复旦学生已经开始考 AI 了",
-          "url": "https://www.huxiu.com/article/4873106.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f90a5db824da614b62e8ba89c399e5fdf7e44903",
-          "title": "当哈佛学生高喊“F*ck AI”，复旦学生已经开始考AI了",
-          "url": "https://www.huxiu.com/article/4873106.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T16:23:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8002,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T16:23:25Z",
-      "latest_at": "2026-07-06T18:11:45.944652Z",
-      "primary_item": {
-        "id": "562a05f20c5c42e310f87884bed5d4dbf101177a",
-        "title": "当哈佛学生高喊「F*ck AI」，复旦学生已经开始考 AI 了",
-        "url": "https://www.huxiu.com/article/4873106.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1275,14 +1374,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5041,
-      "importance": 0.5041,
-      "importance_score": 0.5041,
+      "score": 0.4941,
+      "importance": 0.4941,
+      "importance_score": 0.4941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7806,
+        "recency": 0.7303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,14 +1452,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5019,
-      "importance": 0.5019,
-      "importance_score": 0.5019,
+      "score": 0.4918,
+      "importance": 0.4918,
+      "importance_score": 0.4918,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7695,
+        "recency": 0.7192,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1374,84 +1473,6 @@
         "title": "AMD Ryzen AI Halo——4000美元的人工智能开发套件",
         "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
         "source": "www.lttlabs.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dbed422bc26d",
-      "title": "一家网络安全公司称，其发现了“首例有记录的”AI自主型勒索软件",
-      "url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "352c88bde9b17580a620c76dc80af66e4b85a6a8",
-          "title": "一家网络安全公司称，其发现了“首例有记录的”AI自主型勒索软件",
-          "url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T17:11:46.128000Z"
-        },
-        {
-          "id": "839548626eb901b8d3cad328faa2170f92dc96f9",
-          "title": "一家网络安全公司称，其发现了“首例有记录的”AI自主型勒索软件 / Cybersecurity firm says it found 'the first documented case' of AI agentic ransomware",
-          "url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T16:48:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "352c88bde9b17580a620c76dc80af66e4b85a6a8",
-          "title": "一家网络安全公司称，其发现了“首例有记录的”AI自主型勒索软件",
-          "url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-06T17:11:46.128000Z"
-        },
-        {
-          "id": "839548626eb901b8d3cad328faa2170f92dc96f9",
-          "title": "一家网络安全公司称，其发现了“首例有记录的”AI自主型勒索软件 / Cybersecurity firm says it found 'the first documented case' of AI agentic ransomware",
-          "url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-06T16:48:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4997,
-      "importance": 0.4997,
-      "importance_score": 0.4997,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7585,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-06T16:48:43Z",
-      "latest_at": "2026-07-06T17:11:46.128000Z",
-      "primary_item": {
-        "id": "352c88bde9b17580a620c76dc80af66e4b85a6a8",
-        "title": "一家网络安全公司称，其发现了“首例有记录的”AI自主型勒索软件",
-        "url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
