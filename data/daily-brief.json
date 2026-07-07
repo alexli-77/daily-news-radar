@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-07T13:31:13.108243Z",
+  "generated_at": "2026-07-07T16:21:02.944298Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2331-427c-a581-9654c949ba29&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260707-2331-427c-a581-9654c949ba29&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0221-24f2-a939-f17a99302897&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-0221-24f2-a939-f17a99302897&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7904d468c9a1bdcd6bdfb6da75f9ecbb1d8232f7",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0221-24f2-a939-f17a99302897&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e42662f30a242e38b2b1e2cfb4e11f420e701464",
           "title": "点击这里进入 / Click here to enter",
@@ -60,15 +69,6 @@
           "id": "4e26c0fe37be86c191036e4f1c858a6831830323",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0412-09d5-a9c1-f226f68934c1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "dff4c10d7959cce01f434da220b3865c69d939a0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0159-0336-8623-636a25f9be0d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -81,6 +81,15 @@
       ],
       "items": [
         {
+          "id": "7904d468c9a1bdcd6bdfb6da75f9ecbb1d8232f7",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0221-24f2-a939-f17a99302897&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e42662f30a242e38b2b1e2cfb4e11f420e701464",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2331-427c-a581-9654c949ba29&fp=-3",
@@ -129,15 +138,6 @@
           "id": "4e26c0fe37be86c191036e4f1c858a6831830323",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0412-09d5-a9c1-f226f68934c1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "dff4c10d7959cce01f434da220b3865c69d939a0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0159-0336-8623-636a25f9be0d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,14 +162,197 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T15:58:40.808661Z",
-      "latest_at": "2026-07-07T13:31:13.108243Z",
+      "earliest_at": "2026-07-06T18:11:45.944652Z",
+      "latest_at": "2026-07-07T16:21:02.944298Z",
       "primary_item": {
-        "id": "e42662f30a242e38b2b1e2cfb4e11f420e701464",
+        "id": "7904d468c9a1bdcd6bdfb6da75f9ecbb1d8232f7",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2331-427c-a581-9654c949ba29&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0221-24f2-a939-f17a99302897&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_024a3808c07a",
+      "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "primary_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:20:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:20:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8765,
+      "importance": 0.8765,
+      "importance_score": 0.8765,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9577,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:20:06Z",
+      "latest_at": "2026-07-07T15:20:06Z",
+      "primary_item": {
+        "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
+        "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
+        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5b541b9a66cd",
+      "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:10:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:10:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8632,
+      "importance": 0.8632,
+      "importance_score": 0.8632,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9508,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:10:14Z",
+      "latest_at": "2026-07-07T15:10:14Z",
+      "primary_item": {
+        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+        "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_18e9ce98bcc6",
+      "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
+      "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+      "primary_url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
+          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
+          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T14:51:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
+          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
+          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T14:51:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8605,
+      "importance": 0.8605,
+      "importance_score": 0.8605,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9376,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T14:51:13Z",
+      "latest_at": "2026-07-07T14:51:13Z",
+      "primary_item": {
+        "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
+        "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
+        "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -225,14 +408,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8821,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -249,6 +432,307 @@
         "url": "https://www.aibase.com/news/29436",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ce786ac0203d",
+      "title": "中国拟限制外国访问最强AI模型",
+      "url": "https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t",
+      "primary_url": "https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dbc5b1e32295f5121f81108cb3ce6636101b591e",
+          "title": "中国拟限制外国访问最强AI模型",
+          "url": "https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T15:14:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "dbc5b1e32295f5121f81108cb3ce6636101b591e",
+          "title": "中国拟限制外国访问最强AI模型",
+          "url": "https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T15:14:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9538,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:14:30Z",
+      "latest_at": "2026-07-07T15:14:30Z",
+      "primary_item": {
+        "id": "dbc5b1e32295f5121f81108cb3ce6636101b591e",
+        "title": "中国拟限制外国访问最强AI模型",
+        "url": "https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7bd42600f58b",
+      "title": "Elvis Saravia 通过 HITL 和 DialAgent 提升 agentic loops 可靠性",
+      "url": "https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9",
+      "primary_url": "https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4b9873fcd7c212a45f5b074e82261fab57526f0b",
+          "title": "Elvis Saravia 通过 HITL 和 DialAgent 提升 agentic loops 可靠性",
+          "url": "https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9",
+          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T14:49:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
+      ],
+      "items": [
+        {
+          "id": "4b9873fcd7c212a45f5b074e82261fab57526f0b",
+          "title": "Elvis Saravia 通过 HITL 和 DialAgent 提升 agentic loops 可靠性",
+          "url": "https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9",
+          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T14:49:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9366,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T14:49:47Z",
+      "latest_at": "2026-07-07T14:49:47Z",
+      "primary_item": {
+        "id": "4b9873fcd7c212a45f5b074e82261fab57526f0b",
+        "title": "Elvis Saravia 通过 HITL 和 DialAgent 提升 agentic loops 可靠性",
+        "url": "https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9",
+        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ffc133507e60",
+      "title": "在 Claude Code 中选择 Claude 模型与努力级别",
+      "url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
+      "primary_url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1aa8c90a863c58dc68ecf64cf9e5e8fdb0947cca",
+          "title": "在 Claude Code 中选择 Claude 模型与努力级别",
+          "url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T14:21:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "1aa8c90a863c58dc68ecf64cf9e5e8fdb0947cca",
+          "title": "在 Claude Code 中选择 Claude 模型与努力级别",
+          "url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T14:21:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9173,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T14:21:59Z",
+      "latest_at": "2026-07-07T14:21:59Z",
+      "primary_item": {
+        "id": "1aa8c90a863c58dc68ecf64cf9e5e8fdb0947cca",
+        "title": "在 Claude Code 中选择 Claude 模型与努力级别",
+        "url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6fd432465c0f",
+      "title": "Ethan Mollick：开放权重模型供给难持续",
+      "url": "https://aihot.virxact.com/items/cmraqliu1003aihogho9twifr",
+      "primary_url": "https://aihot.virxact.com/items/cmraqliu1003aihogho9twifr",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "72d24b8d2cda18e2044b82a1c39d265a9b579d46",
+          "title": "Ethan Mollick：开放权重模型供给难持续",
+          "url": "https://aihot.virxact.com/items/cmraqliu1003aihogho9twifr",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T14:14:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ethan Mollick (@emollick)"
+      ],
+      "items": [
+        {
+          "id": "72d24b8d2cda18e2044b82a1c39d265a9b579d46",
+          "title": "Ethan Mollick：开放权重模型供给难持续",
+          "url": "https://aihot.virxact.com/items/cmraqliu1003aihogho9twifr",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T14:14:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9124,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T14:14:57Z",
+      "latest_at": "2026-07-07T14:14:57Z",
+      "primary_item": {
+        "id": "72d24b8d2cda18e2044b82a1c39d265a9b579d46",
+        "title": "Ethan Mollick：开放权重模型供给难持续",
+        "url": "https://aihot.virxact.com/items/cmraqliu1003aihogho9twifr",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_32d22c096387",
+      "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+      "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+      "primary_url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
+          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:15:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
+          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:15:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9548,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:15:54Z",
+      "latest_at": "2026-07-07T15:15:54Z",
+      "primary_item": {
+        "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
+        "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
+        "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -286,14 +770,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -309,67 +793,6 @@
         "url": "https://www.aibase.com/news/29443",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0a1d2bd6cc12",
-      "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-          "url": "https://huggingface.co/blog/lerobot-release-v060",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-          "url": "https://huggingface.co/blog/lerobot-release-v060",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.4367,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T00:00:00Z",
-      "latest_at": "2026-07-07T00:00:00Z",
-      "primary_item": {
-        "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
-        "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
-        "url": "https://huggingface.co/blog/lerobot-release-v060",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -407,14 +830,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8117,
+        "recency": 0.6937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,20 +890,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.718,
+        "recency": 0.6,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T06:45:06Z",
       "latest_at": "2026-07-07T06:45:06Z",
@@ -527,20 +949,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7027,
+        "recency": 0.5847,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T06:23:05Z",
       "latest_at": "2026-07-07T06:23:05Z",
@@ -587,14 +1008,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -613,66 +1034,68 @@
       }
     },
     {
-      "story_id": "story_8b8dc88f5bd0",
-      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-      "url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
-      "primary_url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
+      "story_id": "story_0a1d2bd6cc12",
+      "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "primary_url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "94fd0e67f090d0d4520565ecfa3b276a44ee0fed",
-          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-          "url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T04:22:22Z"
+          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Ethan Mollick (@emollick)"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "94fd0e67f090d0d4520565ecfa3b276a44ee0fed",
-          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-          "url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T04:22:22Z"
+          "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+          "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+          "url": "https://huggingface.co/blog/lerobot-release-v060",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
-      "importance_label": "行业动态",
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6189,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.3187,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-07T04:22:22Z",
-      "latest_at": "2026-07-07T04:22:22Z",
+      "earliest_at": "2026-07-07T00:00:00Z",
+      "latest_at": "2026-07-07T00:00:00Z",
       "primary_item": {
-        "id": "94fd0e67f090d0d4520565ecfa3b276a44ee0fed",
-        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-        "url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
+        "id": "49c1a89deec5deb1e9fd4488365116ab24462309",
+        "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
+        "url": "https://huggingface.co/blog/lerobot-release-v060",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b5546fc6b1af",
+      "story_id": "story_8ed8ede5afe6",
       "title": "澳大利亚官员警告：部分 AI 模型已学会在实验中“作弊与欺骗”",
       "url": "https://www.aibase.com/news/29440",
       "primary_url": "https://www.aibase.com/news/29440",
@@ -725,14 +1148,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 0.6635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,20 +1209,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 0.6635,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T08:16:28.959105Z",
       "latest_at": "2026-07-07T08:16:28.959105Z",
@@ -846,20 +1268,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 0.6635,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T08:16:28.959105Z",
       "latest_at": "2026-07-07T08:16:28.959105Z",
@@ -906,20 +1327,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 0.6635,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T08:16:28.959105Z",
       "latest_at": "2026-07-07T08:16:28.959105Z",
@@ -929,536 +1349,6 @@
         "url": "https://www.aibase.com/news/29435",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_196afd1528c3",
-      "title": "蚂蚁集团开源Avernet：多智能体协作迎来新基础设施",
-      "url": "https://www.aibase.com/news/29438",
-      "primary_url": "https://www.aibase.com/news/29438",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8a51c480fc121d7e0d8b180c8337ef6d2691a212",
-          "title": "蚂蚁集团开源Avernet：多智能体协作迎来新基础设施",
-          "url": "https://www.aibase.com/news/29438",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T08:16:28.959105Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8a51c480fc121d7e0d8b180c8337ef6d2691a212",
-          "title": "蚂蚁集团开源Avernet：多智能体协作迎来新基础设施",
-          "url": "https://www.aibase.com/news/29438",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T08:16:28.959105Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7814,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T08:16:28.959105Z",
-      "latest_at": "2026-07-07T08:16:28.959105Z",
-      "primary_item": {
-        "id": "8a51c480fc121d7e0d8b180c8337ef6d2691a212",
-        "title": "蚂蚁集团开源Avernet：多智能体协作迎来新基础设施",
-        "url": "https://www.aibase.com/news/29438",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9b75bda91938",
-      "title": "MadsLorentzen / ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "primary_url": "https://github.com/MadsLorentzen/ai-job-search",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "64926ab9e0b5ea3492313158eeeaf4947b0740cd",
-          "title": "MadsLorentzen / ai-job-search",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0425ae107543ff02a96a7a8a99245381d44db2a2",
-          "title": "MadsLorentzen /      ai-job-search",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-07T13:20:35.021000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "64926ab9e0b5ea3492313158eeeaf4947b0740cd",
-          "title": "MadsLorentzen / ai-job-search",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0425ae107543ff02a96a7a8a99245381d44db2a2",
-          "title": "MadsLorentzen /      ai-job-search",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-07T13:20:35.021000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-07T13:20:35.021000Z",
-      "latest_at": "2026-07-07T13:31:13.108243Z",
-      "primary_item": {
-        "id": "64926ab9e0b5ea3492313158eeeaf4947b0740cd",
-        "title": "MadsLorentzen / ai-job-search",
-        "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_da4ba44544e8",
-      "title": "在 WAIC，当所有人都在为技术欢呼，我们决定先看看 AI 的账本",
-      "url": "https://www.huxiu.com/article/4872978.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872978.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d516b5318a4d34f48845fb8e39d3f760a566106a",
-          "title": "在 WAIC，当所有人都在为技术欢呼，我们决定先看看 AI 的账本",
-          "url": "https://www.huxiu.com/article/4872978.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7b8e98d69b5357633443b260806ad6e374615304",
-          "title": "在WAIC，当所有人都在为技术欢呼，我们决定先看看AI的账本",
-          "url": "https://www.huxiu.com/article/4872978.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-07T12:16:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "d516b5318a4d34f48845fb8e39d3f760a566106a",
-          "title": "在 WAIC，当所有人都在为技术欢呼，我们决定先看看 AI 的账本",
-          "url": "https://www.huxiu.com/article/4872978.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7b8e98d69b5357633443b260806ad6e374615304",
-          "title": "在WAIC，当所有人都在为技术欢呼，我们决定先看看AI的账本",
-          "url": "https://www.huxiu.com/article/4872978.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-07T12:16:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-07T12:16:00Z",
-      "latest_at": "2026-07-07T13:31:13.108243Z",
-      "primary_item": {
-        "id": "d516b5318a4d34f48845fb8e39d3f760a566106a",
-        "title": "在 WAIC，当所有人都在为技术欢呼，我们决定先看看 AI 的账本",
-        "url": "https://www.huxiu.com/article/4872978.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ef414c9b6da4",
-      "title": "人工智能如何助力自主机器人进入工作场所——甚至可能进入家庭",
-      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics",
-      "primary_url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0eda91b43a5ac7d6b8d4bd895d363f0c3fa8495f",
-          "title": "人工智能如何助力自主机器人进入工作场所——甚至可能进入家庭",
-          "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-07T13:05:26.723000Z"
-        },
-        {
-          "id": "fe40291558b1e02d6e8e8af234616babe5c4b836",
-          "title": "人工智能如何助力自主机器人进入工作场所——甚至可能进入家庭 / How AI could enable autonomous robot workers in workplaces—and maybe homes",
-          "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-07T11:00:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "0eda91b43a5ac7d6b8d4bd895d363f0c3fa8495f",
-          "title": "人工智能如何助力自主机器人进入工作场所——甚至可能进入家庭",
-          "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-07T13:05:26.723000Z"
-        },
-        {
-          "id": "fe40291558b1e02d6e8e8af234616babe5c4b836",
-          "title": "人工智能如何助力自主机器人进入工作场所——甚至可能进入家庭 / How AI could enable autonomous robot workers in workplaces—and maybe homes",
-          "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-07T11:00:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9821,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-07T11:00:18Z",
-      "latest_at": "2026-07-07T13:05:26.723000Z",
-      "primary_item": {
-        "id": "0eda91b43a5ac7d6b8d4bd895d363f0c3fa8495f",
-        "title": "人工智能如何助力自主机器人进入工作场所——甚至可能进入家庭",
-        "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d8bb9591462d",
-      "title": "美国网络机构正在利用 Anthropic 的神话来审计政府代码 / US Cyber Agency Is Using Anthropic's Mythos To Audit Government Code",
-      "url": "https://yro.slashdot.org/story/26/07/07/0036203/us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code",
-      "primary_url": "https://yro.slashdot.org/story/26/07/07/0036203/us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code",
-      "source": "Slashdot (科技资讯)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "d9497d791bf8a2e8e400d6470f8cb6c9f182bd0d",
-          "title": "美国网络机构正在利用 Anthropic 的神话来审计政府代码 / US Cyber Agency Is Using Anthropic's Mythos To Audit Government Code",
-          "url": "https://yro.slashdot.org/story/26/07/07/0036203/us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-07T11:00:00Z"
-        },
-        {
-          "id": "8eea1658119047282c812b6a933de3431bb0238c",
-          "title": "消息人士称，美国网络机构正在使用 Anthropic 的 Mythos 来审计政府代码 / US cyber agency is using Anthropic’s Mythos to audit government code, sources say",
-          "url": "https://thenextweb.com/news/cisa-anthropic-mythos-government-code-audit",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-07T09:39:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Slashdot (科技资讯)",
-        "The Next Web"
-      ],
-      "items": [
-        {
-          "id": "d9497d791bf8a2e8e400d6470f8cb6c9f182bd0d",
-          "title": "美国网络机构正在利用 Anthropic 的神话来审计政府代码 / US Cyber Agency Is Using Anthropic's Mythos To Audit Government Code",
-          "url": "https://yro.slashdot.org/story/26/07/07/0036203/us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-07T11:00:00Z"
-        },
-        {
-          "id": "8eea1658119047282c812b6a933de3431bb0238c",
-          "title": "消息人士称，美国网络机构正在使用 Anthropic 的 Mythos 来审计政府代码 / US cyber agency is using Anthropic’s Mythos to audit government code, sources say",
-          "url": "https://thenextweb.com/news/cisa-anthropic-mythos-government-code-audit",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-07T09:39:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.895,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-07T09:39:30Z",
-      "latest_at": "2026-07-07T11:00:00Z",
-      "primary_item": {
-        "id": "d9497d791bf8a2e8e400d6470f8cb6c9f182bd0d",
-        "title": "美国网络机构正在利用 Anthropic 的神话来审计政府代码 / US Cyber Agency Is Using Anthropic's Mythos To Audit Government Code",
-        "url": "https://yro.slashdot.org/story/26/07/07/0036203/us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code",
-        "source": "Slashdot (科技资讯)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_32d306e067bc",
-      "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-      "url": "https://www.aibase.com/news/29432",
-      "primary_url": "https://www.aibase.com/news/29432",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.aibase.com/news/29432",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T04:30:30.162674Z"
-        },
-        {
-          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
-          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.qbitai.com/2026/07/445184.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.aibase.com/news/29432",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T04:30:30.162674Z"
-        },
-        {
-          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
-          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "url": "https://www.qbitai.com/2026/07/445184.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6245,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T04:30:30.162674Z",
-      "latest_at": "2026-07-07T08:16:28.959105Z",
-      "primary_item": {
-        "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
-        "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-        "url": "https://www.aibase.com/news/29432",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fc92e5e5e89c",
-      "title": "Midjourney创始人表示，新的AI编程工具让他的朋友们工作效率更高——但也感到“极度疲惫”",
-      "url": "https://www.businessinsider.com/midjourney-founder-ai-coding-friends-drained-2026-7",
-      "primary_url": "https://www.businessinsider.com/midjourney-founder-ai-coding-friends-drained-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ccf41f245f92d051fcc8f464b7eded8ea2e93f5d",
-          "title": "Midjourney创始人表示，新的AI编程工具让他的朋友们工作效率更高——但也感到“极度疲惫”",
-          "url": "https://www.businessinsider.com/midjourney-founder-ai-coding-friends-drained-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-07T10:11:27.174000Z"
-        },
-        {
-          "id": "fd965b6f154904860e845a74c7dcb76ab6c3cfeb",
-          "title": "Midjourney创始人表示，新的AI编程工具让他的朋友们工作效率更高——但也感到“极度疲惫” / Midjourney founder says new AI coding tools are leaving his friends more productive — and 'extremely drained'",
-          "url": "https://www.businessinsider.com/midjourney-founder-ai-coding-friends-drained-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-07T09:40:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ccf41f245f92d051fcc8f464b7eded8ea2e93f5d",
-          "title": "Midjourney创始人表示，新的AI编程工具让他的朋友们工作效率更高——但也感到“极度疲惫”",
-          "url": "https://www.businessinsider.com/midjourney-founder-ai-coding-friends-drained-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-07T10:11:27.174000Z"
-        },
-        {
-          "id": "fd965b6f154904860e845a74c7dcb76ab6c3cfeb",
-          "title": "Midjourney创始人表示，新的AI编程工具让他的朋友们工作效率更高——但也感到“极度疲惫” / Midjourney founder says new AI coding tools are leaving his friends more productive — and 'extremely drained'",
-          "url": "https://www.businessinsider.com/midjourney-founder-ai-coding-friends-drained-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-07T09:40:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8613,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-07T09:40:01Z",
-      "latest_at": "2026-07-07T10:11:27.174000Z",
-      "primary_item": {
-        "id": "ccf41f245f92d051fcc8f464b7eded8ea2e93f5d",
-        "title": "Midjourney创始人表示，新的AI编程工具让他的朋友们工作效率更高——但也感到“极度疲惫”",
-        "url": "https://www.businessinsider.com/midjourney-founder-ai-coding-friends-drained-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
