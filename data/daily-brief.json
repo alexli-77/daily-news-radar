@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-08T21:59:51.463733Z",
+  "generated_at": "2026-07-08T23:12:45.752077Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260709-0800-1623-8bd0-8244387be46d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260709-0800-1623-8bd0-8244387be46d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260709-0913-123f-87de-7b7ec8b68fb2&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260709-0913-123f-87de-7b7ec8b68fb2&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4e6e765be11a3a409d1dad1a256ad8e6a94e85bc",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260709-0913-123f-87de-7b7ec8b68fb2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "1b0116cdb92a88b6932d6cc2ac0421e893c3076b",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "834b06af9b94b37cb5305173b68324ff5bf9cf3a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0951-24f9-95c7-9ce2bb1d24f4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8bfe178130c2f22ce7ad263bae0620b3482229bf",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0853-277b-ac17-82c1b07aaeef&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "4e6e765be11a3a409d1dad1a256ad8e6a94e85bc",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260709-0913-123f-87de-7b7ec8b68fb2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "1b0116cdb92a88b6932d6cc2ac0421e893c3076b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260709-0800-1623-8bd0-8244387be46d&fp=-3",
@@ -219,15 +228,6 @@
           "id": "834b06af9b94b37cb5305173b68324ff5bf9cf3a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0951-24f9-95c7-9ce2bb1d24f4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8bfe178130c2f22ce7ad263bae0620b3482229bf",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0853-277b-ac17-82c1b07aaeef&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,14 +252,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T22:53:04.971344Z",
-      "latest_at": "2026-07-08T21:59:51.463733Z",
+      "earliest_at": "2026-07-07T23:51:01.101064Z",
+      "latest_at": "2026-07-08T23:12:45.752077Z",
       "primary_item": {
-        "id": "1b0116cdb92a88b6932d6cc2ac0421e893c3076b",
+        "id": "4e6e765be11a3a409d1dad1a256ad8e6a94e85bc",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260709-0800-1623-8bd0-8244387be46d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260709-0913-123f-87de-7b7ec8b68fb2&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_702ce39ddd2e",
+      "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+      "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
+          "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:38:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
+          "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:38:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8516,
+      "importance": 0.8516,
+      "importance_score": 0.8516,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8932,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T20:38:56Z",
+      "latest_at": "2026-07-08T20:38:56Z",
+      "primary_item": {
+        "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
+        "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+        "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -297,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8029,
+        "recency": 0.7523,
         "story_heat": 0.0
       },
       "category": "official",
@@ -320,67 +381,6 @@
         "title": "代理商数据 / Data for Agents",
         "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_018ea2c4b8d0",
-      "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-      "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
-          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T21:30:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
-          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T21:30:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8569,
-      "importance": 0.8569,
-      "importance_score": 0.8569,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9797,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T21:30:35Z",
-      "latest_at": "2026-07-08T21:30:35Z",
-      "primary_item": {
-        "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
-        "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-        "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -419,14 +419,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8543,
-      "importance": 0.8543,
-      "importance_score": 0.8543,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9667,
+        "recency": 0.9161,
         "story_heat": 0.0
       },
       "category": "official",
@@ -446,21 +446,21 @@
       }
     },
     {
-      "story_id": "story_ce2436329e7b",
-      "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-      "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+      "story_id": "story_018ea2c4b8d0",
+      "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+      "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T20:50:07Z"
+          "published_at": "2026-07-08T21:30:35Z"
         }
       ],
       "source_count": 1,
@@ -469,25 +469,25 @@
       ],
       "items": [
         {
-          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T20:50:07Z"
+          "published_at": "2026-07-08T21:30:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8513,
-      "importance": 0.8513,
-      "importance_score": 0.8513,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9516,
+        "recency": 0.929,
         "story_heat": 0.0
       },
       "category": "official",
@@ -496,12 +496,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T20:50:07Z",
-      "latest_at": "2026-07-08T20:50:07Z",
+      "earliest_at": "2026-07-08T21:30:35Z",
+      "latest_at": "2026-07-08T21:30:35Z",
       "primary_item": {
-        "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-        "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-        "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+        "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+        "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+        "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -541,14 +541,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9144,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -601,14 +601,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7501,
+        "recency": 0.6995,
         "story_heat": 0.0
       },
       "category": "official",
@@ -624,6 +624,67 @@
         "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ce2436329e7b",
+      "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+      "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:50:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:50:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9009,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T20:50:07Z",
+      "latest_at": "2026-07-08T20:50:07Z",
+      "primary_item": {
+        "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+        "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+        "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -662,14 +723,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8763,
+        "recency": 0.8257,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -685,67 +746,6 @@
         "url": "https://aihot.virxact.com/items/cmrcgbh4800syihx5bpeafas9",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2f563a485d38",
-      "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-      "primary_url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
-          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T18:24:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
-          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T18:24:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8507,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T18:24:55Z",
-      "latest_at": "2026-07-08T18:24:55Z",
-      "primary_item": {
-        "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
-        "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-        "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -783,14 +783,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8167,
+        "recency": 0.7661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -843,14 +843,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8027,
+        "recency": 0.7521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -903,20 +903,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7381,
+        "recency": 0.6874,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-08T15:42:40Z",
       "latest_at": "2026-07-08T15:42:40Z",
@@ -963,20 +962,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7333,
+        "recency": 0.6827,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-08T15:35:51Z",
       "latest_at": "2026-07-08T15:35:51Z",
@@ -1023,20 +1021,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.709,
+        "recency": 0.6583,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-08T15:00:47Z",
       "latest_at": "2026-07-08T15:00:47Z",
@@ -1046,6 +1043,67 @@
         "url": "https://aihot.virxact.com/items/cmrc8cfhc00jeihqc0r5wx6qz",
         "source": "X：Replit (@Replit)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2f563a485d38",
+      "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T18:24:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T18:24:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8001,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T18:24:55Z",
+      "latest_at": "2026-07-08T18:24:55Z",
+      "primary_item": {
+        "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+        "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+        "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1083,20 +1141,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.69,
+        "recency": 0.6393,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-08T14:33:24Z",
       "latest_at": "2026-07-08T14:33:24Z",
@@ -1143,14 +1200,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6459,
+        "recency": 0.5953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1220,14 +1277,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5066,
+        "recency": 0.456,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1243,126 +1300,6 @@
         "url": "https://www.aibase.com/news/29456",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9f01a69db3b0",
-      "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
-      "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
-      "primary_url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
-          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
-          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T17:05:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
-          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
-          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T17:05:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7953,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T17:05:06Z",
-      "latest_at": "2026-07-08T17:05:06Z",
-      "primary_item": {
-        "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
-        "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
-        "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_641647f2744e",
-      "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-      "url": "https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv",
-      "primary_url": "https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv",
-      "source": "X：Berry Xia (@berryxia)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "364a4a11909b06857f178ee203fbe811e93d295f",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Berry Xia (@berryxia)"
-      ],
-      "items": [
-        {
-          "id": "364a4a11909b06857f178ee203fbe811e93d295f",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5892,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-08T12:08:18Z",
-      "latest_at": "2026-07-08T12:08:18Z",
-      "primary_item": {
-        "id": "364a4a11909b06857f178ee203fbe811e93d295f",
-        "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-        "url": "https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv",
-        "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1400,20 +1337,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7066,
+        "recency": 0.656,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-08T14:57:23Z",
       "latest_at": "2026-07-08T14:57:23Z",
@@ -1422,6 +1358,65 @@
         "title": "OpenRouter聊天室推出一键零数据保留",
         "url": "https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13",
         "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8aaed1fe9b5f",
+      "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
+      "url": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u",
+      "primary_url": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c5a2b86ad2b1a50654e15a6320b5507b4e2b6720",
+          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
+          "url": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "c5a2b86ad2b1a50654e15a6320b5507b4e2b6720",
+          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
+          "url": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5745,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T13:00:00Z",
+      "latest_at": "2026-07-08T13:00:00Z",
+      "primary_item": {
+        "id": "c5a2b86ad2b1a50654e15a6320b5507b4e2b6720",
+        "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
+        "url": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "source_name": "AI HOT"
       }
     }
