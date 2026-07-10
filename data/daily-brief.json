@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-10T20:47:36.012266Z",
+  "generated_at": "2026-07-10T21:53:35.555174Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0648-0077-8682-d43a289b0527&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0648-0077-8682-d43a289b0527&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0753-5979-b0b3-ac2426cb549e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0753-5979-b0b3-ac2426cb549e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5ffc9a1d1709b2b4c3a1358088e9d44de29531ed",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0753-5979-b0b3-ac2426cb549e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "7f70c50f03fb5962eeef4b42f6653e2aa5c672d7",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "3517eb6b67a36f5edcf5cc96f1e908e7bfc2119b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0848-2460-810e-c1769535ae88&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "167ef02d095f1fa584c5f7581996353c78e67907",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0701-2672-9d3c-7b117e5bad29&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "5ffc9a1d1709b2b4c3a1358088e9d44de29531ed",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0753-5979-b0b3-ac2426cb549e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "7f70c50f03fb5962eeef4b42f6653e2aa5c672d7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0648-0077-8682-d43a289b0527&fp=-3",
@@ -201,15 +210,6 @@
           "id": "3517eb6b67a36f5edcf5cc96f1e908e7bfc2119b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0848-2460-810e-c1769535ae88&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "167ef02d095f1fa584c5f7581996353c78e67907",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0701-2672-9d3c-7b117e5bad29&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,32 +234,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-09T21:01:01.658630Z",
-      "latest_at": "2026-07-10T20:47:36.012266Z",
+      "earliest_at": "2026-07-09T22:48:03.200618Z",
+      "latest_at": "2026-07-10T21:53:35.555174Z",
       "primary_item": {
-        "id": "7f70c50f03fb5962eeef4b42f6653e2aa5c672d7",
+        "id": "5ffc9a1d1709b2b4c3a1358088e9d44de29531ed",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0648-0077-8682-d43a289b0527&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0753-5979-b0b3-ac2426cb549e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_f46516359f1f",
-      "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-      "primary_url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+      "story_id": "story_4071a63c6a0f",
+      "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+      "primary_url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
+          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-10T20:06:10Z"
+          "published_at": "2026-07-10T20:40:56Z"
         }
       ],
       "source_count": 1,
@@ -268,25 +268,25 @@
       ],
       "items": [
         {
-          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
+          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-10T20:06:10Z"
+          "published_at": "2026-07-10T20:40:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.8629,
+      "importance": 0.8629,
+      "importance_score": 0.8629,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9712,
+        "ai_relevance": 0.91,
+        "recency": 0.9495,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,12 +295,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T20:06:10Z",
-      "latest_at": "2026-07-10T20:06:10Z",
+      "earliest_at": "2026-07-10T20:40:56Z",
+      "latest_at": "2026-07-10T20:40:56Z",
       "primary_item": {
-        "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-        "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-        "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+        "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
+        "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -340,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8327,
-      "importance": 0.8327,
-      "importance_score": 0.8327,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7987,
+        "recency": 0.7529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,6 +364,127 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f46516359f1f",
+      "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+      "primary_url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:06:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:06:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9254,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T20:06:10Z",
+      "latest_at": "2026-07-10T20:06:10Z",
+      "primary_item": {
+        "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+        "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+        "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a9e2c15864a7",
+      "title": "Apple 起诉 OpenAI 窃取商业机密",
+      "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+      "primary_url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffb0f0ea5036955b8b127faaa8cf74f9db0cc49f",
+          "title": "Apple 起诉 OpenAI 窃取商业机密",
+          "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T20:32:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffb0f0ea5036955b8b127faaa8cf74f9db0cc49f",
+          "title": "Apple 起诉 OpenAI 窃取商业机密",
+          "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T20:32:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9433,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T20:32:00Z",
+      "latest_at": "2026-07-10T20:32:00Z",
+      "primary_item": {
+        "id": "ffb0f0ea5036955b8b127faaa8cf74f9db0cc49f",
+        "title": "Apple 起诉 OpenAI 窃取商业机密",
+        "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -401,14 +522,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8808,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -461,14 +582,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8673,
+        "recency": 0.8215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -484,67 +605,6 @@
         "url": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn",
         "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2a4bac593207",
-      "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T15:07:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T15:07:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7637,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T15:07:23Z",
-      "latest_at": "2026-07-10T15:07:23Z",
-      "primary_item": {
-        "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-        "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-        "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -582,14 +642,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8553,
+        "recency": 0.8094,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,14 +702,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7686,
+        "recency": 0.7228,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -702,21 +762,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4253,
+        "recency": 0.3794,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T07:00:00Z",
       "latest_at": "2026-07-10T07:00:00Z",
@@ -763,20 +822,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7156,
+        "recency": 0.6698,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T13:58:07Z",
       "latest_at": "2026-07-10T13:58:07Z",
@@ -789,62 +847,64 @@
       }
     },
     {
-      "story_id": "story_9169c1ad9868",
-      "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
-      "url": "https://www.aibase.com/news/29529",
-      "primary_url": "https://www.aibase.com/news/29529",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2a4bac593207",
+      "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
+      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
-          "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
-          "url": "https://www.aibase.com/news/29529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
+          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
+          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
+          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:07:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
-          "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
-          "url": "https://www.aibase.com/news/29529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
+          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
+          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
+          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:07:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.574,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-10T10:34:07.691967Z",
-      "latest_at": "2026-07-10T10:34:07.691967Z",
+      "earliest_at": "2026-07-10T15:07:23Z",
+      "latest_at": "2026-07-10T15:07:23Z",
       "primary_item": {
-        "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
-        "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
-        "url": "https://www.aibase.com/news/29529",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
+        "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
+        "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -901,17 +961,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
-      "importance_label": "行业动态",
+      "score": 0.7165,
+      "importance": 0.7165,
+      "importance_score": 0.7165,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4434,
+        "recency": 0.3976,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -923,65 +983,6 @@
         "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
         "url": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_099be7faa245",
-      "title": "小红书发布大模型新架构 PIPO",
-      "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-      "primary_url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3441630213ff9e9417498851b64e450adb39dbe9",
-          "title": "小红书发布大模型新架构 PIPO",
-          "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T09:59:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "3441630213ff9e9417498851b64e450adb39dbe9",
-          "title": "小红书发布大模型新架构 PIPO",
-          "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T09:59:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5496,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T09:59:00Z",
-      "latest_at": "2026-07-10T09:59:00Z",
-      "primary_item": {
-        "id": "3441630213ff9e9417498851b64e450adb39dbe9",
-        "title": "小红书发布大模型新架构 PIPO",
-        "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-        "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
       }
     },
@@ -1020,14 +1021,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5402,
+        "recency": 0.4944,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1044,338 +1045,6 @@
         "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b1be13fe5108",
-      "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
-      "url": "https://www.aibase.com/news/29526",
-      "primary_url": "https://www.aibase.com/news/29526",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
-          "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
-          "url": "https://www.aibase.com/news/29526",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
-          "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
-          "url": "https://www.aibase.com/news/29526",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T10:34:07.691967Z",
-      "latest_at": "2026-07-10T10:34:07.691967Z",
-      "primary_item": {
-        "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
-        "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
-        "url": "https://www.aibase.com/news/29526",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_13243758b119",
-      "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-      "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-      "primary_url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "51372e1e55f8303fcbf4f816ab6a35439ab103aa",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "3ff7c88892d9ebe006dbd32980f29249968951f5",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "a577f832d907d3556babb431fa9407548eded23d",
-          "title": "title",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "51372e1e55f8303fcbf4f816ab6a35439ab103aa",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "3ff7c88892d9ebe006dbd32980f29249968951f5",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "a577f832d907d3556babb431fa9407548eded23d",
-          "title": "title",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6702,
-      "importance": 0.6702,
-      "importance_score": 0.6702,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0408,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T21:46:17Z",
-      "latest_at": "2026-07-09T21:46:17Z",
-      "primary_item": {
-        "id": "51372e1e55f8303fcbf4f816ab6a35439ab103aa",
-        "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-        "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b63b27686ba0",
-      "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
-      "url": "https://www.aibase.com/news/29528",
-      "primary_url": "https://www.aibase.com/news/29528",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ad24c680df28cc2d6008647c44a937d24babe2df",
-          "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
-          "url": "https://www.aibase.com/news/29528",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ad24c680df28cc2d6008647c44a937d24babe2df",
-          "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
-          "url": "https://www.aibase.com/news/29528",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T10:34:07.691967Z",
-      "latest_at": "2026-07-10T10:34:07.691967Z",
-      "primary_item": {
-        "id": "ad24c680df28cc2d6008647c44a937d24babe2df",
-        "title": "​Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能",
-        "url": "https://www.aibase.com/news/29528",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_24a7b68fc45a",
-      "title": "三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产",
-      "url": "https://www.aibase.com/news/29527",
-      "primary_url": "https://www.aibase.com/news/29527",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a9f0d291e7254d97528883c7e309e230f61deebd",
-          "title": "三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产",
-          "url": "https://www.aibase.com/news/29527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a9f0d291e7254d97528883c7e309e230f61deebd",
-          "title": "三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产",
-          "url": "https://www.aibase.com/news/29527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T10:34:07.691967Z",
-      "latest_at": "2026-07-10T10:34:07.691967Z",
-      "primary_item": {
-        "id": "a9f0d291e7254d97528883c7e309e230f61deebd",
-        "title": "三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产",
-        "url": "https://www.aibase.com/news/29527",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8de6289bbaf9",
-      "title": "快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别\"补代码\"，首个能端到端跑通完整工程的国产 Agentic 编程模型",
-      "url": "https://www.aibase.com/news/29530",
-      "primary_url": "https://www.aibase.com/news/29530",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e41476d0e305dd9dc4a261390540a8b7076df250",
-          "title": "快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别\"补代码\"，首个能端到端跑通完整工程的国产 Agentic 编程模型",
-          "url": "https://www.aibase.com/news/29530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e41476d0e305dd9dc4a261390540a8b7076df250",
-          "title": "快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别\"补代码\"，首个能端到端跑通完整工程的国产 Agentic 编程模型",
-          "url": "https://www.aibase.com/news/29530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:34:07.691967Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T10:34:07.691967Z",
-      "latest_at": "2026-07-10T10:34:07.691967Z",
-      "primary_item": {
-        "id": "e41476d0e305dd9dc4a261390540a8b7076df250",
-        "title": "快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别\"补代码\"，首个能端到端跑通完整工程的国产 Agentic 编程模型",
-        "url": "https://www.aibase.com/news/29530",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1451,14 +1120,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5663,
-      "importance": 0.5663,
-      "importance_score": 0.5663,
+      "score": 0.5571,
+      "importance": 0.5571,
+      "importance_score": 0.5571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9664,
+        "recency": 0.9206,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1472,6 +1141,394 @@
         "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
         "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
         "source": "cdn.openai.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_50774a9f366d",
+      "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "url": "https://news.ycombinator.com/item?id=48865093",
+      "primary_url": "https://news.ycombinator.com/item?id=48865093",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://news.ycombinator.com/item?id=48865093",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T21:54:04.001000Z"
+        },
+        {
+          "id": "c7fcdc3ef440c29bc4acc539a72c07685a527504",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T20:52:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://news.ycombinator.com/item?id=48865093",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T21:54:04.001000Z"
+        },
+        {
+          "id": "c7fcdc3ef440c29bc4acc539a72c07685a527504",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T20:52:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T20:52:28Z",
+      "latest_at": "2026-07-10T21:54:04.001000Z",
+      "primary_item": {
+        "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
+        "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+        "url": "https://news.ycombinator.com/item?id=48865093",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1edff711d52c",
+      "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+      "primary_url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "023ea6b019a1b245dcaf094f6d06dc9d93dee610",
+          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T19:30:12Z"
+        },
+        {
+          "id": "5ce3527d1576a7705acb40f9be3844e99151f0ed",
+          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani announces \"Click-to-Cancel\" rules",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T19:30:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "023ea6b019a1b245dcaf094f6d06dc9d93dee610",
+          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T19:30:12Z"
+        },
+        {
+          "id": "5ce3527d1576a7705acb40f9be3844e99151f0ed",
+          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani announces \"Click-to-Cancel\" rules",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T19:30:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9004,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T19:30:12Z",
+      "latest_at": "2026-07-10T19:30:12Z",
+      "primary_item": {
+        "id": "023ea6b019a1b245dcaf094f6d06dc9d93dee610",
+        "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+        "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_363fa405a319",
+      "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
+      "url": "https://news.ycombinator.com/item?id=48865238",
+      "primary_url": "https://news.ycombinator.com/item?id=48865238",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "02e4d435bd1102923ab6914d93054af815369b69",
+          "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
+          "url": "https://news.ycombinator.com/item?id=48865238",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T21:54:04.001000Z"
+        },
+        {
+          "id": "fbd9af334e5a545a1f8c4369600eda66a8e82f37",
+          "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
+          "url": "https://arxiv.org/abs/2607.08147",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T21:03:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "02e4d435bd1102923ab6914d93054af815369b69",
+          "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
+          "url": "https://news.ycombinator.com/item?id=48865238",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T21:54:04.001000Z"
+        },
+        {
+          "id": "fbd9af334e5a545a1f8c4369600eda66a8e82f37",
+          "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
+          "url": "https://arxiv.org/abs/2607.08147",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T21:03:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T21:03:38Z",
+      "latest_at": "2026-07-10T21:54:04.001000Z",
+      "primary_item": {
+        "id": "02e4d435bd1102923ab6914d93054af815369b69",
+        "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
+        "url": "https://news.ycombinator.com/item?id=48865238",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_e4d9e4bb7abd",
+      "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本",
+      "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+      "primary_url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d5da39397777a7bfb7fb40961c4c0c8f985ad858",
+          "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本",
+          "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T16:47:19.168000Z"
+        },
+        {
+          "id": "1c38743e78ac8be44aecc2e979de57d909628ec8",
+          "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本 / Adam Mosseri says Instagram has 'reined in' AI costs after shutting down 'the silly things' that were burning tokens",
+          "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T16:28:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "d5da39397777a7bfb7fb40961c4c0c8f985ad858",
+          "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本",
+          "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T16:47:19.168000Z"
+        },
+        {
+          "id": "1c38743e78ac8be44aecc2e979de57d909628ec8",
+          "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本 / Adam Mosseri says Instagram has 'reined in' AI costs after shutting down 'the silly things' that were burning tokens",
+          "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T16:28:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7873,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T16:28:37Z",
+      "latest_at": "2026-07-10T16:47:19.168000Z",
+      "primary_item": {
+        "id": "d5da39397777a7bfb7fb40961c4c0c8f985ad858",
+        "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本",
+        "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e21226d6892e",
+      "title": "摩根大通开发的人工智能交易机器人，在回测中表现优于“60/40”投资组合模型",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a614cfd1a557cf2f4a0359fa115295f91ba8ef75",
+          "title": "摩根大通开发的人工智能交易机器人，在回测中表现优于“60/40”投资组合模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T15:27:32.711000Z"
+        },
+        {
+          "id": "b1115936a923fd2f62028feb579d2291baca9b72",
+          "title": "摩根大通开发的人工智能交易策略在回测中表现优于60/40投资组合",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T23:20:59.161000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "a614cfd1a557cf2f4a0359fa115295f91ba8ef75",
+          "title": "摩根大通开发的人工智能交易机器人，在回测中表现优于“60/40”投资组合模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T15:27:32.711000Z"
+        },
+        {
+          "id": "b1115936a923fd2f62028feb579d2291baca9b72",
+          "title": "摩根大通开发的人工智能交易策略在回测中表现优于60/40投资组合",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T23:20:59.161000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4944,
+      "importance": 0.4944,
+      "importance_score": 0.4944,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7319,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-09T23:20:59.161000Z",
+      "latest_at": "2026-07-10T15:27:32.711000Z",
+      "primary_item": {
+        "id": "a614cfd1a557cf2f4a0359fa115295f91ba8ef75",
+        "title": "摩根大通开发的人工智能交易机器人，在回测中表现优于“60/40”投资组合模型",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     }
