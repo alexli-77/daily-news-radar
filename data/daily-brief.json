@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-10T21:53:35.555174Z",
+  "generated_at": "2026-07-10T22:53:20.197932Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0753-5979-b0b3-ac2426cb549e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0753-5979-b0b3-ac2426cb549e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0853-447d-ae37-4c99182c5049&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0853-447d-ae37-4c99182c5049&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "6a01a592d0caac13057a5b2fd8cd658a3fdd194a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0853-447d-ae37-4c99182c5049&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5ffc9a1d1709b2b4c3a1358088e9d44de29531ed",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "6ea5a2dcc8bd2877dd845dcf00b79840f26eb9ae",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0959-3470-9671-7a3e0d2950fa&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "3517eb6b67a36f5edcf5cc96f1e908e7bfc2119b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0848-2460-810e-c1769535ae88&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "6a01a592d0caac13057a5b2fd8cd658a3fdd194a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0853-447d-ae37-4c99182c5049&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5ffc9a1d1709b2b4c3a1358088e9d44de29531ed",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0753-5979-b0b3-ac2426cb549e&fp=-3",
@@ -201,15 +210,6 @@
           "id": "6ea5a2dcc8bd2877dd845dcf00b79840f26eb9ae",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0959-3470-9671-7a3e0d2950fa&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "3517eb6b67a36f5edcf5cc96f1e908e7bfc2119b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0848-2460-810e-c1769535ae88&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-09T22:48:03.200618Z",
-      "latest_at": "2026-07-10T21:53:35.555174Z",
+      "earliest_at": "2026-07-09T23:59:10.609799Z",
+      "latest_at": "2026-07-10T22:53:20.197932Z",
       "primary_item": {
-        "id": "5ffc9a1d1709b2b4c3a1358088e9d44de29531ed",
+        "id": "6a01a592d0caac13057a5b2fd8cd658a3fdd194a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0753-5979-b0b3-ac2426cb549e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0853-447d-ae37-4c99182c5049&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8629,
-      "importance": 0.8629,
-      "importance_score": 0.8629,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9495,
+        "recency": 0.9081,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7529,
+        "recency": 0.7114,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,14 +401,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9254,
+        "recency": 0.8839,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,6 +425,66 @@
         "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_33695afdb262",
+      "title": "博科圣地如何利用前沿AI技术",
+      "url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+      "primary_url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e85d2c96327e71d873f282744399a2f69e96b722",
+          "title": "博科圣地如何利用前沿AI技术",
+          "url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T22:07:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "e85d2c96327e71d873f282744399a2f69e96b722",
+          "title": "博科圣地如何利用前沿AI技术",
+          "url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T22:07:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.968,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T22:07:19Z",
+      "latest_at": "2026-07-10T22:07:19Z",
+      "primary_item": {
+        "id": "e85d2c96327e71d873f282744399a2f69e96b722",
+        "title": "博科圣地如何利用前沿AI技术",
+        "url": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -462,14 +522,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.9018,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -522,14 +582,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8349,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,14 +642,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8215,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,14 +702,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8094,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -702,20 +762,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7228,
+        "recency": 0.6813,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T15:14:27Z",
       "latest_at": "2026-07-10T15:14:27Z",
@@ -762,14 +821,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3794,
+        "recency": 0.338,
         "story_heat": 0.0
       },
       "category": "official",
@@ -822,14 +881,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6698,
+        "recency": 0.6283,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -881,14 +940,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7179,
+        "recency": 0.6764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -961,14 +1020,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7165,
-      "importance": 0.7165,
-      "importance_score": 0.7165,
+      "score": 0.7082,
+      "importance": 0.7082,
+      "importance_score": 0.7082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3976,
+        "recency": 0.3561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,14 +1080,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7719,
-      "importance": 0.7719,
-      "importance_score": 0.7719,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4944,
+        "recency": 0.4529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1045,6 +1104,297 @@
         "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_50774a9f366d",
+      "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "primary_url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "source": "www.tryai.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2fd03cf31c104dc231c28958c4a7ed7d192b4ab3",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
+          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+          "source": "www.tryai.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:23:12.895000Z"
+        },
+        {
+          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://news.ycombinator.com/item?id=48865093",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T21:54:04.001000Z"
+        },
+        {
+          "id": "c7fcdc3ef440c29bc4acc539a72c07685a527504",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T20:52:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.tryai.dev"
+      ],
+      "items": [
+        {
+          "id": "2fd03cf31c104dc231c28958c4a7ed7d192b4ab3",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
+          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+          "source": "www.tryai.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:23:12.895000Z"
+        },
+        {
+          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://news.ycombinator.com/item?id=48865093",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T21:54:04.001000Z"
+        },
+        {
+          "id": "c7fcdc3ef440c29bc4acc539a72c07685a527504",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T20:52:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9791,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T20:52:28Z",
+      "latest_at": "2026-07-10T22:23:12.895000Z",
+      "primary_item": {
+        "id": "2fd03cf31c104dc231c28958c4a7ed7d192b4ab3",
+        "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
+        "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+        "source": "www.tryai.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_04c3e5477225",
+      "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "primary_url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "source": "casp.ac",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
+          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "casp.ac",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:07:19.177000Z"
+        },
+        {
+          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
+          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
+          "url": "https://news.ycombinator.com/item?id=48863707",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T19:18:11.825000Z"
+        },
+        {
+          "id": "f3f21b38ff239d6bbad2008e192df6da39e68b17",
+          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术 / How the terrorist group Boko Haram uses frontier AI",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T18:49:26Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "casp.ac",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
+          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "casp.ac",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:07:19.177000Z"
+        },
+        {
+          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
+          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
+          "url": "https://news.ycombinator.com/item?id=48863707",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T19:18:11.825000Z"
+        },
+        {
+          "id": "f3f21b38ff239d6bbad2008e192df6da39e68b17",
+          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术 / How the terrorist group Boko Haram uses frontier AI",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T18:49:26Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5666,
+      "importance": 0.5666,
+      "importance_score": 0.5666,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.968,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T18:49:26Z",
+      "latest_at": "2026-07-10T22:07:19.177000Z",
+      "primary_item": {
+        "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
+        "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+        "url": "https://casp.ac/reports/ai-enabled-terrorism",
+        "source": "casp.ac",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2f6e5ceea008",
+      "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
+      "url": "https://news.ycombinator.com/item?id=48864507",
+      "primary_url": "https://news.ycombinator.com/item?id=48864507",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "024611519b6d16eb0b01635334dfcab40f2c12b8",
+          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
+          "url": "https://news.ycombinator.com/item?id=48864507",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T20:48:03.121000Z"
+        },
+        {
+          "id": "9ab7593cd90bea20a6612496a0a5855bf0f16108",
+          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
+          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T20:00:28Z"
+        },
+        {
+          "id": "966f00dbb53ae1f66bd122b12649f0a299c037e7",
+          "title": "请不要停止Gemini 2.5 Flash / Please don't discontinue Gemini 2.5 Flash",
+          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T20:00:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "024611519b6d16eb0b01635334dfcab40f2c12b8",
+          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
+          "url": "https://news.ycombinator.com/item?id=48864507",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T20:48:03.121000Z"
+        },
+        {
+          "id": "9ab7593cd90bea20a6612496a0a5855bf0f16108",
+          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
+          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-10T20:00:28Z"
+        },
+        {
+          "id": "966f00dbb53ae1f66bd122b12649f0a299c037e7",
+          "title": "请不要停止Gemini 2.5 Flash / Please don't discontinue Gemini 2.5 Flash",
+          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T20:00:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5556,
+      "importance": 0.5556,
+      "importance_score": 0.5556,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.913,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T20:00:28Z",
+      "latest_at": "2026-07-10T20:48:03.121000Z",
+      "primary_item": {
+        "id": "024611519b6d16eb0b01635334dfcab40f2c12b8",
+        "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
+        "url": "https://news.ycombinator.com/item?id=48864507",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1120,14 +1470,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5571,
-      "importance": 0.5571,
-      "importance_score": 0.5571,
+      "score": 0.5488,
+      "importance": 0.5488,
+      "importance_score": 0.5488,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9206,
+        "recency": 0.8791,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1145,263 +1495,30 @@
       }
     },
     {
-      "story_id": "story_50774a9f366d",
-      "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "url": "https://news.ycombinator.com/item?id=48865093",
-      "primary_url": "https://news.ycombinator.com/item?id=48865093",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://news.ycombinator.com/item?id=48865093",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T21:54:04.001000Z"
-        },
-        {
-          "id": "c7fcdc3ef440c29bc4acc539a72c07685a527504",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T20:52:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://news.ycombinator.com/item?id=48865093",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T21:54:04.001000Z"
-        },
-        {
-          "id": "c7fcdc3ef440c29bc4acc539a72c07685a527504",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T20:52:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T20:52:28Z",
-      "latest_at": "2026-07-10T21:54:04.001000Z",
-      "primary_item": {
-        "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
-        "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-        "url": "https://news.ycombinator.com/item?id=48865093",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_1edff711d52c",
-      "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
-      "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-      "primary_url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "023ea6b019a1b245dcaf094f6d06dc9d93dee610",
-          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
-          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T19:30:12Z"
-        },
-        {
-          "id": "5ce3527d1576a7705acb40f9be3844e99151f0ed",
-          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani announces \"Click-to-Cancel\" rules",
-          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T19:30:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "023ea6b019a1b245dcaf094f6d06dc9d93dee610",
-          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
-          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T19:30:12Z"
-        },
-        {
-          "id": "5ce3527d1576a7705acb40f9be3844e99151f0ed",
-          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani announces \"Click-to-Cancel\" rules",
-          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T19:30:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9004,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T19:30:12Z",
-      "latest_at": "2026-07-10T19:30:12Z",
-      "primary_item": {
-        "id": "023ea6b019a1b245dcaf094f6d06dc9d93dee610",
-        "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
-        "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_363fa405a319",
-      "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
-      "url": "https://news.ycombinator.com/item?id=48865238",
-      "primary_url": "https://news.ycombinator.com/item?id=48865238",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "02e4d435bd1102923ab6914d93054af815369b69",
-          "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
-          "url": "https://news.ycombinator.com/item?id=48865238",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T21:54:04.001000Z"
-        },
-        {
-          "id": "fbd9af334e5a545a1f8c4369600eda66a8e82f37",
-          "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
-          "url": "https://arxiv.org/abs/2607.08147",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T21:03:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "02e4d435bd1102923ab6914d93054af815369b69",
-          "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
-          "url": "https://news.ycombinator.com/item?id=48865238",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T21:54:04.001000Z"
-        },
-        {
-          "id": "fbd9af334e5a545a1f8c4369600eda66a8e82f37",
-          "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
-          "url": "https://arxiv.org/abs/2607.08147",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T21:03:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T21:03:38Z",
-      "latest_at": "2026-07-10T21:54:04.001000Z",
-      "primary_item": {
-        "id": "02e4d435bd1102923ab6914d93054af815369b69",
-        "title": "Prismata：限制 Web 代理中的跨站点提示注入 / Prismata: Confining cross-site prompt injection in web agents",
-        "url": "https://news.ycombinator.com/item?id=48865238",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e4d9e4bb7abd",
-      "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本",
-      "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
-      "primary_url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+      "story_id": "story_4fdd76e25eeb",
+      "title": "苹果在一份轰动性诉讼中猛烈抨击OpenAI的招聘做法",
+      "url": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7",
+      "primary_url": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d5da39397777a7bfb7fb40961c4c0c8f985ad858",
-          "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本",
-          "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+          "id": "8f3a9cdcc7a25e9063dd9b755c14e9aea13b03ad",
+          "title": "苹果在一份轰动性诉讼中猛烈抨击OpenAI的招聘做法",
+          "url": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-10T16:47:19.168000Z"
+          "published_at": "2026-07-10T22:39:09.270000Z"
         },
         {
-          "id": "1c38743e78ac8be44aecc2e979de57d909628ec8",
-          "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本 / Adam Mosseri says Instagram has 'reined in' AI costs after shutting down 'the silly things' that were burning tokens",
-          "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+          "id": "a49c06dd2decf111e40f04f5e00974af8fc25b95",
+          "title": "苹果在一份轰动性诉讼中猛烈抨击OpenAI的招聘做法 / Apple accuses OpenAI of playing dirty in the AI talent wars",
+          "url": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-10T16:28:37Z"
+          "published_at": "2026-07-10T22:27:32Z"
         }
       ],
       "source_count": 2,
@@ -1411,124 +1528,47 @@
       ],
       "items": [
         {
-          "id": "d5da39397777a7bfb7fb40961c4c0c8f985ad858",
-          "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本",
-          "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+          "id": "8f3a9cdcc7a25e9063dd9b755c14e9aea13b03ad",
+          "title": "苹果在一份轰动性诉讼中猛烈抨击OpenAI的招聘做法",
+          "url": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-10T16:47:19.168000Z"
+          "published_at": "2026-07-10T22:39:09.270000Z"
         },
         {
-          "id": "1c38743e78ac8be44aecc2e979de57d909628ec8",
-          "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本 / Adam Mosseri says Instagram has 'reined in' AI costs after shutting down 'the silly things' that were burning tokens",
-          "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+          "id": "a49c06dd2decf111e40f04f5e00974af8fc25b95",
+          "title": "苹果在一份轰动性诉讼中猛烈抨击OpenAI的招聘做法 / Apple accuses OpenAI of playing dirty in the AI talent wars",
+          "url": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-10T16:28:37Z"
+          "published_at": "2026-07-10T22:27:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.546,
+      "importance": 0.546,
+      "importance_score": 0.546,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7873,
+        "recency": 0.9902,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-10T16:28:37Z",
-      "latest_at": "2026-07-10T16:47:19.168000Z",
+      "earliest_at": "2026-07-10T22:27:32Z",
+      "latest_at": "2026-07-10T22:39:09.270000Z",
       "primary_item": {
-        "id": "d5da39397777a7bfb7fb40961c4c0c8f985ad858",
-        "title": "亚当·莫塞里表示，Instagram在关闭了那些“消耗代币的无谓功能”后，已“控制住”了AI成本",
-        "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+        "id": "8f3a9cdcc7a25e9063dd9b755c14e9aea13b03ad",
+        "title": "苹果在一份轰动性诉讼中猛烈抨击OpenAI的招聘做法",
+        "url": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e21226d6892e",
-      "title": "摩根大通开发的人工智能交易机器人，在回测中表现优于“60/40”投资组合模型",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a614cfd1a557cf2f4a0359fa115295f91ba8ef75",
-          "title": "摩根大通开发的人工智能交易机器人，在回测中表现优于“60/40”投资组合模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T15:27:32.711000Z"
-        },
-        {
-          "id": "b1115936a923fd2f62028feb579d2291baca9b72",
-          "title": "摩根大通开发的人工智能交易策略在回测中表现优于60/40投资组合",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T23:20:59.161000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "a614cfd1a557cf2f4a0359fa115295f91ba8ef75",
-          "title": "摩根大通开发的人工智能交易机器人，在回测中表现优于“60/40”投资组合模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T15:27:32.711000Z"
-        },
-        {
-          "id": "b1115936a923fd2f62028feb579d2291baca9b72",
-          "title": "摩根大通开发的人工智能交易策略在回测中表现优于60/40投资组合",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-09T23:20:59.161000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4944,
-      "importance": 0.4944,
-      "importance_score": 0.4944,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7319,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-09T23:20:59.161000Z",
-      "latest_at": "2026-07-10T15:27:32.711000Z",
-      "primary_item": {
-        "id": "a614cfd1a557cf2f4a0359fa115295f91ba8ef75",
-        "title": "摩根大通开发的人工智能交易机器人，在回测中表现优于“60/40”投资组合模型",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
-        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     }
