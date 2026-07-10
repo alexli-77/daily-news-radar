@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月9日人工智能热点分享
-1、Mistral 推出 Studio，为 AI 提示词和技能提供系统记录，Mistral 今日推出 Studio，为 AI 提示词和技能提供集中式系统记录。
-2、Meta 发布 Muse Spark 1.1 模型，来自 @finkd 的消息 — Muse Spark 1.1 已上线。
-3、TeXada：基于MiniCPM的本地数学Agent发布，社区开发者基于MiniCPM5-1B和MiniCPM-V 4.6构建了本地优先的数学智能体TeXada。
-4、Claude 推出反思功能（Beta），Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。
-5、法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资，法国竞争管理局确认，对英伟达的反垄断调查已近尾声，即将发布正式异议声明。
-6、OpenAI炮轰AI评测"标杆"，重点是731 道题近三成有缺陷， 8 个月通过率从23%飙到80%已失灵。
-7、AI"按量计费"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱，属于 AI 基础设施和算力成本相关信号。
-8、Meta被曝研发全天候AI眼镜，重点是支持超级感知与无感音视频捕捉。
-9、一个普通摄像头就能自主导航，重点是Mistral发布8B模型Robostral Navigate，性能碾压多摄像头方案。
-10、亚马逊被爆开发AI智能体“Moonraker”，重点是Alexa将支持多步复杂任务串联。
+2026年7月10日人工智能热点分享
+1、德国电信如何利用人工智能重新布线电信。
+2、AI日报，重点是GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI。
+3、Kimi联合美国运通与农业银行正式发行首张AI原生信用卡。
+4、Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能。
+5、三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产，属于 AI 基础设施和算力成本相关信号。
+6、快手 KwaiKAT 发布 KAT-Coder-Pro V2.5，重点是告别"补代码"，首个能端到端跑通完整工程的国产 Agentic 编程模型。
+7、扎克伯格首度回应 Meta"算力过剩"：没人会嫌算力太多，但租出去更赚钱，属于 AI 基础设施和算力成本相关信号。
+8、小红书发布大模型新架构 PIPO，小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。
+9、PyTorch 中的分析（第 3 部分），重点是注意力就是您的分析。
+10、谷歌发布LiteRT.js，重点是浏览器跑AI推理最高快 3 倍，WebAssembly硬核加速。
 
 ## 原始链接
-1. Mistral 推出 Studio，为 AI 提示词和技能提供系统记录（Mistral） - https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk
-2. Meta 发布 Muse Spark 1.1 模型（X：AI at Meta (@AIatMeta)） - https://aihot.virxact.com/items/cmrdltu5h051cih4bum094j2e
-3. TeXada：基于MiniCPM的本地数学Agent发布（X：面壁智能 OpenBMB (@OpenBMB)） - https://aihot.virxact.com/items/cmrdl9o8g04twih4b0sqb2p2d
-4. Claude 推出反思功能（Beta）（Anthropic：Newsroom（网页）） - https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb
-5. 法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资（IT之家（RSS）） - https://aihot.virxact.com/items/cmrdj6s6604a6ih4bekz9h8il
-6. OpenAI炮轰AI评测"标杆"： 731 道题近三成有缺陷， 8 个月通过率从23%飙到80%已失灵（AIbase） - https://www.aibase.com/news/29502
-7. AI"按量计费"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱（AIbase） - https://www.aibase.com/news/29500
-8. Meta被曝研发全天候AI眼镜：支持超级感知与无感音视频捕捉（AIbase） - https://www.aibase.com/news/29496
-9. 一个普通摄像头就能自主导航：Mistral发布8B模型Robostral Navigate，性能碾压多摄像头方案（AIbase） - https://www.aibase.com/news/29498
-10. 亚马逊被爆开发AI智能体“Moonraker”:Alexa将支持多步复杂任务串联（AIbase） - https://www.aibase.com/news/29499
+1. 德国电信如何利用人工智能重新布线电信（OpenAI News） - https://openai.com/index/deutsche-telekom
+2. AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI（AIbase） - https://www.aibase.com/news/29529
+3. Kimi联合美国运通与农业银行正式发行首张AI原生信用卡（AIbase） - https://www.aibase.com/news/29526
+4. Meta 发布新旗舰模型 Muse Spark 1.1，升级多代理自动化功能（AIbase） - https://www.aibase.com/news/29528
+5. 三星杀回PC芯片战场：自研AI专用芯片GAIA已送测联想惠普， 2027 年量产（AIbase） - https://www.aibase.com/news/29527
+6. 快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别"补代码"，首个能端到端跑通完整工程的国产 Agentic 编程模型（AIbase） - https://www.aibase.com/news/29530
+7. 扎克伯格首度回应 Meta"算力过剩"：没人会嫌算力太多，但租出去更赚钱（IT之家（RSS）） - https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152
+8. 小红书发布大模型新架构 PIPO（公众号：小红书技术（dots.llm）） - https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4
+9. PyTorch 中的分析（第 3 部分）：注意力就是您的分析（Hugging Face 博客） - https://huggingface.co/blog/torch-attention-profile
+10. 谷歌发布LiteRT.js：浏览器跑AI推理最高快 3 倍，WebAssembly硬核加速（AIbase） - https://www.aibase.com/news/29522
