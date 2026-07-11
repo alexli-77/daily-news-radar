@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T10:39:44.846523Z",
+  "generated_at": "2026-07-11T11:45:34.687933Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2040-089c-83f8-0a428517a334&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-2040-089c-83f8-0a428517a334&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2146-01a0-949c-e0e30a32ebcb&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-2146-01a0-949c-e0e30a32ebcb&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "0907f637b65012f04d24d508254ab0d77f53064d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2146-01a0-949c-e0e30a32ebcb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "856f66c824918d72cd77c67fc8a99de7d9512f2a",
           "title": "点击这里进入 / Click here to enter",
@@ -129,12 +138,21 @@
           "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 14,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "0907f637b65012f04d24d508254ab0d77f53064d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2146-01a0-949c-e0e30a32ebcb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "856f66c824918d72cd77c67fc8a99de7d9512f2a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2040-089c-83f8-0a428517a334&fp=-3",
@@ -252,8 +270,8 @@
           "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
+      "item_count": 14,
+      "duplicate_count": 14,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -271,11 +289,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-10T13:05:57.677773Z",
-      "latest_at": "2026-07-11T10:39:44.846523Z",
+      "latest_at": "2026-07-11T11:45:34.687933Z",
       "primary_item": {
-        "id": "856f66c824918d72cd77c67fc8a99de7d9512f2a",
+        "id": "0907f637b65012f04d24d508254ab0d77f53064d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2040-089c-83f8-0a428517a334&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2146-01a0-949c-e0e30a32ebcb&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7893,
-      "importance": 0.7893,
-      "importance_score": 0.7893,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8864,
+        "recency": 0.8407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -375,21 +393,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4175,
+        "recency": 0.3718,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T20:40:56Z",
       "latest_at": "2026-07-10T20:40:56Z",
@@ -436,14 +453,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6369,
+        "recency": 0.5912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -495,14 +512,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3933,
+        "recency": 0.3476,
         "story_heat": 0.0
       },
       "category": "official",
@@ -518,6 +535,84 @@
         "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b3a404e8e56a",
+      "title": "DayuanJiang / next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "primary_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
+          "title": "DayuanJiang / next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+          "title": "DayuanJiang /      next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:18:21.718000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
+          "title": "DayuanJiang / next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+          "title": "DayuanJiang /      next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:18:21.718000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T11:18:21.718000Z",
+      "latest_at": "2026-07-11T11:45:34.687933Z",
+      "primary_item": {
+        "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
+        "title": "DayuanJiang / next-ai-draw-io",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -574,14 +669,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9543,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -652,14 +747,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9546,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -730,14 +825,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9663,
+        "recency": 0.9205,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -808,14 +903,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9344,
+        "recency": 0.8887,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -886,14 +981,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9191,
+        "recency": 0.8734,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -908,6 +1003,84 @@
         "url": "https://juejin.cn/post/7660697431320690723",
         "source": "juejin",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1936484a24f4",
+      "title": "openai/插件 / openai / plugins",
+      "url": "https://github.com/openai/plugins",
+      "primary_url": "https://github.com/openai/plugins",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:18:21.718000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:18:21.718000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T11:18:21.718000Z",
+      "latest_at": "2026-07-11T11:45:34.687933Z",
+      "primary_item": {
+        "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+        "title": "openai/插件 / openai / plugins",
+        "url": "https://github.com/openai/plugins",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -964,14 +1137,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9543,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1080,14 +1253,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5443,
+        "recency": 0.4986,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1158,14 +1331,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9232,
+        "recency": 0.8775,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,14 +1427,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
+      "score": 0.4882,
+      "importance": 0.4882,
+      "importance_score": 0.4882,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6217,
+        "recency": 0.576,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1331,14 +1504,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4924,
-      "importance": 0.4924,
-      "importance_score": 0.4924,
+      "score": 0.4832,
+      "importance": 0.4832,
+      "importance_score": 0.4832,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7218,
+        "recency": 0.6761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1409,14 +1582,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9543,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1506,14 +1679,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4774,
-      "importance": 0.4774,
-      "importance_score": 0.4774,
+      "score": 0.4682,
+      "importance": 0.4682,
+      "importance_score": 0.4682,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5218,
+        "recency": 0.4761,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1603,14 +1776,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4707,
-      "importance": 0.4707,
-      "importance_score": 0.4707,
+      "score": 0.4616,
+      "importance": 0.4616,
+      "importance_score": 0.4616,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4885,
+        "recency": 0.4428,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1624,181 +1797,6 @@
         "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
         "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
         "source": "www.tryai.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_04c3e5477225",
-      "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "primary_url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "source": "casp.ac",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T19:18:11.825000Z"
-        },
-        {
-          "id": "f3f21b38ff239d6bbad2008e192df6da39e68b17",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "casp.ac",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T19:18:11.825000Z"
-        },
-        {
-          "id": "f3f21b38ff239d6bbad2008e192df6da39e68b17",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4685,
-      "importance": 0.4685,
-      "importance_score": 0.4685,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4775,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T18:49:26Z",
-      "latest_at": "2026-07-10T22:07:19.177000Z",
-      "primary_item": {
-        "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-        "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-        "url": "https://casp.ac/reports/ai-enabled-terrorism",
-        "source": "casp.ac",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_943ef637620d",
-      "title": "人工智能辅助作弊正迫使一些学校回归传统方式",
-      "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-      "primary_url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a7b550893422b4d1325af44f00c3dada4895bbc",
-          "title": "人工智能辅助作弊正迫使一些学校回归传统方式",
-          "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.840000Z"
-        },
-        {
-          "id": "3b7429e45738404d7c93673361ce8d45b5a6c2ea",
-          "title": "人工智能辅助作弊正迫使一些学校回归传统方式 / AI-enabled cheating is forcing some schools to go analog",
-          "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:55:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "6a7b550893422b4d1325af44f00c3dada4895bbc",
-          "title": "人工智能辅助作弊正迫使一些学校回归传统方式",
-          "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.840000Z"
-        },
-        {
-          "id": "3b7429e45738404d7c93673361ce8d45b5a6c2ea",
-          "title": "人工智能辅助作弊正迫使一些学校回归传统方式 / AI-enabled cheating is forcing some schools to go analog",
-          "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:55:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4679,
-      "importance": 0.4679,
-      "importance_score": 0.4679,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5996,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T00:55:46Z",
-      "latest_at": "2026-07-11T01:03:10.840000Z",
-      "primary_item": {
-        "id": "6a7b550893422b4d1325af44f00c3dada4895bbc",
-        "title": "人工智能辅助作弊正迫使一些学校回归传统方式",
-        "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
