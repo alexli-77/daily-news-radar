@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T18:26:40.358186Z",
+  "generated_at": "2026-07-11T19:40:35.905450Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0427-0693-bb4b-e7d3e751cf08&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0427-0693-bb4b-e7d3e751cf08&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0540-595c-bb65-a3a19d4ed970&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0540-595c-bb65-a3a19d4ed970&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d9ef6ee342618a853fd795ecaf2cb4ec7226994b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0540-595c-bb65-a3a19d4ed970&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "6f5a784dfe6931cfb1e6add28cf1ff7b75612b40",
           "title": "点击这里进入 / Click here to enter",
@@ -150,15 +159,6 @@
           "id": "7f70c50f03fb5962eeef4b42f6653e2aa5c672d7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0648-0077-8682-d43a289b0527&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5ac1f92f948b3d1b14f96d9878189518ee1c9f1d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0518-0856-b79b-1cc8ac3e7045&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -171,6 +171,15 @@
       ],
       "items": [
         {
+          "id": "d9ef6ee342618a853fd795ecaf2cb4ec7226994b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0540-595c-bb65-a3a19d4ed970&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "6f5a784dfe6931cfb1e6add28cf1ff7b75612b40",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0427-0693-bb4b-e7d3e751cf08&fp=-3",
@@ -309,15 +318,6 @@
           "id": "7f70c50f03fb5962eeef4b42f6653e2aa5c672d7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0648-0077-8682-d43a289b0527&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5ac1f92f948b3d1b14f96d9878189518ee1c9f1d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0518-0856-b79b-1cc8ac3e7045&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -342,12 +342,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T19:17:45.278497Z",
-      "latest_at": "2026-07-11T18:26:40.358186Z",
+      "earliest_at": "2026-07-10T20:47:36.012266Z",
+      "latest_at": "2026-07-11T19:40:35.905450Z",
       "primary_item": {
-        "id": "6f5a784dfe6931cfb1e6add28cf1ff7b75612b40",
+        "id": "d9ef6ee342618a853fd795ecaf2cb4ec7226994b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0427-0693-bb4b-e7d3e751cf08&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0540-595c-bb65-a3a19d4ed970&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -387,14 +387,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9429,
+        "recency": 0.8916,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -447,14 +447,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,14 +507,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9198,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -586,14 +586,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5462,
+        "recency": 0.4948,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -608,65 +608,6 @@
         "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
         "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_26aa619f99b8",
-      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-      "url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
-      "primary_url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27dcb4d45e59d6c551d13978c87ea5686e3b597c",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:56:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "27dcb4d45e59d6c551d13978c87ea5686e3b597c",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:56:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5622,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T07:56:11Z",
-      "latest_at": "2026-07-11T07:56:11Z",
-      "primary_item": {
-        "id": "27dcb4d45e59d6c551d13978c87ea5686e3b597c",
-        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-        "url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -779,14 +720,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.607,
-      "importance": 0.607,
-      "importance_score": 0.607,
+      "score": 0.5967,
+      "importance": 0.5967,
+      "importance_score": 0.5967,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9198,
+        "recency": 0.8684,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -800,6 +741,84 @@
         "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
         "url": "https://www.mixfont.com/ghost-font",
         "source": "www.mixfont.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b5d19d55b601",
+      "title": "《AI 2040》与“智能崇拜”",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "source": "geohot.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+          "title": "《AI 2040》与“智能崇拜”",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T19:27:11.440000Z"
+        },
+        {
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T18:04:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "geohot.github.io"
+      ],
+      "items": [
+        {
+          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+          "title": "《AI 2040》与“智能崇拜”",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T19:27:11.440000Z"
+        },
+        {
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the Cult of Intelligence",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T18:04:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5461,
+      "importance": 0.5461,
+      "importance_score": 0.5461,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9907,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T18:04:01Z",
+      "latest_at": "2026-07-11T19:27:11.440000Z",
+      "primary_item": {
+        "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
+        "title": "《AI 2040》与“智能崇拜”",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "source": "geohot.github.io",
         "source_name": "Buzzing"
       }
     },
@@ -821,18 +840,18 @@
           "published_at": "2026-07-11T18:10:37.047000Z"
         },
         {
-          "id": "dff3493572235e2d7a5e5274e492cd7663f523a0",
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
           "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
           "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-11T17:23:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -846,25 +865,25 @@
           "published_at": "2026-07-11T18:10:37.047000Z"
         },
         {
-          "id": "dff3493572235e2d7a5e5274e492cd7663f523a0",
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
           "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
           "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-11T17:23:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9889,
+        "recency": 0.9375,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -935,14 +954,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9421,
+        "recency": 0.8907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1012,14 +1031,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9089,
+        "recency": 0.8575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1089,14 +1108,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4986,
-      "importance": 0.4986,
-      "importance_score": 0.4986,
+      "score": 0.4883,
+      "importance": 0.4883,
+      "importance_score": 0.4883,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7528,
+        "recency": 0.7015,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1132,7 +1151,7 @@
         },
         {
           "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
-          "title": "FCC 批准太空镜照亮夜空的测试 / FCC approves test of space mirror to light night sky",
+          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
           "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1156,7 +1175,7 @@
         },
         {
           "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
-          "title": "FCC 批准太空镜照亮夜空的测试 / FCC approves test of space mirror to light night sky",
+          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
           "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1166,14 +1185,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
+      "score": 0.4858,
+      "importance": 0.4858,
+      "importance_score": 0.4858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7402,
+        "recency": 0.6889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,14 +1263,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4923,
-      "importance": 0.4923,
-      "importance_score": 0.4923,
+      "score": 0.482,
+      "importance": 0.482,
+      "importance_score": 0.482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7215,
+        "recency": 0.6701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1322,14 +1341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.853,
+        "recency": 0.8017,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1400,14 +1419,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4831,
-      "importance": 0.4831,
-      "importance_score": 0.4831,
+      "score": 0.4729,
+      "importance": 0.4729,
+      "importance_score": 0.4729,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6757,
+        "recency": 0.6244,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1478,14 +1497,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4764,
-      "importance": 0.4764,
-      "importance_score": 0.4764,
+      "score": 0.4661,
+      "importance": 0.4661,
+      "importance_score": 0.4661,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.642,
+        "recency": 0.5907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1556,14 +1575,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.47,
-      "importance": 0.47,
-      "importance_score": 0.47,
+      "score": 0.4598,
+      "importance": 0.4598,
+      "importance_score": 0.4598,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6101,
+        "recency": 0.5588,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1634,14 +1653,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.467,
-      "importance": 0.467,
-      "importance_score": 0.467,
+      "score": 0.4567,
+      "importance": 0.4567,
+      "importance_score": 0.4567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5949,
+        "recency": 0.5435,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1712,14 +1731,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4923,
-      "importance": 0.4923,
-      "importance_score": 0.4923,
+      "score": 0.482,
+      "importance": 0.482,
+      "importance_score": 0.482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7215,
+        "recency": 0.6701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1790,14 +1809,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4831,
-      "importance": 0.4831,
-      "importance_score": 0.4831,
+      "score": 0.4729,
+      "importance": 0.4729,
+      "importance_score": 0.4729,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6757,
+        "recency": 0.6244,
         "story_heat": 0.25
       },
       "category": "watch",
