@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T14:23:44.346222Z",
+  "generated_at": "2026-07-11T15:28:52.876618Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0025-2204-b8cb-3d29c8420d1c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0025-2204-b8cb-3d29c8420d1c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0129-208b-b9cb-fb6ee3034804&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0129-208b-b9cb-fb6ee3034804&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f5e69929397506af850d097f29d21d2c852fe1c1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0129-208b-b9cb-fb6ee3034804&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "1c0e14fffc3b6b327a59372bfd469a05b31bc607",
           "title": "点击这里进入 / Click here to enter",
@@ -147,12 +156,21 @@
           "published_at": null
         }
       ],
-      "source_count": 15,
+      "source_count": 16,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "f5e69929397506af850d097f29d21d2c852fe1c1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0129-208b-b9cb-fb6ee3034804&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "1c0e14fffc3b6b327a59372bfd469a05b31bc607",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0025-2204-b8cb-3d29c8420d1c&fp=-3",
@@ -288,8 +306,8 @@
           "published_at": null
         }
       ],
-      "item_count": 15,
-      "duplicate_count": 15,
+      "item_count": 16,
+      "duplicate_count": 16,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -307,17 +325,17 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-10T15:43:38.973894Z",
-      "latest_at": "2026-07-11T14:23:44.346222Z",
+      "latest_at": "2026-07-11T15:28:52.876618Z",
       "primary_item": {
-        "id": "1c0e14fffc3b6b327a59372bfd469a05b31bc607",
+        "id": "f5e69929397506af850d097f29d21d2c852fe1c1",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0025-2204-b8cb-3d29c8420d1c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0129-208b-b9cb-fb6ee3034804&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_6d7dc2911118",
+      "story_id": "story_b62ac9937300",
       "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
       "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
       "primary_url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
@@ -370,14 +388,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7149,
+        "recency": 0.6696,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,20 +449,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7309,
+        "recency": 0.6856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T07:56:11Z",
       "latest_at": "2026-07-11T07:56:11Z",
@@ -457,63 +474,99 @@
       }
     },
     {
-      "story_id": "story_4071a63c6a0f",
-      "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-      "primary_url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9c885636aaf2",
+      "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+      "url": "https://news.ycombinator.com/item?id=48870381",
+      "primary_url": "https://news.ycombinator.com/item?id=48870381",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:40:56Z"
+          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T10:40:12.865000Z"
+        },
+        {
+          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
+        },
+        {
+          "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:40:56Z"
+          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T10:40:12.865000Z"
+        },
+        {
+          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
+        },
+        {
+          "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2619,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7995,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-10T20:40:56Z",
-      "latest_at": "2026-07-10T20:40:56Z",
+      "earliest_at": "2026-07-11T09:36:53Z",
+      "latest_at": "2026-07-11T10:40:12.865000Z",
       "primary_item": {
-        "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-        "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+        "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+        "url": "https://news.ycombinator.com/item?id=48870381",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -570,14 +623,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.922,
+        "recency": 0.8768,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -647,14 +700,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9215,
+        "recency": 0.8763,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -669,6 +722,83 @@
         "url": "https://www.v2ex.com/t/1226598",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_4881a4da7655",
+      "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "primary_url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        },
+        {
+          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
+          "title": "FCC 批准太空镜照亮夜空的测试 / FCC approves test of space mirror to light night sky",
+          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        },
+        {
+          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
+          "title": "FCC 批准太空镜照亮夜空的测试 / FCC approves test of space mirror to light night sky",
+          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8637,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:12:34Z",
+      "latest_at": "2026-07-11T12:12:34Z",
+      "primary_item": {
+        "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+        "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+        "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -725,14 +855,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8902,
+        "recency": 0.8449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -747,84 +877,6 @@
         "url": "https://github.com/DayuanJiang/next-ai-draw-io",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9c885636aaf2",
-      "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-      "url": "https://news.ycombinator.com/item?id=48870381",
-      "primary_url": "https://news.ycombinator.com/item?id=48870381",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:40:12.865000Z"
-        },
-        {
-          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:40:12.865000Z"
-        },
-        {
-          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8448,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T09:36:53Z",
-      "latest_at": "2026-07-11T10:40:12.865000Z",
-      "primary_item": {
-        "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-        "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-        "url": "https://news.ycombinator.com/item?id=48870381",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -881,14 +933,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5078,
+      "importance": 0.5078,
+      "importance_score": 0.5078,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8445,
+        "recency": 0.7992,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -959,14 +1011,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8107,
+        "recency": 0.7655,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,14 +1089,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.4947,
+      "importance": 0.4947,
+      "importance_score": 0.4947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7788,
+        "recency": 0.7336,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1115,14 +1167,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5007,
-      "importance": 0.5007,
-      "importance_score": 0.5007,
+      "score": 0.4917,
+      "importance": 0.4917,
+      "importance_score": 0.4917,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7636,
+        "recency": 0.7183,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1193,14 +1245,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8902,
+        "recency": 0.8449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1271,14 +1323,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5078,
+      "importance": 0.5078,
+      "importance_score": 0.5078,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8445,
+        "recency": 0.7992,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,14 +1439,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4757,
-      "importance": 0.4757,
-      "importance_score": 0.4757,
+      "score": 0.4667,
+      "importance": 0.4667,
+      "importance_score": 0.4667,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3887,
+        "recency": 0.3435,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1409,6 +1461,83 @@
         "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
         "source": "discuss.ai.google.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4a13a9c5d9a4",
+      "title": "近 10 亿美元之后，美国仍然无法制造医用手套 / Almost $1B Later, the US Still Can't Make a Medical Glove",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "primary_url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0b44a83f8eb76a47eecad6cefc7234115b9cdd90",
+          "title": "近 10 亿美元之后，美国仍然无法制造医用手套 / Almost $1B Later, the US Still Can't Make a Medical Glove",
+          "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:16:10Z"
+        },
+        {
+          "id": "b09f32a058d00335d8fb93ea386b431d65794902",
+          "title": "为什么生产美国制造的医用手套这么难 / Why it's so difficult to produce American-made medical gloves",
+          "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:16:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0b44a83f8eb76a47eecad6cefc7234115b9cdd90",
+          "title": "近 10 亿美元之后，美国仍然无法制造医用手套 / Almost $1B Later, the US Still Can't Make a Medical Glove",
+          "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:16:10Z"
+        },
+        {
+          "id": "b09f32a058d00335d8fb93ea386b431d65794902",
+          "title": "为什么生产美国制造的医用手套这么难 / Why it's so difficult to produce American-made medical gloves",
+          "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:16:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4962,
+      "importance": 0.4962,
+      "importance_score": 0.4962,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7412,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T09:16:10Z",
+      "latest_at": "2026-07-11T09:16:10Z",
+      "primary_item": {
+        "id": "0b44a83f8eb76a47eecad6cefc7234115b9cdd90",
+        "title": "近 10 亿美元之后，美国仍然无法制造医用手套 / Almost $1B Later, the US Still Can't Make a Medical Glove",
+        "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1465,14 +1594,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5015,
-      "importance": 0.5015,
-      "importance_score": 0.5015,
+      "score": 0.4925,
+      "importance": 0.4925,
+      "importance_score": 0.4925,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7677,
+        "recency": 0.7224,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1561,14 +1690,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4662,
-      "importance": 0.4662,
-      "importance_score": 0.4662,
+      "score": 0.4572,
+      "importance": 0.4572,
+      "importance_score": 0.4572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4662,
+        "recency": 0.4209,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1583,84 +1712,6 @@
         "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f0d7e1dfb642",
-      "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
-      "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-      "primary_url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "186da3c1056f44662615673e6f2b840362fde05c",
-          "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
-          "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T04:19:14Z"
-        },
-        {
-          "id": "511271e0bb213a59d6c6403f1ab80d1585194f63",
-          "title": "Meta 删除了 A.I.经过几天的强烈反对后，Instagram 上出现了专题 / Meta Removes A.I. Feature on Instagram After Days of Backlash",
-          "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:56:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times"
-      ],
-      "items": [
-        {
-          "id": "186da3c1056f44662615673e6f2b840362fde05c",
-          "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
-          "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T04:19:14Z"
-        },
-        {
-          "id": "511271e0bb213a59d6c6403f1ab80d1585194f63",
-          "title": "Meta 删除了 A.I.经过几天的强烈反对后，Instagram 上出现了专题 / Meta Removes A.I. Feature on Instagram After Days of Backlash",
-          "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:56:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.464,
-      "importance": 0.464,
-      "importance_score": 0.464,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5802,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T00:56:41Z",
-      "latest_at": "2026-07-11T04:19:14Z",
-      "primary_item": {
-        "id": "186da3c1056f44662615673e6f2b840362fde05c",
-        "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
-        "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1717,14 +1768,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5078,
+      "importance": 0.5078,
+      "importance_score": 0.5078,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8445,
+        "recency": 0.7992,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1814,14 +1865,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4463,
-      "importance": 0.4463,
-      "importance_score": 0.4463,
+      "score": 0.4372,
+      "importance": 0.4372,
+      "importance_score": 0.4372,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3663,
+        "recency": 0.3211,
         "story_heat": 0.5
       },
       "category": "multi_source",
