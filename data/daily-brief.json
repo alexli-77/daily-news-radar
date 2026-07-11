@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T15:28:52.876618Z",
+  "generated_at": "2026-07-11T16:25:41.634408Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0129-208b-b9cb-fb6ee3034804&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0129-208b-b9cb-fb6ee3034804&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0226-065a-adf5-524d0ae2de44&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0226-065a-adf5-524d0ae2de44&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "8621d3ac9cc0a349f932d1a1217e6f33c1e8eb6b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0226-065a-adf5-524d0ae2de44&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f5e69929397506af850d097f29d21d2c852fe1c1",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "c9a12dc3f1c58246faadb83874d8eeadd36ee247",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0342-12f8-b483-df3dca2ee1f2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a8f9474bad9e75c27b4625db9eb5e23484a349b3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0144-0663-b48a-54fad2a8a68f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "8621d3ac9cc0a349f932d1a1217e6f33c1e8eb6b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0226-065a-adf5-524d0ae2de44&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f5e69929397506af850d097f29d21d2c852fe1c1",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0129-208b-b9cb-fb6ee3034804&fp=-3",
@@ -291,15 +300,6 @@
           "id": "c9a12dc3f1c58246faadb83874d8eeadd36ee247",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0342-12f8-b483-df3dca2ee1f2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a8f9474bad9e75c27b4625db9eb5e23484a349b3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0144-0663-b48a-54fad2a8a68f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T15:43:38.973894Z",
-      "latest_at": "2026-07-11T15:28:52.876618Z",
+      "earliest_at": "2026-07-10T17:41:49.944852Z",
+      "latest_at": "2026-07-11T16:25:41.634408Z",
       "primary_item": {
-        "id": "f5e69929397506af850d097f29d21d2c852fe1c1",
+        "id": "8621d3ac9cc0a349f932d1a1217e6f33c1e8eb6b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0129-208b-b9cb-fb6ee3034804&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0226-065a-adf5-524d0ae2de44&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -388,14 +388,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6696,
+        "recency": 0.6302,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -449,14 +449,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6856,
+        "recency": 0.6462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -475,13 +475,22 @@
     },
     {
       "story_id": "story_9c885636aaf2",
-      "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+      "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
       "url": "https://news.ycombinator.com/item?id=48870381",
       "primary_url": "https://news.ycombinator.com/item?id=48870381",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
+          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T16:10:24.195000Z"
+        },
+        {
           "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
           "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
           "url": "https://news.ycombinator.com/item?id=48870381",
@@ -509,13 +518,22 @@
           "published_at": "2026-07-11T09:36:53Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
+          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T16:10:24.195000Z"
+        },
+        {
           "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
           "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
           "url": "https://news.ycombinator.com/item?id=48870381",
@@ -543,57 +561,134 @@
           "published_at": "2026-07-11T09:36:53Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5959,
+      "importance": 0.5959,
+      "importance_score": 0.5959,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7995,
-        "story_heat": 0.5
+        "recency": 0.9894,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-11T09:36:53Z",
-      "latest_at": "2026-07-11T10:40:12.865000Z",
+      "latest_at": "2026-07-11T16:10:24.195000Z",
       "primary_item": {
-        "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-        "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+        "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
+        "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
         "url": "https://news.ycombinator.com/item?id=48870381",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_c8fd19569bf4",
-      "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
-      "primary_url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "story_id": "story_11aee9868a58",
+      "title": "恐怖组织如何利用人工智能在战场上获得优势",
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "primary_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9929,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T01:03:10.067000Z",
+      "latest_at": "2026-07-11T16:15:25.572000Z",
+      "primary_item": {
+        "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+        "title": "恐怖组织如何利用人工智能在战场上获得优势",
+        "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_29bdf2d82a96",
+      "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+      "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-11T12:31:28.579000Z"
+          "published_at": "2026-07-11T14:55:03.064000Z"
         },
         {
-          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "e4a2f3d82961e889ae133cbee60e09dc5b9e6e41",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。 / AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-11T12:02:01Z"
+          "published_at": "2026-07-11T14:31:01Z"
         }
       ],
       "source_count": 2,
@@ -603,46 +698,46 @@
       ],
       "items": [
         {
-          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-11T12:31:28.579000Z"
+          "published_at": "2026-07-11T14:55:03.064000Z"
         },
         {
-          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "e4a2f3d82961e889ae133cbee60e09dc5b9e6e41",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。 / AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-11T12:02:01Z"
+          "published_at": "2026-07-11T14:31:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8768,
+        "recency": 0.9371,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T12:02:01Z",
-      "latest_at": "2026-07-11T12:31:28.579000Z",
+      "earliest_at": "2026-07-11T14:31:01Z",
+      "latest_at": "2026-07-11T14:55:03.064000Z",
       "primary_item": {
-        "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
-        "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-        "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+        "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
+        "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+        "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -700,14 +795,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8763,
+        "recency": 0.8368,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -725,7 +820,7 @@
       }
     },
     {
-      "story_id": "story_4881a4da7655",
+      "story_id": "story_9e4cd6c746a9",
       "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
       "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
       "primary_url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
@@ -777,14 +872,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5207,
-      "importance": 0.5207,
-      "importance_score": 0.5207,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8637,
+        "recency": 0.8242,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -855,14 +950,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5091,
+      "importance": 0.5091,
+      "importance_score": 0.5091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8449,
+        "recency": 0.8055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -933,14 +1028,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5078,
-      "importance": 0.5078,
-      "importance_score": 0.5078,
+      "score": 0.5,
+      "importance": 0.5,
+      "importance_score": 0.5,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7992,
+        "recency": 0.7598,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1011,14 +1106,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5011,
-      "importance": 0.5011,
-      "importance_score": 0.5011,
+      "score": 0.4932,
+      "importance": 0.4932,
+      "importance_score": 0.4932,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7655,
+        "recency": 0.726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1089,14 +1184,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
+      "score": 0.4868,
+      "importance": 0.4868,
+      "importance_score": 0.4868,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7336,
+        "recency": 0.6941,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1111,6 +1206,84 @@
         "url": "https://www.qbitai.com/2026/07/447891.html",
         "source": "量子位 · 每日最新",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c8fd19569bf4",
+      "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "primary_url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T12:31:28.579000Z"
+        },
+        {
+          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T12:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T12:31:28.579000Z"
+        },
+        {
+          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T12:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5155,
+      "importance": 0.5155,
+      "importance_score": 0.5155,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8373,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:02:01Z",
+      "latest_at": "2026-07-11T12:31:28.579000Z",
+      "primary_item": {
+        "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+        "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+        "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1167,14 +1340,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4917,
-      "importance": 0.4917,
-      "importance_score": 0.4917,
+      "score": 0.4838,
+      "importance": 0.4838,
+      "importance_score": 0.4838,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7183,
+        "recency": 0.6789,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5091,
+      "importance": 0.5091,
+      "importance_score": 0.5091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8449,
+        "recency": 0.8055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1323,14 +1496,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5078,
-      "importance": 0.5078,
-      "importance_score": 0.5078,
+      "score": 0.5,
+      "importance": 0.5,
+      "importance_score": 0.5,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7992,
+        "recency": 0.7598,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1439,14 +1612,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4667,
-      "importance": 0.4667,
-      "importance_score": 0.4667,
+      "score": 0.4588,
+      "importance": 0.4588,
+      "importance_score": 0.4588,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3435,
+        "recency": 0.304,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1516,14 +1689,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
+      "score": 0.4883,
+      "importance": 0.4883,
+      "importance_score": 0.4883,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7412,
+        "recency": 0.7017,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1594,14 +1767,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4925,
-      "importance": 0.4925,
-      "importance_score": 0.4925,
+      "score": 0.4846,
+      "importance": 0.4846,
+      "importance_score": 0.4846,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7224,
+        "recency": 0.683,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1690,14 +1863,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4572,
-      "importance": 0.4572,
-      "importance_score": 0.4572,
+      "score": 0.4493,
+      "importance": 0.4493,
+      "importance_score": 0.4493,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4209,
+        "recency": 0.3815,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1711,181 +1884,6 @@
         "title": "Meta在推出AI图像功能数日后，因引发隐私争议而将其下架",
         "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
         "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8ead7ad8e412",
-      "title": "阿里巴巴等启动「古壁生辉」古代壁画 AI 重现工程",
-      "url": "https://www.ithome.com/0/975/537.htm",
-      "primary_url": "https://www.ithome.com/0/975/537.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "15b3eeeca971cbe8eac7a5fce1f2c12459291088",
-          "title": "阿里巴巴等启动「古壁生辉」古代壁画 AI 重现工程",
-          "url": "https://www.ithome.com/0/975/537.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "83a2f94ffb121ed76e98911090b37e97387724d4",
-          "title": "阿里巴巴等启动“古壁生辉”古代壁画 AI 重现工程",
-          "url": "https://www.ithome.com/0/975/537.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:30:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "15b3eeeca971cbe8eac7a5fce1f2c12459291088",
-          "title": "阿里巴巴等启动「古壁生辉」古代壁画 AI 重现工程",
-          "url": "https://www.ithome.com/0/975/537.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "83a2f94ffb121ed76e98911090b37e97387724d4",
-          "title": "阿里巴巴等启动“古壁生辉”古代壁画 AI 重现工程",
-          "url": "https://www.ithome.com/0/975/537.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:30:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5078,
-      "importance": 0.5078,
-      "importance_score": 0.5078,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7992,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T09:30:44Z",
-      "latest_at": "2026-07-11T10:39:44.846523Z",
-      "primary_item": {
-        "id": "15b3eeeca971cbe8eac7a5fce1f2c12459291088",
-        "title": "阿里巴巴等启动「古壁生辉」古代壁画 AI 重现工程",
-        "url": "https://www.ithome.com/0/975/537.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_be1720d248f4",
-      "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "primary_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "source": "9to5mac.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "9to5mac.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:53:49.241000Z"
-        },
-        {
-          "id": "e4e0c2527c40fcd87e7452e0f86beecc75b4e728",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "9to5mac.com",
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "9to5mac.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:53:49.241000Z"
-        },
-        {
-          "id": "e4e0c2527c40fcd87e7452e0f86beecc75b4e728",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4372,
-      "importance": 0.4372,
-      "importance_score": 0.4372,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3211,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T20:47:09Z",
-      "latest_at": "2026-07-10T23:11:12.310000Z",
-      "primary_item": {
-        "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-        "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-        "source": "9to5mac.com",
         "source_name": "Buzzing"
       }
     }
