@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月11日人工智能热点分享
-1、蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型，蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。
-2、CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测。
-3、DayuanJiang / next-ai-draw-io，English | 中文 | 日本語。
-4、openai/插件。
-5、人类可以阅读但人工智能无法阅读的字体。
-6、OpenAI48 小时六连发，重点是一家市值万亿公司，为何还能像初创团队一样狂奔。
-7、今年最期待的 AI 手机，要来了，谷歌宣布将于2026年8月12日发布Pixel 11系列，包括Pixel 11、11 Pro、11 Pro XL和11 Pro Fold四款机型。
-8、阿里巴巴等启动「古壁生辉」古代壁画 AI 重现工程，阿里巴巴公益联合西安美术学院、爱智岛、万相、堆友等，启动“古壁生辉”古代壁画 AI 重现工程。
-9、人工智能监控与社会进步。
-10、中国首个十万卡集群落成！全国产算力支撑“十万卡时代”，属于 AI 基础设施和算力成本相关信号。
+2026年7月12日人工智能热点分享
+1、OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论，OpenAI CEO Sam Altman 表示，他“相当确信”AI 迄今为止净创造了就业，并承认“这并非我预期”。
+2、xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史，对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST。
+3、彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句"哈哈"成窃密关键，苹果起诉 OpenAI，指控前工程师 Chang Liu 离职时带走未归还的 MacBook、一名可分享内情的员工，并利用软件漏洞持续访问苹果内网。
+4、10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？，文章从时间稀缺和支付能力两个维度分析AI需求瓶颈，运用杰文斯悖论和经济增长模型论证，认为技术革命带来的通缩效应与信用扩张可以化解需求不足，长期利好AI投资。
+5、AI 疯狂烧钱的样子，和历史上四次资本泡沫惊人相似，文章对比了18世纪运河狂热、19世纪铁路泡沫、1920年代电气化热潮和2000年电信泡沫，指出当前AI资本开支（2026年预计7000亿美元）遵循类似繁荣-萧条周期，投资者面临巨大风险。
+6、大模型「双雄」，相继发布内部信，智谱与MiniMax在上市半年股份解禁期前后分别发布内部信，智谱宣布启动"摸高"计划回归基础模型研发并启动约314亿港元配售，MiniMax创始人闫俊杰放弃薪酬并拿出4%股份激励团队，同时完成160亿港元融资。
+7、微软研究院推出开源可视化中间语言 Flint，让 AI 智能体「一句话生成专业图表」，该工具将图表意图与底层可视化库实现分离，降低 AI 生成配置的复杂度，评测显示其表现优于直接生成完整配置的方案，已正式开源。微软开源AI工具。
+8、AI热潮太费电，燃气轮机价格3年涨了300%，人工智能热潮持续升温，围绕算力展开的竞争也不断向产业链上游延伸。随着大型数据中心加速建设，燃气轮机这一传统设备也迎来了新的发展机遇。
+9、我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。
+10、Nutlope / 标志 / Nutlope / hallmark。
 
 ## 原始链接
-1. 蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型（MarkTechPost（RSS）） - https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc
-2. CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测（GitHub 更新日志） - https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection
-3. DayuanJiang / next-ai-draw-io（GitHub · Trending Today） - https://github.com/DayuanJiang/next-ai-draw-io
-4. openai/插件（GitHub · Trending Today） - https://github.com/openai/plugins
-5. 人类可以阅读但人工智能无法阅读的字体（hackernews） - https://news.ycombinator.com/item?id=48870381
-6. OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔（Readhub · AI） - https://www.huxiu.com/article/4874519.html?f=rss
-7. 今年最期待的 AI 手机，要来了（Readhub · AI） - https://www.huxiu.com/article/4874525.html?f=rss
-8. 阿里巴巴等启动「古壁生辉」古代壁画 AI 重现工程（Readhub · AI） - https://www.ithome.com/0/975/537.htm
-9. 人工智能监控与社会进步（www.schneier.com） - https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html
-10. 中国首个十万卡集群落成！全国产算力支撑“十万卡时代”（量子位 · 每日最新） - https://www.qbitai.com/2026/07/447891.html
+1. OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论（The Decoder） - https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y
+2. xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy
+3. 彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句"哈哈"成窃密关键（IT之家（RSS）） - https://aihot.virxact.com/items/cmrgzykqg00jabid4acp6zpjm
+4. 10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？（Readhub · AI） - https://www.huxiu.com/article/4874651.html?f=rss
+5. AI 疯狂烧钱的样子，和历史上四次资本泡沫惊人相似（Readhub · AI） - https://www.huxiu.com/article/4874659.html?f=rss
+6. 大模型「双雄」，相继发布内部信（Readhub · AI） - https://www.huxiu.com/article/4874648.html?f=rss
+7. 微软研究院推出开源可视化中间语言 Flint，让 AI 智能体「一句话生成专业图表」（Readhub · AI） - https://www.ithome.com/0/975/816.htm
+8. AI热潮太费电，燃气轮机价格3年涨了300%（36氪 (36Kr)） - https://36kr.com/newsflashes/3892556678543880?f=rss
+9. 我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。（www.businessinsider.com） - https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7
+10. Nutlope / 标志 / Nutlope / hallmark（github） - https://github.com/Nutlope/hallmark
