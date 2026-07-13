@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月12日人工智能热点分享
-1、OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论，OpenAI CEO Sam Altman 表示，他“相当确信”AI 迄今为止净创造了就业，并承认“这并非我预期”。
-2、xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史，对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST。
-3、彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句"哈哈"成窃密关键，苹果起诉 OpenAI，指控前工程师 Chang Liu 离职时带走未归还的 MacBook、一名可分享内情的员工，并利用软件漏洞持续访问苹果内网。
-4、10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？，文章从时间稀缺和支付能力两个维度分析AI需求瓶颈，运用杰文斯悖论和经济增长模型论证，认为技术革命带来的通缩效应与信用扩张可以化解需求不足，长期利好AI投资。
-5、AI 疯狂烧钱的样子，和历史上四次资本泡沫惊人相似，文章对比了18世纪运河狂热、19世纪铁路泡沫、1920年代电气化热潮和2000年电信泡沫，指出当前AI资本开支（2026年预计7000亿美元）遵循类似繁荣-萧条周期，投资者面临巨大风险。
-6、大模型「双雄」，相继发布内部信，智谱与MiniMax在上市半年股份解禁期前后分别发布内部信，智谱宣布启动"摸高"计划回归基础模型研发并启动约314亿港元配售，MiniMax创始人闫俊杰放弃薪酬并拿出4%股份激励团队，同时完成160亿港元融资。
-7、微软研究院推出开源可视化中间语言 Flint，让 AI 智能体「一句话生成专业图表」，该工具将图表意图与底层可视化库实现分离，降低 AI 生成配置的复杂度，评测显示其表现优于直接生成完整配置的方案，已正式开源。微软开源AI工具。
-8、AI热潮太费电，燃气轮机价格3年涨了300%，人工智能热潮持续升温，围绕算力展开的竞争也不断向产业链上游延伸。随着大型数据中心加速建设，燃气轮机这一传统设备也迎来了新的发展机遇。
-9、我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。
-10、Nutlope / 标志 / Nutlope / hallmark。
+2026年7月13日人工智能热点分享
+1、德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先，德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。
+2、《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署。
+3、微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加。
+4、米哈游AI陪伴软件《BSide，重点是Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频。
+5、腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍，腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。
+6、韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源，属于 AI 基础设施和算力成本相关信号。
+7、哈啰试水AI校园社交，推出精准交友产品“Match”。
+8、商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务。
+9、抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代。
+10、旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制，属于 AI 基础设施和算力成本相关信号。
 
 ## 原始链接
-1. OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论（The Decoder） - https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y
-2. xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy
-3. 彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句"哈哈"成窃密关键（IT之家（RSS）） - https://aihot.virxact.com/items/cmrgzykqg00jabid4acp6zpjm
-4. 10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？（Readhub · AI） - https://www.huxiu.com/article/4874651.html?f=rss
-5. AI 疯狂烧钱的样子，和历史上四次资本泡沫惊人相似（Readhub · AI） - https://www.huxiu.com/article/4874659.html?f=rss
-6. 大模型「双雄」，相继发布内部信（Readhub · AI） - https://www.huxiu.com/article/4874648.html?f=rss
-7. 微软研究院推出开源可视化中间语言 Flint，让 AI 智能体「一句话生成专业图表」（Readhub · AI） - https://www.ithome.com/0/975/816.htm
-8. AI热潮太费电，燃气轮机价格3年涨了300%（36氪 (36Kr)） - https://36kr.com/newsflashes/3892556678543880?f=rss
-9. 我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。（www.businessinsider.com） - https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7
-10. Nutlope / 标志 / Nutlope / hallmark（github） - https://github.com/Nutlope/hallmark
+1. 德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先（The Decoder） - https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub
+2. 《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署（AIbase） - https://www.aibase.com/news/29552
+3. 微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加（AIbase） - https://www.aibase.com/news/29553
+4. 米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频（AIbase） - https://www.aibase.com/news/29550
+5. 腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍（公众号：腾讯混元） - https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5
+6. 韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源（AIbase） - https://www.aibase.com/news/29549
+7. 哈啰试水AI校园社交，推出精准交友产品“Match”（AIbase） - https://www.aibase.com/news/29544
+8. 商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务（AIbase） - https://www.aibase.com/news/29543
+9. 抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代（AIbase） - https://www.aibase.com/news/29542
+10. 旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制（AIbase） - https://www.aibase.com/news/29548
