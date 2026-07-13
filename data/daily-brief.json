@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-13T18:26:58.734275Z",
+  "generated_at": "2026-07-13T19:57:10.283482Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0427-22da-9620-dff137be9ab7&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0427-22da-9620-dff137be9ab7&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0557-34a9-a6e0-602f5d251ed1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0557-34a9-a6e0-602f5d251ed1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4874eba2d3fa9fe336d36a88bcf6f41f9fd7890f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0557-34a9-a6e0-602f5d251ed1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4c517b39072878a2fcd251c8607b39f9448a2da0",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "7b8c1554a698df3987d788a7e1d5e3950a15a102",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0603-038b-9a7f-0b0d17a8bb84&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1f6bcad43ac9fa1e096bfabce266588cef408335",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0454-137f-8aa9-b40e48cd595c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "4874eba2d3fa9fe336d36a88bcf6f41f9fd7890f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0557-34a9-a6e0-602f5d251ed1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4c517b39072878a2fcd251c8607b39f9448a2da0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0427-22da-9620-dff137be9ab7&fp=-3",
@@ -219,15 +228,6 @@
           "id": "7b8c1554a698df3987d788a7e1d5e3950a15a102",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0603-038b-9a7f-0b0d17a8bb84&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1f6bcad43ac9fa1e096bfabce266588cef408335",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0454-137f-8aa9-b40e48cd595c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-12T18:53:46.708188Z",
-      "latest_at": "2026-07-13T18:26:58.734275Z",
+      "earliest_at": "2026-07-12T20:02:40.423245Z",
+      "latest_at": "2026-07-13T19:57:10.283482Z",
       "primary_item": {
-        "id": "4c517b39072878a2fcd251c8607b39f9448a2da0",
+        "id": "4874eba2d3fa9fe336d36a88bcf6f41f9fd7890f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0427-22da-9620-dff137be9ab7&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0557-34a9-a6e0-602f5d251ed1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8965,
+        "recency": 0.8339,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.9101,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -436,14 +436,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.2313,
+        "recency": 0.1686,
         "story_heat": 0.25
       },
       "category": "official",
@@ -498,20 +498,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7143,
+        "recency": 0.6517,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:35:34.686470Z",
       "latest_at": "2026-07-13T11:35:34.686470Z",
@@ -558,20 +557,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6986,
+        "recency": 0.636,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:12:59Z",
       "latest_at": "2026-07-13T11:12:59Z",
@@ -618,14 +616,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6472,
+        "recency": 0.5846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,14 +675,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6403,
+        "recency": 0.5776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,20 +734,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7181,
+        "recency": 0.6554,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:41:01Z",
       "latest_at": "2026-07-13T11:41:01Z",
@@ -796,20 +793,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7143,
+        "recency": 0.6517,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:35:34.686470Z",
       "latest_at": "2026-07-13T11:35:34.686470Z",
@@ -856,20 +852,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7143,
+        "recency": 0.6517,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:35:34.686470Z",
       "latest_at": "2026-07-13T11:35:34.686470Z",
@@ -935,21 +930,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5722,
+        "recency": 0.5096,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T07:14:40Z",
       "latest_at": "2026-07-13T08:10:56.195672Z",
@@ -962,207 +956,206 @@
       }
     },
     {
-      "story_id": "story_86c792186562",
-      "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-      "url": "https://www.aibase.com/news/29544",
-      "primary_url": "https://www.aibase.com/news/29544",
+      "story_id": "story_181aad88bf9c",
+      "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+      "url": "https://www.aibase.com/news/29541",
+      "primary_url": "https://www.aibase.com/news/29541",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "url": "https://www.aibase.com/news/29544",
+          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
+          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "url": "https://www.aibase.com/news/29541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T08:10:56.195672Z"
+          "published_at": "2026-07-13T04:33:08.237833Z"
+        },
+        {
+          "id": "525c3271839491bd18897603baa12db3362be93b",
+          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "url": "https://www.ithome.com/0/975/885.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T02:32:13Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "IT之家 (ITHome)"
       ],
       "items": [
         {
-          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "url": "https://www.aibase.com/news/29544",
+          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
+          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "url": "https://www.aibase.com/news/29541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T08:10:56.195672Z"
+          "published_at": "2026-07-13T04:33:08.237833Z"
+        },
+        {
+          "id": "525c3271839491bd18897603baa12db3362be93b",
+          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "url": "https://www.ithome.com/0/975/885.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T02:32:13Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7087,
+      "importance": 0.7087,
+      "importance_score": 0.7087,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5722,
-        "story_heat": 0.0
+        "recency": 0.3583,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T08:10:56.195672Z",
-      "latest_at": "2026-07-13T08:10:56.195672Z",
+      "earliest_at": "2026-07-13T02:32:13Z",
+      "latest_at": "2026-07-13T04:33:08.237833Z",
       "primary_item": {
-        "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-        "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-        "url": "https://www.aibase.com/news/29544",
+        "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
+        "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+        "url": "https://www.aibase.com/news/29541",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_62ff3681c8ca",
-      "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-      "url": "https://www.aibase.com/news/29543",
-      "primary_url": "https://www.aibase.com/news/29543",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3bb21a6673df",
+      "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "url": "https://news.ycombinator.com/item?id=48896599",
+      "primary_url": "https://news.ycombinator.com/item?id=48896599",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-          "url": "https://www.aibase.com/news/29543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:10:56.195672Z"
+          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://news.ycombinator.com/item?id=48896599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T19:31:37.609000Z"
+        },
+        {
+          "id": "37797f74e17305fad14285eb7949619bb6c92429",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯”",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.396000Z"
+        },
+        {
+          "id": "d4a53b44127cd79b5e12b8258341b7433c19bb1e",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯” / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T18:18:23Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-          "url": "https://www.aibase.com/news/29543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:10:56.195672Z"
+          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://news.ycombinator.com/item?id=48896599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T19:31:37.609000Z"
+        },
+        {
+          "id": "37797f74e17305fad14285eb7949619bb6c92429",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯”",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.396000Z"
+        },
+        {
+          "id": "d4a53b44127cd79b5e12b8258341b7433c19bb1e",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯” / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T18:18:23Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5722,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9823,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-13T08:10:56.195672Z",
-      "latest_at": "2026-07-13T08:10:56.195672Z",
+      "earliest_at": "2026-07-13T18:18:23Z",
+      "latest_at": "2026-07-13T19:31:37.609000Z",
       "primary_item": {
-        "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-        "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-        "url": "https://www.aibase.com/news/29543",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+        "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+        "url": "https://news.ycombinator.com/item?id=48896599",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_ec77dce64ece",
-      "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-      "url": "https://www.aibase.com/news/29542",
-      "primary_url": "https://www.aibase.com/news/29542",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-          "url": "https://www.aibase.com/news/29542",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:10:56.195672Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-          "url": "https://www.aibase.com/news/29542",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:10:56.195672Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5722,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T08:10:56.195672Z",
-      "latest_at": "2026-07-13T08:10:56.195672Z",
-      "primary_item": {
-        "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-        "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-        "url": "https://www.aibase.com/news/29542",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_31837d52dfb5",
-      "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-      "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+      "story_id": "story_d1a46fc49e00",
+      "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+      "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d320edc14d53d2293a984f47a1a4bfcf96aec9ec",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T17:53:22.325000Z"
+          "published_at": "2026-07-13T18:25:33.493000Z"
         },
         {
-          "id": "291514cb6fc6113f31b55dd1c29299f7f0fda24f",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁 / Read the letter Eric Schmidt, Reid Hoffman, and top economists signed warning about AI's threat to jobs",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T12:56:18Z"
+          "published_at": "2026-07-13T17:45:41Z"
         }
       ],
       "source_count": 2,
@@ -1172,204 +1165,204 @@
       ],
       "items": [
         {
-          "id": "d320edc14d53d2293a984f47a1a4bfcf96aec9ec",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T17:53:22.325000Z"
+          "published_at": "2026-07-13T18:25:33.493000Z"
         },
         {
-          "id": "291514cb6fc6113f31b55dd1c29299f7f0fda24f",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁 / Read the letter Eric Schmidt, Reid Hoffman, and top economists signed warning about AI's threat to jobs",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T12:56:18Z"
+          "published_at": "2026-07-13T17:45:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9767,
+        "recency": 0.9364,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T12:56:18Z",
-      "latest_at": "2026-07-13T17:53:22.325000Z",
+      "earliest_at": "2026-07-13T17:45:41Z",
+      "latest_at": "2026-07-13T18:25:33.493000Z",
       "primary_item": {
-        "id": "d320edc14d53d2293a984f47a1a4bfcf96aec9ec",
-        "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-        "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+        "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+        "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+        "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_0758182240a0",
-      "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-      "url": "https://www.aibase.com/news/29548",
-      "primary_url": "https://www.aibase.com/news/29548",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c6cb8a789e77",
+      "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+      "url": "https://reut.rs/4pfxdHT",
+      "primary_url": "https://reut.rs/4pfxdHT",
+      "source": "reut.rs",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "url": "https://www.aibase.com/news/29548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:10:56.195672Z"
+          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
+          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://reut.rs/4pfxdHT",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.472000Z"
+        },
+        {
+          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
+          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:09:33.094000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "reut.rs",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "url": "https://www.aibase.com/news/29548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T08:10:56.195672Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5722,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T08:10:56.195672Z",
-      "latest_at": "2026-07-13T08:10:56.195672Z",
-      "primary_item": {
-        "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-        "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-        "url": "https://www.aibase.com/news/29548",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bd87c1bd9f8f",
-      "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://news.ycombinator.com/item?id=48889637",
-      "primary_url": "https://news.ycombinator.com/item?id=48889637",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T11:36:09.313000Z"
-        },
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
+          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
+          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://reut.rs/4pfxdHT",
+          "source": "reut.rs",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
+          "published_at": "2026-07-13T18:25:33.472000Z"
         },
         {
-          "id": "cf40c86d82b220a732be16d845c086006974a902",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T08:52:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "hackernews",
-        "raymyers.org"
-      ],
-      "items": [
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T11:36:09.313000Z"
-        },
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
+          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
+          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
-        },
-        {
-          "id": "cf40c86d82b220a732be16d845c086006974a902",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T08:52:41Z"
+          "published_at": "2026-07-13T18:09:33.094000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7147,
-        "story_heat": 0.5
+        "recency": 0.9364,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T08:52:41Z",
-      "latest_at": "2026-07-13T11:36:09.313000Z",
+      "earliest_at": "2026-07-13T18:09:33.094000Z",
+      "latest_at": "2026-07-13T18:25:33.472000Z",
       "primary_item": {
-        "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-        "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-        "url": "https://news.ycombinator.com/item?id=48889637",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
+        "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+        "url": "https://reut.rs/4pfxdHT",
+        "source": "reut.rs",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_138310defcd7",
+      "title": "AI眼镜又多了一个反对者：洛德",
+      "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fc2db09a697d36c951488a8a81fe4e3ccfd58a4e",
+          "title": "AI眼镜又多了一个反对者：洛德",
+          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T17:53:22.329000Z"
+        },
+        {
+          "id": "8e7c5c7ca1ab4e2aa613809b9dc0a5bfb79c5a54",
+          "title": "AI眼镜又多了一个反对者：洛德 / AI glasses have a new hater: Lorde",
+          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T17:35:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "fc2db09a697d36c951488a8a81fe4e3ccfd58a4e",
+          "title": "AI眼镜又多了一个反对者：洛德",
+          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T17:53:22.329000Z"
+        },
+        {
+          "id": "8e7c5c7ca1ab4e2aa613809b9dc0a5bfb79c5a54",
+          "title": "AI眼镜又多了一个反对者：洛德 / AI glasses have a new hater: Lorde",
+          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T17:35:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.914,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T17:35:59Z",
+      "latest_at": "2026-07-13T17:53:22.329000Z",
+      "primary_item": {
+        "id": "fc2db09a697d36c951488a8a81fe4e3ccfd58a4e",
+        "title": "AI眼镜又多了一个反对者：洛德",
+        "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1425,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5123,
-      "importance": 0.5123,
-      "importance_score": 0.5123,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8213,
+        "recency": 0.7587,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1502,14 +1495,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.51,
-      "importance": 0.51,
-      "importance_score": 0.51,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8102,
+        "recency": 0.7476,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1524,6 +1517,83 @@
         "url": "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_817ee0972d02",
+      "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "primary_url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "50db3f84e37018d0cecf0b108394fb8430ed1848",
+          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
+          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T13:39:59Z"
+        },
+        {
+          "id": "89d5a9f2597a451190e373522935f1e4036d6858",
+          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok CLI uploaded the whole home directory to GCS",
+          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T13:35:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "50db3f84e37018d0cecf0b108394fb8430ed1848",
+          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
+          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T13:39:59Z"
+        },
+        {
+          "id": "89d5a9f2597a451190e373522935f1e4036d6858",
+          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok CLI uploaded the whole home directory to GCS",
+          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T13:35:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4956,
+      "importance": 0.4956,
+      "importance_score": 0.4956,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7381,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T13:35:32Z",
+      "latest_at": "2026-07-13T13:39:59Z",
+      "primary_item": {
+        "id": "50db3f84e37018d0cecf0b108394fb8430ed1848",
+        "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
+        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
