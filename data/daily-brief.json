@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-15T18:58:09.945819Z",
+  "generated_at": "2026-07-15T20:08:20.644762Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0458-323d-8f69-601f3238e7af&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0458-323d-8f69-601f3238e7af&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0608-4201-a8ea-617d7800e04e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0608-4201-a8ea-617d7800e04e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "68d6b80ad5e8fdbe2d24231c33f38c67df0c6177",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0608-4201-a8ea-617d7800e04e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "42f869cbcfd110239fd071f46e4db3fc5b7034c7",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "6dab3c726f48e2b152b4e0b0c1339f9e5c1274c3",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0635-547e-bce2-bfde90bdbbb1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9e22163f0e5994f8080b5477304f4d7607cfdcc0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0506-189e-8177-688797de7aeb&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "68d6b80ad5e8fdbe2d24231c33f38c67df0c6177",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0608-4201-a8ea-617d7800e04e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "42f869cbcfd110239fd071f46e4db3fc5b7034c7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0458-323d-8f69-601f3238e7af&fp=-3",
@@ -273,15 +282,6 @@
           "id": "6dab3c726f48e2b152b4e0b0c1339f9e5c1274c3",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0635-547e-bce2-bfde90bdbbb1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9e22163f0e5994f8080b5477304f4d7607cfdcc0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0506-189e-8177-688797de7aeb&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T19:05:56.213716Z",
-      "latest_at": "2026-07-15T18:58:09.945819Z",
+      "earliest_at": "2026-07-14T20:35:32.517732Z",
+      "latest_at": "2026-07-15T20:08:20.644762Z",
       "primary_item": {
-        "id": "42f869cbcfd110239fd071f46e4db3fc5b7034c7",
+        "id": "68d6b80ad5e8fdbe2d24231c33f38c67df0c6177",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0458-323d-8f69-601f3238e7af&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0608-4201-a8ea-617d7800e04e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -351,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8727,
-      "importance": 0.8727,
-      "importance_score": 0.8727,
+      "score": 0.863,
+      "importance": 0.863,
+      "importance_score": 0.863,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9386,
+        "recency": 0.8898,
         "story_heat": 0.0
       },
       "category": "official",
@@ -412,14 +412,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8723,
-      "importance": 0.8723,
-      "importance_score": 0.8723,
+      "score": 0.8626,
+      "importance": 0.8626,
+      "importance_score": 0.8626,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9367,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,14 +473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8605,
+        "recency": 0.8118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -533,14 +533,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6735,
+        "recency": 0.6248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -592,14 +592,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.666,
+        "recency": 0.6173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -613,65 +613,6 @@
         "title": "阿里Qwen将集成至Apple Intelligence服务中国用户",
         "url": "https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878",
         "source": "X：X.PIN (@thexpin)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3d99254d0cab",
-      "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-      "url": "https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q",
-      "primary_url": "https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2c60854a3a9b5f0ef06dc4f7cd3e027ad88899a",
-          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-          "url": "https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:41:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c2c60854a3a9b5f0ef06dc4f7cd3e027ad88899a",
-          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-          "url": "https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:41:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5717,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T08:41:23Z",
-      "latest_at": "2026-07-15T08:41:23Z",
-      "primary_item": {
-        "id": "c2c60854a3a9b5f0ef06dc4f7cd3e027ad88899a",
-        "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-        "url": "https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -710,14 +651,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6735,
+        "recency": 0.6248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -732,65 +673,6 @@
         "url": "https://www.aibase.com/news/29624",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6d4aa36390d9",
-      "title": "金山办公推出 WPS Comate AI 办公客户端",
-      "url": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy",
-      "primary_url": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "92f78ad1b0763d122949fc57fe856187f24a0942",
-          "title": "金山办公推出 WPS Comate AI 办公客户端",
-          "url": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:39:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "92f78ad1b0763d122949fc57fe856187f24a0942",
-          "title": "金山办公推出 WPS Comate AI 办公客户端",
-          "url": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:39:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5707,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T08:39:58Z",
-      "latest_at": "2026-07-15T08:39:58Z",
-      "primary_item": {
-        "id": "92f78ad1b0763d122949fc57fe856187f24a0942",
-        "title": "金山办公推出 WPS Comate AI 办公客户端",
-        "url": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -846,14 +728,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5072,
+        "recency": 0.4584,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -869,66 +751,6 @@
         "url": "https://www.aibase.com/news/29610",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_210f6726bf4a",
-      "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "primary_url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
-          "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
-          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
-          "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
-          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2096,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T00:00:00Z",
-      "latest_at": "2026-07-15T00:00:00Z",
-      "primary_item": {
-        "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
-        "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
-        "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -966,14 +788,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6031,
+        "recency": 0.5544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1025,14 +847,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6031,
+        "recency": 0.5544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,14 +943,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5929,
-      "importance": 0.5929,
-      "importance_score": 0.5929,
+      "score": 0.5832,
+      "importance": 0.5832,
+      "importance_score": 0.5832,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7096,
+        "recency": 0.6609,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1180,14 +1002,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6031,
+        "recency": 0.5544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1202,6 +1024,103 @@
         "url": "https://www.aibase.com/news/29623",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b0c54a1e8885",
+      "title": "Inkling – 开放权重 975B 参数大型语言模型",
+      "url": "https://thinkingmachines.ai/inkling",
+      "primary_url": "https://thinkingmachines.ai/inkling",
+      "source": "thinkingmachines.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ca41001f72067aa98113c83cb6d32d51ecf14f1e",
+          "title": "Inkling – 开放权重 975B 参数大型语言模型",
+          "url": "https://thinkingmachines.ai/inkling",
+          "source": "thinkingmachines.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T19:21:30.493000Z"
+        },
+        {
+          "id": "045c283a5de95afed17393c1b18bc3faca4e4232",
+          "title": "Inkling – 开放权重 975B 参数大型语言模型 / Inkling – Open-Weights 975B Parameter LLM",
+          "url": "https://thinkingmachines.ai/inkling",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T18:14:23Z"
+        },
+        {
+          "id": "4cb5d36d01eeb959f327b645e764a3a09b89b8b4",
+          "title": "Inkling – 开放权重 975B 参数大型语言模型 / Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+          "url": "https://thinkingmachines.ai/inkling",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T18:14:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "thinkingmachines.ai"
+      ],
+      "items": [
+        {
+          "id": "ca41001f72067aa98113c83cb6d32d51ecf14f1e",
+          "title": "Inkling – 开放权重 975B 参数大型语言模型",
+          "url": "https://thinkingmachines.ai/inkling",
+          "source": "thinkingmachines.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T19:21:30.493000Z"
+        },
+        {
+          "id": "045c283a5de95afed17393c1b18bc3faca4e4232",
+          "title": "Inkling – 开放权重 975B 参数大型语言模型 / Inkling – Open-Weights 975B Parameter LLM",
+          "url": "https://thinkingmachines.ai/inkling",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T18:14:23Z"
+        },
+        {
+          "id": "4cb5d36d01eeb959f327b645e764a3a09b89b8b4",
+          "title": "Inkling – 开放权重 975B 参数大型语言模型 / Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+          "url": "https://thinkingmachines.ai/inkling",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T18:14:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5665,
+      "importance": 0.5665,
+      "importance_score": 0.5665,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9675,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T18:14:23Z",
+      "latest_at": "2026-07-15T19:21:30.493000Z",
+      "primary_item": {
+        "id": "ca41001f72067aa98113c83cb6d32d51ecf14f1e",
+        "title": "Inkling – 开放权重 975B 参数大型语言模型",
+        "url": "https://thinkingmachines.ai/inkling",
+        "source": "thinkingmachines.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1277,14 +1196,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5718,
-      "importance": 0.5718,
-      "importance_score": 0.5718,
+      "score": 0.5621,
+      "importance": 0.5621,
+      "importance_score": 0.5621,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9941,
+        "recency": 0.9453,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1374,14 +1293,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5629,
-      "importance": 0.5629,
-      "importance_score": 0.5629,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9496,
+        "recency": 0.9008,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1395,6 +1314,84 @@
         "title": "OpenAI在欧盟法院的商标纠纷中败诉",
         "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143",
         "source": "dpa-international.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4a7225bdcb95",
+      "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作",
+      "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
+      "primary_url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "39fff077dd8b327e170b660ba8b50ed377b67638",
+          "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作",
+          "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T19:53:14.641000Z"
+        },
+        {
+          "id": "a34d4a3a8e2045d77d866b18af288ecff6d708f9",
+          "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作 / Citi tech chief Tim Ryan explains why he won't track employees' every AI move",
+          "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T16:55:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "39fff077dd8b327e170b660ba8b50ed377b67638",
+          "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作",
+          "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T19:53:14.641000Z"
+        },
+        {
+          "id": "a34d4a3a8e2045d77d866b18af288ecff6d708f9",
+          "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作 / Citi tech chief Tim Ryan explains why he won't track employees' every AI move",
+          "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T16:55:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9895,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T16:55:12Z",
+      "latest_at": "2026-07-15T19:53:14.641000Z",
+      "primary_item": {
+        "id": "39fff077dd8b327e170b660ba8b50ed377b67638",
+        "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作",
+        "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1433,14 +1430,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6031,
+        "recency": 0.5544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1530,14 +1527,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8939,
+        "recency": 0.8451,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1555,100 +1552,159 @@
       }
     },
     {
-      "story_id": "story_bb5c71f166df",
-      "title": "Show HN: Goku – WASM (wllama) 支持的 LLM 推理和模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-      "url": "https://news.ycombinator.com/item?id=48920650",
-      "primary_url": "https://news.ycombinator.com/item?id=48920650",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_18de27eea197",
+      "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
+      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
+      "primary_url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d5919a209275208eeaac93b2a5e4c3f0d0a77be9",
-          "title": "Show HN: Goku – WASM (wllama) 支持的 LLM 推理和模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-          "url": "https://news.ycombinator.com/item?id=48920650",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T16:03:49.878000Z"
-        },
-        {
-          "id": "b97af7af088a93ed1b81ab8f21da5ccb5bda1ec3",
-          "title": "Show HN: Goku——基于 WASM（wllama）的大型语言模型（LLM）推理与模型管理器",
-          "url": "https://userfrom1995.github.io/goku",
-          "source": "userfrom1995.github.io",
+          "id": "79e5099de8c1cf53b92593bfe8fa37fc2eaa0100",
+          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
+          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-15T13:45:18.703000Z"
+          "published_at": "2026-07-15T19:05:15.658000Z"
         },
         {
-          "id": "64b5a7d699792e3eb5505e9b56763d8138c0126d",
-          "title": "Show HN: Goku——基于 WASM（wllama）的大型语言模型（LLM）推理与模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-          "url": "https://userfrom1995.github.io/goku",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T13:36:30Z"
+          "id": "c18bb368895f002d292d1667e4f9d95040ee92f1",
+          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？ / OpenAI's first branded hardware is... a light-up keyboard?",
+          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T16:00:33Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "userfrom1995.github.io"
+        "Ars Technica",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "d5919a209275208eeaac93b2a5e4c3f0d0a77be9",
-          "title": "Show HN: Goku – WASM (wllama) 支持的 LLM 推理和模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-          "url": "https://news.ycombinator.com/item?id=48920650",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T16:03:49.878000Z"
-        },
-        {
-          "id": "b97af7af088a93ed1b81ab8f21da5ccb5bda1ec3",
-          "title": "Show HN: Goku——基于 WASM（wllama）的大型语言模型（LLM）推理与模型管理器",
-          "url": "https://userfrom1995.github.io/goku",
-          "source": "userfrom1995.github.io",
+          "id": "79e5099de8c1cf53b92593bfe8fa37fc2eaa0100",
+          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
+          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
+          "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-15T13:45:18.703000Z"
+          "published_at": "2026-07-15T19:05:15.658000Z"
         },
         {
-          "id": "64b5a7d699792e3eb5505e9b56763d8138c0126d",
-          "title": "Show HN: Goku——基于 WASM（wllama）的大型语言模型（LLM）推理与模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-          "url": "https://userfrom1995.github.io/goku",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T13:36:30Z"
+          "id": "c18bb368895f002d292d1667e4f9d95040ee92f1",
+          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？ / OpenAI's first branded hardware is... a light-up keyboard?",
+          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T16:00:33Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5488,
-      "importance": 0.5488,
-      "importance_score": 0.5488,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8789,
-        "story_heat": 0.5
+        "recency": 0.9562,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-15T13:36:30Z",
-      "latest_at": "2026-07-15T16:03:49.878000Z",
+      "earliest_at": "2026-07-15T16:00:33Z",
+      "latest_at": "2026-07-15T19:05:15.658000Z",
       "primary_item": {
-        "id": "d5919a209275208eeaac93b2a5e4c3f0d0a77be9",
-        "title": "Show HN: Goku – WASM (wllama) 支持的 LLM 推理和模型管理器 / Show HN: Goku – WASM (wllama)-powered LLM inference and model manager",
-        "url": "https://news.ycombinator.com/item?id=48920650",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "79e5099de8c1cf53b92593bfe8fa37fc2eaa0100",
+        "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
+        "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2209de89b7a9",
+      "title": "你的AI并非一种工具",
+      "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
+      "primary_url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
+      "source": "theconvivialsociety.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "639a5bfd582871a38f6ff6833dd7fde1cf756044",
+          "title": "你的AI并非一种工具",
+          "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
+          "source": "theconvivialsociety.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T19:05:15.472000Z"
+        },
+        {
+          "id": "bffaed460b8943fc4e08c9393b83fe0dd1be4714",
+          "title": "你的AI并非一种工具 / Your AI Is Not a Tool",
+          "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T16:49:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "theconvivialsociety.substack.com"
+      ],
+      "items": [
+        {
+          "id": "639a5bfd582871a38f6ff6833dd7fde1cf756044",
+          "title": "你的AI并非一种工具",
+          "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
+          "source": "theconvivialsociety.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T19:05:15.472000Z"
+        },
+        {
+          "id": "bffaed460b8943fc4e08c9393b83fe0dd1be4714",
+          "title": "你的AI并非一种工具 / Your AI Is Not a Tool",
+          "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T16:49:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9562,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T16:49:43Z",
+      "latest_at": "2026-07-15T19:05:15.472000Z",
+      "primary_item": {
+        "id": "639a5bfd582871a38f6ff6833dd7fde1cf756044",
+        "title": "你的AI并非一种工具",
+        "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
+        "source": "theconvivialsociety.substack.com",
+        "source_name": "Buzzing"
       }
     }
   ]
