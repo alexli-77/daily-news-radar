@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-15T11:08:00.220735Z",
+  "generated_at": "2026-07-15T12:48:56.906906Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2108-2693-a52e-4f5ecfb58d1a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-2108-2693-a52e-4f5ecfb58d1a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2249-28dd-ad5a-0dc7964b2cc0&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-2249-28dd-ad5a-0dc7964b2cc0&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "0678234c51ee0a761b2d232a2a38b845de8062c9",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2249-28dd-ad5a-0dc7964b2cc0&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e884c4e0dc62fa9c993be9d400555a2a4a0b0654",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "75eb7a7d157102f6c8ef5ac2fe6f2cc0f21f96f2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0043-44b2-a5c7-df216482da4a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "fafb8b9aad9fafa7fd02501356fd20aa5b340ff2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2245-43bd-922b-6da135fc1a00&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "0678234c51ee0a761b2d232a2a38b845de8062c9",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2249-28dd-ad5a-0dc7964b2cc0&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e884c4e0dc62fa9c993be9d400555a2a4a0b0654",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2108-2693-a52e-4f5ecfb58d1a&fp=-3",
@@ -255,15 +264,6 @@
           "id": "75eb7a7d157102f6c8ef5ac2fe6f2cc0f21f96f2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0043-44b2-a5c7-df216482da4a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "fafb8b9aad9fafa7fd02501356fd20aa5b340ff2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2245-43bd-922b-6da135fc1a00&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T12:45:15.914201Z",
-      "latest_at": "2026-07-15T11:08:00.220735Z",
+      "earliest_at": "2026-07-14T14:43:14.572180Z",
+      "latest_at": "2026-07-15T12:48:56.906906Z",
       "primary_item": {
-        "id": "e884c4e0dc62fa9c993be9d400555a2a4a0b0654",
+        "id": "0678234c51ee0a761b2d232a2a38b845de8062c9",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2108-2693-a52e-4f5ecfb58d1a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2249-28dd-ad5a-0dc7964b2cc0&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9299,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -356,6 +356,66 @@
         "url": "https://www.aibase.com/news/29625",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f885eab25e0e",
+      "title": "阿里Qwen将集成至Apple Intelligence服务中国用户",
+      "url": "https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878",
+      "primary_url": "https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878",
+      "source": "X：X.PIN (@thexpin)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1aa0c226322004202ae047c4a436516d3176c5ed",
+          "title": "阿里Qwen将集成至Apple Intelligence服务中国用户",
+          "url": "https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T10:57:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：X.PIN (@thexpin)"
+      ],
+      "items": [
+        {
+          "id": "1aa0c226322004202ae047c4a436516d3176c5ed",
+          "title": "阿里Qwen将集成至Apple Intelligence服务中国用户",
+          "url": "https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T10:57:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9224,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T10:57:15Z",
+      "latest_at": "2026-07-15T10:57:15Z",
+      "primary_item": {
+        "id": "1aa0c226322004202ae047c4a436516d3176c5ed",
+        "title": "阿里Qwen将集成至Apple Intelligence服务中国用户",
+        "url": "https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878",
+        "source": "X：X.PIN (@thexpin)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -393,14 +453,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8982,
+        "recency": 0.8281,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -453,14 +513,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9299,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -513,14 +573,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5371,
+        "recency": 0.467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -574,14 +634,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8972,
+        "recency": 0.8271,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,20 +694,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6967,
+        "recency": 0.6266,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T03:51:16Z",
       "latest_at": "2026-07-15T03:51:16Z",
@@ -694,14 +753,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5205,
+        "recency": 0.4504,
         "story_heat": 0.0
       },
       "category": "official",
@@ -773,14 +832,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8337,
+        "recency": 0.7636,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -834,14 +893,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6406,
+        "recency": 0.5705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -893,14 +952,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6353,
+        "recency": 0.5652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,14 +1011,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.7208,
+      "importance": 0.7208,
+      "importance_score": 0.7208,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6139,
+        "recency": 0.5438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1011,14 +1070,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1071,14 +1130,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1094,66 +1153,6 @@
         "url": "https://www.aibase.com/news/29619",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_77d490ebaf47",
-      "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3367,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T19:12:48Z",
-      "latest_at": "2026-07-14T19:12:48Z",
-      "primary_item": {
-        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-        "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
-        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1191,14 +1190,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1251,14 +1250,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1311,14 +1310,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1446,14 +1445,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5712,
-      "importance": 0.5712,
-      "importance_score": 0.5712,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7412,
+        "recency": 0.6711,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1471,63 +1470,81 @@
       }
     },
     {
-      "story_id": "story_37b625d38e66",
-      "title": "法国凭借低价电力在 AI 竞争中脱颖而出",
-      "url": "https://www.aibase.com/news/29617",
-      "primary_url": "https://www.aibase.com/news/29617",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_51562230a5e4",
+      "title": "DSL 实现法学硕士的可靠使用 / DSLs Enable Reliable Use of LLMs",
+      "url": "https://news.ycombinator.com/item?id=48918575",
+      "primary_url": "https://news.ycombinator.com/item?id=48918575",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "039a8a0df4b62b6788aef63e466367dd4132d08d",
-          "title": "法国凭借低价电力在 AI 竞争中脱颖而出",
-          "url": "https://www.aibase.com/news/29617",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T09:26:41.764203Z"
+          "id": "f5a70c8f3dfd62e3659c82353af2a5989d1cb0b5",
+          "title": "DSL 实现法学硕士的可靠使用 / DSLs Enable Reliable Use of LLMs",
+          "url": "https://news.ycombinator.com/item?id=48918575",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T12:49:40.563000Z"
+        },
+        {
+          "id": "b626a29307f35e531ef9860471744a2273e7c389",
+          "title": "DSL 实现法学硕士的可靠使用 / DSLs Enable Reliable Use of LLMs",
+          "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T10:11:11Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "039a8a0df4b62b6788aef63e466367dd4132d08d",
-          "title": "法国凭借低价电力在 AI 竞争中脱颖而出",
-          "url": "https://www.aibase.com/news/29617",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T09:26:41.764203Z"
+          "id": "f5a70c8f3dfd62e3659c82353af2a5989d1cb0b5",
+          "title": "DSL 实现法学硕士的可靠使用 / DSLs Enable Reliable Use of LLMs",
+          "url": "https://news.ycombinator.com/item?id=48918575",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T12:49:40.563000Z"
+        },
+        {
+          "id": "b626a29307f35e531ef9860471744a2273e7c389",
+          "title": "DSL 实现法学硕士的可靠使用 / DSLs Enable Reliable Use of LLMs",
+          "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T10:11:11Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9296,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-15T09:26:41.764203Z",
-      "latest_at": "2026-07-15T09:26:41.764203Z",
+      "earliest_at": "2026-07-15T10:11:11Z",
+      "latest_at": "2026-07-15T12:49:40.563000Z",
       "primary_item": {
-        "id": "039a8a0df4b62b6788aef63e466367dd4132d08d",
-        "title": "法国凭借低价电力在 AI 竞争中脱颖而出",
-        "url": "https://www.aibase.com/news/29617",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "f5a70c8f3dfd62e3659c82353af2a5989d1cb0b5",
+        "title": "DSL 实现法学硕士的可靠使用 / DSLs Enable Reliable Use of LLMs",
+        "url": "https://news.ycombinator.com/item?id=48918575",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
