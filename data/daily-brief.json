@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-16T09:33:50.009290Z",
+  "generated_at": "2026-07-16T11:27:41.571496Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1934-12cb-b94d-2deffe545ec5&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-1934-12cb-b94d-2deffe545ec5&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2128-07c9-b730-c1c14c21a968&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-2128-07c9-b730-c1c14c21a968&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "185f4ae9834f72f6531a94d9f68057d93e7361ce",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2128-07c9-b730-c1c14c21a968&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "bdfe90a8bfd153820020aeacd78f9ad520399e9e",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "0678234c51ee0a761b2d232a2a38b845de8062c9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2249-28dd-ad5a-0dc7964b2cc0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "e884c4e0dc62fa9c993be9d400555a2a4a0b0654",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2108-2693-a52e-4f5ecfb58d1a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "185f4ae9834f72f6531a94d9f68057d93e7361ce",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2128-07c9-b730-c1c14c21a968&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "bdfe90a8bfd153820020aeacd78f9ad520399e9e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1934-12cb-b94d-2deffe545ec5&fp=-3",
@@ -255,15 +264,6 @@
           "id": "0678234c51ee0a761b2d232a2a38b845de8062c9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2249-28dd-ad5a-0dc7964b2cc0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "e884c4e0dc62fa9c993be9d400555a2a4a0b0654",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2108-2693-a52e-4f5ecfb58d1a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T11:08:00.220735Z",
-      "latest_at": "2026-07-16T09:33:50.009290Z",
+      "earliest_at": "2026-07-15T12:48:56.906906Z",
+      "latest_at": "2026-07-16T11:27:41.571496Z",
       "primary_item": {
-        "id": "bdfe90a8bfd153820020aeacd78f9ad520399e9e",
+        "id": "185f4ae9834f72f6531a94d9f68057d93e7361ce",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1934-12cb-b94d-2deffe545ec5&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2128-07c9-b730-c1c14c21a968&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -352,14 +352,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9209,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -376,6 +376,126 @@
         "url": "https://www.aibase.com/news/29657",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_73ea5e2f3a94",
+      "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+      "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+      "primary_url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c2ba4984ccef8405ee994b9557023b7e89b07c0",
+          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "4c2ba4984ccef8405ee994b9557023b7e89b07c0",
+          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9391,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T10:00:00Z",
+      "latest_at": "2026-07-16T10:00:00Z",
+      "primary_item": {
+        "id": "4c2ba4984ccef8405ee994b9557023b7e89b07c0",
+        "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+        "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c9cbb99dc0b0",
+      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+      "url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+      "primary_url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f04b17c67cf203dc639ab73fd025232597a619b7",
+          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+          "url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T09:58:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f04b17c67cf203dc639ab73fd025232597a619b7",
+          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+          "url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T09:58:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9383,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T09:58:51Z",
+      "latest_at": "2026-07-16T09:58:51Z",
+      "primary_item": {
+        "id": "f04b17c67cf203dc639ab73fd025232597a619b7",
+        "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+        "url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -413,14 +533,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.6015,
+        "recency": 0.5224,
         "story_heat": 0.0
       },
       "category": "official",
@@ -436,6 +556,67 @@
         "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d8ed319939f5",
+      "title": "安全事件披露 — 2026 年 7 月 / Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "primary_url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+          "title": "安全事件披露 — 2026 年 7 月 / Security incident disclosure — July 2026",
+          "url": "https://huggingface.co/blog/security-incident-july-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+          "title": "安全事件披露 — 2026 年 7 月 / Security incident disclosure — July 2026",
+          "url": "https://huggingface.co/blog/security-incident-july-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.5224,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:00:00Z",
+      "latest_at": "2026-07-16T00:00:00Z",
+      "primary_item": {
+        "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+        "title": "安全事件披露 — 2026 年 7 月 / Security incident disclosure — July 2026",
+        "url": "https://huggingface.co/blog/security-incident-july-2026",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -474,14 +655,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9343,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,6 +678,66 @@
         "url": "https://aihot.virxact.com/items/cmrn9ik1w00cdbic6r0i9cc93",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_40f901761971",
+      "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+      "url": "https://www.aibase.com/news/29661",
+      "primary_url": "https://www.aibase.com/news/29661",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
+          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "url": "https://www.aibase.com/news/29661",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T11:27:41.571496Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
+          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+          "url": "https://www.aibase.com/news/29661",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T11:27:41.571496Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T11:27:41.571496Z",
+      "latest_at": "2026-07-16T11:27:41.571496Z",
+      "primary_item": {
+        "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
+        "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+        "url": "https://www.aibase.com/news/29661",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -534,14 +775,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9229,
+        "recency": 0.8438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,66 +798,6 @@
         "url": "https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4d065be60a9d",
-      "title": "百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台",
-      "url": "https://www.aibase.com/news/29658",
-      "primary_url": "https://www.aibase.com/news/29658",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0a379f4f9d643dbf2155a612e75ce1fcf6815a51",
-          "title": "百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台",
-          "url": "https://www.aibase.com/news/29658",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T09:33:50.009290Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0a379f4f9d643dbf2155a612e75ce1fcf6815a51",
-          "title": "百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台",
-          "url": "https://www.aibase.com/news/29658",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T09:33:50.009290Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T09:33:50.009290Z",
-      "latest_at": "2026-07-16T09:33:50.009290Z",
-      "primary_item": {
-        "id": "0a379f4f9d643dbf2155a612e75ce1fcf6815a51",
-        "title": "百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台",
-        "url": "https://www.aibase.com/news/29658",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -654,14 +835,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5447,
+        "recency": 0.4657,
         "story_heat": 0.0
       },
       "category": "official",
@@ -715,20 +896,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7453,
+        "recency": 0.6663,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T03:27:08Z",
       "latest_at": "2026-07-16T03:27:08Z",
@@ -737,6 +917,243 @@
         "title": "千问APP联合武汉发布举办AI求职实战课，演示简历诊断与办公自动化",
         "url": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0",
         "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4d065be60a9d",
+      "title": "百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台",
+      "url": "https://www.aibase.com/news/29658",
+      "primary_url": "https://www.aibase.com/news/29658",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0a379f4f9d643dbf2155a612e75ce1fcf6815a51",
+          "title": "百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台",
+          "url": "https://www.aibase.com/news/29658",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T09:33:50.009290Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0a379f4f9d643dbf2155a612e75ce1fcf6815a51",
+          "title": "百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台",
+          "url": "https://www.aibase.com/news/29658",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T09:33:50.009290Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9209,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T09:33:50.009290Z",
+      "latest_at": "2026-07-16T09:33:50.009290Z",
+      "primary_item": {
+        "id": "0a379f4f9d643dbf2155a612e75ce1fcf6815a51",
+        "title": "百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台",
+        "url": "https://www.aibase.com/news/29658",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e33ab9ff9267",
+      "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+      "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+      "primary_url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+      "source": "公众号：昆仑万维（天工）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9b734e4c9aa90c0fe733ee613bc0eb07da793e6a",
+          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T02:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：昆仑万维（天工）"
+      ],
+      "items": [
+        {
+          "id": "9b734e4c9aa90c0fe733ee613bc0eb07da793e6a",
+          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T02:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6058,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T02:00:00Z",
+      "latest_at": "2026-07-16T02:00:00Z",
+      "primary_item": {
+        "id": "9b734e4c9aa90c0fe733ee613bc0eb07da793e6a",
+        "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+        "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
+        "source": "公众号：昆仑万维（天工）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_78c5a9b8df1f",
+      "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+      "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
+      "primary_url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
+      "source": "公众号：MiniMax（稀宇科技）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3e59fa307dfe4fd3c4663dc337a9dbb3c6069d59",
+          "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+          "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
+          "source": "公众号：MiniMax（稀宇科技）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T01:36:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：MiniMax（稀宇科技）"
+      ],
+      "items": [
+        {
+          "id": "3e59fa307dfe4fd3c4663dc337a9dbb3c6069d59",
+          "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+          "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
+          "source": "公众号：MiniMax（稀宇科技）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T01:36:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5893,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T01:36:13Z",
+      "latest_at": "2026-07-16T01:36:13Z",
+      "primary_item": {
+        "id": "3e59fa307dfe4fd3c4663dc337a9dbb3c6069d59",
+        "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+        "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
+        "source": "公众号：MiniMax（稀宇科技）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5581c3044d93",
+      "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+      "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
+      "primary_url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f24b31eb1b9a2138418143a92a8bee8c4ad918f7",
+          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+          "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:33:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "f24b31eb1b9a2138418143a92a8bee8c4ad918f7",
+          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+          "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:33:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5456,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T00:33:18Z",
+      "latest_at": "2026-07-16T00:33:18Z",
+      "primary_item": {
+        "id": "f24b31eb1b9a2138418143a92a8bee8c4ad918f7",
+        "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+        "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
+        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
@@ -775,14 +1192,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -835,21 +1252,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3305,
+        "recency": 0.2514,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T17:29:41Z",
       "latest_at": "2026-07-15T17:29:41Z",
@@ -859,301 +1275,6 @@
         "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e33ab9ff9267",
-      "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-      "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
-      "primary_url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
-      "source": "公众号：昆仑万维（天工）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9b734e4c9aa90c0fe733ee613bc0eb07da793e6a",
-          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-          "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T02:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：昆仑万维（天工）"
-      ],
-      "items": [
-        {
-          "id": "9b734e4c9aa90c0fe733ee613bc0eb07da793e6a",
-          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-          "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T02:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6848,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T02:00:00Z",
-      "latest_at": "2026-07-16T02:00:00Z",
-      "primary_item": {
-        "id": "9b734e4c9aa90c0fe733ee613bc0eb07da793e6a",
-        "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-        "url": "https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt",
-        "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_78c5a9b8df1f",
-      "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
-      "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
-      "primary_url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
-      "source": "公众号：MiniMax（稀宇科技）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3e59fa307dfe4fd3c4663dc337a9dbb3c6069d59",
-          "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
-          "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
-          "source": "公众号：MiniMax（稀宇科技）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T01:36:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：MiniMax（稀宇科技）"
-      ],
-      "items": [
-        {
-          "id": "3e59fa307dfe4fd3c4663dc337a9dbb3c6069d59",
-          "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
-          "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
-          "source": "公众号：MiniMax（稀宇科技）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T01:36:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6683,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T01:36:13Z",
-      "latest_at": "2026-07-16T01:36:13Z",
-      "primary_item": {
-        "id": "3e59fa307dfe4fd3c4663dc337a9dbb3c6069d59",
-        "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
-        "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
-        "source": "公众号：MiniMax（稀宇科技）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5581c3044d93",
-      "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-      "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-      "primary_url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f24b31eb1b9a2138418143a92a8bee8c4ad918f7",
-          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-          "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:33:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "f24b31eb1b9a2138418143a92a8bee8c4ad918f7",
-          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-          "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:33:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6246,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T00:33:18Z",
-      "latest_at": "2026-07-16T00:33:18Z",
-      "primary_item": {
-        "id": "f24b31eb1b9a2138418143a92a8bee8c4ad918f7",
-        "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-        "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b04de4662ddc",
-      "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-      "url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-      "primary_url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9aae3dd710ddae20ae4f702b49a40ffbc34b3586",
-          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:12:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "9aae3dd710ddae20ae4f702b49a40ffbc34b3586",
-          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:12:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6098,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T00:12:00Z",
-      "latest_at": "2026-07-16T00:12:00Z",
-      "primary_item": {
-        "id": "9aae3dd710ddae20ae4f702b49a40ffbc34b3586",
-        "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-        "url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b79bfb0f6ddd",
-      "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-      "url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-      "primary_url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b047bc680e6dcbf44e0db95b0c1064c51258aca",
-          "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-          "url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T22:49:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "6b047bc680e6dcbf44e0db95b0c1064c51258aca",
-          "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-          "url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T22:49:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5524,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T22:49:15Z",
-      "latest_at": "2026-07-15T22:49:15Z",
-      "primary_item": {
-        "id": "6b047bc680e6dcbf44e0db95b0c1064c51258aca",
-        "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-        "url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1191,14 +1312,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1251,14 +1372,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1311,14 +1432,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1332,126 +1453,6 @@
         "id": "2a03cca00c3d7314e454b4bb1cf1ff50b260ae4d",
         "title": "通义千问正式接入苹果生态，国内Apple智能体验迎来重磅升级",
         "url": "https://www.aibase.com/news/29659",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_aefc3a9244d6",
-      "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
-      "url": "https://www.aibase.com/news/29650",
-      "primary_url": "https://www.aibase.com/news/29650",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "26b253eaf185bcf6a086586579133fbc3feebd37",
-          "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
-          "url": "https://www.aibase.com/news/29650",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T07:18:00.696574Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "26b253eaf185bcf6a086586579133fbc3feebd37",
-          "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
-          "url": "https://www.aibase.com/news/29650",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T07:18:00.696574Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9057,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T07:18:00.696574Z",
-      "latest_at": "2026-07-16T07:18:00.696574Z",
-      "primary_item": {
-        "id": "26b253eaf185bcf6a086586579133fbc3feebd37",
-        "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
-        "url": "https://www.aibase.com/news/29650",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6a87f0ba9c91",
-      "title": "MiniMax发布Code2.0桌面端:底层架构全面重构，原生接入金融多源数据",
-      "url": "https://www.aibase.com/news/29648",
-      "primary_url": "https://www.aibase.com/news/29648",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9da8a7caae8db939cafaa00927c25d8a43c5a763",
-          "title": "MiniMax发布Code2.0桌面端:底层架构全面重构，原生接入金融多源数据",
-          "url": "https://www.aibase.com/news/29648",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T07:18:00.696574Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9da8a7caae8db939cafaa00927c25d8a43c5a763",
-          "title": "MiniMax发布Code2.0桌面端:底层架构全面重构，原生接入金融多源数据",
-          "url": "https://www.aibase.com/news/29648",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T07:18:00.696574Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9057,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T07:18:00.696574Z",
-      "latest_at": "2026-07-16T07:18:00.696574Z",
-      "primary_item": {
-        "id": "9da8a7caae8db939cafaa00927c25d8a43c5a763",
-        "title": "MiniMax发布Code2.0桌面端:底层架构全面重构，原生接入金融多源数据",
-        "url": "https://www.aibase.com/news/29648",
         "source": "AIbase",
         "source_name": "AIbase"
       }
