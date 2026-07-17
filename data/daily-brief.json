@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-17T09:25:59.282499Z",
+  "generated_at": "2026-07-17T11:03:36.135415Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1926-2276-8c7d-c1ba9b1f26b2&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-1926-2276-8c7d-c1ba9b1f26b2&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2103-5771-8c48-be16ab8aa8cd&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-2103-5771-8c48-be16ab8aa8cd&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "a461919d5d40a90124b651fee7d4175b357b2d3c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2103-5771-8c48-be16ab8aa8cd&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5ea39057b3dc96e66e3e11b0f6b9d5a18264c9e4",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "185f4ae9834f72f6531a94d9f68057d93e7361ce",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2128-07c9-b730-c1c14c21a968&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "bdfe90a8bfd153820020aeacd78f9ad520399e9e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1934-12cb-b94d-2deffe545ec5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "a461919d5d40a90124b651fee7d4175b357b2d3c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2103-5771-8c48-be16ab8aa8cd&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5ea39057b3dc96e66e3e11b0f6b9d5a18264c9e4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1926-2276-8c7d-c1ba9b1f26b2&fp=-3",
@@ -273,15 +282,6 @@
           "id": "185f4ae9834f72f6531a94d9f68057d93e7361ce",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2128-07c9-b730-c1c14c21a968&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "bdfe90a8bfd153820020aeacd78f9ad520399e9e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1934-12cb-b94d-2deffe545ec5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T09:33:50.009290Z",
-      "latest_at": "2026-07-17T09:25:59.282499Z",
+      "earliest_at": "2026-07-16T11:27:41.571496Z",
+      "latest_at": "2026-07-17T11:03:36.135415Z",
       "primary_item": {
-        "id": "5ea39057b3dc96e66e3e11b0f6b9d5a18264c9e4",
+        "id": "a461919d5d40a90124b651fee7d4175b357b2d3c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1926-2276-8c7d-c1ba9b1f26b2&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2103-5771-8c48-be16ab8aa8cd&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -370,14 +370,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9322,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -394,6 +394,66 @@
         "url": "https://www.aibase.com/news/29695",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_25fd3954df94",
+      "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
+      "url": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
+      "primary_url": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f219dd71fdb289be356c91d2ba6d9f2a35ee1426",
+          "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
+          "url": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T09:41:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "f219dd71fdb289be356c91d2ba6d9f2a35ee1426",
+          "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
+          "url": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T09:41:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9429,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T09:41:25Z",
+      "latest_at": "2026-07-17T09:41:25Z",
+      "primary_item": {
+        "id": "f219dd71fdb289be356c91d2ba6d9f2a35ee1426",
+        "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
+        "url": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -431,14 +491,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9694,
+        "recency": 0.9016,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -457,67 +517,7 @@
       }
     },
     {
-      "story_id": "story_22767fdda6c2",
-      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-      "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-      "primary_url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a43c2055fac3f569efd601726b10323d73c8a47f",
-          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:14:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "a43c2055fac3f569efd601726b10323d73c8a47f",
-          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:14:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T07:14:00Z",
-      "latest_at": "2026-07-17T07:14:00Z",
-      "primary_item": {
-        "id": "a43c2055fac3f569efd601726b10323d73c8a47f",
-        "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-        "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9a64c3239932",
+      "story_id": "story_0b8bb68df725",
       "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
       "url": "https://www.aibase.com/news/29687",
       "primary_url": "https://www.aibase.com/news/29687",
@@ -570,14 +570,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9117,
+        "recency": 0.8439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -631,14 +631,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8136,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -653,6 +653,66 @@
         "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
         "url": "https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_22767fdda6c2",
+      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+      "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
+      "primary_url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a43c2055fac3f569efd601726b10323d73c8a47f",
+          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T07:14:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "a43c2055fac3f569efd601726b10323d73c8a47f",
+          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T07:14:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8406,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T07:14:00Z",
+      "latest_at": "2026-07-17T07:14:00Z",
+      "primary_item": {
+        "id": "a43c2055fac3f569efd601726b10323d73c8a47f",
+        "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+        "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
+        "source": "公众号：通义实验室（千问）",
         "source_name": "AI HOT"
       }
     },
@@ -691,14 +751,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -751,14 +811,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4036,
+        "recency": 0.3359,
         "story_heat": 0.0
       },
       "category": "official",
@@ -773,66 +833,6 @@
         "title": "项目的高级搜索已普遍可用 / Advanced search for Projects is generally available",
         "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8fe39edff791",
-      "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "primary_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ed38a837e6df66b70357bb878fdb525481735328",
-          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ed38a837e6df66b70357bb878fdb525481735328",
-          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2736,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "ed38a837e6df66b70357bb878fdb525481735328",
-        "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -871,14 +871,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,14 +931,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3994,
+        "recency": 0.3316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -991,14 +991,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.635,
+        "recency": 0.5672,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1050,14 +1050,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,66 +1073,6 @@
         "url": "https://www.aibase.com/news/29691",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b3f1c35889da",
-      "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "primary_url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3617,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T18:06:52Z",
-      "latest_at": "2026-07-16T18:06:52Z",
-      "primary_item": {
-        "id": "225611c19971e2c7202b85385fe274bebde738e4",
-        "title": "用于 Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1170,14 +1110,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,66 +1133,6 @@
         "url": "https://www.aibase.com/news/29693",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5c947366c8f5",
-      "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
-      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
-          "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
-          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
-          "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
-          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.357,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T18:00:07Z",
-      "latest_at": "2026-07-16T18:00:07Z",
-      "primary_item": {
-        "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
-        "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
-        "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1290,14 +1170,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1350,14 +1230,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9117,
+        "recency": 0.8439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,6 +1253,162 @@
         "url": "https://www.aibase.com/news/29688",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bfa3b5bff4bb",
+      "title": "人类学 / cwc-研讨会 / anthropics /      cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "primary_url": "https://github.com/anthropics/cwc-workshops",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a88339a770cc4f479709305667830f39185550f6",
+          "title": "人类学 / cwc-研讨会 / anthropics /      cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T11:04:02.625000Z"
+        },
+        {
+          "id": "05967126ac902872a92a663bd11c5a2e65f3a556",
+          "title": "人类学 / cwc-研讨会 / anthropics / cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "a88339a770cc4f479709305667830f39185550f6",
+          "title": "人类学 / cwc-研讨会 / anthropics /      cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T11:04:02.625000Z"
+        },
+        {
+          "id": "05967126ac902872a92a663bd11c5a2e65f3a556",
+          "title": "人类学 / cwc-研讨会 / anthropics / cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T11:03:36.135415Z",
+      "latest_at": "2026-07-17T11:04:02.625000Z",
+      "primary_item": {
+        "id": "a88339a770cc4f479709305667830f39185550f6",
+        "title": "人类学 / cwc-研讨会 / anthropics /      cwc-workshops",
+        "url": "https://github.com/anthropics/cwc-workshops",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_70cc79a816e7",
+      "title": "图灵奖得主理查德・萨顿 WAIC 2026 发言：AI 还「比较弱小且不可靠」",
+      "url": "https://www.ithome.com/0/978/247.htm",
+      "primary_url": "https://www.ithome.com/0/978/247.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b046a9f0a531464ede4b7b1e95b87627142bae6e",
+          "title": "图灵奖得主理查德・萨顿 WAIC 2026 发言：AI 还「比较弱小且不可靠」",
+          "url": "https://www.ithome.com/0/978/247.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "93681eaefcdac1954a5c7fb1286f396dffe22367",
+          "title": "图灵奖得主理查德 · 萨顿 WAIC 2026 发言：AI 还“比较弱小且不可靠”",
+          "url": "https://www.ithome.com/0/978/247.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T10:18:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b046a9f0a531464ede4b7b1e95b87627142bae6e",
+          "title": "图灵奖得主理查德・萨顿 WAIC 2026 发言：AI 还「比较弱小且不可靠」",
+          "url": "https://www.ithome.com/0/978/247.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "93681eaefcdac1954a5c7fb1286f396dffe22367",
+          "title": "图灵奖得主理查德 · 萨顿 WAIC 2026 发言：AI 还“比较弱小且不可靠”",
+          "url": "https://www.ithome.com/0/978/247.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T10:18:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T10:18:27Z",
+      "latest_at": "2026-07-17T11:03:36.135415Z",
+      "primary_item": {
+        "id": "b046a9f0a531464ede4b7b1e95b87627142bae6e",
+        "title": "图灵奖得主理查德・萨顿 WAIC 2026 发言：AI 还「比较弱小且不可靠」",
+        "url": "https://www.ithome.com/0/978/247.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1410,14 +1446,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9117,
+        "recency": 0.8439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1436,81 +1472,81 @@
       }
     },
     {
-      "story_id": "story_c1b0c9cd7719",
-      "title": "当高考作文开始讨论 AI，人类真正的考试才刚刚开始",
-      "url": "https://www.huxiu.com/article/4876126.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876126.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_dee2311b1811",
+      "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考",
+      "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "131fca5f9b898433e54db2f21eaf5cd5253fe398",
-          "title": "当高考作文开始讨论 AI，人类真正的考试才刚刚开始",
-          "url": "https://www.huxiu.com/article/4876126.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-07-17T09:25:59.282499Z"
+          "id": "e08381d4c7c939e03b072ce1bff3415f6feec893",
+          "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考",
+          "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T09:45:49.602000Z"
         },
         {
-          "id": "83db4c7cfd510bebfd7415c4de15db8fd7a8e862",
-          "title": "当高考作文开始讨论AI，人类真正的考试才刚刚开始",
-          "url": "https://www.huxiu.com/article/4876126.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T08:44:17Z"
+          "id": "0faca5e682f1c9050f7519a0e64cb6556813550e",
+          "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考 / A Meta software engineer shares what it takes to keep up with AI — without letting it think for him",
+          "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T09:30:02Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "131fca5f9b898433e54db2f21eaf5cd5253fe398",
-          "title": "当高考作文开始讨论 AI，人类真正的考试才刚刚开始",
-          "url": "https://www.huxiu.com/article/4876126.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-07-17T09:25:59.282499Z"
+          "id": "e08381d4c7c939e03b072ce1bff3415f6feec893",
+          "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考",
+          "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T09:45:49.602000Z"
         },
         {
-          "id": "83db4c7cfd510bebfd7415c4de15db8fd7a8e862",
-          "title": "当高考作文开始讨论AI，人类真正的考试才刚刚开始",
-          "url": "https://www.huxiu.com/article/4876126.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T08:44:17Z"
+          "id": "0faca5e682f1c9050f7519a0e64cb6556813550e",
+          "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考 / A Meta software engineer shares what it takes to keep up with AI — without letting it think for him",
+          "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T09:30:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.946,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T08:44:17Z",
-      "latest_at": "2026-07-17T09:25:59.282499Z",
+      "earliest_at": "2026-07-17T09:30:02Z",
+      "latest_at": "2026-07-17T09:45:49.602000Z",
       "primary_item": {
-        "id": "131fca5f9b898433e54db2f21eaf5cd5253fe398",
-        "title": "当高考作文开始讨论 AI，人类真正的考试才刚刚开始",
-        "url": "https://www.huxiu.com/article/4876126.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "e08381d4c7c939e03b072ce1bff3415f6feec893",
+        "title": "一位Meta软件工程师分享了如何跟上人工智能的发展步伐——同时又不让人工智能代替自己思考",
+        "url": "https://www.businessinsider.com/meta-software-engineer-generative-ai-learns-tech-industry-after-work-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
