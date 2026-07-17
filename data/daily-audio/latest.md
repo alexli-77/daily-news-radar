@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月16日人工智能热点分享
-1、前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI。
-2、欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务，欧盟依据《数字市场法案》（DMA）裁定 Google 必须向竞争对手开放 Android 和 Google Search 的关键部分，包括允许第三方 AI 助手和搜索引擎获得更大访问权限。
-3、简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线，这条新闻关注相关变化背后的原因和影响。
-4、HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统，HYPIC 在混合注意力大模型上实现了位置无关缓存，将首 token 延迟平均降低 3.25 倍。
-5、Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商，Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。
-6、百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台。
-7、穆拉蒂重磅回归，重点是思维机器实验室发布首款多模态开源模型 Inkling。
-8、苹果自研AI服务器芯片Baltra遭遇性能瓶颈，今年恐难亮相，属于 AI 基础设施和算力成本相关信号。
-9、谷歌升级 Gemini Spark AI助手，新增 Workspace 编辑能力并提速50%以上。
-10、通义千问正式接入苹果生态，国内Apple智能体验迎来重磅升级。
+2026年7月17日人工智能热点分享
+1、苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函，苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。
+2、NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准。
+3、文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架。
+4、影视飓风49元AI课程上线首日售出10万份，单日营收超490万元。
+5、得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026。
+6、超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通，Suno更新于7月7日，允许iPhone用户直接在iMessage中生成AI歌曲。
+7、重庆上线“渝小健”AI就医智能体，覆盖233家公立医院。
+8、银河通用机器人创始人王鹤，重点是2028 年，具身智能的 “ChatGPT 时刻” 即将来临！。
+9、文远知行推出物理 AI 大模型 WITT。
+10、百度沈抖，重点是每位员工每月发 1000 元额度自由体验主流大模型，强制推行AI办公难见效。
 
 ## 原始链接
-1. 前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI（AIbase） - https://www.aibase.com/news/29657
-2. 欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务（The Verge：AI（RSS）） - https://aihot.virxact.com/items/cmrngw19f00fcbiu5iso650ol
-3. 简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线（AIbase） - https://www.aibase.com/news/29661
-4. HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统（公众号：小红书技术（dots.llm）） - https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s
-5. Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商（Google Developers Blog（RSS）） - https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67
-6. 百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台（AIbase） - https://www.aibase.com/news/29658
-7. 穆拉蒂重磅回归：思维机器实验室发布首款多模态开源模型 Inkling（AIbase） - https://www.aibase.com/news/29654
-8. 苹果自研AI服务器芯片Baltra遭遇性能瓶颈，今年恐难亮相（AIbase） - https://www.aibase.com/news/29656
-9. 谷歌升级 Gemini Spark AI助手，新增 Workspace 编辑能力并提速50%以上（AIbase） - https://www.aibase.com/news/29655
-10. 通义千问正式接入苹果生态，国内Apple智能体验迎来重磅升级（AIbase） - https://www.aibase.com/news/29659
+1. 苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函（IT之家（RSS）） - https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz
+2. NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准（AIbase） - https://www.aibase.com/news/29695
+3. 文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架（AIbase） - https://www.aibase.com/news/29687
+4. 影视飓风49元AI课程上线首日售出10万份，单日营收超490万元（AIbase） - https://www.aibase.com/news/29689
+5. 得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026（AIbase） - https://www.aibase.com/news/29694
+6. 超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通（AIbase） - https://www.aibase.com/news/29691
+7. 重庆上线“渝小健”AI就医智能体，覆盖233家公立医院（AIbase） - https://www.aibase.com/news/29693
+8. 银河通用机器人创始人王鹤： 2028 年，具身智能的 “ChatGPT 时刻” 即将来临！（AIbase） - https://www.aibase.com/news/29692
+9. 文远知行推出物理 AI 大模型 WITT（AIbase） - https://www.aibase.com/news/29688
+10. 百度沈抖：每位员工每月发 1000 元额度自由体验主流大模型，强制推行AI办公难见效（AIbase） - https://www.aibase.com/news/29685
