@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-17T15:54:03.477673Z",
+  "generated_at": "2026-07-17T17:03:07.981377Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0154-327c-9e3a-6775308c9868&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-0154-327c-9e3a-6775308c9868&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0303-34c8-825f-ecb4110c810c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-0303-34c8-825f-ecb4110c810c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7bb2be9904fd0203c71910861b8a56ba2d9de453",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0303-34c8-825f-ecb4110c810c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "c7a34c278a9fa92591df1585ff59b3998f5e568d",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "8b3509550762f0421ebbe7bbbf30195b31a56e57",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0359-3943-96bb-099175609fef&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8808b7794317f7eb648292732504240c9b770f0d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0247-5053-85cc-5045cc1ce9dd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "7bb2be9904fd0203c71910861b8a56ba2d9de453",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0303-34c8-825f-ecb4110c810c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "c7a34c278a9fa92591df1585ff59b3998f5e568d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0154-327c-9e3a-6775308c9868&fp=-3",
@@ -273,15 +282,6 @@
           "id": "8b3509550762f0421ebbe7bbbf30195b31a56e57",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0359-3943-96bb-099175609fef&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8808b7794317f7eb648292732504240c9b770f0d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0247-5053-85cc-5045cc1ce9dd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T16:47:27.684976Z",
-      "latest_at": "2026-07-17T15:54:03.477673Z",
+      "earliest_at": "2026-07-16T17:59:14.029344Z",
+      "latest_at": "2026-07-17T17:03:07.981377Z",
       "primary_item": {
-        "id": "c7a34c278a9fa92591df1585ff59b3998f5e568d",
+        "id": "7bb2be9904fd0203c71910861b8a56ba2d9de453",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0154-327c-9e3a-6775308c9868&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0303-34c8-825f-ecb4110c810c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -351,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7541,
+        "recency": 0.7062,
         "story_heat": 0.0
       },
       "category": "official",
@@ -375,6 +375,66 @@
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e8545f2c81e7",
+      "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+      "url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+      "primary_url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "235f09f846765432b25070efe9b1c7c1464e4561",
+          "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+          "url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:32:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "235f09f846765432b25070efe9b1c7c1464e4561",
+          "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+          "url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:32:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.979,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T16:32:51Z",
+      "latest_at": "2026-07-17T16:32:51Z",
+      "primary_item": {
+        "id": "235f09f846765432b25070efe9b1c7c1464e4561",
+        "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+        "url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -431,14 +491,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8027,
+        "recency": 0.7548,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -492,14 +552,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -571,14 +631,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.6825,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -632,14 +692,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7541,
+        "recency": 0.7062,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,14 +752,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7412,
+        "recency": 0.6933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -752,20 +812,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6999,
+        "recency": 0.6519,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T08:41:53Z",
       "latest_at": "2026-07-17T08:41:53Z",
@@ -831,14 +890,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6422,
+        "recency": 0.5942,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -855,65 +914,6 @@
         "url": "https://www.aibase.com/news/29687",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e46ecc09a6a3",
-      "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-      "url": "https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1",
-      "primary_url": "https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9bb2ed0977e1e94a6c834f8e9f3eac7fb8fd4635",
-          "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-          "url": "https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T04:57:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "9bb2ed0977e1e94a6c834f8e9f3eac7fb8fd4635",
-          "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-          "url": "https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T04:57:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5441,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T04:57:38Z",
-      "latest_at": "2026-07-17T04:57:38Z",
-      "primary_item": {
-        "id": "9bb2ed0977e1e94a6c834f8e9f3eac7fb8fd4635",
-        "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-        "url": "https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -951,14 +951,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6388,
+        "recency": 0.5909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1010,20 +1010,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.6825,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T09:25:59.282499Z",
       "latest_at": "2026-07-17T09:25:59.282499Z",
@@ -1070,20 +1069,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.6825,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T09:25:59.282499Z",
       "latest_at": "2026-07-17T09:25:59.282499Z",
@@ -1093,6 +1091,84 @@
         "url": "https://www.aibase.com/news/29694",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a0bbc2c6e6f2",
+      "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "primary_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "7b8f1c44d7285545e18d8e0092e60d5aac29b683",
+          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "source": "Hugging Face Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-17T15:57:54Z"
+        },
+        {
+          "id": "a921b39c67cdcaff7e509e00b9b806013f93f55a",
+          "title": "使用 NVIDIA NeMo Automodel 和 Hugging Face Diffuser 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and Hugging Face Diffusers",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7b8f1c44d7285545e18d8e0092e60d5aac29b683",
+          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "source": "Hugging Face Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-17T15:57:54Z"
+        },
+        {
+          "id": "a921b39c67cdcaff7e509e00b9b806013f93f55a",
+          "title": "使用 NVIDIA NeMo Automodel 和 Hugging Face Diffuser 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and Hugging Face Diffusers",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6409,
+      "importance": 0.6409,
+      "importance_score": 0.6409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.9547,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T15:57:54Z",
+      "latest_at": "2026-07-17T17:03:07.981377Z",
+      "primary_item": {
+        "id": "7b8f1c44d7285545e18d8e0092e60d5aac29b683",
+        "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+        "source": "Hugging Face Blog",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -1130,20 +1206,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.6825,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T09:25:59.282499Z",
       "latest_at": "2026-07-17T09:25:59.282499Z",
@@ -1190,20 +1265,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.6825,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T09:25:59.282499Z",
       "latest_at": "2026-07-17T09:25:59.282499Z",
@@ -1250,20 +1324,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.6825,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T09:25:59.282499Z",
       "latest_at": "2026-07-17T09:25:59.282499Z",
@@ -1273,6 +1346,103 @@
         "url": "https://www.aibase.com/news/29692",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_459273eee35f",
+      "title": "Mozilla：开源人工智能的发展现状",
+      "url": "https://stateofopensource.ai",
+      "primary_url": "https://stateofopensource.ai",
+      "source": "stateofopensource.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
+          "title": "Mozilla：开源人工智能的发展现状",
+          "url": "https://stateofopensource.ai",
+          "source": "stateofopensource.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T15:53:45.162000Z"
+        },
+        {
+          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
+          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T15:28:14.046000Z"
+        },
+        {
+          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
+          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T14:31:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "stateofopensource.ai"
+      ],
+      "items": [
+        {
+          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
+          "title": "Mozilla：开源人工智能的发展现状",
+          "url": "https://stateofopensource.ai",
+          "source": "stateofopensource.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T15:53:45.162000Z"
+        },
+        {
+          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
+          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T15:28:14.046000Z"
+        },
+        {
+          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
+          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T14:31:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5634,
+      "importance": 0.5634,
+      "importance_score": 0.5634,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9518,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T14:31:10Z",
+      "latest_at": "2026-07-17T15:53:45.162000Z",
+      "primary_item": {
+        "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
+        "title": "Mozilla：开源人工智能的发展现状",
+        "url": "https://stateofopensource.ai",
+        "source": "stateofopensource.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1367,14 +1537,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5712,
-      "importance": 0.5712,
-      "importance_score": 0.5712,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8659,
+        "recency": 0.8179,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1392,223 +1562,30 @@
       }
     },
     {
-      "story_id": "story_6e5f1797a7d7",
-      "title": "苹果向OpenAI员工发出法律信函",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "primary_url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "source": "www.ft.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-          "title": "苹果向OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:52.399000Z"
-        },
-        {
-          "id": "772a4df25d4e2cf771378fd34190947ffe15faa8",
-          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T12:02:39Z"
-        },
-        {
-          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
-          "title": "苹果向数十名OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T10:33:49.155000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-          "title": "苹果向OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:52.399000Z"
-        },
-        {
-          "id": "772a4df25d4e2cf771378fd34190947ffe15faa8",
-          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T12:02:39Z"
-        },
-        {
-          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
-          "title": "苹果向数十名OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T10:33:49.155000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9221,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T10:33:49.155000Z",
-      "latest_at": "2026-07-17T14:01:52.399000Z",
-      "primary_item": {
-        "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-        "title": "苹果向OpenAI员工发出法律信函",
-        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-        "source": "www.ft.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_89bb8ead68de",
-      "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-      "url": "https://news.ycombinator.com/item?id=48947754",
-      "primary_url": "https://news.ycombinator.com/item?id=48947754",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
-          "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "url": "https://news.ycombinator.com/item?id=48947754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "1d68a8f9d37976d90ac46e338591f49615de6738",
-          "title": "Show HN: 发行方为人工智能代理的链上债券市场",
-          "url": "https://selbonds.now",
-          "source": "selbonds.now",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:33:52.909000Z"
-        },
-        {
-          "id": "dc9322c0d5c2d9b0cb9b53e67f0017a71592a24e",
-          "title": "Show HN: 发行方为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "url": "https://selbonds.now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T14:25:20Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "selbonds.now"
-      ],
-      "items": [
-        {
-          "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
-          "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "url": "https://news.ycombinator.com/item?id=48947754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "1d68a8f9d37976d90ac46e338591f49615de6738",
-          "title": "Show HN: 发行方为人工智能代理的链上债券市场",
-          "url": "https://selbonds.now",
-          "source": "selbonds.now",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:33:52.909000Z"
-        },
-        {
-          "id": "dc9322c0d5c2d9b0cb9b53e67f0017a71592a24e",
-          "title": "Show HN: 发行方为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "url": "https://selbonds.now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T14:25:20Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5694,
-      "importance": 0.5694,
-      "importance_score": 0.5694,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9821,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T14:25:20Z",
-      "latest_at": "2026-07-17T15:28:14.046000Z",
-      "primary_item": {
-        "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
-        "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-        "url": "https://news.ycombinator.com/item?id=48947754",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e70f84834f8d",
-      "title": "AI 泡沫，最多破一半",
-      "url": "https://www.huxiu.com/article/4876231.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876231.html?f=rss",
+      "story_id": "story_17640c047e9c",
+      "title": "AI 越强，科技公司为什么越需要哲学家？",
+      "url": "https://www.huxiu.com/article/4876265.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876265.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "454e759e136fed66ebf68f5c6ed8ea392af59f9c",
-          "title": "AI 泡沫，最多破一半",
-          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
+          "id": "e5a6ce3458964b213852be690ba6f613f2b4fbfa",
+          "title": "AI 越强，科技公司为什么越需要哲学家？",
+          "url": "https://www.huxiu.com/article/4876265.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "12d93bb24c12f164bc04af85c6f99f37b8452550",
-          "title": "AI泡沫，最多破一半",
-          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
+          "id": "45089373dfca0006ece857df70517c965c6594ea",
+          "title": "AI越强，科技公司为什么越需要哲学家？",
+          "url": "https://www.huxiu.com/article/4876265.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T13:02:38Z"
+          "published_at": "2026-07-17T15:30:38Z"
         }
       ],
       "source_count": 2,
@@ -1618,46 +1595,46 @@
       ],
       "items": [
         {
-          "id": "454e759e136fed66ebf68f5c6ed8ea392af59f9c",
-          "title": "AI 泡沫，最多破一半",
-          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
+          "id": "e5a6ce3458964b213852be690ba6f613f2b4fbfa",
+          "title": "AI 越强，科技公司为什么越需要哲学家？",
+          "url": "https://www.huxiu.com/article/4876265.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "12d93bb24c12f164bc04af85c6f99f37b8452550",
-          "title": "AI泡沫，最多破一半",
-          "url": "https://www.huxiu.com/article/4876231.html?f=rss",
+          "id": "45089373dfca0006ece857df70517c965c6594ea",
+          "title": "AI越强，科技公司为什么越需要哲学家？",
+          "url": "https://www.huxiu.com/article/4876265.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-17T13:02:38Z"
+          "published_at": "2026-07-17T15:30:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9391,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T13:02:38Z",
-      "latest_at": "2026-07-17T14:26:20.506460Z",
+      "earliest_at": "2026-07-17T15:30:38Z",
+      "latest_at": "2026-07-17T17:03:07.981377Z",
       "primary_item": {
-        "id": "454e759e136fed66ebf68f5c6ed8ea392af59f9c",
-        "title": "AI 泡沫，最多破一半",
-        "url": "https://www.huxiu.com/article/4876231.html?f=rss",
+        "id": "e5a6ce3458964b213852be690ba6f613f2b4fbfa",
+        "title": "AI 越强，科技公司为什么越需要哲学家？",
+        "url": "https://www.huxiu.com/article/4876265.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
