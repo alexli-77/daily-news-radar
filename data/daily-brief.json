@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T12:55:53.645030Z",
+  "generated_at": "2026-07-18T14:17:42.408868Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2256-23e8-a3a4-d1a027582699&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-2256-23e8-a3a4-d1a027582699&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0018-0511-b19f-28bbe5233cb7&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0018-0511-b19f-28bbe5233cb7&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "8df6fd9acfbc51524fef03eed18004a3b0886f49",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0018-0511-b19f-28bbe5233cb7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f195c69dc1e43afc520fa8486665a759f46fe0bf",
           "title": "点击这里进入 / Click here to enter",
@@ -156,12 +165,21 @@
           "published_at": null
         }
       ],
-      "source_count": 16,
+      "source_count": 17,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "8df6fd9acfbc51524fef03eed18004a3b0886f49",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0018-0511-b19f-28bbe5233cb7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f195c69dc1e43afc520fa8486665a759f46fe0bf",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2256-23e8-a3a4-d1a027582699&fp=-3",
@@ -306,8 +324,8 @@
           "published_at": null
         }
       ],
-      "item_count": 16,
-      "duplicate_count": 16,
+      "item_count": 17,
+      "duplicate_count": 17,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -325,13 +343,74 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-17T14:26:20.506460Z",
-      "latest_at": "2026-07-18T12:55:53.645030Z",
+      "latest_at": "2026-07-18T14:17:42.408868Z",
       "primary_item": {
-        "id": "f195c69dc1e43afc520fa8486665a759f46fe0bf",
+        "id": "8df6fd9acfbc51524fef03eed18004a3b0886f49",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2256-23e8-a3a4-d1a027582699&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0018-0511-b19f-28bbe5233cb7&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.4044,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-18T00:00:00Z",
+      "latest_at": "2026-07-18T00:00:00Z",
+      "primary_item": {
+        "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+        "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -369,14 +448,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3815,
+        "recency": 0.3246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -429,14 +508,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6608,
+        "recency": 0.604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -488,14 +567,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3815,
+        "recency": 0.3247,
         "story_heat": 0.0
       },
       "category": "official",
@@ -548,14 +627,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3421,
+        "recency": 0.2853,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.286,
+        "recency": 0.2292,
         "story_heat": 0.0
       },
       "category": "official",
@@ -725,14 +804,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.598,
-      "importance": 0.598,
-      "importance_score": 0.598,
+      "score": 0.5867,
+      "importance": 0.5867,
+      "importance_score": 0.5867,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9436,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -747,6 +826,259 @@
         "url": "https://news.ycombinator.com/item?id=48956924",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b9b544c1b5eb",
+      "title": "图表展示：AI对Stack Overflow的影响",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "source": "data.stackexchange.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:56:27.109000Z"
+        },
+        {
+          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "data.stackexchange.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:56:27.109000Z"
+        },
+        {
+          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9664,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:12:46Z",
+      "latest_at": "2026-07-18T13:29:15.879000Z",
+      "primary_item": {
+        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+        "title": "图表展示：AI对Stack Overflow的影响",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+        "source": "data.stackexchange.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_01582b84f950",
+      "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+      "primary_url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:13:21.473000Z"
+        },
+        {
+          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:18:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:13:21.473000Z"
+        },
+        {
+          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:18:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9553,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:18:25Z",
+      "latest_at": "2026-07-18T13:13:21.473000Z",
+      "primary_item": {
+        "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
+        "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+        "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_84198372e5db",
+      "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "primary_url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "source": "www.axios.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:57:22.221000Z"
+        },
+        {
+          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
+          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:49:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:57:22.221000Z"
+        },
+        {
+          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
+          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:49:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9442,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T12:49:11Z",
+      "latest_at": "2026-07-18T12:57:22.221000Z",
+      "primary_item": {
+        "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+        "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+        "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+        "source": "www.axios.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -803,14 +1135,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9521,
+        "recency": 0.8953,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -881,14 +1213,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9091,
+        "recency": 0.8523,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -959,14 +1291,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9013,
+        "recency": 0.8445,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -984,30 +1316,107 @@
       }
     },
     {
-      "story_id": "story_b9b544c1b5eb",
-      "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-      "url": "https://news.ycombinator.com/item?id=48956949",
-      "primary_url": "https://news.ycombinator.com/item?id=48956949",
+      "story_id": "story_e775946229ad",
+      "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+      "url": "https://www.v2ex.com/t/1228233",
+      "primary_url": "https://www.v2ex.com/t/1228233",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
+          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        },
+        {
+          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
+          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
+          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        },
+        {
+          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
+          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8433,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T10:32:04Z",
+      "latest_at": "2026-07-18T10:32:04Z",
+      "primary_item": {
+        "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
+        "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+        "url": "https://www.v2ex.com/t/1228233",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_1c98b9c89e38",
+      "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://news.ycombinator.com/item?id=48957779",
+      "primary_url": "https://news.ycombinator.com/item?id=48957779",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T12:56:27.109000Z"
+          "published_at": "2026-07-18T13:56:07.515000Z"
         },
         {
-          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T11:12:46Z"
+          "published_at": "2026-07-18T13:00:52Z"
         }
       ],
       "source_count": 2,
@@ -1017,46 +1426,46 @@
       ],
       "items": [
         {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T12:56:27.109000Z"
+          "published_at": "2026-07-18T13:56:07.515000Z"
         },
         {
-          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-18T11:12:46Z"
+          "published_at": "2026-07-18T13:00:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.985,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T11:12:46Z",
-      "latest_at": "2026-07-18T12:56:27.109000Z",
+      "earliest_at": "2026-07-18T13:00:52Z",
+      "latest_at": "2026-07-18T13:56:07.515000Z",
       "primary_item": {
-        "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-        "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-        "url": "https://news.ycombinator.com/item?id=48956949",
+        "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+        "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "url": "https://news.ycombinator.com/item?id=48957779",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1115,14 +1524,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9521,
+        "recency": 0.8953,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1193,14 +1602,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.857,
+        "recency": 0.8002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1235,18 +1644,18 @@
           "published_at": "2026-07-18T12:56:27.109000Z"
         },
         {
-          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
           "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
           "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1260,25 +1669,25 @@
           "published_at": "2026-07-18T12:56:27.109000Z"
         },
         {
-          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
           "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
           "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9436,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,14 +1796,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4872,
-      "importance": 0.4872,
-      "importance_score": 0.4872,
+      "score": 0.4758,
+      "importance": 0.4758,
+      "importance_score": 0.4758,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4459,
+        "recency": 0.3891,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1409,414 +1818,6 @@
         "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
         "source": "www.nytimes.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0587f2f56e55",
-      "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-      "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
-          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
-          "title": "B2B行业首份AI智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:15:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
-          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
-          "title": "B2B行业首份AI智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:15:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5056,
-      "importance": 0.5056,
-      "importance_score": 0.5056,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.788,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T07:15:18Z",
-      "latest_at": "2026-07-18T07:50:35.388930Z",
-      "primary_item": {
-        "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
-        "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-        "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a0bbc2c6e6f2",
-      "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "primary_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "source": "Hugging Face Blog",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "7b8f1c44d7285545e18d8e0092e60d5aac29b683",
-          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Hugging Face Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-17T15:57:54Z"
-        },
-        {
-          "id": "a921b39c67cdcaff7e509e00b9b806013f93f55a",
-          "title": "使用 NVIDIA NeMo Automodel 和 Hugging Face Diffuser 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and Hugging Face Diffusers",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7b8f1c44d7285545e18d8e0092e60d5aac29b683",
-          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Hugging Face Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-17T15:57:54Z"
-        },
-        {
-          "id": "a921b39c67cdcaff7e509e00b9b806013f93f55a",
-          "title": "使用 NVIDIA NeMo Automodel 和 Hugging Face Diffuser 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and Hugging Face Diffusers",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4753,
-      "importance": 0.4753,
-      "importance_score": 0.4753,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.1264,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T15:57:54Z",
-      "latest_at": "2026-07-17T17:03:07.981377Z",
-      "primary_item": {
-        "id": "7b8f1c44d7285545e18d8e0092e60d5aac29b683",
-        "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-        "source": "Hugging Face Blog",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_b59aca9fee2b",
-      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-      "source": "localnewsmatters.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
-        },
-        {
-          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T22:26:30Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "localnewsmatters.org"
-      ],
-      "items": [
-        {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
-        },
-        {
-          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T22:26:30Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4622,
-      "importance": 0.4622,
-      "importance_score": 0.4622,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4459,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T22:26:30Z",
-      "latest_at": "2026-07-17T23:38:00.200000Z",
-      "primary_item": {
-        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-        "source": "localnewsmatters.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7808576f556e",
-      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
-        },
-        {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
-        },
-        {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8347,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T08:41:01Z",
-      "latest_at": "2026-07-18T08:57:49.615000Z",
-      "primary_item": {
-        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bda6929c1899",
-      "title": "我开始了一本“污垢笔记本” / I Started a \"Dirt Notebook\"",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-      "primary_url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
-          "title": "我开始了一本“污垢笔记本” / I Started a \"Dirt Notebook\"",
-          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T01:12:13Z"
-        },
-        {
-          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
-          "title": "我开始了一本“污垢笔记本” / I started a “dirt notebook”",
-          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T01:12:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
-          "title": "我开始了一本“污垢笔记本” / I Started a \"Dirt Notebook\"",
-          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T01:12:13Z"
-        },
-        {
-          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
-          "title": "我开始了一本“污垢笔记本” / I started a “dirt notebook”",
-          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T01:12:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4503,
-      "importance": 0.4503,
-      "importance_score": 0.4503,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5113,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T01:12:13Z",
-      "latest_at": "2026-07-18T01:12:13Z",
-      "primary_item": {
-        "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
-        "title": "我开始了一本“污垢笔记本” / I Started a \"Dirt Notebook\"",
-        "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
