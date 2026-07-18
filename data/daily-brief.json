@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T19:41:05.746119Z",
+  "generated_at": "2026-07-18T20:38:46.000233Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0541-3479-9df6-f8b64f29492b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0541-3479-9df6-f8b64f29492b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0639-146d-a3dd-27bd8827257c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0639-146d-a3dd-27bd8827257c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "1e29ad3715a13c5fad04150825c47ddaa1029cd0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0639-146d-a3dd-27bd8827257c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "36926073cb4852d7c835a5486f8d86bfaa86bc93",
           "title": "点击这里进入 / Click here to enter",
@@ -159,15 +168,6 @@
           "id": "3e88bb7fc8ba10fb95d4ea85c7ea14e594140490",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0701-18ad-855c-961477f2ca64&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "24bc2e3eae36557f67e86ad9aeb61e9dc4dc9ce6",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0600-416f-9242-0adc3b612f64&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -180,6 +180,15 @@
       ],
       "items": [
         {
+          "id": "1e29ad3715a13c5fad04150825c47ddaa1029cd0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0639-146d-a3dd-27bd8827257c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "36926073cb4852d7c835a5486f8d86bfaa86bc93",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0541-3479-9df6-f8b64f29492b&fp=-3",
@@ -327,15 +336,6 @@
           "id": "3e88bb7fc8ba10fb95d4ea85c7ea14e594140490",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0701-18ad-855c-961477f2ca64&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "24bc2e3eae36557f67e86ad9aeb61e9dc4dc9ce6",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0600-416f-9242-0adc3b612f64&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -360,12 +360,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T19:59:54.607153Z",
-      "latest_at": "2026-07-18T19:41:05.746119Z",
+      "earliest_at": "2026-07-17T21:00:49.508494Z",
+      "latest_at": "2026-07-18T20:38:46.000233Z",
       "primary_item": {
-        "id": "36926073cb4852d7c835a5486f8d86bfaa86bc93",
+        "id": "1e29ad3715a13c5fad04150825c47ddaa1029cd0",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0541-3479-9df6-f8b64f29492b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0639-146d-a3dd-27bd8827257c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -405,14 +405,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.1798,
+        "recency": 0.1397,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,6 +428,103 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cbcd45422a3a",
+      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+      "url": "https://ykdojo.github.io/claude-controls-mac",
+      "primary_url": "https://ykdojo.github.io/claude-controls-mac",
+      "source": "ykdojo.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:26:31.800000Z"
+        },
+        {
+          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "ykdojo.github.io"
+      ],
+      "items": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:26:31.800000Z"
+        },
+        {
+          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5645,
+      "importance": 0.5645,
+      "importance_score": 0.5645,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9574,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T19:37:23.960000Z",
+      "primary_item": {
+        "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+        "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+        "url": "https://ykdojo.github.io/claude-controls-mac",
+        "source": "ykdojo.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -484,14 +581,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9865,
+        "recency": 0.9464,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -581,14 +678,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5267,
+      "importance": 0.5267,
+      "importance_score": 0.5267,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8085,
+        "recency": 0.7685,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -678,14 +775,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7755,
+        "recency": 0.7355,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -756,14 +853,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8753,
+        "recency": 0.8353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -833,14 +930,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5137,
+      "importance": 0.5137,
+      "importance_score": 0.5137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.8284,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -930,14 +1027,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.5133,
+      "importance": 0.5133,
+      "importance_score": 0.5133,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7418,
+        "recency": 0.7017,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1046,14 +1143,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.719,
+        "recency": 0.6789,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1124,14 +1221,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4941,
-      "importance": 0.4941,
-      "importance_score": 0.4941,
+      "score": 0.4861,
+      "importance": 0.4861,
+      "importance_score": 0.4861,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7307,
+        "recency": 0.6907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1202,14 +1299,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4919,
-      "importance": 0.4919,
-      "importance_score": 0.4919,
+      "score": 0.4839,
+      "importance": 0.4839,
+      "importance_score": 0.4839,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7196,
+        "recency": 0.6796,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1280,14 +1377,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4821,
-      "importance": 0.4821,
-      "importance_score": 0.4821,
+      "score": 0.4741,
+      "importance": 0.4741,
+      "importance_score": 0.4741,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6707,
+        "recency": 0.6307,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1358,14 +1455,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4735,
-      "importance": 0.4735,
-      "importance_score": 0.4735,
+      "score": 0.4655,
+      "importance": 0.4655,
+      "importance_score": 0.4655,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6277,
+        "recency": 0.5877,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1436,14 +1533,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.472,
-      "importance": 0.472,
-      "importance_score": 0.472,
+      "score": 0.464,
+      "importance": 0.464,
+      "importance_score": 0.464,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6199,
+        "recency": 0.5799,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1513,14 +1610,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4717,
-      "importance": 0.4717,
-      "importance_score": 0.4717,
+      "score": 0.4637,
+      "importance": 0.4637,
+      "importance_score": 0.4637,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6187,
+        "recency": 0.5787,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1535,84 +1632,6 @@
         "url": "https://www.v2ex.com/t/1228233",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_cbcd45422a3a",
-      "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://news.ycombinator.com/item?id=48959392",
-      "primary_url": "https://news.ycombinator.com/item?id=48959392",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:26:31.800000Z"
-        },
-        {
-          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:26:31.800000Z"
-        },
-        {
-          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8649,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:12:08Z",
-      "latest_at": "2026-07-18T16:26:31.800000Z",
-      "primary_item": {
-        "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-        "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "url": "https://news.ycombinator.com/item?id=48959392",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1669,14 +1688,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4821,
-      "importance": 0.4821,
-      "importance_score": 0.4821,
+      "score": 0.4741,
+      "importance": 0.4741,
+      "importance_score": 0.4741,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6707,
+        "recency": 0.6307,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1747,14 +1766,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4631,
-      "importance": 0.4631,
-      "importance_score": 0.4631,
+      "score": 0.4551,
+      "importance": 0.4551,
+      "importance_score": 0.4551,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5756,
+        "recency": 0.5356,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1825,14 +1844,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4493,
-      "importance": 0.4493,
-      "importance_score": 0.4493,
+      "score": 0.4413,
+      "importance": 0.4413,
+      "importance_score": 0.4413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5066,
+        "recency": 0.4665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1922,14 +1941,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4059,
-      "importance": 0.4059,
-      "importance_score": 0.4059,
+      "score": 0.3979,
+      "importance": 0.3979,
+      "importance_score": 0.3979,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1645,
+        "recency": 0.1245,
         "story_heat": 0.5
       },
       "category": "multi_source",
