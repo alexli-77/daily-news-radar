@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T16:26:01.404601Z",
+  "generated_at": "2026-07-18T17:28:30.606432Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0226-2867-8e45-5e7fc1436771&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0226-2867-8e45-5e7fc1436771&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0328-5141-9f79-c13012e21bf7&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0328-5141-9f79-c13012e21bf7&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ec85cb39e601f2116a916bdcbaa0477b7d89bb20",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0328-5141-9f79-c13012e21bf7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "62b58ce788ca3d6fa93ed9b15770130ca9f4e677",
           "title": "点击这里进入 / Click here to enter",
@@ -150,15 +159,6 @@
           "id": "1c10ac5deb1fdd6b693b03f25659053d25f51196",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0432-321f-a3d7-df0d8da7c714&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7bb2be9904fd0203c71910861b8a56ba2d9de453",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0303-34c8-825f-ecb4110c810c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -171,6 +171,15 @@
       ],
       "items": [
         {
+          "id": "ec85cb39e601f2116a916bdcbaa0477b7d89bb20",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0328-5141-9f79-c13012e21bf7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "62b58ce788ca3d6fa93ed9b15770130ca9f4e677",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0226-2867-8e45-5e7fc1436771&fp=-3",
@@ -309,15 +318,6 @@
           "id": "1c10ac5deb1fdd6b693b03f25659053d25f51196",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0432-321f-a3d7-df0d8da7c714&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7bb2be9904fd0203c71910861b8a56ba2d9de453",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0303-34c8-825f-ecb4110c810c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -342,12 +342,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T17:03:07.981377Z",
-      "latest_at": "2026-07-18T16:26:01.404601Z",
+      "earliest_at": "2026-07-17T18:32:08.233069Z",
+      "latest_at": "2026-07-18T17:28:30.606432Z",
       "primary_item": {
-        "id": "62b58ce788ca3d6fa93ed9b15770130ca9f4e677",
+        "id": "ec85cb39e601f2116a916bdcbaa0477b7d89bb20",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0226-2867-8e45-5e7fc1436771&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0328-5141-9f79-c13012e21bf7&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -387,21 +387,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3153,
+        "recency": 0.2719,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-18T00:00:00Z",
       "latest_at": "2026-07-18T00:00:00Z",
@@ -410,126 +409,6 @@
         "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ed66fc264272",
-      "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2355,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:05:11Z",
-      "latest_at": "2026-07-17T22:05:11Z",
-      "primary_item": {
-        "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-        "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-        "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d7c9b0f9da4b",
-      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2356,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:05:18Z",
-      "latest_at": "2026-07-17T22:05:18Z",
-      "primary_item": {
-        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -625,14 +504,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.5602,
+      "importance": 0.5602,
+      "importance_score": 0.5602,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8545,
+        "recency": 0.8111,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -722,14 +601,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.5531,
+      "importance": 0.5531,
+      "importance_score": 0.5531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.944,
+        "recency": 0.9006,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -819,14 +698,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5465,
+      "importance": 0.5465,
+      "importance_score": 0.5465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.911,
+        "recency": 0.8676,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -840,6 +719,84 @@
         "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
         "source": "old.reddit.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cdc22d7d874c",
+      "title": "“审查人工智能代码”并非一个站得住脚的论点",
+      "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+      "primary_url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+      "source": "softwaremaxims.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "softwaremaxims.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T16:41:31.812000Z"
+        },
+        {
+          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:25:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "softwaremaxims.com"
+      ],
+      "items": [
+        {
+          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "softwaremaxims.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T16:41:31.812000Z"
+        },
+        {
+          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:25:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9674,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:25:19Z",
+      "latest_at": "2026-07-18T16:41:31.812000Z",
+      "primary_item": {
+        "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+        "title": "“审查人工智能代码”并非一个站得住脚的论点",
+        "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+        "source": "softwaremaxims.com",
         "source_name": "Buzzing"
       }
     },
@@ -916,14 +873,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5485,
-      "importance": 0.5485,
-      "importance_score": 0.5485,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8773,
+        "recency": 0.8339,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -994,14 +951,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8662,
+        "recency": 0.8228,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,14 +1029,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5103,
+      "importance": 0.5103,
+      "importance_score": 0.5103,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8551,
+        "recency": 0.8117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1114,18 +1071,18 @@
           "published_at": "2026-07-18T16:26:31.800000Z"
         },
         {
-          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
           "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-18T16:12:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1139,25 +1096,25 @@
           "published_at": "2026-07-18T16:26:31.800000Z"
         },
         {
-          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
           "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-18T16:12:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.957,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1228,14 +1185,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8062,
+        "recency": 0.7628,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1306,14 +1263,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5006,
-      "importance": 0.5006,
-      "importance_score": 0.5006,
+      "score": 0.492,
+      "importance": 0.492,
+      "importance_score": 0.492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7632,
+        "recency": 0.7198,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1384,14 +1341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
+      "score": 0.4904,
+      "importance": 0.4904,
+      "importance_score": 0.4904,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7554,
+        "recency": 0.712,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1461,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4902,
+      "importance": 0.4902,
+      "importance_score": 0.4902,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7542,
+        "recency": 0.7108,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1539,14 +1496,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8062,
+        "recency": 0.7628,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1617,14 +1574,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4902,
-      "importance": 0.4902,
-      "importance_score": 0.4902,
+      "score": 0.4815,
+      "importance": 0.4815,
+      "importance_score": 0.4815,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7111,
+        "recency": 0.6677,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1695,14 +1652,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4764,
-      "importance": 0.4764,
-      "importance_score": 0.4764,
+      "score": 0.4677,
+      "importance": 0.4677,
+      "importance_score": 0.4677,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6421,
+        "recency": 0.5987,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1717,103 +1674,6 @@
         "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0fb4407ddf01",
-      "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-      "primary_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
-          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.204000Z"
-        },
-        {
-          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
-          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T17:33:00Z"
-        },
-        {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot (科技资讯)",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
-          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.204000Z"
-        },
-        {
-          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
-          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T17:33:00Z"
-        },
-        {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.433,
-      "importance": 0.433,
-      "importance_score": 0.433,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T16:33:48Z",
-      "latest_at": "2026-07-17T23:38:00.204000Z",
-      "primary_item": {
-        "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
-        "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1889,14 +1749,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.433,
-      "importance": 0.433,
-      "importance_score": 0.433,
+      "score": 0.4243,
+      "importance": 0.4243,
+      "importance_score": 0.4243,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3,
+        "recency": 0.2566,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1911,6 +1771,161 @@
         "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
         "source": "localnewsmatters.org",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7808576f556e",
+      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:57:49.615000Z"
+        },
+        {
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:57:49.615000Z"
+        },
+        {
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4771,
+      "importance": 0.4771,
+      "importance_score": 0.4771,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6454,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T08:41:01Z",
+      "latest_at": "2026-07-18T08:57:49.615000Z",
+      "primary_item": {
+        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bda6929c1899",
+      "title": "我开始了一本“污垢笔记本” / I Started a \"Dirt Notebook\"",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+      "primary_url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
+          "title": "我开始了一本“污垢笔记本” / I Started a \"Dirt Notebook\"",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        },
+        {
+          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
+          "title": "我开始了一本“污垢笔记本” / I started a “dirt notebook”",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
+          "title": "我开始了一本“污垢笔记本” / I Started a \"Dirt Notebook\"",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        },
+        {
+          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
+          "title": "我开始了一本“污垢笔记本” / I started a “dirt notebook”",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4124,
+      "importance": 0.4124,
+      "importance_score": 0.4124,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.322,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T01:12:13Z",
+      "latest_at": "2026-07-18T01:12:13Z",
+      "primary_item": {
+        "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
+        "title": "我开始了一本“污垢笔记本” / I Started a \"Dirt Notebook\"",
+        "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
