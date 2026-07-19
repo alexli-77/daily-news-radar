@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月18日人工智能热点分享
-1、Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临"再分配"，Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临“某种形式的再分配”，无论是自愿还是强制。
-2、为什么人工智能公司的标志看起来像屁眼？ (2025)，这条新闻关注相关变化背后的原因和影响。
-3、AI 在图表中对 stackoverflow 做了什么。
-4、《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比，重点是/goal 有帮助吗？。
-5、rohitg00 / 从头开始的人工智能工程 / rohitg00 / ai-engineering-from-scratch。
-6、利奥加文/airllm。
-7、腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线，7月18日，在2026世界人工智能大会（WAIC）上，腾讯面向具身智能与智能体领域带来多项产品技术的升级发布。
-8、我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。
-9、凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象。
-10、婚前协议正面临一个新问题，重点是能否与人工智能出轨？。
+2026年7月19日人工智能热点分享
+1、MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片，属于 AI 基础设施和算力成本相关信号。
+2、昆仑万维宣布2026为"世界模型元年"，发布Matrix-Game 3.5等模型，昆仑万维董事长方汉在WAIC上宣布2026年为“世界模型元年”，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。
+3、Qwen3.8 开源发布，2.4T 参数模型上线，Qwen3.8 即将发布并很快开源权重！🌐 该模型拥有 2.4T 海量参数，正在持续进化。
+4、AI 热潮正在瓦解全球决策机制，一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。
+5、ChatGPT Work 功能：建站、邮件、文档处理，ChatGPT Work 适用于 ✅ 创建和托管网站 ✅ 为你管理电子邮件 ✅ 总结海量文档 ✅ 制作一流的文档、表格和幻灯片 已在你的移动应用或 上提供，包含在 Plus、Pr。
+6、Claude Code 现在使用的是用 Rust 编写的 Bun。
+7、人工智能狂热正在彻底改变全球决策。
+8、AI 几天写五万字大纲，却没一场戏能让人记住？，2026世界人工智能大会论坛聚焦AI与影视创作，业界共识：AI虽可快速生成内容，但真实情感与生活经验仍是不可替代的核心。
+9、凯文・凯利在央视断言：中国5年内可能造出全球最先进AI芯片，属于 AI 基础设施和算力成本相关信号。
+10、Moonshot计划在中国实现人工智能突破后六个月内进行首次公开募股。
 
 ## 原始链接
-1. Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临"再分配"（TechCrunch：AI（RSS）） - https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro
-2. 为什么人工智能公司的标志看起来像屁眼？ (2025)（hackernews） - https://news.ycombinator.com/item?id=48956924
-3. AI 在图表中对 stackoverflow 做了什么（hackernews） - https://news.ycombinator.com/item?id=48956949
-4. 《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？（hackernews） - https://news.ycombinator.com/item?id=48956879
-5. rohitg00 / 从头开始的人工智能工程 / rohitg00 / ai-engineering-from-scratch（github） - https://github.com/rohitg00/ai-engineering-from-scratch
-6. 利奥加文/airllm（github） - https://github.com/lyogavin/airllm
-7. 腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线（Readhub · AI） - https://36kr.com/newsflashes/3900908700436103?f=rss
-8. 我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。（www.businessinsider.com） - https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7
-9. 凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象（www.businessinsider.com） - https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7
-10. 婚前协议正面临一个新问题：能否与人工智能出轨？（www.businessinsider.com） - https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7
+1. MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片（公众号：面壁智能（MiniCPM）） - https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6youod
+2. 昆仑万维宣布2026为"世界模型元年"，发布Matrix-Game 3.5等模型（公众号：昆仑万维（天工）） - https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo
+3. Qwen3.8 开源发布，2.4T 参数模型上线（X：通义千问 / Qwen (@Alibaba_Qwen)） - https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6
+4. AI 热潮正在瓦解全球决策机制（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj
+5. ChatGPT Work 功能：建站、邮件、文档处理（X：Tibo (@thsottiaux)） - https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp
+6. Claude Code 现在使用的是用 Rust 编写的 Bun（simonwillison.net） - https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust
+7. 人工智能狂热正在彻底改变全球决策（Simon Willison） - https://simonwillison.net/2026/Jul/19/ai-mania
+8. AI 几天写五万字大纲，却没一场戏能让人记住？（Readhub · AI） - https://www.huxiu.com/article/4876501.html?f=rss
+9. 凯文・凯利在央视断言：中国5年内可能造出全球最先进AI芯片（Readhub · AI） - https://www.huxiu.com/article/4876500.html?f=rss
+10. Moonshot计划在中国实现人工智能突破后六个月内进行首次公开募股（www.bloomberg.com） - https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough
