@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-20T20:46:51.843106Z",
+  "generated_at": "2026-07-20T21:55:42.434396Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0647-24d4-ac52-56cd1c5f3f99&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-0647-24d4-ac52-56cd1c5f3f99&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0756-054e-b96f-5ff3bf23acc7&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-0756-054e-b96f-5ff3bf23acc7&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "e85f0e048968e4f17dd62cf7c5b1f4b8ae393923",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0756-054e-b96f-5ff3bf23acc7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "d121783e422a29964574a19e814e2b6f70b8e505",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "943e09846ec6becaea5d4e52dea87835fa965704",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0843-1921-8d28-8208dc06d82b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "e697e5ed44e46b78d0bbb70f6975be9fc5e45e91",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0743-05b1-a5fb-a4516eac22c1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "e85f0e048968e4f17dd62cf7c5b1f4b8ae393923",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0756-054e-b96f-5ff3bf23acc7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "d121783e422a29964574a19e814e2b6f70b8e505",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0647-24d4-ac52-56cd1c5f3f99&fp=-3",
@@ -201,15 +210,6 @@
           "id": "943e09846ec6becaea5d4e52dea87835fa965704",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0843-1921-8d28-8208dc06d82b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "e697e5ed44e46b78d0bbb70f6975be9fc5e45e91",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0743-05b1-a5fb-a4516eac22c1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-19T21:42:39.042804Z",
-      "latest_at": "2026-07-20T20:46:51.843106Z",
+      "earliest_at": "2026-07-19T22:42:58.498255Z",
+      "latest_at": "2026-07-20T21:55:42.434396Z",
       "primary_item": {
-        "id": "d121783e422a29964574a19e814e2b6f70b8e505",
+        "id": "e85f0e048968e4f17dd62cf7c5b1f4b8ae393923",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0647-24d4-ac52-56cd1c5f3f99&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0756-054e-b96f-5ff3bf23acc7&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.901,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.801,
+        "recency": 0.7531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,14 +401,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -461,14 +461,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8652,
+        "recency": 0.8173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,14 +521,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8618,
+        "recency": 0.814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -581,14 +581,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8146,
+        "recency": 0.7668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -641,14 +641,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8015,
+        "recency": 0.7537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -701,14 +701,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8,
+        "recency": 0.7522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -761,14 +761,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6341,
+        "recency": 0.5863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -839,14 +839,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.498,
+        "recency": 0.4502,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -899,14 +899,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7868,
+      "importance": 0.7868,
+      "importance_score": 0.7868,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6768,
+        "recency": 0.629,
         "story_heat": 0.0
       },
       "category": "official",
@@ -923,65 +923,6 @@
         "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_386a065efe19",
-      "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
-      "url": "https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7",
-      "primary_url": "https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9bdcd09485facd864a0d349693598c29a78398b4",
-          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
-          "url": "https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "9bdcd09485facd864a0d349693598c29a78398b4",
-          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
-          "url": "https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5508,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T10:00:00Z",
-      "latest_at": "2026-07-20T10:00:00Z",
-      "primary_item": {
-        "id": "9bdcd09485facd864a0d349693598c29a78398b4",
-        "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
-        "url": "https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1019,14 +960,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6488,
+        "recency": 0.601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1078,14 +1019,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.643,
+        "recency": 0.5952,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1137,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6187,
+        "recency": 0.5709,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,14 +1137,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6187,
+        "recency": 0.5709,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1222,21 +1163,12 @@
     },
     {
       "story_id": "story_2b4b6588b1d6",
-      "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://news.ycombinator.com/item?id=48981206",
-      "primary_url": "https://news.ycombinator.com/item?id=48981206",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "source": "unslop.run",
+      "source_name": "Buzzing",
       "sources": [
-        {
-          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
-          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T20:27:09.213000Z"
-        },
         {
           "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
           "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
@@ -1245,15 +1177,6 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
-          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:28:45.982000Z"
         },
         {
           "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
@@ -1274,23 +1197,13 @@
           "published_at": "2026-07-20T16:36:36Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews",
         "unslop.run"
       ],
       "items": [
         {
-          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
-          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T20:27:09.213000Z"
-        },
-        {
           "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
           "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
           "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
@@ -1298,15 +1211,6 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
-          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:28:45.982000Z"
         },
         {
           "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
@@ -1327,28 +1231,125 @@
           "published_at": "2026-07-20T16:36:36Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6203,
-      "importance": 0.6203,
-      "importance_score": 0.6203,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9863,
-        "story_heat": 1.0
+        "recency": 0.856,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-20T16:36:36Z",
-      "latest_at": "2026-07-20T20:27:09.213000Z",
+      "latest_at": "2026-07-20T18:28:23.600000Z",
       "primary_item": {
-        "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
-        "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
-        "url": "https://news.ycombinator.com/item?id=48981206",
+        "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+        "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "source": "unslop.run",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_627b4ce0e0aa",
+      "title": "Kimi K3、Qwen 3.8 和 Anthropic 的（潜在）揭晓 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://news.ycombinator.com/item?id=48980019",
+      "primary_url": "https://news.ycombinator.com/item?id=48980019",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cbd7c23f30e4a58830f1d5cae27fcfc225b7ab47",
+          "title": "Kimi K3、Qwen 3.8 和 Anthropic 的（潜在）揭晓 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+          "url": "https://news.ycombinator.com/item?id=48980019",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T17:28:45.982000Z"
+        },
+        {
+          "id": "7ff42ed41a43a4d97aadb1a7160af5a2465a2e19",
+          "title": "Kimi K3、Qwen 3.8 以及 Anthropic 的（潜在）解体",
+          "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics",
+          "source": "www.emergingtrajectories.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T17:08:11.457000Z"
+        },
+        {
+          "id": "cfdf743a137df2ee8399201c22626a659806d9b3",
+          "title": "Kimi K3、Qwen 3.8 以及 Anthropic 的（潜在）解体 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+          "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T15:13:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.emergingtrajectories.com"
+      ],
+      "items": [
+        {
+          "id": "cbd7c23f30e4a58830f1d5cae27fcfc225b7ab47",
+          "title": "Kimi K3、Qwen 3.8 和 Anthropic 的（潜在）揭晓 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+          "url": "https://news.ycombinator.com/item?id=48980019",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T17:28:45.982000Z"
+        },
+        {
+          "id": "7ff42ed41a43a4d97aadb1a7160af5a2465a2e19",
+          "title": "Kimi K3、Qwen 3.8 以及 Anthropic 的（潜在）解体",
+          "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics",
+          "source": "www.emergingtrajectories.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T17:08:11.457000Z"
+        },
+        {
+          "id": "cfdf743a137df2ee8399201c22626a659806d9b3",
+          "title": "Kimi K3、Qwen 3.8 以及 Anthropic 的（潜在）解体 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+          "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T15:13:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8146,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T15:13:42Z",
+      "latest_at": "2026-07-20T17:28:45.982000Z",
+      "primary_item": {
+        "id": "cbd7c23f30e4a58830f1d5cae27fcfc225b7ab47",
+        "title": "Kimi K3、Qwen 3.8 和 Anthropic 的（潜在）揭晓 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+        "url": "https://news.ycombinator.com/item?id=48980019",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1407,14 +1408,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9586,
+        "recency": 0.9108,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1504,14 +1505,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8149,
+        "recency": 0.7671,
         "story_heat": 0.5
       },
       "category": "multi_source",
