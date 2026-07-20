@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-20T17:28:15.709405Z",
+  "generated_at": "2026-07-20T19:13:14.380886Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0328-43f1-9d1a-ea4f8c4624d9&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-0328-43f1-9d1a-ea4f8c4624d9&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0513-405c-9985-70367ac310c2&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-0513-405c-9985-70367ac310c2&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "c1e549c129cb9832ec16a4e88a08948dbd35325f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0513-405c-9985-70367ac310c2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b4713431ffefdfc012bd374e1a496bd46e139b21",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "f8f3dadff3cfd922d58dce4a48a971a9e1dc6e34",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0538-5914-a074-17f28a8a6c31&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7e51fa3bde5e9746b7bc712456538197ea49a008",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0414-2971-83a7-c64605015a0a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "c1e549c129cb9832ec16a4e88a08948dbd35325f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0513-405c-9985-70367ac310c2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b4713431ffefdfc012bd374e1a496bd46e139b21",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0328-43f1-9d1a-ea4f8c4624d9&fp=-3",
@@ -219,15 +228,6 @@
           "id": "f8f3dadff3cfd922d58dce4a48a971a9e1dc6e34",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0538-5914-a074-17f28a8a6c31&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7e51fa3bde5e9746b7bc712456538197ea49a008",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0414-2971-83a7-c64605015a0a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,14 +252,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-19T18:13:57.100054Z",
-      "latest_at": "2026-07-20T17:28:15.709405Z",
+      "earliest_at": "2026-07-19T19:38:37.101211Z",
+      "latest_at": "2026-07-20T19:13:14.380886Z",
       "primary_item": {
-        "id": "b4713431ffefdfc012bd374e1a496bd46e139b21",
+        "id": "c1e549c129cb9832ec16a4e88a08948dbd35325f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0328-43f1-9d1a-ea4f8c4624d9&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0513-405c-9985-70367ac310c2&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_a4b8abada7fb",
+      "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+      "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+      "primary_url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T18:24:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T18:24:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8542,
+      "importance": 0.8542,
+      "importance_score": 0.8542,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.966,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T18:24:14Z",
+      "latest_at": "2026-07-20T18:24:14Z",
+      "primary_item": {
+        "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+        "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+        "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -297,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.8608,
-      "importance_score": 0.8608,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9389,
+        "recency": 0.866,
         "story_heat": 0.0
       },
       "category": "official",
@@ -321,6 +382,186 @@
         "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6575551d6ac1",
+      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+      "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+      "primary_url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9688,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T18:28:23Z",
+      "latest_at": "2026-07-20T18:28:23Z",
+      "primary_item": {
+        "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
+        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_615e9ffa160b",
+      "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+      "url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
+      "primary_url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95d9d9a18f24f7751044dba37c4e566129cb8a5b",
+          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+          "url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:32:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "95d9d9a18f24f7751044dba37c4e566129cb8a5b",
+          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+          "url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:32:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9302,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T17:32:41Z",
+      "latest_at": "2026-07-20T17:32:41Z",
+      "primary_item": {
+        "id": "95d9d9a18f24f7751044dba37c4e566129cb8a5b",
+        "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+        "url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_78a6f33fd400",
+      "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
+      "url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
+      "primary_url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fe592d2a35db9a06dd21eb0f66c635cb0017d6b1",
+          "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
+          "url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:27:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fe592d2a35db9a06dd21eb0f66c635cb0017d6b1",
+          "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
+          "url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:27:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9269,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T17:27:55Z",
+      "latest_at": "2026-07-20T17:27:55Z",
+      "primary_item": {
+        "id": "fe592d2a35db9a06dd21eb0f66c635cb0017d6b1",
+        "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
+        "url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -358,14 +599,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6887,
+        "recency": 0.6158,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,14 +660,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9525,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -479,14 +720,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9395,
+        "recency": 0.8666,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -539,14 +780,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9379,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -565,109 +806,48 @@
       }
     },
     {
-      "story_id": "story_c3556096c82e",
-      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8147,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T13:01:24Z",
-      "latest_at": "2026-07-20T13:01:24Z",
-      "primary_item": {
-        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fb3c7336bc65",
-      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-      "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-      "primary_url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_3089a08631a2",
+      "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+      "url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
+      "primary_url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
+      "source": "Cursor Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "3e273cf8a229b91dadf4e6b1a431e4a3abe54122",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
+          "source": "Cursor Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09Z"
+          "published_at": "2026-07-20T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Cursor Blog"
       ],
       "items": [
         {
-          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "3e273cf8a229b91dadf4e6b1a431e4a3abe54122",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
+          "source": "Cursor Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09Z"
+          "published_at": "2026-07-20T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7867,
+        "recency": 0.6991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -675,73 +855,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T12:21:09Z",
-      "latest_at": "2026-07-20T12:21:09Z",
+      "earliest_at": "2026-07-20T12:00:00Z",
+      "latest_at": "2026-07-20T12:00:00Z",
       "primary_item": {
-        "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
-        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-        "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_65e33d28b369",
-      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-      "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-      "primary_url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9445da31105d20eaacb123c88dadb79b9029744f",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9445da31105d20eaacb123c88dadb79b9029744f",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7809,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T12:12:47Z",
-      "latest_at": "2026-07-20T12:12:47Z",
-      "primary_item": {
-        "id": "9445da31105d20eaacb123c88dadb79b9029744f",
-        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-        "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-        "source": "The Decoder：AI News（RSS）",
+        "id": "3e273cf8a229b91dadf4e6b1a431e4a3abe54122",
+        "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+        "url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
+        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -799,21 +919,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6359,
+        "recency": 0.563,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T08:43:58.481009Z",
       "latest_at": "2026-07-20T08:43:58.481009Z",
@@ -823,6 +942,67 @@
         "url": "https://www.aibase.com/news/29716",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c3556096c82e",
+      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7418,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T13:01:24Z",
+      "latest_at": "2026-07-20T13:01:24Z",
+      "primary_item": {
+        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -860,14 +1040,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6887,
+        "recency": 0.6158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -919,14 +1099,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6423,
+        "recency": 0.5694,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -940,6 +1120,126 @@
         "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
         "url": "https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b",
         "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb3c7336bc65",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+      "primary_url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7138,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T12:21:09Z",
+      "latest_at": "2026-07-20T12:21:09Z",
+      "primary_item": {
+        "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
+        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_65e33d28b369",
+      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+      "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+      "primary_url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9445da31105d20eaacb123c88dadb79b9029744f",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9445da31105d20eaacb123c88dadb79b9029744f",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.708,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T12:12:47Z",
+      "latest_at": "2026-07-20T12:12:47Z",
+      "primary_item": {
+        "id": "9445da31105d20eaacb123c88dadb79b9029744f",
+        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+        "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -978,20 +1278,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7566,
+        "recency": 0.6837,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T11:37:49.664458Z",
       "latest_at": "2026-07-20T11:37:49.664458Z",
@@ -1001,124 +1300,6 @@
         "url": "https://www.aibase.com/news/29725",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a19d42517121",
-      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-      "url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-      "primary_url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "529df086874b503ddcd6aba65568ba50c4f62479",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "529df086874b503ddcd6aba65568ba50c4f62479",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6059,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:00:45Z",
-      "latest_at": "2026-07-20T08:00:45Z",
-      "primary_item": {
-        "id": "529df086874b503ddcd6aba65568ba50c4f62479",
-        "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-        "url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f3f920e0f97e",
-      "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-      "url": "https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04",
-      "primary_url": "https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a1d0dce840e8bb5c4b513c27723dfd5a9b2a02fb",
-          "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-          "url": "https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T07:00:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a1d0dce840e8bb5c4b513c27723dfd5a9b2a02fb",
-          "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-          "url": "https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T07:00:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5639,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T07:00:15Z",
-      "latest_at": "2026-07-20T07:00:15Z",
-      "primary_item": {
-        "id": "a1d0dce840e8bb5c4b513c27723dfd5a9b2a02fb",
-        "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-        "url": "https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1156,20 +1337,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7566,
+        "recency": 0.6837,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T11:37:49.664458Z",
       "latest_at": "2026-07-20T11:37:49.664458Z",
@@ -1216,14 +1396,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6359,
+        "recency": 0.563,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,258 +1416,6 @@
         "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
         "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
         "url": "https://www.aibase.com/news/29718",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2dadc2dd59af",
-      "title": "中国的开放权重人工智能战略正在获胜 / China's open-weights AI strategy is winning",
-      "url": "https://news.ycombinator.com/item?id=48979269",
-      "primary_url": "https://news.ycombinator.com/item?id=48979269",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bd5c854bfb479954e0c9b2ba6400c2697fbb71f1",
-          "title": "中国的开放权重人工智能战略正在获胜 / China's open-weights AI strategy is winning",
-          "url": "https://news.ycombinator.com/item?id=48979269",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:28:45.982000Z"
-        },
-        {
-          "id": "f0a76f417a97d4d5e9ce51628c55f3f091492cab",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去……",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "werd.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T16:20:16.340000Z"
-        },
-        {
-          "id": "521f7864945153703238c005b6be7b2536006a06",
-          "title": "美国的人工智能是封闭且专有的。正在失去 / American AI is locked down and proprietary. It's losing",
-          "url": "https://news.ycombinator.com/item?id=48979269",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T15:26:25.431000Z"
-        },
-        {
-          "id": "a8b1266133e8fd6daed948c8328a1882356c7b18",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去…… / American AI is locked down and proprietary. It's losing",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T14:21:47Z"
-        },
-        {
-          "id": "9f301d8abbf354ec85e87742fb2db07ad1f3ecdf",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去…… / China's open-weights AI strategy is winning",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T14:21:47Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "werd.io"
-      ],
-      "items": [
-        {
-          "id": "bd5c854bfb479954e0c9b2ba6400c2697fbb71f1",
-          "title": "中国的开放权重人工智能战略正在获胜 / China's open-weights AI strategy is winning",
-          "url": "https://news.ycombinator.com/item?id=48979269",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:28:45.982000Z"
-        },
-        {
-          "id": "f0a76f417a97d4d5e9ce51628c55f3f091492cab",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去……",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "werd.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T16:20:16.340000Z"
-        },
-        {
-          "id": "521f7864945153703238c005b6be7b2536006a06",
-          "title": "美国的人工智能是封闭且专有的。正在失去 / American AI is locked down and proprietary. It's losing",
-          "url": "https://news.ycombinator.com/item?id=48979269",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T15:26:25.431000Z"
-        },
-        {
-          "id": "a8b1266133e8fd6daed948c8328a1882356c7b18",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去…… / American AI is locked down and proprietary. It's losing",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T14:21:47Z"
-        },
-        {
-          "id": "9f301d8abbf354ec85e87742fb2db07ad1f3ecdf",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去…… / China's open-weights AI strategy is winning",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T14:21:47Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T14:21:47Z",
-      "latest_at": "2026-07-20T17:28:45.982000Z",
-      "primary_item": {
-        "id": "bd5c854bfb479954e0c9b2ba6400c2697fbb71f1",
-        "title": "中国的开放权重人工智能战略正在获胜 / China's open-weights AI strategy is winning",
-        "url": "https://news.ycombinator.com/item?id=48979269",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ac4e7deb4536",
-      "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-      "url": "https://www.aibase.com/news/29717",
-      "primary_url": "https://www.aibase.com/news/29717",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
-          "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-          "url": "https://www.aibase.com/news/29717",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:43:58.481009Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
-          "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-          "url": "https://www.aibase.com/news/29717",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:43:58.481009Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6359,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:43:58.481009Z",
-      "latest_at": "2026-07-20T08:43:58.481009Z",
-      "primary_item": {
-        "id": "b83f134c5c1ef969e58e5c34256340aed43109ea",
-        "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-        "url": "https://www.aibase.com/news/29717",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ca83112e2431",
-      "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-      "url": "https://www.aibase.com/news/29719",
-      "primary_url": "https://www.aibase.com/news/29719",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "51594d86f3b6390206895dd62809ffa74f137623",
-          "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-          "url": "https://www.aibase.com/news/29719",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:43:58.481009Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "51594d86f3b6390206895dd62809ffa74f137623",
-          "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-          "url": "https://www.aibase.com/news/29719",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:43:58.481009Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6359,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:43:58.481009Z",
-      "latest_at": "2026-07-20T08:43:58.481009Z",
-      "primary_item": {
-        "id": "51594d86f3b6390206895dd62809ffa74f137623",
-        "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-        "url": "https://www.aibase.com/news/29719",
         "source": "AIbase",
         "source_name": "AIbase"
       }
