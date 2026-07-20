@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-20T22:52:29.598247Z",
+  "generated_at": "2026-07-20T23:50:32.557715Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0852-58c8-b1b1-63c40db40f58&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-0852-58c8-b1b1-63c40db40f58&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0950-59db-9c55-021ef3692111&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-0950-59db-9c55-021ef3692111&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "08fe74e70dca2f5a7c129c3e05ac18de4cc2e8c3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0950-59db-9c55-021ef3692111&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "7055b36c27da89afa3e46ac088f2680d6c895655",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "eb56f56598b0990df4e9c8d2d9b7b2a32e5113f5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-1552-28c8-9dd3-b256d5b8d327&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "45cc75a06982d4575241612ce313de93f4011844",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0950-41bc-a2d3-4f834b7eb1a1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "08fe74e70dca2f5a7c129c3e05ac18de4cc2e8c3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0950-59db-9c55-021ef3692111&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "7055b36c27da89afa3e46ac088f2680d6c895655",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0852-58c8-b1b1-63c40db40f58&fp=-3",
@@ -201,15 +210,6 @@
           "id": "eb56f56598b0990df4e9c8d2d9b7b2a32e5113f5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-1552-28c8-9dd3-b256d5b8d327&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "45cc75a06982d4575241612ce313de93f4011844",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0950-41bc-a2d3-4f834b7eb1a1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-19T23:50:14.474318Z",
-      "latest_at": "2026-07-20T22:52:29.598247Z",
+      "earliest_at": "2026-07-20T05:51:57.343647Z",
+      "latest_at": "2026-07-20T23:50:32.557715Z",
       "primary_item": {
-        "id": "7055b36c27da89afa3e46ac088f2680d6c895655",
+        "id": "08fe74e70dca2f5a7c129c3e05ac18de4cc2e8c3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0852-58c8-b1b1-63c40db40f58&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0950-59db-9c55-021ef3692111&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8137,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7137,
+        "recency": 0.6734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,14 +401,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8166,
+        "recency": 0.7763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -461,14 +461,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7779,
+        "recency": 0.7376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,14 +521,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7746,
+        "recency": 0.7343,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -581,20 +581,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7273,
+        "recency": 0.687,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T16:19:52Z",
       "latest_at": "2026-07-20T16:19:52Z",
@@ -641,20 +640,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7143,
+        "recency": 0.674,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T16:01:05Z",
       "latest_at": "2026-07-20T16:01:05Z",
@@ -701,20 +699,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7127,
+        "recency": 0.6724,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T15:58:51Z",
       "latest_at": "2026-07-20T15:58:51Z",
@@ -723,65 +720,6 @@
         "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
         "url": "https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo",
         "source": "Hugging Face：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3089a08631a2",
-      "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-      "url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
-      "primary_url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3e273cf8a229b91dadf4e6b1a431e4a3abe54122",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "3e273cf8a229b91dadf4e6b1a431e4a3abe54122",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5469,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T12:00:00Z",
-      "latest_at": "2026-07-20T12:00:00Z",
-      "primary_item": {
-        "id": "3e273cf8a229b91dadf4e6b1a431e4a3abe54122",
-        "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-        "url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
-        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -839,14 +777,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7192,
-      "importance": 0.7192,
-      "importance_score": 0.7192,
+      "score": 0.7111,
+      "importance": 0.7111,
+      "importance_score": 0.7111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4108,
+        "recency": 0.3704,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -899,14 +837,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5895,
+        "recency": 0.5492,
         "story_heat": 0.0
       },
       "category": "official",
@@ -923,124 +861,6 @@
         "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fb3c7336bc65",
-      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-      "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-      "primary_url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5616,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T12:21:09Z",
-      "latest_at": "2026-07-20T12:21:09Z",
-      "primary_item": {
-        "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
-        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-        "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_65e33d28b369",
-      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-      "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-      "primary_url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9445da31105d20eaacb123c88dadb79b9029744f",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9445da31105d20eaacb123c88dadb79b9029744f",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5558,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T12:12:47Z",
-      "latest_at": "2026-07-20T12:12:47Z",
-      "primary_item": {
-        "id": "9445da31105d20eaacb123c88dadb79b9029744f",
-        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-        "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1116,14 +936,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5612,
-      "importance": 0.5612,
-      "importance_score": 0.5612,
+      "score": 0.5531,
+      "importance": 0.5531,
+      "importance_score": 0.5531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9409,
+        "recency": 0.9006,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1138,6 +958,84 @@
         "url": "https://news.ycombinator.com/item?id=48980238",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_534a033ada30",
+      "title": "腾讯亮剑、字节缺席，AI 共识变了",
+      "url": "https://www.huxiu.com/article/4876445.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876445.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "919fd9d61401610299fb6b1e29953105dd2c618b",
+          "title": "腾讯亮剑、字节缺席，AI 共识变了",
+          "url": "https://www.huxiu.com/article/4876445.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7c6822cc12e1c17cd1185290291190925c82fd03",
+          "title": "腾讯亮剑、字节缺席，AI共识变了",
+          "url": "https://www.huxiu.com/article/4876445.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T22:50:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "919fd9d61401610299fb6b1e29953105dd2c618b",
+          "title": "腾讯亮剑、字节缺席，AI 共识变了",
+          "url": "https://www.huxiu.com/article/4876445.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7c6822cc12e1c17cd1185290291190925c82fd03",
+          "title": "腾讯亮剑、字节缺席，AI共识变了",
+          "url": "https://www.huxiu.com/article/4876445.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T22:50:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T22:50:00Z",
+      "latest_at": "2026-07-20T23:50:32.557715Z",
+      "primary_item": {
+        "id": "919fd9d61401610299fb6b1e29953105dd2c618b",
+        "title": "腾讯亮剑、字节缺席，AI 共识变了",
+        "url": "https://www.huxiu.com/article/4876445.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1212,14 +1110,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8166,
+        "recency": 0.7763,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1290,14 +1188,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8714,
+        "recency": 0.831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,14 +1285,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7276,
+        "recency": 0.6873,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1484,14 +1382,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7752,
+        "recency": 0.7349,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1561,14 +1459,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.489,
-      "importance": 0.489,
-      "importance_score": 0.489,
+      "score": 0.4809,
+      "importance": 0.4809,
+      "importance_score": 0.4809,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7048,
+        "recency": 0.6645,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1583,6 +1481,161 @@
         "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_2bb4e1e9b72e",
+      "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误",
+      "url": "https://www.basis.ai/blog/verified-nftables",
+      "primary_url": "https://www.basis.ai/blog/verified-nftables",
+      "source": "www.basis.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "efe94999be8176956557d31c8f676aa6f80e7c17",
+          "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误",
+          "url": "https://www.basis.ai/blog/verified-nftables",
+          "source": "www.basis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T14:13:12.550000Z"
+        },
+        {
+          "id": "9ce1649efe7cf92e1d116dc661ca7cf363c0baa5",
+          "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
+          "url": "https://www.basis.ai/blog/verified-nftables",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T13:57:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.basis.ai"
+      ],
+      "items": [
+        {
+          "id": "efe94999be8176956557d31c8f676aa6f80e7c17",
+          "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误",
+          "url": "https://www.basis.ai/blog/verified-nftables",
+          "source": "www.basis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T14:13:12.550000Z"
+        },
+        {
+          "id": "9ce1649efe7cf92e1d116dc661ca7cf363c0baa5",
+          "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
+          "url": "https://www.basis.ai/blog/verified-nftables",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T13:57:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4678,
+      "importance": 0.4678,
+      "importance_score": 0.4678,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5991,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T13:57:41Z",
+      "latest_at": "2026-07-20T14:13:12.550000Z",
+      "primary_item": {
+        "id": "efe94999be8176956557d31c8f676aa6f80e7c17",
+        "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误",
+        "url": "https://www.basis.ai/blog/verified-nftables",
+        "source": "www.basis.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ae61e6d85844",
+      "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://news.ycombinator.com/item?id=48981206",
+      "primary_url": "https://news.ycombinator.com/item?id=48981206",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
+          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T20:27:09.213000Z"
+        },
+        {
+          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
+          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T17:28:45.982000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
+          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T20:27:09.213000Z"
+        },
+        {
+          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
+          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T17:28:45.982000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8588,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T17:28:45.982000Z",
+      "latest_at": "2026-07-20T20:27:09.213000Z",
+      "primary_item": {
+        "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
+        "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+        "url": "https://news.ycombinator.com/item?id=48981206",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
