@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-21T14:31:37.129172Z",
+  "generated_at": "2026-07-21T16:17:14.519477Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0032-0193-9eb8-e10cc622d970&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260722-0032-0193-9eb8-e10cc622d970&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0217-429e-9d8b-04b2e1dca748&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260722-0217-429e-9d8b-04b2e1dca748&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "89cb26abcd8acab54cdc702dca6b35945a30f7d2",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0217-429e-9d8b-04b2e1dca748&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b1f74a2cf5c50901ee16f16ecea2726d1350c5de",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "b4713431ffefdfc012bd374e1a496bd46e139b21",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0328-43f1-9d1a-ea4f8c4624d9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b94e0cb24c614e995458878cad57a2cc8dae1f30",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0146-32c5-896d-f02722e4ac71&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "89cb26abcd8acab54cdc702dca6b35945a30f7d2",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0217-429e-9d8b-04b2e1dca748&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b1f74a2cf5c50901ee16f16ecea2726d1350c5de",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0032-0193-9eb8-e10cc622d970&fp=-3",
@@ -237,15 +246,6 @@
           "id": "b4713431ffefdfc012bd374e1a496bd46e139b21",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0328-43f1-9d1a-ea4f8c4624d9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b94e0cb24c614e995458878cad57a2cc8dae1f30",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0146-32c5-896d-f02722e4ac71&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,14 +270,376 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T15:45:56.453989Z",
-      "latest_at": "2026-07-21T14:31:37.129172Z",
+      "earliest_at": "2026-07-20T17:28:15.709405Z",
+      "latest_at": "2026-07-21T16:17:14.519477Z",
       "primary_item": {
-        "id": "b1f74a2cf5c50901ee16f16ecea2726d1350c5de",
+        "id": "89cb26abcd8acab54cdc702dca6b35945a30f7d2",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0032-0193-9eb8-e10cc622d970&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0217-429e-9d8b-04b2e1dca748&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_6e1bc4c47003",
+      "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
+          "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T15:04:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
+          "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T15:04:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8749,
+      "importance": 0.8749,
+      "importance_score": 0.8749,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9495,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T15:04:31Z",
+      "latest_at": "2026-07-21T15:04:31Z",
+      "primary_item": {
+        "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
+        "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1651413fdb6b",
+      "title": "如何使用画布构建互动体验 / How to build interactive experiences with canvases",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "745db95b1d162f18bd2873a87d91b5ea44b48e94",
+          "title": "如何使用画布构建互动体验 / How to build interactive experiences with canvases",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "745db95b1d162f18bd2873a87d91b5ea44b48e94",
+          "title": "如何使用画布构建互动体验 / How to build interactive experiences with canvases",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8586,
+      "importance": 0.8586,
+      "importance_score": 0.8586,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.988,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T16:00:00Z",
+      "latest_at": "2026-07-21T16:00:00Z",
+      "primary_item": {
+        "id": "745db95b1d162f18bd2873a87d91b5ea44b48e94",
+        "title": "如何使用画布构建互动体验 / How to build interactive experiences with canvases",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d0ae96e4434d",
+      "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
+      "url": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16",
+      "primary_url": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0ad2b83354befac5f788bdc464da8fbc59056ecb",
+          "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
+          "url": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T16:00:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0ad2b83354befac5f788bdc464da8fbc59056ecb",
+          "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
+          "url": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T16:00:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9881,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T16:00:05Z",
+      "latest_at": "2026-07-21T16:00:05Z",
+      "primary_item": {
+        "id": "0ad2b83354befac5f788bdc464da8fbc59056ecb",
+        "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
+        "url": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_53d974fc8f09",
+      "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
+      "url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
+      "primary_url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "60c3c5e5ad214ed105af39ae764b8ce8690867c6",
+          "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
+          "url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T15:37:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "60c3c5e5ad214ed105af39ae764b8ce8690867c6",
+          "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
+          "url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T15:37:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9721,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T15:37:05Z",
+      "latest_at": "2026-07-21T15:37:05Z",
+      "primary_item": {
+        "id": "60c3c5e5ad214ed105af39ae764b8ce8690867c6",
+        "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
+        "url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_60074d3dbbc0",
+      "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
+      "url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
+      "primary_url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
+      "source": "Google DeepMind：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95ae31c08aea56d9763c017b2df9299a0dfda804",
+          "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
+          "url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T15:16:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "95ae31c08aea56d9763c017b2df9299a0dfda804",
+          "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
+          "url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T15:16:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9578,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T15:16:30Z",
+      "latest_at": "2026-07-21T15:16:30Z",
+      "primary_item": {
+        "id": "95ae31c08aea56d9763c017b2df9299a0dfda804",
+        "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
+        "url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
+        "source": "Google DeepMind：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e5f075214c89",
+      "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
+      "url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
+      "primary_url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
+      "source": "OpenAI：Alignment 研究博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b346651154777b2a644f74828914d11bdf2a35ee",
+          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
+          "url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
+          "source": "OpenAI：Alignment 研究博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T15:10:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：Alignment 研究博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b346651154777b2a644f74828914d11bdf2a35ee",
+          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
+          "url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
+          "source": "OpenAI：Alignment 研究博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T15:10:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9533,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T15:10:00Z",
+      "latest_at": "2026-07-21T15:10:00Z",
+      "primary_item": {
+        "id": "b346651154777b2a644f74828914d11bdf2a35ee",
+        "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
+        "url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
+        "source": "OpenAI：Alignment 研究博客（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -315,14 +677,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.8589,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -375,14 +737,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8578,
+        "recency": 0.7844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -401,7 +763,7 @@
       }
     },
     {
-      "story_id": "story_acccba44298c",
+      "story_id": "story_ca1df72ad541",
       "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
       "url": "https://www.aibase.com/news/29753",
       "primary_url": "https://www.aibase.com/news/29753",
@@ -454,14 +816,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7231,
+        "recency": 0.6498,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -515,14 +877,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,14 +937,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6447,
+        "recency": 0.5714,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,14 +996,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6406,
+        "recency": 0.5673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -655,65 +1017,6 @@
         "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
         "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ea83daa3c624",
-      "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-      "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-      "primary_url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
-          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-          "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T03:33:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
-          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-          "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T03:33:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5427,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T03:33:08Z",
-      "latest_at": "2026-07-21T03:33:08Z",
-      "primary_item": {
-        "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
-        "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-        "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-        "source": "公众号：腾讯混元",
         "source_name": "AI HOT"
       }
     },
@@ -752,14 +1055,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -812,14 +1115,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -872,14 +1175,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,14 +1235,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,6 +1258,122 @@
         "url": "https://www.aibase.com/news/29766",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7e072b866df3",
+      "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "17291ff740d9f931d94af4e769d2fb518c3f4f06",
+          "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90efc8f5456ddac1a4d12933b89874809215fb34",
+          "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+          "source": "blog.google",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T15:55:51.307000Z"
+        },
+        {
+          "id": "3c25c972721ea49279d6cba47460eb431956db34",
+          "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://news.ycombinator.com/item?id=48993414",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-21T15:52:08.585000Z"
+        },
+        {
+          "id": "e6932264973090fc6f7d57ffbf130c00938eceb6",
+          "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-21T15:17:16Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Readhub · AI",
+        "blog.google",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "17291ff740d9f931d94af4e769d2fb518c3f4f06",
+          "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90efc8f5456ddac1a4d12933b89874809215fb34",
+          "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+          "source": "blog.google",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T15:55:51.307000Z"
+        },
+        {
+          "id": "3c25c972721ea49279d6cba47460eb431956db34",
+          "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://news.ycombinator.com/item?id=48993414",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-21T15:52:08.585000Z"
+        },
+        {
+          "id": "e6932264973090fc6f7d57ffbf130c00938eceb6",
+          "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-21T15:17:16Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.598,
+      "importance": 0.598,
+      "importance_score": 0.598,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-21T15:17:16Z",
+      "latest_at": "2026-07-21T16:17:14.519477Z",
+      "primary_item": {
+        "id": "17291ff740d9f931d94af4e769d2fb518c3f4f06",
+        "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -992,14 +1411,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,14 +1471,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,437 +1492,6 @@
         "id": "4cc463ad2fbc2d9e078cf22926973696da31bdf4",
         "title": "消息称智元机器人据悉冲刺IPO，目标估值200亿美元",
         "url": "https://www.aibase.com/news/29764",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_60af4e1c57dc",
-      "title": "微软与 Mistral 扩大 AI 合作，签署数十亿美元欧洲 AI 基础设施协议",
-      "url": "https://36kr.com/newsflashes/3905378728268932?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3905378728268932?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6158f5beec6060849f690fd40682ab334849b245",
-          "title": "微软与 Mistral 扩大 AI 合作，签署数十亿美元欧洲 AI 基础设施协议",
-          "url": "https://36kr.com/newsflashes/3905378728268932?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5cee53afdf42270ef7641bc6ad3b9bbc4ae8c05c",
-          "title": "微软与Mistral扩大AI合作，签署数十亿美元欧洲AI基础设施协议",
-          "url": "https://36kr.com/newsflashes/3905378728268932?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T12:36:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6158f5beec6060849f690fd40682ab334849b245",
-          "title": "微软与 Mistral 扩大 AI 合作，签署数十亿美元欧洲 AI 基础设施协议",
-          "url": "https://36kr.com/newsflashes/3905378728268932?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5cee53afdf42270ef7641bc6ad3b9bbc4ae8c05c",
-          "title": "微软与Mistral扩大AI合作，签署数十亿美元欧洲AI基础设施协议",
-          "url": "https://36kr.com/newsflashes/3905378728268932?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T12:36:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T12:36:40Z",
-      "latest_at": "2026-07-21T14:31:37.129172Z",
-      "primary_item": {
-        "id": "6158f5beec6060849f690fd40682ab334849b245",
-        "title": "微软与 Mistral 扩大 AI 合作，签署数十亿美元欧洲 AI 基础设施协议",
-        "url": "https://36kr.com/newsflashes/3905378728268932?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_426922d6f63d",
-      "title": "Z.AI将在新建的巨型数据中心仅使用中国产AI芯片",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c0f6fb77d9fcdd9b553375e241235f561686c669",
-          "title": "Z.AI将在新建的巨型数据中心仅使用中国产AI芯片",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T14:20:36.290000Z"
-        },
-        {
-          "id": "c68b7022ca805e24707245ce4d6d7931fb483e1c",
-          "title": "Z.AI 建成采用中国芯片的巨型数据中心，用于训练人工智能",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T15:17:09.926000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "c0f6fb77d9fcdd9b553375e241235f561686c669",
-          "title": "Z.AI将在新建的巨型数据中心仅使用中国产AI芯片",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T14:20:36.290000Z"
-        },
-        {
-          "id": "c68b7022ca805e24707245ce4d6d7931fb483e1c",
-          "title": "Z.AI 建成采用中国芯片的巨型数据中心，用于训练人工智能",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T15:17:09.926000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5465,
-      "importance": 0.5465,
-      "importance_score": 0.5465,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9924,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T15:17:09.926000Z",
-      "latest_at": "2026-07-21T14:20:36.290000Z",
-      "primary_item": {
-        "id": "c0f6fb77d9fcdd9b553375e241235f561686c669",
-        "title": "Z.AI将在新建的巨型数据中心仅使用中国产AI芯片",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8ca248849360",
-      "title": "美国大模型抄了DeepSeek作业：性能没赢、价格更贵，却精准卡住了美国企业的合规刚需",
-      "url": "https://www.aibase.com/news/29763",
-      "primary_url": "https://www.aibase.com/news/29763",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8d491490dc77db9585de27704d12b1cf2daef5ce",
-          "title": "美国大模型抄了DeepSeek作业：性能没赢、价格更贵，却精准卡住了美国企业的合规刚需",
-          "url": "https://www.aibase.com/news/29763",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T10:18:01.066470Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8d491490dc77db9585de27704d12b1cf2daef5ce",
-          "title": "美国大模型抄了DeepSeek作业：性能没赢、价格更贵，却精准卡住了美国企业的合规刚需",
-          "url": "https://www.aibase.com/news/29763",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T10:18:01.066470Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8239,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T10:18:01.066470Z",
-      "latest_at": "2026-07-21T10:18:01.066470Z",
-      "primary_item": {
-        "id": "8d491490dc77db9585de27704d12b1cf2daef5ce",
-        "title": "美国大模型抄了DeepSeek作业：性能没赢、价格更贵，却精准卡住了美国企业的合规刚需",
-        "url": "https://www.aibase.com/news/29763",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9eb0b2fa15a1",
-      "title": "AlexsJones /      llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "primary_url": "https://github.com/AlexsJones/llmfit",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "69e96b91552f5a09de216d4948aab174a73d92c3",
-          "title": "AlexsJones /      llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-21T12:07:10.466000Z"
-        },
-        {
-          "id": "027d3412f4073a3f46ace586c754056dd2af7009",
-          "title": "AlexsJones / llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "69e96b91552f5a09de216d4948aab174a73d92c3",
-          "title": "AlexsJones /      llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-21T12:07:10.466000Z"
-        },
-        {
-          "id": "027d3412f4073a3f46ace586c754056dd2af7009",
-          "title": "AlexsJones / llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8997,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T12:06:44.979429Z",
-      "latest_at": "2026-07-21T12:07:10.466000Z",
-      "primary_item": {
-        "id": "69e96b91552f5a09de216d4948aab174a73d92c3",
-        "title": "AlexsJones /      llmfit",
-        "url": "https://github.com/AlexsJones/llmfit",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8a76849761ae",
-      "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "source": "qwen.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "46d9236c43067a055cda17be4f14cb3dcfbfdf08",
-          "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T10:38:03.030000Z"
-        },
-        {
-          "id": "9e1c85bdb91b749d58b1ef2fcf5ed6849a5e4003",
-          "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识 / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T08:44:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "qwen.ai"
-      ],
-      "items": [
-        {
-          "id": "46d9236c43067a055cda17be4f14cb3dcfbfdf08",
-          "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T10:38:03.030000Z"
-        },
-        {
-          "id": "9e1c85bdb91b749d58b1ef2fcf5ed6849a5e4003",
-          "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识 / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T08:44:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8378,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T08:44:23Z",
-      "latest_at": "2026-07-21T10:38:03.030000Z",
-      "primary_item": {
-        "id": "46d9236c43067a055cda17be4f14cb3dcfbfdf08",
-        "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识",
-        "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-        "source": "qwen.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d386509d07c8",
-      "title": "腾讯联合Chinagoods上线AI导航，覆盖义乌8万家商铺实现智能找店",
-      "url": "https://www.aibase.com/news/29762",
-      "primary_url": "https://www.aibase.com/news/29762",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "db88383140a6f94dc72c19d9ad691715ca566c3e",
-          "title": "腾讯联合Chinagoods上线AI导航，覆盖义乌8万家商铺实现智能找店",
-          "url": "https://www.aibase.com/news/29762",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T10:18:01.066470Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "db88383140a6f94dc72c19d9ad691715ca566c3e",
-          "title": "腾讯联合Chinagoods上线AI导航，覆盖义乌8万家商铺实现智能找店",
-          "url": "https://www.aibase.com/news/29762",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T10:18:01.066470Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8239,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T10:18:01.066470Z",
-      "latest_at": "2026-07-21T10:18:01.066470Z",
-      "primary_item": {
-        "id": "db88383140a6f94dc72c19d9ad691715ca566c3e",
-        "title": "腾讯联合Chinagoods上线AI导航，覆盖义乌8万家商铺实现智能找店",
-        "url": "https://www.aibase.com/news/29762",
         "source": "AIbase",
         "source_name": "AIbase"
       }
