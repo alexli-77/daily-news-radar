@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月20日人工智能热点分享
-1、LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率，重点是提升模型微调效率，属于开发者训练流程更新。
-2、Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析，Hugging Face 披露其部分生产基础设施遭一个自主AI智能体系统入侵，攻击者通过恶意数据集利用数据处理管道中的代码执行漏洞，窃取了内部数据集和多项服务凭证。
-3、字节跳动发布Seed Audio 1.0，重点是音频生成从“会说”迈向“会创作”。
-4、100 亿次下载破纪录，重点是工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台。
-5、首包延迟300ms、支持20种方言，重点是通义千问Qwen-Audio-3.0-TTS正式开放。
-6、通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型，通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。
-7、8800 万美元加注开源，重点是Ollama跑进85%财富 500 强，喊出"全体上车"。
-8、DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3。
-9、Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析。
-10、一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速，属于 AI 基础设施和算力成本相关信号。
+2026年7月21日人工智能热点分享
+1、Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%，Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。
+2、小红书 dots 模型获 IMO 2026 满分金牌，小红书 dots 团队携内部版本 dots-note 3.0 参加第 67 届 IMO 2026，六道题均获满分，以 42/42 分取得满分金牌，全球仅 7 位人类选手获此成绩。
+3、阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成。
+4、Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战。
+5、OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒。
+6、打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务。
+7、五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！。
+8、宇树科技发布UnifoLM-OminiA-0.3，实现人形机器人多任务自主执行。
+9、OpenAI 更新 GPT-5.5 Instant，对话体验强调更快、更有趣，属于模型产品体验优化。
+10、消息称智元机器人据悉冲刺IPO，目标估值200亿美元。
 
 ## 原始链接
-1. LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr
-2. Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析（The Decoder） - https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6
-3. 字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”（AIbase） - https://www.aibase.com/news/29716
-4. 100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台（AIbase） - https://www.aibase.com/news/29725
-5. 首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放（AIbase） - https://www.aibase.com/news/29724
-6. 通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型（公众号：通义实验室（千问）） - https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b
-7. 8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出"全体上车"（AIbase） - https://www.aibase.com/news/29718
-8. DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3（AIbase） - https://www.aibase.com/news/29717
-9. Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析（AIbase） - https://www.aibase.com/news/29719
-10. 一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速（AIbase） - https://www.aibase.com/news/29722
+1. Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%（Simon Willison 博客） - https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5
+2. 小红书 dots 模型获 IMO 2026 满分金牌（公众号：小红书技术（dots.llm）） - https://aihot.virxact.com/items/cmrujyaak0mhmbi07h3daik9b
+3. 阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成（AIbase） - https://www.aibase.com/news/29753
+4. Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战（AIbase） - https://www.aibase.com/news/29760
+5. OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒（AIbase） - https://www.aibase.com/news/29759
+6. 打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务（AIbase） - https://www.aibase.com/news/29765
+7. 五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！（AIbase） - https://www.aibase.com/news/29767
+8. 宇树科技发布UnifoLM-OminiA-0.3，实现人形机器人多任务自主执行（AIbase） - https://www.aibase.com/news/29766
+9. 日本Sakana AI放出Fugu Cyber：一个多智能体系统，把GPT-5.5-Cyber和Claude都挑落马下（AIbase） - https://www.aibase.com/news/29761
+10. 消息称智元机器人据悉冲刺IPO，目标估值200亿美元（AIbase） - https://www.aibase.com/news/29764
