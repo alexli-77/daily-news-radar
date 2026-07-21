@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-20T23:50:32.557715Z",
+  "generated_at": "2026-07-21T01:54:28.784662Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0950-59db-9c55-021ef3692111&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-0950-59db-9c55-021ef3692111&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1154-5720-8b41-fbe0c3723398&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-1154-5720-8b41-fbe0c3723398&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "9c748fdaa2e627ed9e5bdec2ecfb7804d521062e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1154-5720-8b41-fbe0c3723398&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "08fe74e70dca2f5a7c129c3e05ac18de4cc2e8c3",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "9c748fdaa2e627ed9e5bdec2ecfb7804d521062e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1154-5720-8b41-fbe0c3723398&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "08fe74e70dca2f5a7c129c3e05ac18de4cc2e8c3",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0950-59db-9c55-021ef3692111&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,13 +253,193 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-20T05:51:57.343647Z",
-      "latest_at": "2026-07-20T23:50:32.557715Z",
+      "latest_at": "2026-07-21T01:54:28.784662Z",
       "primary_item": {
-        "id": "08fe74e70dca2f5a7c129c3e05ac18de4cc2e8c3",
+        "id": "9c748fdaa2e627ed9e5bdec2ecfb7804d521062e",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0950-59db-9c55-021ef3692111&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1154-5720-8b41-fbe0c3723398&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_d9ab7045f207",
+      "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
+      "url": "https://www.aibase.com/news/29728",
+      "primary_url": "https://www.aibase.com/news/29728",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "242f2452a74475c6eeb83a8d85e12550725a4a78",
+          "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
+          "url": "https://www.aibase.com/news/29728",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "242f2452a74475c6eeb83a8d85e12550725a4a78",
+          "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
+          "url": "https://www.aibase.com/news/29728",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T01:54:28.784662Z",
+      "latest_at": "2026-07-21T01:54:28.784662Z",
+      "primary_item": {
+        "id": "242f2452a74475c6eeb83a8d85e12550725a4a78",
+        "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
+        "url": "https://www.aibase.com/news/29728",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_66436d2a6729",
+      "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+      "url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
+      "primary_url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "77a5813a914802a22ef6b6c405ad59e9bd56b77d",
+          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+          "url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:10:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "77a5813a914802a22ef6b6c405ad59e9bd56b77d",
+          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+          "url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:10:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9697,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T01:10:49Z",
+      "latest_at": "2026-07-21T01:10:49Z",
+      "primary_item": {
+        "id": "77a5813a914802a22ef6b6c405ad59e9bd56b77d",
+        "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+        "url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_caa6a338eefe",
+      "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+      "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+      "primary_url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ff9ad38efc1b5ae91a4c813cf95e7799edb21321",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+          "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T00:35:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "ff9ad38efc1b5ae91a4c813cf95e7799edb21321",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+          "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T00:35:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9451,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T00:35:26Z",
+      "latest_at": "2026-07-21T00:35:26Z",
+      "primary_item": {
+        "id": "ff9ad38efc1b5ae91a4c813cf95e7799edb21321",
+        "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+        "url": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -279,14 +477,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7734,
+        "recency": 0.6873,
         "story_heat": 0.0
       },
       "category": "official",
@@ -303,6 +501,66 @@
         "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_057304d3a15b",
+      "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
+      "url": "https://www.aibase.com/news/29733",
+      "primary_url": "https://www.aibase.com/news/29733",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4a9eebcc4b3486e0e2db79f5b0221976000c644f",
+          "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
+          "url": "https://www.aibase.com/news/29733",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4a9eebcc4b3486e0e2db79f5b0221976000c644f",
+          "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
+          "url": "https://www.aibase.com/news/29733",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T01:54:28.784662Z",
+      "latest_at": "2026-07-21T01:54:28.784662Z",
+      "primary_item": {
+        "id": "4a9eebcc4b3486e0e2db79f5b0221976000c644f",
+        "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
+        "url": "https://www.aibase.com/news/29733",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -340,14 +598,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6734,
+        "recency": 0.5873,
         "story_heat": 0.0
       },
       "category": "official",
@@ -367,48 +625,48 @@
       }
     },
     {
-      "story_id": "story_6575551d6ac1",
-      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-      "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-      "primary_url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_315b50b41b27",
+      "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
+      "url": "https://www.aibase.com/news/29734",
+      "primary_url": "https://www.aibase.com/news/29734",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23Z"
+          "id": "67904bfdf4e13d3dad03e04002b21f310c951944",
+          "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
+          "url": "https://www.aibase.com/news/29734",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23Z"
+          "id": "67904bfdf4e13d3dad03e04002b21f310c951944",
+          "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
+          "url": "https://www.aibase.com/news/29734",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7763,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -416,14 +674,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T18:28:23Z",
-      "latest_at": "2026-07-20T18:28:23Z",
+      "earliest_at": "2026-07-21T01:54:28.784662Z",
+      "latest_at": "2026-07-21T01:54:28.784662Z",
       "primary_item": {
-        "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
-        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-        "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "67904bfdf4e13d3dad03e04002b21f310c951944",
+        "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
+        "url": "https://www.aibase.com/news/29734",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -461,20 +719,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7376,
+        "recency": 0.6515,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T17:32:41Z",
       "latest_at": "2026-07-20T17:32:41Z",
@@ -521,20 +778,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7343,
+        "recency": 0.6482,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T17:27:55Z",
       "latest_at": "2026-07-20T17:27:55Z",
@@ -581,14 +837,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.687,
+        "recency": 0.601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -640,14 +896,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.674,
+        "recency": 0.5879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -699,14 +955,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6724,
+        "recency": 0.5864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -724,82 +980,123 @@
       }
     },
     {
-      "story_id": "story_7fe35170d27a",
-      "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-      "url": "https://www.aibase.com/news/29716",
-      "primary_url": "https://www.aibase.com/news/29716",
+      "story_id": "story_2d01136f0c18",
+      "title": "Anthropic获批15亿美元版权和解协议，将向50万部作品支付赔偿",
+      "url": "https://www.aibase.com/news/29727",
+      "primary_url": "https://www.aibase.com/news/29727",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "url": "https://www.aibase.com/news/29716",
+          "id": "091dbc6bc754e359638937fcba060fc0ae4ba9e8",
+          "title": "Anthropic获批15亿美元版权和解协议，将向50万部作品支付赔偿",
+          "url": "https://www.aibase.com/news/29727",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T08:43:58.481009Z"
-        },
-        {
-          "id": "d1a05510149e53ae0717ecb0690519e9acffaa7b",
-          "title": "字节跳动发布 Seed Audio 1.0：音频生成从「会说」迈向「会创作」",
-          "url": "https://www.aibase.com/zh/news/29716",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "url": "https://www.aibase.com/news/29716",
+          "id": "091dbc6bc754e359638937fcba060fc0ae4ba9e8",
+          "title": "Anthropic获批15亿美元版权和解协议，将向50万部作品支付赔偿",
+          "url": "https://www.aibase.com/news/29727",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T08:43:58.481009Z"
-        },
-        {
-          "id": "d1a05510149e53ae0717ecb0690519e9acffaa7b",
-          "title": "字节跳动发布 Seed Audio 1.0：音频生成从「会说」迈向「会创作」",
-          "url": "https://www.aibase.com/zh/news/29716",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7111,
-      "importance": 0.7111,
-      "importance_score": 0.7111,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3704,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T08:43:58.481009Z",
-      "latest_at": "2026-07-20T08:43:58.481009Z",
+      "earliest_at": "2026-07-21T01:54:28.784662Z",
+      "latest_at": "2026-07-21T01:54:28.784662Z",
       "primary_item": {
-        "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-        "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-        "url": "https://www.aibase.com/news/29716",
+        "id": "091dbc6bc754e359638937fcba060fc0ae4ba9e8",
+        "title": "Anthropic获批15亿美元版权和解协议，将向50万部作品支付赔偿",
+        "url": "https://www.aibase.com/news/29727",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6575551d6ac1",
+      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+      "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+      "primary_url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6902,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T18:28:23Z",
+      "latest_at": "2026-07-20T18:28:23Z",
+      "primary_item": {
+        "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
+        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -837,14 +1134,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5492,
+        "recency": 0.4631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -864,778 +1161,243 @@
       }
     },
     {
-      "story_id": "story_d139044a2145",
-      "title": "神话化人工智能使我们更有可能无法很好地操作它（2023） / Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "url": "https://news.ycombinator.com/item?id=48980238",
-      "primary_url": "https://news.ycombinator.com/item?id=48980238",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_4c97304f0468",
+      "title": "经典版 Outlook 迎来重大更新：微软宣布今年内引入 AI 自动起草邮件功能",
+      "url": "https://www.aibase.com/news/29730",
+      "primary_url": "https://www.aibase.com/news/29730",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "afb479aadb2d4b88f5f0c3d7ce2fc57e70dc11be",
-          "title": "神话化人工智能使我们更有可能无法很好地操作它（2023） / Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-          "url": "https://news.ycombinator.com/item?id=48980238",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T21:27:23.421000Z"
-        },
-        {
-          "id": "e11c97ff088af61153c2a237a9bdfbf43f40c3d9",
-          "title": "杰伦·拉尼尔：没有人工智能 (2023) / Jaron Lanier: there is no AI (2023)",
-          "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T15:28:32Z"
-        },
-        {
-          "id": "fa4f07856bf66c158707378c5efefdc3b98271c2",
-          "title": "神话化人工智能使我们更有可能无法很好地操作它（2023） / Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-          "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:28:32Z"
+          "id": "70090d21f195843719650c04a02283ee07779de9",
+          "title": "经典版 Outlook 迎来重大更新：微软宣布今年内引入 AI 自动起草邮件功能",
+          "url": "https://www.aibase.com/news/29730",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "afb479aadb2d4b88f5f0c3d7ce2fc57e70dc11be",
-          "title": "神话化人工智能使我们更有可能无法很好地操作它（2023） / Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-          "url": "https://news.ycombinator.com/item?id=48980238",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T21:27:23.421000Z"
-        },
-        {
-          "id": "e11c97ff088af61153c2a237a9bdfbf43f40c3d9",
-          "title": "杰伦·拉尼尔：没有人工智能 (2023) / Jaron Lanier: there is no AI (2023)",
-          "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T15:28:32Z"
-        },
-        {
-          "id": "fa4f07856bf66c158707378c5efefdc3b98271c2",
-          "title": "神话化人工智能使我们更有可能无法很好地操作它（2023） / Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-          "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:28:32Z"
+          "id": "70090d21f195843719650c04a02283ee07779de9",
+          "title": "经典版 Outlook 迎来重大更新：微软宣布今年内引入 AI 自动起草邮件功能",
+          "url": "https://www.aibase.com/news/29730",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5531,
-      "importance": 0.5531,
-      "importance_score": 0.5531,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9006,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T15:28:32Z",
-      "latest_at": "2026-07-20T21:27:23.421000Z",
-      "primary_item": {
-        "id": "afb479aadb2d4b88f5f0c3d7ce2fc57e70dc11be",
-        "title": "神话化人工智能使我们更有可能无法很好地操作它（2023） / Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-        "url": "https://news.ycombinator.com/item?id=48980238",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_534a033ada30",
-      "title": "腾讯亮剑、字节缺席，AI 共识变了",
-      "url": "https://www.huxiu.com/article/4876445.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876445.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "919fd9d61401610299fb6b1e29953105dd2c618b",
-          "title": "腾讯亮剑、字节缺席，AI 共识变了",
-          "url": "https://www.huxiu.com/article/4876445.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7c6822cc12e1c17cd1185290291190925c82fd03",
-          "title": "腾讯亮剑、字节缺席，AI共识变了",
-          "url": "https://www.huxiu.com/article/4876445.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T22:50:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "919fd9d61401610299fb6b1e29953105dd2c618b",
-          "title": "腾讯亮剑、字节缺席，AI 共识变了",
-          "url": "https://www.huxiu.com/article/4876445.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7c6822cc12e1c17cd1185290291190925c82fd03",
-          "title": "腾讯亮剑、字节缺席，AI共识变了",
-          "url": "https://www.huxiu.com/article/4876445.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T22:50:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T22:50:00Z",
-      "latest_at": "2026-07-20T23:50:32.557715Z",
+      "earliest_at": "2026-07-21T01:54:28.784662Z",
+      "latest_at": "2026-07-21T01:54:28.784662Z",
       "primary_item": {
-        "id": "919fd9d61401610299fb6b1e29953105dd2c618b",
-        "title": "腾讯亮剑、字节缺席，AI 共识变了",
-        "url": "https://www.huxiu.com/article/4876445.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "70090d21f195843719650c04a02283ee07779de9",
+        "title": "经典版 Outlook 迎来重大更新：微软宣布今年内引入 AI 自动起草邮件功能",
+        "url": "https://www.aibase.com/news/29730",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2b4b6588b1d6",
-      "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "source": "unslop.run",
-      "source_name": "Buzzing",
+      "story_id": "story_5192d40ffaa3",
+      "title": "苹果 41 页诉状怒撕OpenAI，为何唯独放过了传奇设计师伊夫？",
+      "url": "https://www.aibase.com/news/29731",
+      "primary_url": "https://www.aibase.com/news/29731",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "unslop.run",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T16:36:36Z"
-        },
-        {
-          "id": "d0f813603e611d76dcc41dc4758e54af4e864149",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T16:36:36Z"
+          "id": "395ae5d2f572a3df54c5a6b8d2b4ec1b700e2354",
+          "title": "苹果 41 页诉状怒撕OpenAI，为何唯独放过了传奇设计师伊夫？",
+          "url": "https://www.aibase.com/news/29731",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "unslop.run"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "unslop.run",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T16:36:36Z"
-        },
-        {
-          "id": "d0f813603e611d76dcc41dc4758e54af4e864149",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T16:36:36Z"
+          "id": "395ae5d2f572a3df54c5a6b8d2b4ec1b700e2354",
+          "title": "苹果 41 页诉状怒撕OpenAI，为何唯独放过了传奇设计师伊夫？",
+          "url": "https://www.aibase.com/news/29731",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7763,
-        "story_heat": 0.5
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T16:36:36Z",
-      "latest_at": "2026-07-20T18:28:23.600000Z",
+      "earliest_at": "2026-07-21T01:54:28.784662Z",
+      "latest_at": "2026-07-21T01:54:28.784662Z",
       "primary_item": {
-        "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
-        "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "source": "unslop.run",
-        "source_name": "Buzzing"
+        "id": "395ae5d2f572a3df54c5a6b8d2b4ec1b700e2354",
+        "title": "苹果 41 页诉状怒撕OpenAI，为何唯独放过了传奇设计师伊夫？",
+        "url": "https://www.aibase.com/news/29731",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "Show HN: 《Fable》、Kimi、GPT-5.6 自由模式海战、空袭与无线电外交 [视频]",
-      "url": "https://www.youtube.com/watch?v=nFxRtjgKtY0",
-      "primary_url": "https://www.youtube.com/watch?v=nFxRtjgKtY0",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
+      "story_id": "story_7de0cb1a5786",
+      "title": "谷歌密造\"Frozen v2\"专用芯片：把Gemini烙进硅片，单位功耗token能力翻 6 到 10 倍",
+      "url": "https://www.aibase.com/news/29729",
+      "primary_url": "https://www.aibase.com/news/29729",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4fe5efbbddae2b41eef9fc6b4ff7f4aebeb09a16",
-          "title": "Show HN: 《Fable》、Kimi、GPT-5.6 自由模式海战、空袭与无线电外交 [视频]",
-          "url": "https://www.youtube.com/watch?v=nFxRtjgKtY0",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T19:47:14.501000Z"
-        },
-        {
-          "id": "5d49ea3cebb1ed8f6a886858c774906837241c89",
-          "title": "使用飞秒激光在电子显微镜下对昆虫进行横截面 [视频] / Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
-          "url": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:40:03Z"
+          "id": "0dfca4b472277284c14c8beb7ec3fdac27793b77",
+          "title": "谷歌密造\"Frozen v2\"专用芯片：把Gemini烙进硅片，单位功耗token能力翻 6 到 10 倍",
+          "url": "https://www.aibase.com/news/29729",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4fe5efbbddae2b41eef9fc6b4ff7f4aebeb09a16",
-          "title": "Show HN: 《Fable》、Kimi、GPT-5.6 自由模式海战、空袭与无线电外交 [视频]",
-          "url": "https://www.youtube.com/watch?v=nFxRtjgKtY0",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T19:47:14.501000Z"
-        },
-        {
-          "id": "5d49ea3cebb1ed8f6a886858c774906837241c89",
-          "title": "使用飞秒激光在电子显微镜下对昆虫进行横截面 [视频] / Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
-          "url": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:40:03Z"
+          "id": "0dfca4b472277284c14c8beb7ec3fdac27793b77",
+          "title": "谷歌密造\"Frozen v2\"专用芯片：把Gemini烙进硅片，单位功耗token能力翻 6 到 10 倍",
+          "url": "https://www.aibase.com/news/29729",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.831,
-        "story_heat": 0.25
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T15:40:03Z",
-      "latest_at": "2026-07-20T19:47:14.501000Z",
+      "earliest_at": "2026-07-21T01:54:28.784662Z",
+      "latest_at": "2026-07-21T01:54:28.784662Z",
       "primary_item": {
-        "id": "4fe5efbbddae2b41eef9fc6b4ff7f4aebeb09a16",
-        "title": "Show HN: 《Fable》、Kimi、GPT-5.6 自由模式海战、空袭与无线电外交 [视频]",
-        "url": "https://www.youtube.com/watch?v=nFxRtjgKtY0",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing"
+        "id": "0dfca4b472277284c14c8beb7ec3fdac27793b77",
+        "title": "谷歌密造\"Frozen v2\"专用芯片：把Gemini烙进硅片，单位功耗token能力翻 6 到 10 倍",
+        "url": "https://www.aibase.com/news/29729",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2dadc2dd59af",
-      "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去……",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-      "primary_url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-      "source": "werd.io",
-      "source_name": "Buzzing",
+      "story_id": "story_8dd2056bef21",
+      "title": "谷歌研发“Frozen v2”AI芯片，预计2028年发布，能效提升最高10倍",
+      "url": "https://www.aibase.com/news/29726",
+      "primary_url": "https://www.aibase.com/news/29726",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f0a76f417a97d4d5e9ce51628c55f3f091492cab",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去……",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "werd.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T16:20:16.340000Z"
-        },
-        {
-          "id": "a8b1266133e8fd6daed948c8328a1882356c7b18",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去…… / American AI is locked down and proprietary. It's losing",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T14:21:47Z"
-        },
-        {
-          "id": "dc602adbee739ed30fb35832ea5df358570b85d0",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去…… / China’s open-weights AI strategy is winning",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T14:21:47Z"
+          "id": "18e45ab97653e5908da4b141c5857d18396c6917",
+          "title": "谷歌研发“Frozen v2”AI芯片，预计2028年发布，能效提升最高10倍",
+          "url": "https://www.aibase.com/news/29726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "werd.io"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f0a76f417a97d4d5e9ce51628c55f3f091492cab",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去……",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "werd.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T16:20:16.340000Z"
-        },
-        {
-          "id": "a8b1266133e8fd6daed948c8328a1882356c7b18",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去…… / American AI is locked down and proprietary. It's losing",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T14:21:47Z"
-        },
-        {
-          "id": "dc602adbee739ed30fb35832ea5df358570b85d0",
-          "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去…… / China’s open-weights AI strategy is winning",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T14:21:47Z"
+          "id": "18e45ab97653e5908da4b141c5857d18396c6917",
+          "title": "谷歌研发“Frozen v2”AI芯片，预计2028年发布，能效提升最高10倍",
+          "url": "https://www.aibase.com/news/29726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T01:54:28.784662Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6873,
-        "story_heat": 0.5
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T14:21:47Z",
-      "latest_at": "2026-07-20T16:20:16.340000Z",
+      "earliest_at": "2026-07-21T01:54:28.784662Z",
+      "latest_at": "2026-07-21T01:54:28.784662Z",
       "primary_item": {
-        "id": "f0a76f417a97d4d5e9ce51628c55f3f091492cab",
-        "title": "美国的人工智能系统处于封闭状态且属于专有技术。它正在失去……",
-        "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-        "source": "werd.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_627b4ce0e0aa",
-      "title": "Kimi K3、Qwen 3.8 和 Anthropic 的（潜在）揭晓 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://news.ycombinator.com/item?id=48980019",
-      "primary_url": "https://news.ycombinator.com/item?id=48980019",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "cbd7c23f30e4a58830f1d5cae27fcfc225b7ab47",
-          "title": "Kimi K3、Qwen 3.8 和 Anthropic 的（潜在）揭晓 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-          "url": "https://news.ycombinator.com/item?id=48980019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:28:45.982000Z"
-        },
-        {
-          "id": "7ff42ed41a43a4d97aadb1a7160af5a2465a2e19",
-          "title": "Kimi K3、Qwen 3.8 以及 Anthropic 的（潜在）解体",
-          "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics",
-          "source": "www.emergingtrajectories.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T17:08:11.457000Z"
-        },
-        {
-          "id": "cfdf743a137df2ee8399201c22626a659806d9b3",
-          "title": "Kimi K3、Qwen 3.8 以及 Anthropic 的（潜在）解体 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-          "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:13:42Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.emergingtrajectories.com"
-      ],
-      "items": [
-        {
-          "id": "cbd7c23f30e4a58830f1d5cae27fcfc225b7ab47",
-          "title": "Kimi K3、Qwen 3.8 和 Anthropic 的（潜在）揭晓 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-          "url": "https://news.ycombinator.com/item?id=48980019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:28:45.982000Z"
-        },
-        {
-          "id": "7ff42ed41a43a4d97aadb1a7160af5a2465a2e19",
-          "title": "Kimi K3、Qwen 3.8 以及 Anthropic 的（潜在）解体",
-          "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics",
-          "source": "www.emergingtrajectories.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T17:08:11.457000Z"
-        },
-        {
-          "id": "cfdf743a137df2ee8399201c22626a659806d9b3",
-          "title": "Kimi K3、Qwen 3.8 以及 Anthropic 的（潜在）解体 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-          "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:13:42Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7349,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T15:13:42Z",
-      "latest_at": "2026-07-20T17:28:45.982000Z",
-      "primary_item": {
-        "id": "cbd7c23f30e4a58830f1d5cae27fcfc225b7ab47",
-        "title": "Kimi K3、Qwen 3.8 和 Anthropic 的（潜在）揭晓 / Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-        "url": "https://news.ycombinator.com/item?id=48980019",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_5b7f640f6701",
-      "title": "我停止了“创作内容” / I Stopped \"Creating Content\"",
-      "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content",
-      "primary_url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "51d8ba8517ea9b74a64029ec3391564d0f66aade",
-          "title": "我停止了“创作内容” / I Stopped \"Creating Content\"",
-          "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:47:28Z"
-        },
-        {
-          "id": "bd7ae12b962d1e911109f6c60f96000aed375910",
-          "title": "我停止了“创作内容” / I Stopped “Creating Content”",
-          "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:47:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "51d8ba8517ea9b74a64029ec3391564d0f66aade",
-          "title": "我停止了“创作内容” / I Stopped \"Creating Content\"",
-          "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:47:28Z"
-        },
-        {
-          "id": "bd7ae12b962d1e911109f6c60f96000aed375910",
-          "title": "我停止了“创作内容” / I Stopped “Creating Content”",
-          "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T15:47:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4809,
-      "importance": 0.4809,
-      "importance_score": 0.4809,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6645,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T15:47:28Z",
-      "latest_at": "2026-07-20T15:47:28Z",
-      "primary_item": {
-        "id": "51d8ba8517ea9b74a64029ec3391564d0f66aade",
-        "title": "我停止了“创作内容” / I Stopped \"Creating Content\"",
-        "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_2bb4e1e9b72e",
-      "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误",
-      "url": "https://www.basis.ai/blog/verified-nftables",
-      "primary_url": "https://www.basis.ai/blog/verified-nftables",
-      "source": "www.basis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "efe94999be8176956557d31c8f676aa6f80e7c17",
-          "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误",
-          "url": "https://www.basis.ai/blog/verified-nftables",
-          "source": "www.basis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T14:13:12.550000Z"
-        },
-        {
-          "id": "9ce1649efe7cf92e1d116dc661ca7cf363c0baa5",
-          "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
-          "url": "https://www.basis.ai/blog/verified-nftables",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T13:57:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.basis.ai"
-      ],
-      "items": [
-        {
-          "id": "efe94999be8176956557d31c8f676aa6f80e7c17",
-          "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误",
-          "url": "https://www.basis.ai/blog/verified-nftables",
-          "source": "www.basis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T14:13:12.550000Z"
-        },
-        {
-          "id": "9ce1649efe7cf92e1d116dc661ca7cf363c0baa5",
-          "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
-          "url": "https://www.basis.ai/blog/verified-nftables",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T13:57:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4678,
-      "importance": 0.4678,
-      "importance_score": 0.4678,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5991,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T13:57:41Z",
-      "latest_at": "2026-07-20T14:13:12.550000Z",
-      "primary_item": {
-        "id": "efe94999be8176956557d31c8f676aa6f80e7c17",
-        "title": "利用基于大型语言模型（LLM）的验证技术消除Linux网络堆栈中的错误",
-        "url": "https://www.basis.ai/blog/verified-nftables",
-        "source": "www.basis.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ae61e6d85844",
-      "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://news.ycombinator.com/item?id=48981206",
-      "primary_url": "https://news.ycombinator.com/item?id=48981206",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
-          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T20:27:09.213000Z"
-        },
-        {
-          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
-          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:28:45.982000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
-          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T20:27:09.213000Z"
-        },
-        {
-          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
-          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T17:28:45.982000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8588,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T17:28:45.982000Z",
-      "latest_at": "2026-07-20T20:27:09.213000Z",
-      "primary_item": {
-        "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
-        "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
-        "url": "https://news.ycombinator.com/item?id=48981206",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "18e45ab97653e5908da4b141c5857d18396c6917",
+        "title": "谷歌研发“Frozen v2”AI芯片，预计2028年发布，能效提升最高10倍",
+        "url": "https://www.aibase.com/news/29726",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
