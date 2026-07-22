@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-22T16:16:05.735212Z",
+  "generated_at": "2026-07-22T17:47:17.806476Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0216-31f0-8a3b-6fab3d3478f7&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-0216-31f0-8a3b-6fab3d3478f7&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0347-528f-b095-c4a6b0fab95a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-0347-528f-b095-c4a6b0fab95a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b5d5fedb45fde88f6a6ec2dce49e39e7c5db68d0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0347-528f-b095-c4a6b0fab95a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e270a40fd8bf0bfdae9322c850185cc01566d057",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "8d54954268146b0246da42c02ebcd9e2732a9f7e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0351-1742-a9b7-23dc4597488c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "89cb26abcd8acab54cdc702dca6b35945a30f7d2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0217-429e-9d8b-04b2e1dca748&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "b5d5fedb45fde88f6a6ec2dce49e39e7c5db68d0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0347-528f-b095-c4a6b0fab95a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e270a40fd8bf0bfdae9322c850185cc01566d057",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0216-31f0-8a3b-6fab3d3478f7&fp=-3",
@@ -255,15 +264,6 @@
           "id": "8d54954268146b0246da42c02ebcd9e2732a9f7e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0351-1742-a9b7-23dc4597488c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "89cb26abcd8acab54cdc702dca6b35945a30f7d2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0217-429e-9d8b-04b2e1dca748&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,14 +288,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T16:17:14.519477Z",
-      "latest_at": "2026-07-22T16:16:05.735212Z",
+      "earliest_at": "2026-07-21T17:50:51.670294Z",
+      "latest_at": "2026-07-22T17:47:17.806476Z",
       "primary_item": {
-        "id": "e270a40fd8bf0bfdae9322c850185cc01566d057",
+        "id": "b5d5fedb45fde88f6a6ec2dce49e39e7c5db68d0",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0216-31f0-8a3b-6fab3d3478f7&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0347-528f-b095-c4a6b0fab95a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_3710e649c509",
+      "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8611,
+      "importance": 0.8611,
+      "importance_score": 0.8611,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9406,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T16:21:47Z",
+      "latest_at": "2026-07-22T16:21:47Z",
+      "primary_item": {
+        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+        "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -352,14 +413,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8642,
-      "importance": 0.8642,
-      "importance_score": 0.8642,
+      "score": 0.8515,
+      "importance": 0.8515,
+      "importance_score": 0.8515,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8908,
+        "recency": 0.8275,
         "story_heat": 0.25
       },
       "category": "official",
@@ -376,67 +437,6 @@
         "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
         "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1d793ca53d31",
-      "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
-      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-      "primary_url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
-          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
-          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T15:05:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
-          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
-          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T15:05:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9508,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T15:05:19Z",
-      "latest_at": "2026-07-22T15:05:19Z",
-      "primary_item": {
-        "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
-        "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
-        "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -475,14 +475,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8638,
+        "recency": 0.8005,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,6 +498,127 @@
         "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
         "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0b061dcff925",
+      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+      "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+      "primary_url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1ea4458ad903d8da0a63ddb0491bdfa44b5dc62e",
+          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+          "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:23:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "1ea4458ad903d8da0a63ddb0491bdfa44b5dc62e",
+          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+          "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:23:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T17:23:31Z",
+      "latest_at": "2026-07-22T17:23:31Z",
+      "primary_item": {
+        "id": "1ea4458ad903d8da0a63ddb0491bdfa44b5dc62e",
+        "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+        "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1d793ca53d31",
+      "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "primary_url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8385,
+      "importance": 0.8385,
+      "importance_score": 0.8385,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8875,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T15:05:19Z",
+      "latest_at": "2026-07-22T15:05:19Z",
+      "primary_item": {
+        "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+        "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+        "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -555,14 +676,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9144,
+        "recency": 0.8511,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -635,14 +756,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5513,
+        "recency": 0.488,
         "story_heat": 0.25
       },
       "category": "official",
@@ -697,14 +818,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9118,
+        "recency": 0.8485,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -757,14 +878,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9059,
+        "recency": 0.8426,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -836,14 +957,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7508,
+        "recency": 0.6875,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -897,14 +1018,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.7827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -957,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.7784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1017,20 +1138,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7422,
+        "recency": 0.6789,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T10:04:51Z",
       "latest_at": "2026-07-22T10:04:51Z",
@@ -1096,14 +1216,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6508,
+        "recency": 0.5875,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1157,20 +1277,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7508,
+        "recency": 0.6875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T10:17:15.742441Z",
       "latest_at": "2026-07-22T10:17:15.742441Z",
@@ -1254,14 +1373,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7174,
-      "importance": 0.7174,
-      "importance_score": 0.7174,
+      "score": 0.7047,
+      "importance": 0.7047,
+      "importance_score": 0.7047,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2768,
+        "recency": 0.2134,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1314,20 +1433,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7508,
+        "recency": 0.6875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T10:17:15.742441Z",
       "latest_at": "2026-07-22T10:17:15.742441Z",
@@ -1374,20 +1492,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7508,
+        "recency": 0.6875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T10:17:15.742441Z",
       "latest_at": "2026-07-22T10:17:15.742441Z",
@@ -1434,20 +1551,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7508,
+        "recency": 0.6875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T10:17:15.742441Z",
       "latest_at": "2026-07-22T10:17:15.742441Z",
@@ -1457,163 +1573,6 @@
         "url": "https://www.aibase.com/news/29808",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_588d66ca6918",
-      "title": "太空数据砸进AI！马斯克掏出SpaceX家底， 2 万亿参数Grok大模型即刻炼成",
-      "url": "https://www.aibase.com/news/29804",
-      "primary_url": "https://www.aibase.com/news/29804",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5481b226256d605f447769a922154695037ea976",
-          "title": "太空数据砸进AI！马斯克掏出SpaceX家底， 2 万亿参数Grok大模型即刻炼成",
-          "url": "https://www.aibase.com/news/29804",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:17:15.742441Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5481b226256d605f447769a922154695037ea976",
-          "title": "太空数据砸进AI！马斯克掏出SpaceX家底， 2 万亿参数Grok大模型即刻炼成",
-          "url": "https://www.aibase.com/news/29804",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:17:15.742441Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7508,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T10:17:15.742441Z",
-      "latest_at": "2026-07-22T10:17:15.742441Z",
-      "primary_item": {
-        "id": "5481b226256d605f447769a922154695037ea976",
-        "title": "太空数据砸进AI！马斯克掏出SpaceX家底， 2 万亿参数Grok大模型即刻炼成",
-        "url": "https://www.aibase.com/news/29804",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f402121a707a",
-      "title": "那些将AI菜单重新设计得难看透顶的企业",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
-      "primary_url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
-      "source": "blog.fiddery.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "24ef8e1d5a2b72c391cf6d2839a6ff871cbdf392",
-          "title": "那些将AI菜单重新设计得难看透顶的企业",
-          "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
-          "source": "blog.fiddery.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T14:51:46.109000Z"
-        },
-        {
-          "id": "8bab22891d6930396a9f8a1aeec8ee313cfbd5f2",
-          "title": "丑陋的人工智能菜单重新设计的企业 / Businesses with ugly AI menu redesigns",
-          "url": "https://news.ycombinator.com/item?id=49005973",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-22T14:12:28.940000Z"
-        },
-        {
-          "id": "99c1e9bc4d479a0e1c3eafc27f56e44467a79b14",
-          "title": "那些将AI菜单重新设计得难看透顶的企业 / Businesses with ugly AI menu redesigns",
-          "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T12:49:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.fiddery.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "24ef8e1d5a2b72c391cf6d2839a6ff871cbdf392",
-          "title": "那些将AI菜单重新设计得难看透顶的企业",
-          "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
-          "source": "blog.fiddery.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T14:51:46.109000Z"
-        },
-        {
-          "id": "8bab22891d6930396a9f8a1aeec8ee313cfbd5f2",
-          "title": "丑陋的人工智能菜单重新设计的企业 / Businesses with ugly AI menu redesigns",
-          "url": "https://news.ycombinator.com/item?id=49005973",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-22T14:12:28.940000Z"
-        },
-        {
-          "id": "99c1e9bc4d479a0e1c3eafc27f56e44467a79b14",
-          "title": "那些将AI菜单重新设计得难看透顶的企业 / Businesses with ugly AI menu redesigns",
-          "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T12:49:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9414,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-22T12:49:45Z",
-      "latest_at": "2026-07-22T14:51:46.109000Z",
-      "primary_item": {
-        "id": "24ef8e1d5a2b72c391cf6d2839a6ff871cbdf392",
-        "title": "那些将AI菜单重新设计得难看透顶的企业",
-        "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
-        "source": "blog.fiddery.com",
-        "source_name": "Buzzing"
       }
     }
   ]
