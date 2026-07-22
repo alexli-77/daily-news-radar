@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-21T23:51:06.580529Z",
+  "generated_at": "2026-07-22T01:53:13.100818Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0951-29f9-a69f-2b9695bd16ee&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260722-0951-29f9-a69f-2b9695bd16ee&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1159-1572-844e-abb23045ec0d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260722-1159-1572-844e-abb23045ec0d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b88b148b4fb85a30ebf70ce20b930220284c79f0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1159-1572-844e-abb23045ec0d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "07c50744cb5968d9dc096661499157ab2ed7f7ce",
           "title": "点击这里进入 / Click here to enter",
@@ -129,12 +138,21 @@
           "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 14,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "b88b148b4fb85a30ebf70ce20b930220284c79f0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1159-1572-844e-abb23045ec0d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "07c50744cb5968d9dc096661499157ab2ed7f7ce",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0951-29f9-a69f-2b9695bd16ee&fp=-3",
@@ -252,8 +270,8 @@
           "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
+      "item_count": 14,
+      "duplicate_count": 14,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -271,13 +289,111 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-21T01:54:28.784662Z",
-      "latest_at": "2026-07-21T23:51:06.580529Z",
+      "latest_at": "2026-07-22T01:53:13.100818Z",
       "primary_item": {
-        "id": "07c50744cb5968d9dc096661499157ab2ed7f7ce",
+        "id": "b88b148b4fb85a30ebf70ce20b930220284c79f0",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0951-29f9-a69f-2b9695bd16ee&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260722-1159-1572-844e-abb23045ec0d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_bc7c548c4d8d",
+      "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
+      "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
+      "primary_url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "186ba5e6e7fcbb7314037588e3ddf57dab7ac967",
+          "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
+          "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T22:54:38Z"
+        },
+        {
+          "id": "c56861110a3185cf2c0410731b8a68145a7c24bc",
+          "title": "OpenAI 自曝 AI 模型“失控”越狱，突破沙盒环境入侵 Hugging Face",
+          "url": "https://www.ithome.com/0/979/815.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T22:54:38Z"
+        },
+        {
+          "id": "e508ff9c1454435608a63f5cff0cb9d582cca1ba",
+          "title": "破解人类限制：OpenAI 自曝 AI 模型“越狱”始末，突破沙盒环境入侵 Hugging Face",
+          "url": "https://www.ithome.com/0/979/815.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T22:54:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "186ba5e6e7fcbb7314037588e3ddf57dab7ac967",
+          "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
+          "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T22:54:38Z"
+        },
+        {
+          "id": "c56861110a3185cf2c0410731b8a68145a7c24bc",
+          "title": "OpenAI 自曝 AI 模型“失控”越狱，突破沙盒环境入侵 Hugging Face",
+          "url": "https://www.ithome.com/0/979/815.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T22:54:38Z"
+        },
+        {
+          "id": "e508ff9c1454435608a63f5cff0cb9d582cca1ba",
+          "title": "破解人类限制：OpenAI 自曝 AI 模型“越狱”始末，突破沙盒环境入侵 Hugging Face",
+          "url": "https://www.ithome.com/0/979/815.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T22:54:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.876,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T22:54:38Z",
+      "latest_at": "2026-07-21T22:54:38Z",
+      "primary_item": {
+        "id": "186ba5e6e7fcbb7314037588e3ddf57dab7ac967",
+        "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
+        "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -408,14 +524,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.2978,
+        "recency": 0.213,
         "story_heat": 1.0
       },
       "category": "official",
@@ -433,6 +549,66 @@
         "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_078dd7b5ac27",
+      "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
+      "url": "https://www.aibase.com/news/29776",
+      "primary_url": "https://www.aibase.com/news/29776",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "10d1cf75df040e407e5c671f927b2544d2dc68cc",
+          "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
+          "url": "https://www.aibase.com/news/29776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T01:53:13.100818Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "10d1cf75df040e407e5c671f927b2544d2dc68cc",
+          "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
+          "url": "https://www.aibase.com/news/29776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T01:53:13.100818Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T01:53:13.100818Z",
+      "latest_at": "2026-07-22T01:53:13.100818Z",
+      "primary_item": {
+        "id": "10d1cf75df040e407e5c671f927b2544d2dc68cc",
+        "title": "AI 音乐生成器 Suno 遭数据泄露，波及5530万用户及训练数据源代码",
+        "url": "https://www.aibase.com/news/29776",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -470,14 +646,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6343,
+        "recency": 0.5495,
         "story_heat": 0.0
       },
       "category": "official",
@@ -494,6 +670,66 @@
         "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bb475b88b948",
+      "title": "AI演习变实战？OpenAI新模型意外“入侵”知名开源平台",
+      "url": "https://www.aibase.com/news/29783",
+      "primary_url": "https://www.aibase.com/news/29783",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f0366bccbda881bc493772c8cc80c74550a593a0",
+          "title": "AI演习变实战？OpenAI新模型意外“入侵”知名开源平台",
+          "url": "https://www.aibase.com/news/29783",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T01:53:13.100818Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f0366bccbda881bc493772c8cc80c74550a593a0",
+          "title": "AI演习变实战？OpenAI新模型意外“入侵”知名开源平台",
+          "url": "https://www.aibase.com/news/29783",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T01:53:13.100818Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T01:53:13.100818Z",
+      "latest_at": "2026-07-22T01:53:13.100818Z",
+      "primary_item": {
+        "id": "f0366bccbda881bc493772c8cc80c74550a593a0",
+        "title": "AI演习变实战？OpenAI新模型意外“入侵”知名开源平台",
+        "url": "https://www.aibase.com/news/29783",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -531,14 +767,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7145,
+        "recency": 0.6297,
         "story_heat": 0.0
       },
       "category": "official",
@@ -592,14 +828,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.8341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,14 +888,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6728,
+        "recency": 0.588,
         "story_heat": 0.0
       },
       "category": "official",
@@ -713,14 +949,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.843,
+        "recency": 0.7583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,14 +1009,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8253,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -796,6 +1032,66 @@
         "url": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1c7c32aa1587",
+      "title": "Deezer 披露：平台日上传量超 50% 为 AI 生成音乐，6 个月未播放内容将被清理",
+      "url": "https://www.aibase.com/news/29770",
+      "primary_url": "https://www.aibase.com/news/29770",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1c7173ba3b2c95ad6bfb723bd191bc8666dddbb3",
+          "title": "Deezer 披露：平台日上传量超 50% 为 AI 生成音乐，6 个月未播放内容将被清理",
+          "url": "https://www.aibase.com/news/29770",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T01:53:13.100818Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1c7173ba3b2c95ad6bfb723bd191bc8666dddbb3",
+          "title": "Deezer 披露：平台日上传量超 50% 为 AI 生成音乐，6 个月未播放内容将被清理",
+          "url": "https://www.aibase.com/news/29770",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T01:53:13.100818Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T01:53:13.100818Z",
+      "latest_at": "2026-07-22T01:53:13.100818Z",
+      "primary_item": {
+        "id": "1c7173ba3b2c95ad6bfb723bd191bc8666dddbb3",
+        "title": "Deezer 披露：平台日上传量超 50% 为 AI 生成音乐，6 个月未播放内容将被清理",
+        "url": "https://www.aibase.com/news/29770",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -833,20 +1129,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.768,
+        "recency": 0.6833,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-21T18:17:06Z",
       "latest_at": "2026-07-21T18:17:06Z",
@@ -893,20 +1188,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7525,
+        "recency": 0.6677,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-21T17:54:42Z",
       "latest_at": "2026-07-21T17:54:42Z",
@@ -953,20 +1247,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7304,
+        "recency": 0.6456,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-21T17:22:49Z",
       "latest_at": "2026-07-21T17:22:49Z",
@@ -1013,20 +1306,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7227,
+        "recency": 0.6379,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-21T17:11:50Z",
       "latest_at": "2026-07-21T17:11:50Z",
@@ -1073,20 +1365,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7103,
+        "recency": 0.6255,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-21T16:53:55Z",
       "latest_at": "2026-07-21T16:53:55Z",
@@ -1133,14 +1424,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6728,
+        "recency": 0.588,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1192,14 +1483,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6729,
+        "recency": 0.5881,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1251,14 +1542,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6693,
+        "recency": 0.5845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,244 +1563,6 @@
         "title": "Claude Cowork 新增技能录制功能",
         "url": "https://aihot.virxact.com/items/cmruv42p2008ebii0yteu9750",
         "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_60074d3dbbc0",
-      "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
-      "url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
-      "primary_url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
-      "source": "Google DeepMind：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "95ae31c08aea56d9763c017b2df9299a0dfda804",
-          "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
-          "url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:16:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "95ae31c08aea56d9763c017b2df9299a0dfda804",
-          "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
-          "url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:16:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6426,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T15:16:30Z",
-      "latest_at": "2026-07-21T15:16:30Z",
-      "primary_item": {
-        "id": "95ae31c08aea56d9763c017b2df9299a0dfda804",
-        "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
-        "url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
-        "source": "Google DeepMind：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e5f075214c89",
-      "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-      "url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
-      "primary_url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
-      "source": "OpenAI：Alignment 研究博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b346651154777b2a644f74828914d11bdf2a35ee",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-          "url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
-          "source": "OpenAI：Alignment 研究博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:10:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：Alignment 研究博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b346651154777b2a644f74828914d11bdf2a35ee",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-          "url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
-          "source": "OpenAI：Alignment 研究博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:10:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6381,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T15:10:00Z",
-      "latest_at": "2026-07-21T15:10:00Z",
-      "primary_item": {
-        "id": "b346651154777b2a644f74828914d11bdf2a35ee",
-        "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-        "url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
-        "source": "OpenAI：Alignment 研究博客（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_67183efcfb0e",
-      "title": "OpenAI 发布奖励寻求行为新研究",
-      "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-      "primary_url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d1afe926f2decfbf434f9e43c7bb5b32eb51d86c",
-          "title": "OpenAI 发布奖励寻求行为新研究",
-          "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:05:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "d1afe926f2decfbf434f9e43c7bb5b32eb51d86c",
-          "title": "OpenAI 发布奖励寻求行为新研究",
-          "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:05:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T18:05:38Z",
-      "latest_at": "2026-07-21T18:05:38Z",
-      "primary_item": {
-        "id": "d1afe926f2decfbf434f9e43c7bb5b32eb51d86c",
-        "title": "OpenAI 发布奖励寻求行为新研究",
-        "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_30ce283d3e0c",
-      "title": "Claude 不是编译器--它比编译器更好",
-      "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-      "primary_url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c9d0b7eeaf97f2f1c2503d97800911b75372bbf",
-          "title": "Claude 不是编译器--它比编译器更好",
-          "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:15:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "5c9d0b7eeaf97f2f1c2503d97800911b75372bbf",
-          "title": "Claude 不是编译器--它比编译器更好",
-          "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:15:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7253,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T17:15:35Z",
-      "latest_at": "2026-07-21T17:15:35Z",
-      "primary_item": {
-        "id": "5c9d0b7eeaf97f2f1c2503d97800911b75372bbf",
-        "title": "Claude 不是编译器--它比编译器更好",
-        "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     }
