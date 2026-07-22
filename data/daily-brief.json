@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-22T14:32:02.449248Z",
+  "generated_at": "2026-07-22T16:16:05.735212Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0032-2957-828c-c10fa6ead02f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-0032-2957-828c-c10fa6ead02f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0216-31f0-8a3b-6fab3d3478f7&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-0216-31f0-8a3b-6fab3d3478f7&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "e270a40fd8bf0bfdae9322c850185cc01566d057",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0216-31f0-8a3b-6fab3d3478f7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ea59fab14d3fd868e14dfc63cd332cff3b6a5e81",
           "title": "点击这里进入 / Click here to enter",
@@ -129,12 +138,21 @@
           "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 14,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "e270a40fd8bf0bfdae9322c850185cc01566d057",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0216-31f0-8a3b-6fab3d3478f7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ea59fab14d3fd868e14dfc63cd332cff3b6a5e81",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0032-2957-828c-c10fa6ead02f&fp=-3",
@@ -252,8 +270,8 @@
           "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
+      "item_count": 14,
+      "duplicate_count": 14,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -271,11 +289,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-21T16:17:14.519477Z",
-      "latest_at": "2026-07-22T14:32:02.449248Z",
+      "latest_at": "2026-07-22T16:16:05.735212Z",
       "primary_item": {
-        "id": "ea59fab14d3fd868e14dfc63cd332cff3b6a5e81",
+        "id": "e270a40fd8bf0bfdae9322c850185cc01566d057",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0032-2957-828c-c10fa6ead02f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0216-31f0-8a3b-6fab3d3478f7&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -334,14 +352,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8786,
-      "importance": 0.8786,
-      "importance_score": 0.8786,
+      "score": 0.8642,
+      "importance": 0.8642,
+      "importance_score": 0.8642,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9631,
+        "recency": 0.8908,
         "story_heat": 0.25
       },
       "category": "official",
@@ -358,6 +376,67 @@
         "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
         "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1d793ca53d31",
+      "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "primary_url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9508,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T15:05:19Z",
+      "latest_at": "2026-07-22T15:05:19Z",
+      "primary_item": {
+        "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+        "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+        "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -396,14 +475,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9361,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "official",
@@ -423,7 +502,288 @@
       }
     },
     {
-      "story_id": "story_275ae21c174e",
+      "story_id": "story_108e4a92a72a",
+      "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+      "url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+      "primary_url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28ce40ce72b30cb0c2a287db4526ff579ffabe4a",
+          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:12:49Z"
+        },
+        {
+          "id": "c0e9c6d55f0e10cb78d59b4e3cd92bbf9f28ef50",
+          "title": "OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://www.ithome.com/0/980/322.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T14:12:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "28ce40ce72b30cb0c2a287db4526ff579ffabe4a",
+          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:12:49Z"
+        },
+        {
+          "id": "c0e9c6d55f0e10cb78d59b4e3cd92bbf9f28ef50",
+          "title": "OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://www.ithome.com/0/980/322.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T14:12:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9144,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T14:12:49Z",
+      "latest_at": "2026-07-22T14:12:49Z",
+      "primary_item": {
+        "id": "28ce40ce72b30cb0c2a287db4526ff579ffabe4a",
+        "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+        "url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c54f46e53d48",
+      "title": "OpenAI 简介 / Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "primary_url": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+          "title": "OpenAI 简介 / Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T05:30:00Z"
+        },
+        {
+          "id": "a3bd8d4c50292a9611e85c8027dda349a5a0338f",
+          "title": "OpenAI 存在 / OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T15:12:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+          "title": "OpenAI 简介 / Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T05:30:00Z"
+        },
+        {
+          "id": "a3bd8d4c50292a9611e85c8027dda349a5a0338f",
+          "title": "OpenAI 存在 / OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T15:12:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5513,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T05:30:00Z",
+      "latest_at": "2026-07-22T15:12:26Z",
+      "primary_item": {
+        "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+        "title": "OpenAI 简介 / Introducing OpenAI Presence",
+        "url": "https://openai.com/index/introducing-openai-presence",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a500f5f32c75",
+      "title": "开源模型季度盘点：Kimi K3、Qwen 3.8、WAIC 演讲、知识蒸馏与开源闭源差距",
+      "url": "https://aihot.virxact.com/items/cmrw7dmtf00ukro8gtnl09yk6",
+      "primary_url": "https://aihot.virxact.com/items/cmrw7dmtf00ukro8gtnl09yk6",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "48fd8a01f682b1d695d0203ccffc13d88fb98348",
+          "title": "开源模型季度盘点：Kimi K3、Qwen 3.8、WAIC 演讲、知识蒸馏与开源闭源差距",
+          "url": "https://aihot.virxact.com/items/cmrw7dmtf00ukro8gtnl09yk6",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:09:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nathan Lambert：Interconnects（RSS）"
+      ],
+      "items": [
+        {
+          "id": "48fd8a01f682b1d695d0203ccffc13d88fb98348",
+          "title": "开源模型季度盘点：Kimi K3、Qwen 3.8、WAIC 演讲、知识蒸馏与开源闭源差距",
+          "url": "https://aihot.virxact.com/items/cmrw7dmtf00ukro8gtnl09yk6",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:09:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9118,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T14:09:04Z",
+      "latest_at": "2026-07-22T14:09:04Z",
+      "primary_item": {
+        "id": "48fd8a01f682b1d695d0203ccffc13d88fb98348",
+        "title": "开源模型季度盘点：Kimi K3、Qwen 3.8、WAIC 演讲、知识蒸馏与开源闭源差距",
+        "url": "https://aihot.virxact.com/items/cmrw7dmtf00ukro8gtnl09yk6",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c9a4eba8a17e",
+      "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+      "url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+      "primary_url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dcadc68f1b1e1badf4746991709ba35e2d5fe8ba",
+          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+          "url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：SemiAnalysis (@SemiAnalysis_)"
+      ],
+      "items": [
+        {
+          "id": "dcadc68f1b1e1badf4746991709ba35e2d5fe8ba",
+          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+          "url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9059,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T14:00:35Z",
+      "latest_at": "2026-07-22T14:00:35Z",
+      "primary_item": {
+        "id": "dcadc68f1b1e1badf4746991709ba35e2d5fe8ba",
+        "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+        "url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+        "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_451a96df2cc8",
       "title": "微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台",
       "url": "https://www.aibase.com/news/29807",
       "primary_url": "https://www.aibase.com/news/29807",
@@ -476,14 +836,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8231,
+        "recency": 0.7508,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -500,67 +860,6 @@
         "url": "https://www.aibase.com/news/29807",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c54f46e53d48",
-      "title": "OpenAI 简介 / Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "primary_url": "https://openai.com/index/introducing-openai-presence",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-          "title": "OpenAI 简介 / Introducing OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T05:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-          "title": "OpenAI 简介 / Introducing OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T05:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6236,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T05:30:00Z",
-      "latest_at": "2026-07-22T05:30:00Z",
-      "primary_item": {
-        "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-        "title": "OpenAI 简介 / Introducing OpenAI Presence",
-        "url": "https://openai.com/index/introducing-openai-presence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -598,14 +897,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9183,
+        "recency": 0.846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -658,14 +957,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.914,
+        "recency": 0.8417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -718,14 +1017,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8145,
+        "recency": 0.7422,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -797,14 +1096,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7231,
+        "recency": 0.6508,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -819,6 +1118,66 @@
         "id": "bce511756bb8c25cf1e8fccd73b9222cb205f079",
         "title": "腾讯发布新一代AI创意智能体Miora，设计新手也能一键搞定全套视觉方案",
         "url": "https://www.aibase.com/news/29794",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e26eabffaa96",
+      "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+      "url": "https://www.aibase.com/news/29806",
+      "primary_url": "https://www.aibase.com/news/29806",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
+          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+          "url": "https://www.aibase.com/news/29806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T10:17:15.742441Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
+          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+          "url": "https://www.aibase.com/news/29806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T10:17:15.742441Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7508,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T10:17:15.742441Z",
+      "latest_at": "2026-07-22T10:17:15.742441Z",
+      "primary_item": {
+        "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
+        "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+        "url": "https://www.aibase.com/news/29806",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -895,14 +1254,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7174,
+      "importance": 0.7174,
+      "importance_score": 0.7174,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.349,
+        "recency": 0.2768,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -918,184 +1277,6 @@
         "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7d038491e1dd",
-      "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-      "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
-      "primary_url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7a6d7f4237ff45e1844c010f5c946a2a204d9212",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:52:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "7a6d7f4237ff45e1844c010f5c946a2a204d9212",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:52:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5973,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T04:52:13Z",
-      "latest_at": "2026-07-22T04:52:13Z",
-      "primary_item": {
-        "id": "7a6d7f4237ff45e1844c010f5c946a2a204d9212",
-        "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-        "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bfa34f884748",
-      "title": "腾讯设计Agent平台Miora全面开放",
-      "url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
-      "primary_url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f29711c8d6fece5b0710c9971d41e7851d743aa3",
-          "title": "腾讯设计Agent平台Miora全面开放",
-          "url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:21:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "f29711c8d6fece5b0710c9971d41e7851d743aa3",
-          "title": "腾讯设计Agent平台Miora全面开放",
-          "url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:21:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5757,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T04:21:03Z",
-      "latest_at": "2026-07-22T04:21:03Z",
-      "primary_item": {
-        "id": "f29711c8d6fece5b0710c9971d41e7851d743aa3",
-        "title": "腾讯设计Agent平台Miora全面开放",
-        "url": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e26eabffaa96",
-      "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
-      "url": "https://www.aibase.com/news/29806",
-      "primary_url": "https://www.aibase.com/news/29806",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
-          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
-          "url": "https://www.aibase.com/news/29806",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:17:15.742441Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
-          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
-          "url": "https://www.aibase.com/news/29806",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:17:15.742441Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8231,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T10:17:15.742441Z",
-      "latest_at": "2026-07-22T10:17:15.742441Z",
-      "primary_item": {
-        "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
-        "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
-        "url": "https://www.aibase.com/news/29806",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1133,14 +1314,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8231,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,14 +1374,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8231,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1253,14 +1434,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8231,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1313,14 +1494,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8231,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1339,238 +1520,100 @@
       }
     },
     {
-      "story_id": "story_67ff6f8591e5",
-      "title": "流量被AI分流！传统媒体与科技巨头撕破脸，Reddit或停止向谷歌喂饭",
-      "url": "https://www.aibase.com/news/29802",
-      "primary_url": "https://www.aibase.com/news/29802",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ea78b8394ba4dd49060be77ec30b279156d1693d",
-          "title": "流量被AI分流！传统媒体与科技巨头撕破脸，Reddit或停止向谷歌喂饭",
-          "url": "https://www.aibase.com/news/29802",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:17:15.742441Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ea78b8394ba4dd49060be77ec30b279156d1693d",
-          "title": "流量被AI分流！传统媒体与科技巨头撕破脸，Reddit或停止向谷歌喂饭",
-          "url": "https://www.aibase.com/news/29802",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:17:15.742441Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8231,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T10:17:15.742441Z",
-      "latest_at": "2026-07-22T10:17:15.742441Z",
-      "primary_item": {
-        "id": "ea78b8394ba4dd49060be77ec30b279156d1693d",
-        "title": "流量被AI分流！传统媒体与科技巨头撕破脸，Reddit或停止向谷歌喂饭",
-        "url": "https://www.aibase.com/news/29802",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bf82e94d12a8",
-      "title": "Gemini 最新模型：temperature、top_p 和 top_k 已被废弃且将被忽略",
-      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "primary_url": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "source": "ai.google.dev",
+      "story_id": "story_f402121a707a",
+      "title": "那些将AI菜单重新设计得难看透顶的企业",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
+      "primary_url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
+      "source": "blog.fiddery.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "f58cf11d3a3b72cb61a90b783bbda535b28ca51b",
-          "title": "Gemini 最新模型：temperature、top_p 和 top_k 已被废弃且将被忽略",
-          "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-          "source": "ai.google.dev",
+          "id": "24ef8e1d5a2b72c391cf6d2839a6ff871cbdf392",
+          "title": "那些将AI菜单重新设计得难看透顶的企业",
+          "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
+          "source": "blog.fiddery.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-22T12:59:38.863000Z"
+          "published_at": "2026-07-22T14:51:46.109000Z"
         },
         {
-          "id": "bf1a451521e3f4d1d2b8119a172a0650df54bb4f",
-          "title": "Gemini 最后的模型：温度、top_p 和 top_k 已弃用并被忽略 / Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-          "url": "https://news.ycombinator.com/item?id=48998606",
+          "id": "8bab22891d6930396a9f8a1aeec8ee313cfbd5f2",
+          "title": "丑陋的人工智能菜单重新设计的企业 / Businesses with ugly AI menu redesigns",
+          "url": "https://news.ycombinator.com/item?id=49005973",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-21T23:23:11.968000Z"
+          "published_at": "2026-07-22T14:12:28.940000Z"
         },
         {
-          "id": "668c3dbb781dbcc30a01da06c53b60286a9e953b",
-          "title": "Gemini 最新模型：temperature、top_p 和 top_k 已被废弃且将被忽略 / Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-          "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+          "id": "99c1e9bc4d479a0e1c3eafc27f56e44467a79b14",
+          "title": "那些将AI菜单重新设计得难看透顶的企业 / Businesses with ugly AI menu redesigns",
+          "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-21T21:27:54Z"
+          "published_at": "2026-07-22T12:49:45Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "ai.google.dev",
+        "blog.fiddery.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "f58cf11d3a3b72cb61a90b783bbda535b28ca51b",
-          "title": "Gemini 最新模型：temperature、top_p 和 top_k 已被废弃且将被忽略",
-          "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-          "source": "ai.google.dev",
+          "id": "24ef8e1d5a2b72c391cf6d2839a6ff871cbdf392",
+          "title": "那些将AI菜单重新设计得难看透顶的企业",
+          "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
+          "source": "blog.fiddery.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-22T12:59:38.863000Z"
+          "published_at": "2026-07-22T14:51:46.109000Z"
         },
         {
-          "id": "bf1a451521e3f4d1d2b8119a172a0650df54bb4f",
-          "title": "Gemini 最后的模型：温度、top_p 和 top_k 已弃用并被忽略 / Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-          "url": "https://news.ycombinator.com/item?id=48998606",
+          "id": "8bab22891d6930396a9f8a1aeec8ee313cfbd5f2",
+          "title": "丑陋的人工智能菜单重新设计的企业 / Businesses with ugly AI menu redesigns",
+          "url": "https://news.ycombinator.com/item?id=49005973",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-21T23:23:11.968000Z"
+          "published_at": "2026-07-22T14:12:28.940000Z"
         },
         {
-          "id": "668c3dbb781dbcc30a01da06c53b60286a9e953b",
-          "title": "Gemini 最新模型：temperature、top_p 和 top_k 已被废弃且将被忽略 / Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-          "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+          "id": "99c1e9bc4d479a0e1c3eafc27f56e44467a79b14",
+          "title": "那些将AI菜单重新设计得难看透顶的企业 / Businesses with ugly AI menu redesigns",
+          "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-21T21:27:54Z"
+          "published_at": "2026-07-22T12:49:45Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9358,
+        "recency": 0.9414,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-21T21:27:54Z",
-      "latest_at": "2026-07-22T12:59:38.863000Z",
+      "earliest_at": "2026-07-22T12:49:45Z",
+      "latest_at": "2026-07-22T14:51:46.109000Z",
       "primary_item": {
-        "id": "f58cf11d3a3b72cb61a90b783bbda535b28ca51b",
-        "title": "Gemini 最新模型：temperature、top_p 和 top_k 已被废弃且将被忽略",
-        "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-        "source": "ai.google.dev",
+        "id": "24ef8e1d5a2b72c391cf6d2839a6ff871cbdf392",
+        "title": "那些将AI菜单重新设计得难看透顶的企业",
+        "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns",
+        "source": "blog.fiddery.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_97283890dbb3",
-      "title": "AI 抢了谁的蛋糕？",
-      "url": "https://www.huxiu.com/article/4877489.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4877489.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "be9c094020e6659e04ea0b6eefd9cda0566bb140",
-          "title": "AI 抢了谁的蛋糕？",
-          "url": "https://www.huxiu.com/article/4877489.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b3998517d947ad754af9dd3a2e06b6b72ad0a83b",
-          "title": "AI抢了谁的蛋糕？",
-          "url": "https://www.huxiu.com/article/4877489.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-22T13:50:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "be9c094020e6659e04ea0b6eefd9cda0566bb140",
-          "title": "AI 抢了谁的蛋糕？",
-          "url": "https://www.huxiu.com/article/4877489.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b3998517d947ad754af9dd3a2e06b6b72ad0a83b",
-          "title": "AI抢了谁的蛋糕？",
-          "url": "https://www.huxiu.com/article/4877489.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-22T13:50:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-22T13:50:12Z",
-      "latest_at": "2026-07-22T14:32:02.449248Z",
-      "primary_item": {
-        "id": "be9c094020e6659e04ea0b6eefd9cda0566bb140",
-        "title": "AI 抢了谁的蛋糕？",
-        "url": "https://www.huxiu.com/article/4877489.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
