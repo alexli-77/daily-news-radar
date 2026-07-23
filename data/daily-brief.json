@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-23T19:01:45.155161Z",
+  "generated_at": "2026-07-23T20:34:30.683631Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0502-131b-99d6-d6c24b1a32bd&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0502-131b-99d6-d6c24b1a32bd&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0634-52de-aded-eb4cef535d4b&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0634-52de-aded-eb4cef535d4b&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "6dc8d7438371ef8f0926aadce7e55b0683c5c812",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0634-52de-aded-eb4cef535d4b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "845363e311f5aea5f328512c0c06c48b434f22b7",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "005e4a480ed856dad2a8d6b751b88383c5bfd161",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0735-264e-b8cd-e1e9760ba36c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "bbcbb5dd4e667096eb3b0e9123fbd604ea74d024",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0613-59ba-87eb-7ac51f495c9b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "6dc8d7438371ef8f0926aadce7e55b0683c5c812",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0634-52de-aded-eb4cef535d4b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "845363e311f5aea5f328512c0c06c48b434f22b7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0502-131b-99d6-d6c24b1a32bd&fp=-3",
@@ -237,15 +246,6 @@
           "id": "005e4a480ed856dad2a8d6b751b88383c5bfd161",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0735-264e-b8cd-e1e9760ba36c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "bbcbb5dd4e667096eb3b0e9123fbd604ea74d024",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0613-59ba-87eb-7ac51f495c9b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,14 +270,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T20:13:31.710373Z",
-      "latest_at": "2026-07-23T19:01:45.155161Z",
+      "earliest_at": "2026-07-22T21:34:57.639050Z",
+      "latest_at": "2026-07-23T20:34:30.683631Z",
       "primary_item": {
-        "id": "845363e311f5aea5f328512c0c06c48b434f22b7",
+        "id": "6dc8d7438371ef8f0926aadce7e55b0683c5c812",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0502-131b-99d6-d6c24b1a32bd&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0634-52de-aded-eb4cef535d4b&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_52002f50b4f8",
+      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8755,
+      "importance": 0.8755,
+      "importance_score": 0.8755,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9677,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:47:58Z",
+      "latest_at": "2026-07-23T19:47:58Z",
+      "primary_item": {
+        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -315,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8551,
-      "importance": 0.8551,
-      "importance_score": 0.8551,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9705,
+        "recency": 0.9061,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,6 +400,186 @@
         "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b2ae458fcc7c",
+      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+      "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+      "primary_url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "923a9d9d36cc3fd72d9ee24683da231288f23055",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T20:11:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "923a9d9d36cc3fd72d9ee24683da231288f23055",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T20:11:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.984,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T20:11:31Z",
+      "latest_at": "2026-07-23T20:11:31Z",
+      "primary_item": {
+        "id": "923a9d9d36cc3fd72d9ee24683da231288f23055",
+        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+        "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8d9084828cfa",
+      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+      "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+      "primary_url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0e9152a14427e34269439eed73ead355d8535ec2",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:55:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "0e9152a14427e34269439eed73ead355d8535ec2",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:55:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9729,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:55:29Z",
+      "latest_at": "2026-07-23T19:55:29Z",
+      "primary_item": {
+        "id": "0e9152a14427e34269439eed73ead355d8535ec2",
+        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+        "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d0e2fe8d261b",
+      "title": "ChatGPT 桌面版上线语音控制多智能体",
+      "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+      "primary_url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d89e0689c23f24d1304c5d3a1756ab0200489d7f",
+          "title": "ChatGPT 桌面版上线语音控制多智能体",
+          "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:43:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "d89e0689c23f24d1304c5d3a1756ab0200489d7f",
+          "title": "ChatGPT 桌面版上线语音控制多智能体",
+          "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:43:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9643,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:43:04Z",
+      "latest_at": "2026-07-23T19:43:04Z",
+      "primary_item": {
+        "id": "d89e0689c23f24d1304c5d3a1756ab0200489d7f",
+        "title": "ChatGPT 桌面版上线语音控制多智能体",
+        "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -376,14 +617,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7824,
+      "importance": 0.7824,
+      "importance_score": 0.7824,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9165,
+        "recency": 0.8521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -436,14 +677,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8309,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -458,6 +699,66 @@
         "title": "微软MAI模型：以更低成本实现前沿能力规模化",
         "url": "https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo",
         "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bfeaa2fdd231",
+      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+      "url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
+      "primary_url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "304eebeddc2543de53f3be72772404ed2c103832",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T18:35:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "304eebeddc2543de53f3be72772404ed2c103832",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T18:35:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9173,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T18:35:29Z",
+      "latest_at": "2026-07-23T18:35:29Z",
+      "primary_item": {
+        "id": "304eebeddc2543de53f3be72772404ed2c103832",
+        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -496,14 +797,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.7627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -519,6 +820,67 @@
         "url": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_660c6350b79c",
+      "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T15:30:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T15:30:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7889,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T15:30:29Z",
+      "latest_at": "2026-07-23T15:30:29Z",
+      "primary_item": {
+        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+        "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -556,14 +918,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7904,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -635,14 +997,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.65,
+        "recency": 0.5856,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -696,20 +1058,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7303,
+        "recency": 0.6659,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T12:33:27Z",
       "latest_at": "2026-07-23T12:33:27Z",
@@ -756,14 +1117,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6793,
+        "recency": 0.6149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -778,6 +1139,66 @@
         "url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
         "source": "公众号：昆仑万维（天工）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a8f638e82a0b60a452ee18f397997f4f233ca403",
+          "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "a8f638e82a0b60a452ee18f397997f4f233ca403",
+          "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.1427,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T00:00:00Z",
+      "latest_at": "2026-07-23T00:00:00Z",
+      "primary_item": {
+        "id": "a8f638e82a0b60a452ee18f397997f4f233ca403",
+        "title": "ChatGPT 语音和多文件夹项目 26.715 / ChatGPT Voice and multi-folder projects 26.715",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -815,14 +1236,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.65,
+        "recency": 0.5856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -893,14 +1314,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7023,
-      "importance": 0.7023,
-      "importance_score": 0.7023,
+      "score": 0.6894,
+      "importance": 0.6894,
+      "importance_score": 0.6894,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3265,
+        "recency": 0.2621,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -919,119 +1340,80 @@
       }
     },
     {
-      "story_id": "story_31d1d471a9ff",
-      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-      "url": "https://www.aibase.com/news/29834",
-      "primary_url": "https://www.aibase.com/news/29834",
+      "story_id": "story_b4c8a52eb5bb",
+      "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+      "url": "https://www.aibase.com/news/29816",
+      "primary_url": "https://www.aibase.com/news/29816",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
+          "published_at": "2026-07-23T02:08:56.899155Z"
+        },
+        {
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
+          "published_at": "2026-07-23T02:08:56.899155Z"
+        },
+        {
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6834,
+      "importance": 0.6834,
+      "importance_score": 0.6834,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5508,
-        "story_heat": 0.0
+        "recency": 0.2322,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T08:14:53.861611Z",
-      "latest_at": "2026-07-23T08:14:53.861611Z",
+      "earliest_at": "2026-07-23T02:08:56.899155Z",
+      "latest_at": "2026-07-23T05:38:00.001080Z",
       "primary_item": {
-        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-        "url": "https://www.aibase.com/news/29834",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_42bebd0e5e08",
-      "title": "DeepSeek梁文锋谈开源：只赚 6 倍利润不加班，想赚 100 倍才会受制于开源",
-      "url": "https://www.aibase.com/news/29833",
-      "primary_url": "https://www.aibase.com/news/29833",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c79aa5cb3d6a1d20a882be28b1820f15bf7db834",
-          "title": "DeepSeek梁文锋谈开源：只赚 6 倍利润不加班，想赚 100 倍才会受制于开源",
-          "url": "https://www.aibase.com/news/29833",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c79aa5cb3d6a1d20a882be28b1820f15bf7db834",
-          "title": "DeepSeek梁文锋谈开源：只赚 6 倍利润不加班，想赚 100 倍才会受制于开源",
-          "url": "https://www.aibase.com/news/29833",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5508,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T08:14:53.861611Z",
-      "latest_at": "2026-07-23T08:14:53.861611Z",
-      "primary_item": {
-        "id": "c79aa5cb3d6a1d20a882be28b1820f15bf7db834",
-        "title": "DeepSeek梁文锋谈开源：只赚 6 倍利润不加班，想赚 100 倍才会受制于开源",
-        "url": "https://www.aibase.com/news/29833",
+        "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+        "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+        "url": "https://www.aibase.com/news/29816",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1164,14 +1546,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6136,
-      "importance": 0.6136,
-      "importance_score": 0.6136,
+      "score": 0.6008,
+      "importance": 0.6008,
+      "importance_score": 0.6008,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9532,
+        "recency": 0.8888,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1186,453 +1568,6 @@
         "url": "https://news.ycombinator.com/item?id=49023016",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_474e03be960a",
-      "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
-      "url": "https://www.aibase.com/news/29832",
-      "primary_url": "https://www.aibase.com/news/29832",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "97611d917848fa2a68ed28a431b29bd51665e450",
-          "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
-          "url": "https://www.aibase.com/news/29832",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "97611d917848fa2a68ed28a431b29bd51665e450",
-          "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
-          "url": "https://www.aibase.com/news/29832",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5508,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T08:14:53.861611Z",
-      "latest_at": "2026-07-23T08:14:53.861611Z",
-      "primary_item": {
-        "id": "97611d917848fa2a68ed28a431b29bd51665e450",
-        "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
-        "url": "https://www.aibase.com/news/29832",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dc7ed3f9bfb7",
-      "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
-      "url": "https://www.aibase.com/news/29837",
-      "primary_url": "https://www.aibase.com/news/29837",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
-          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
-          "url": "https://www.aibase.com/news/29837",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
-          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
-          "url": "https://www.aibase.com/news/29837",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5508,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T08:14:53.861611Z",
-      "latest_at": "2026-07-23T08:14:53.861611Z",
-      "primary_item": {
-        "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
-        "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
-        "url": "https://www.aibase.com/news/29837",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9425438948b7",
-      "title": "AMD 苏姿丰：AI 改变每个行业，60% 计算用于推理",
-      "url": "https://www.ithome.com/0/980/867.htm",
-      "primary_url": "https://www.ithome.com/0/980/867.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "68ca1aacff817feb531becb80d17509ca4e08ea8",
-          "title": "AMD 苏姿丰：AI 改变每个行业，60% 计算用于推理",
-          "url": "https://www.ithome.com/0/980/867.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7c74dc897dcd542cfce9fd7b694acb83e782e19b",
-          "title": "AMD 苏姿丰称 AI 改变每个行业，发布 MI455x 加速器和 EPYC Venice CPU",
-          "url": "https://www.ithome.com/0/980/867.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T17:20:48Z"
-        },
-        {
-          "id": "c59072396eb512dc12970dca0050315231b50f2b",
-          "title": "Advancing AI 2026 直播：AMD 苏姿丰称 AI 改变每个行业，60% 计算用于推理",
-          "url": "https://www.ithome.com/0/980/867.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T17:20:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "68ca1aacff817feb531becb80d17509ca4e08ea8",
-          "title": "AMD 苏姿丰：AI 改变每个行业，60% 计算用于推理",
-          "url": "https://www.ithome.com/0/980/867.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7c74dc897dcd542cfce9fd7b694acb83e782e19b",
-          "title": "AMD 苏姿丰称 AI 改变每个行业，发布 MI455x 加速器和 EPYC Venice CPU",
-          "url": "https://www.ithome.com/0/980/867.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T17:20:48Z"
-        },
-        {
-          "id": "c59072396eb512dc12970dca0050315231b50f2b",
-          "title": "Advancing AI 2026 直播：AMD 苏姿丰称 AI 改变每个行业，60% 计算用于推理",
-          "url": "https://www.ithome.com/0/980/867.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T17:20:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5636,
-      "importance": 0.5636,
-      "importance_score": 0.5636,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9528,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-23T17:20:48Z",
-      "latest_at": "2026-07-23T17:53:50.195867Z",
-      "primary_item": {
-        "id": "68ca1aacff817feb531becb80d17509ca4e08ea8",
-        "title": "AMD 苏姿丰：AI 改变每个行业，60% 计算用于推理",
-        "url": "https://www.ithome.com/0/980/867.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2cde2710a994",
-      "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google and Tesla shares plunge as AI spending rattles markets",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "3baeae5566aa40826373a5d95310223a31c9b6ae",
-          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google and Tesla shares plunge as AI spending rattles markets",
-          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T17:25:10Z"
-        },
-        {
-          "id": "e293014e280f23b78756d9e89a0f70b59a2b2bdd",
-          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金",
-          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T04:11:35.078000Z"
-        },
-        {
-          "id": "fad6c28aa77f979f1254b017407425794d07b746",
-          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google burning through cash with spiralling AI costs",
-          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-22T23:02:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "3baeae5566aa40826373a5d95310223a31c9b6ae",
-          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google and Tesla shares plunge as AI spending rattles markets",
-          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T17:25:10Z"
-        },
-        {
-          "id": "e293014e280f23b78756d9e89a0f70b59a2b2bdd",
-          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金",
-          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T04:11:35.078000Z"
-        },
-        {
-          "id": "fad6c28aa77f979f1254b017407425794d07b746",
-          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google burning through cash with spiralling AI costs",
-          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-22T23:02:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5596,
-      "importance": 0.5596,
-      "importance_score": 0.5596,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9329,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-22T23:02:32Z",
-      "latest_at": "2026-07-23T17:25:10Z",
-      "primary_item": {
-        "id": "3baeae5566aa40826373a5d95310223a31c9b6ae",
-        "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google and Tesla shares plunge as AI spending rattles markets",
-        "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_252a63ec2f91",
-      "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
-      "url": "https://www.aibase.com/news/29838",
-      "primary_url": "https://www.aibase.com/news/29838",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2a357b11b9a3d3850eab41504d47db0334717279",
-          "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
-          "url": "https://www.aibase.com/news/29838",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2a357b11b9a3d3850eab41504d47db0334717279",
-          "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
-          "url": "https://www.aibase.com/news/29838",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:14:53.861611Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5508,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T08:14:53.861611Z",
-      "latest_at": "2026-07-23T08:14:53.861611Z",
-      "primary_item": {
-        "id": "2a357b11b9a3d3850eab41504d47db0334717279",
-        "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
-        "url": "https://www.aibase.com/news/29838",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3cafe2ee039e",
-      "title": "由于在人工智能领域投入巨资，谷歌刚刚迎来了首个现金流为负的季度",
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending",
-      "primary_url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "56956db9c1932566c1d27820fd2e13d4d65a7519",
-          "title": "由于在人工智能领域投入巨资，谷歌刚刚迎来了首个现金流为负的季度",
-          "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T18:19:39.037000Z"
-        },
-        {
-          "id": "8779f0afe770cc135c46b142f1554db37b408d6a",
-          "title": "由于在人工智能领域投入巨资，谷歌刚刚迎来了首个现金流为负的季度 / Google just had its first negative cash flow quarter due to massive AI spending",
-          "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T16:04:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "56956db9c1932566c1d27820fd2e13d4d65a7519",
-          "title": "由于在人工智能领域投入巨资，谷歌刚刚迎来了首个现金流为负的季度",
-          "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T18:19:39.037000Z"
-        },
-        {
-          "id": "8779f0afe770cc135c46b142f1554db37b408d6a",
-          "title": "由于在人工智能领域投入巨资，谷歌刚刚迎来了首个现金流为负的季度 / Google just had its first negative cash flow quarter due to massive AI spending",
-          "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T16:04:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9708,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-23T16:04:19Z",
-      "latest_at": "2026-07-23T18:19:39.037000Z",
-      "primary_item": {
-        "id": "56956db9c1932566c1d27820fd2e13d4d65a7519",
-        "title": "由于在人工智能领域投入巨资，谷歌刚刚迎来了首个现金流为负的季度",
-        "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
       }
     }
   ]
