@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月22日人工智能热点分享
-1、加速科学发现的前沿，重点是Google 对创世纪任务的 4000 万美元承诺。
-2、Galaxy Unpacked 2026 的 3 项 Google 更新。
-3、微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台。
-4、OpenAI 简介。
-5、实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼，Qwen-Image-3.0上线，支持最高4.5k token输入、12种语言、20多种字体，以及多图融合、图中图和图片编辑。
-6、通义千问发布Qwen-Image-3.0：主打"真实"的第三代图像生成模型，通义千问发布第三代图像生成模型Qwen-Image-3.0，核心关键词为“真实”。
-7、腾讯发布新一代AI创意智能体Miora，设计新手也能一键搞定全套视觉方案。
-8、15 亿美元和解落地，重点是法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例。
-9、OpenRouter把语音转录塞进同一个API，重点是一份key搞定聊天和转写，Whisper与按token计价STT一并接入。
-10、Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能。
+2026年7月23日人工智能热点分享
+1、Apple 起诉 OpenAI 窃取硬件制造机密，Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行“展示”。
+2、Claude语音模式即将升级，重点是支持切换Opus和Sonnet更强模型，告别Haiku独撑局面。
+3、通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜，阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。
+4、昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本，昆仑万维CEO方汉在WAIC圆桌上指出，单纯堆砌Token消耗量无法衡量AI价值，模型能力需依赖Claude Code等Coding Agent建立的工程框架才能转化为生产力。
+5、国产端侧大模型第一次登上全球旗舰，重点是面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列。
+6、Alphabet发布最新财报，重点是AI功能推动谷歌搜索收入增长17%，月活突破10亿。
+7、DeepSeek梁文锋谈开源，重点是只赚 6 倍利润不加班，想赚 100 倍才会受制于开源。
+8、NTT DATA部署Codex，重点是5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI。
+9、OpenAI 为数据中心争取社区支持，重点是承诺不推高电费、用水量极低。
+10、一人薅羊毛致全县被电商拉黑，重点是男子用AI生成烂果图骗取1. 6 万元水果"仅退款"获刑一年。
 
 ## 原始链接
-1. 加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺（谷歌 DeepMind） - https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission
-2. Galaxy Unpacked 2026 的 3 项 Google 更新（Google AI Blog） - https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026
-3. 微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台（AIbase） - https://www.aibase.com/news/29807
-4. OpenAI 简介（OpenAI News） - https://openai.com/index/introducing-openai-presence
-5. 实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼（公众号：卡尔的AI沃茨） - https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2
-6. 通义千问发布Qwen-Image-3.0：主打"真实"的第三代图像生成模型（X：通义千问 / Qwen (@Alibaba_Qwen)） - https://aihot.virxact.com/items/cmrw3195500ep1p88xaztf2mf
-7. 腾讯发布新一代AI创意智能体Miora，设计新手也能一键搞定全套视觉方案（AIbase） - https://www.aibase.com/news/29794
-8. 15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例（AIbase） - https://www.aibase.com/news/29806
-9. OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入（AIbase） - https://www.aibase.com/news/29805
-10. Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能（AIbase） - https://www.aibase.com/news/29801
+1. Apple 起诉 OpenAI 窃取硬件制造机密（The Verge：AI（RSS）） - https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa
+2. Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面（AIbase） - https://www.aibase.com/news/29843
+3. 通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜（X：通义千问 / Qwen (@Alibaba_Qwen)） - https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq
+4. 昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本（公众号：昆仑万维（天工）） - https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm
+5. 国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列（AIbase） - https://www.aibase.com/news/29844
+6. Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿（AIbase） - https://www.aibase.com/news/29834
+7. DeepSeek梁文锋谈开源：只赚 6 倍利润不加班，想赚 100 倍才会受制于开源（AIbase） - https://www.aibase.com/news/29833
+8. NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI（AIbase） - https://www.aibase.com/news/29832
+9. OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低（AIbase） - https://www.aibase.com/news/29837
+10. 一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果"仅退款"获刑一年（AIbase） - https://www.aibase.com/news/29838
