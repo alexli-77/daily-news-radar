@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-23T21:58:43.279603Z",
+  "generated_at": "2026-07-23T22:57:45.353264Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0759-03ae-880d-75dc34147fa6&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0759-03ae-880d-75dc34147fa6&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0858-14bd-a7c1-5ab26b4ff7a3&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0858-14bd-a7c1-5ab26b4ff7a3&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "13015d2f049d4b3160330c6ba6971a664d5f1a25",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0858-14bd-a7c1-5ab26b4ff7a3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "d4ef921a25dfe4c19ddf1dc715d55032bff7f0a0",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "c352be68de32a7948a4f63e4b748acfbc2f47b4a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0956-2385-8f43-d633fe9d7efe&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "067dd31051bbc9bdf58fe8d1a60481f82cb121bd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0855-22c4-93c2-3d4814242832&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "13015d2f049d4b3160330c6ba6971a664d5f1a25",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0858-14bd-a7c1-5ab26b4ff7a3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "d4ef921a25dfe4c19ddf1dc715d55032bff7f0a0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0759-03ae-880d-75dc34147fa6&fp=-3",
@@ -237,15 +246,6 @@
           "id": "c352be68de32a7948a4f63e4b748acfbc2f47b4a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0956-2385-8f43-d633fe9d7efe&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "067dd31051bbc9bdf58fe8d1a60481f82cb121bd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0855-22c4-93c2-3d4814242832&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T22:54:53.738820Z",
-      "latest_at": "2026-07-23T21:58:43.279603Z",
+      "earliest_at": "2026-07-22T23:55:55.329209Z",
+      "latest_at": "2026-07-23T22:57:45.353264Z",
       "primary_item": {
-        "id": "d4ef921a25dfe4c19ddf1dc715d55032bff7f0a0",
+        "id": "13015d2f049d4b3160330c6ba6971a664d5f1a25",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0759-03ae-880d-75dc34147fa6&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0858-14bd-a7c1-5ab26b4ff7a3&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8638,
-      "importance": 0.8638,
-      "importance_score": 0.8638,
+      "score": 0.8556,
+      "importance": 0.8556,
+      "importance_score": 0.8556,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9092,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -376,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8618,
-      "importance": 0.8618,
-      "importance_score": 0.8618,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9442,
+        "recency": 0.9032,
         "story_heat": 0.0
       },
       "category": "official",
@@ -437,14 +437,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.8846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,14 +497,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7867,
+      "importance": 0.7867,
+      "importance_score": 0.7867,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9144,
+        "recency": 0.8734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,14 +557,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9058,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,6 +579,66 @@
         "title": "ChatGPT 桌面版上线语音控制多智能体",
         "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
         "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6dc48e3ac5e5",
+      "title": "ChatGPT 向美国用户推出健康功能",
+      "url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
+      "primary_url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "846338864f10f73e3794526ef1a847d9ea1e88ce",
+          "title": "ChatGPT 向美国用户推出健康功能",
+          "url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:55:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "846338864f10f73e3794526ef1a847d9ea1e88ce",
+          "title": "ChatGPT 向美国用户推出健康功能",
+          "url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:55:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7902,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T17:55:42Z",
+      "latest_at": "2026-07-23T17:55:42Z",
+      "primary_item": {
+        "id": "846338864f10f73e3794526ef1a847d9ea1e88ce",
+        "title": "ChatGPT 向美国用户推出健康功能",
+        "url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
+        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
@@ -617,14 +677,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7936,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,14 +737,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8476,
+        "recency": 0.8066,
         "story_heat": 0.0
       },
       "category": "official",
@@ -738,14 +798,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7724,
+        "recency": 0.7314,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -798,14 +858,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8589,
+        "recency": 0.8179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -858,20 +918,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7042,
+        "recency": 0.6632,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T14:52:44Z",
       "latest_at": "2026-07-23T14:52:44Z",
@@ -918,14 +977,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6676,
+        "recency": 0.6266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,14 +1055,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5271,
+        "recency": 0.4861,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1056,14 +1115,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6075,
+        "recency": 0.5665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1077,65 +1136,6 @@
         "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
         "url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6e83d3da665d",
-      "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
-      "url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
-      "primary_url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
-      "source": "公众号：昆仑万维（天工）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "00c65bb131e9de37a9bc1b872e84100e746a2794",
-          "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
-          "url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T11:20:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：昆仑万维（天工）"
-      ],
-      "items": [
-        {
-          "id": "00c65bb131e9de37a9bc1b872e84100e746a2794",
-          "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
-          "url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T11:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5564,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T11:20:00Z",
-      "latest_at": "2026-07-23T11:20:00Z",
-      "primary_item": {
-        "id": "00c65bb131e9de37a9bc1b872e84100e746a2794",
-        "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
-        "url": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
-        "source": "公众号：昆仑万维（天工）",
         "source_name": "AI HOT"
       }
     },
@@ -1174,14 +1174,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7304,
+        "recency": 0.6894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1254,14 +1254,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6777,
-      "importance": 0.6777,
-      "importance_score": 0.6777,
+      "score": 0.6695,
+      "importance": 0.6695,
+      "importance_score": 0.6695,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2037,
+        "recency": 0.1627,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1333,14 +1333,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6718,
-      "importance": 0.6718,
-      "importance_score": 0.6718,
+      "score": 0.6636,
+      "importance": 0.6636,
+      "importance_score": 0.6636,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1738,
+        "recency": 0.1328,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1486,14 +1486,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5891,
-      "importance": 0.5891,
-      "importance_score": 0.5891,
+      "score": 0.5809,
+      "importance": 0.5809,
+      "importance_score": 0.5809,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8303,
+        "recency": 0.7893,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1581,14 +1581,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5603,
-      "importance": 0.5603,
-      "importance_score": 0.5603,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.8957,
         "story_heat": 0.5
       },
       "category": "multi_source",
