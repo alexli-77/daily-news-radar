@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T15:52:00.647919Z",
+  "generated_at": "2026-07-24T17:22:03.245472Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0152-30a5-84a0-aee089d9f17b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0152-30a5-84a0-aee089d9f17b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0322-250e-b593-be57f9d77015&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0322-250e-b593-be57f9d77015&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7b527849f8a9aba5ee742b3594b947a94601e006",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0322-250e-b593-be57f9d77015&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5042ac6fbaae644a0ba5e355c8905cc72c4cb5e7",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "0e29b42fbe0abf5a980ea936aded27b2b8ee8637",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0354-193e-a7ba-9c8d540ceec3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a4b1ebf1426e98723807714e9ef2c7d6877c1b54",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0221-487d-919b-032472b77daf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "7b527849f8a9aba5ee742b3594b947a94601e006",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0322-250e-b593-be57f9d77015&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5042ac6fbaae644a0ba5e355c8905cc72c4cb5e7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0152-30a5-84a0-aee089d9f17b&fp=-3",
@@ -255,15 +264,6 @@
           "id": "0e29b42fbe0abf5a980ea936aded27b2b8ee8637",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0354-193e-a7ba-9c8d540ceec3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a4b1ebf1426e98723807714e9ef2c7d6877c1b54",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0221-487d-919b-032472b77daf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T16:21:23.081324Z",
-      "latest_at": "2026-07-24T15:52:00.647919Z",
+      "earliest_at": "2026-07-23T17:53:50.195867Z",
+      "latest_at": "2026-07-24T17:22:03.245472Z",
       "primary_item": {
-        "id": "5042ac6fbaae644a0ba5e355c8905cc72c4cb5e7",
+        "id": "7b527849f8a9aba5ee742b3594b947a94601e006",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0152-30a5-84a0-aee089d9f17b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0322-250e-b593-be57f9d77015&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9818,
+        "recency": 0.9192,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -393,14 +393,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9084,
+        "recency": 0.8459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -453,14 +453,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.8461,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -532,14 +532,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7777,
+        "recency": 0.7152,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -593,14 +593,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8999,
+        "recency": 0.8374,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -653,14 +653,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8586,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -713,14 +713,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8359,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,6 +736,87 @@
         "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e75df1016aa1",
+      "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        },
+        {
+          "id": "fbff60b365401a28ab96244e93112140f55e7ecf",
+          "title": "近距离工作5 / Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        },
+        {
+          "id": "fbff60b365401a28ab96244e93112140f55e7ecf",
+          "title": "近距离工作5 / Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.2764,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T00:00:00Z",
+      "latest_at": "2026-07-24T16:55:26Z",
+      "primary_item": {
+        "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+        "title": "克劳德作品 5 简介 / Introducing Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "source": "Anthropic News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -773,20 +854,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7476,
+        "recency": 0.6851,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:48:32Z",
       "latest_at": "2026-07-24T09:48:32Z",
@@ -852,14 +932,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6799,
+        "recency": 0.6174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -913,14 +993,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.278,
+        "recency": 0.2155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -973,14 +1053,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6223,
+        "recency": 0.5597,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1032,20 +1112,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7469,
+        "recency": 0.6843,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:47:29Z",
       "latest_at": "2026-07-24T09:47:29Z",
@@ -1111,14 +1190,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6799,
+        "recency": 0.6174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1191,14 +1270,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6799,
+        "recency": 0.6174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1271,14 +1350,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7007,
-      "importance": 0.7007,
-      "importance_score": 0.7007,
+      "score": 0.6882,
+      "importance": 0.6882,
+      "importance_score": 0.6882,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3185,
+        "recency": 0.256,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1331,14 +1410,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7777,
+        "recency": 0.7152,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1391,14 +1470,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7777,
+        "recency": 0.7152,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1451,14 +1530,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7777,
+        "recency": 0.7152,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1474,101 +1553,6 @@
         "url": "https://www.aibase.com/news/29880",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4275b12f720d",
-      "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f8876e9c0c5efaf40287973b338d2f80e7eb79e1",
-          "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T12:59:33.377000Z"
-        },
-        {
-          "id": "17ef619a19fb79704aa76e4c8698f5653e267ad4",
-          "title": "英特尔基于人工智能的预测显示，其复苏势头正在增强",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T22:35:30.555000Z"
-        },
-        {
-          "id": "13f1509fce711785f3e575025ec161c2ffae2d63",
-          "title": "英特尔股价飙升，因人工智能数据中心业务增长提振了销售预期",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:43:33.304000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "f8876e9c0c5efaf40287973b338d2f80e7eb79e1",
-          "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T12:59:33.377000Z"
-        },
-        {
-          "id": "17ef619a19fb79704aa76e4c8698f5653e267ad4",
-          "title": "英特尔基于人工智能的预测显示，其复苏势头正在增强",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T22:35:30.555000Z"
-        },
-        {
-          "id": "13f1509fce711785f3e575025ec161c2ffae2d63",
-          "title": "英特尔股价飙升，因人工智能数据中心业务增长提振了销售预期",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:43:33.304000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.549,
-      "importance": 0.549,
-      "importance_score": 0.549,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8802,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-23T20:43:33.304000Z",
-      "latest_at": "2026-07-24T12:59:33.377000Z",
-      "primary_item": {
-        "id": "f8876e9c0c5efaf40287973b338d2f80e7eb79e1",
-        "title": "英特尔的业绩复苏得益于需要其芯片的人工智能数据中心",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
       }
     }
   ]
