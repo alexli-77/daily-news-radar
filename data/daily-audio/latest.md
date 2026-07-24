@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月23日人工智能热点分享
-1、Apple 起诉 OpenAI 窃取硬件制造机密，Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行“展示”。
-2、Claude语音模式即将升级，重点是支持切换Opus和Sonnet更强模型，告别Haiku独撑局面。
-3、通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜，阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。
-4、昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本，昆仑万维CEO方汉在WAIC圆桌上指出，单纯堆砌Token消耗量无法衡量AI价值，模型能力需依赖Claude Code等Coding Agent建立的工程框架才能转化为生产力。
-5、国产端侧大模型第一次登上全球旗舰，重点是面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列。
-6、Alphabet发布最新财报，重点是AI功能推动谷歌搜索收入增长17%，月活突破10亿。
-7、DeepSeek梁文锋谈开源，重点是只赚 6 倍利润不加班，想赚 100 倍才会受制于开源。
-8、NTT DATA部署Codex，重点是5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI。
-9、OpenAI 为数据中心争取社区支持，重点是承诺不推高电费、用水量极低。
-10、一人薅羊毛致全县被电商拉黑，重点是男子用AI生成烂果图骗取1. 6 万元水果"仅退款"获刑一年。
+2026年7月24日人工智能热点分享
+1、Runway Agent 推出自然语言工作流功能，在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。
+2、蚂蚁百灵发布Ling-3.0-flash原生混合推理模型，蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。
+3、菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全。
+4、微软阐述开源模型助力美国竞争力路径，开放权重模型对健康的 AI 生态系统至关重要。
+5、FLUX 3 x mimic：新一代视频动作模型，Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。
+6、Google Q2 资本开支翻番破纪录，重点是449 亿美元砸向 AI 基建，云业务利润率几乎翻倍。
+7、小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产。
+8、德国黑森林实验室发布Flux3 多模态模型，重点是原生音频生成， 20 秒音视频同步输出。
+9、Kimi K3 攻防考卷翻车，重点是漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台。
+10、红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权。
 
 ## 原始链接
-1. Apple 起诉 OpenAI 窃取硬件制造机密（The Verge：AI（RSS）） - https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa
-2. Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面（AIbase） - https://www.aibase.com/news/29843
-3. 通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜（X：通义千问 / Qwen (@Alibaba_Qwen)） - https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq
-4. 昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本（公众号：昆仑万维（天工）） - https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm
-5. 国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列（AIbase） - https://www.aibase.com/news/29844
-6. Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿（AIbase） - https://www.aibase.com/news/29834
-7. DeepSeek梁文锋谈开源：只赚 6 倍利润不加班，想赚 100 倍才会受制于开源（AIbase） - https://www.aibase.com/news/29833
-8. NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI（AIbase） - https://www.aibase.com/news/29832
-9. OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低（AIbase） - https://www.aibase.com/news/29837
-10. 一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果"仅退款"获刑一年（AIbase） - https://www.aibase.com/news/29838
+1. Runway Agent 推出自然语言工作流功能（X：Runway (@runwayml)） - https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq
+2. 蚂蚁百灵发布Ling-3.0-flash原生混合推理模型（公众号：蚂蚁百灵（Ling）） - https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv
+3. 菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全（AIbase） - https://www.aibase.com/news/29878
+4. 微软阐述开源模型助力美国竞争力路径（X：Satya Nadella (@satyanadella)） - https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731
+5. FLUX 3 x mimic：新一代视频动作模型（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls
+6. Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍（AIbase） - https://www.aibase.com/news/29870
+7. 小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产（AIbase） - https://www.aibase.com/news/29875
+8. 德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出（AIbase） - https://www.aibase.com/news/29865
+9. Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台（AIbase） - https://www.aibase.com/news/29881
+10. 红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权（AIbase） - https://www.aibase.com/news/29879
