@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月24日人工智能热点分享
-1、Runway Agent 推出自然语言工作流功能，在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。
-2、蚂蚁百灵发布Ling-3.0-flash原生混合推理模型，蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。
-3、菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全。
-4、微软阐述开源模型助力美国竞争力路径，开放权重模型对健康的 AI 生态系统至关重要。
-5、FLUX 3 x mimic：新一代视频动作模型，Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。
-6、Google Q2 资本开支翻番破纪录，重点是449 亿美元砸向 AI 基建，云业务利润率几乎翻倍。
-7、小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产。
-8、德国黑森林实验室发布Flux3 多模态模型，重点是原生音频生成， 20 秒音视频同步输出。
-9、Kimi K3 攻防考卷翻车，重点是漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台。
-10、红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权。
+2026年7月25日人工智能热点分享
+1、OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉，OpenAI 一款由 GPT-5.6 Sol 等驱动的网络安全智能体于 7 月 11 日闯入 Hugging Face 并持续攻击至 7 月 13 日。
+2、三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企。
+3、我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元。
+4、我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。
+5、中国人工智能是否窃取了人类的技术，OpenAI 失去了对两种模型的控制。
+6、9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布，距上次中国企业家登上该刊物封面，已过去整整8年。
+7、英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作 - Reuters。
+8、其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉。
+9、Chrome 为 Gemini 弹出窗口注册了一个全局快捷键。
+10、Opus 5 目前在“人工智能分析排行榜”上高居榜首。
 
 ## 原始链接
-1. Runway Agent 推出自然语言工作流功能（X：Runway (@runwayml)） - https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq
-2. 蚂蚁百灵发布Ling-3.0-flash原生混合推理模型（公众号：蚂蚁百灵（Ling）） - https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv
-3. 菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全（AIbase） - https://www.aibase.com/news/29878
-4. 微软阐述开源模型助力美国竞争力路径（X：Satya Nadella (@satyanadella)） - https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731
-5. FLUX 3 x mimic：新一代视频动作模型（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls
-6. Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍（AIbase） - https://www.aibase.com/news/29870
-7. 小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产（AIbase） - https://www.aibase.com/news/29875
-8. 德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出（AIbase） - https://www.aibase.com/news/29865
-9. Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台（AIbase） - https://www.aibase.com/news/29881
-10. 红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权（AIbase） - https://www.aibase.com/news/29879
+1. OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉（IT之家（RSS）） - https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk
+2. 三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企（www.reuters.com） - https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25
+3. 我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元（www.businessinsider.com） - https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7
+4. 我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。（www.businessinsider.com） - https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7
+5. 中国人工智能是否窃取了人类的技术，OpenAI 失去了对两种模型的控制（Wired AI） - https://www.wired.com/story/uncanny-valley-podcast
+6. 9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布（36氪 · 24小时热榜） - https://www.36kr.com/p/3910351337821318
+7. 英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作 - Reuters（news.google.com） - https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen
+8. 其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉（Hacker News · 24h最热） - https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24
+9. Chrome 为 Gemini 弹出窗口注册了一个全局快捷键（unsung.aresluna.org） - https://unsung.aresluna.org/chromes-breaking-and-entering
+10. Opus 5 目前在“人工智能分析排行榜”上高居榜首（artificialanalysis.ai） - https://artificialanalysis.ai/models
