@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-25T20:25:56.411651Z",
+  "generated_at": "2026-07-25T21:23:04.819531Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0626-1611-b1f3-0c0186734897&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0626-1611-b1f3-0c0186734897&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0723-285b-bb0c-559805423ad9&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0723-285b-bb0c-559805423ad9&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "12d9547470593f03f8a090025766cd6ca6a33b1c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0723-285b-bb0c-559805423ad9&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "68ff068acb459ddcbc494508e89dcc55b3e7a166",
           "title": "点击这里进入 / Click here to enter",
@@ -156,12 +165,21 @@
           "published_at": null
         }
       ],
-      "source_count": 16,
+      "source_count": 17,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "12d9547470593f03f8a090025766cd6ca6a33b1c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0723-285b-bb0c-559805423ad9&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "68ff068acb459ddcbc494508e89dcc55b3e7a166",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0626-1611-b1f3-0c0186734897&fp=-3",
@@ -306,8 +324,8 @@
           "published_at": null
         }
       ],
-      "item_count": 16,
-      "duplicate_count": 16,
+      "item_count": 17,
+      "duplicate_count": 17,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -325,11 +343,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-24T21:34:10.272412Z",
-      "latest_at": "2026-07-25T20:25:56.411651Z",
+      "latest_at": "2026-07-25T21:23:04.819531Z",
       "primary_item": {
-        "id": "68ff068acb459ddcbc494508e89dcc55b3e7a166",
+        "id": "12d9547470593f03f8a090025766cd6ca6a33b1c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0626-1611-b1f3-0c0186734897&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0723-285b-bb0c-559805423ad9&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -369,20 +387,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7221,
+        "recency": 0.6825,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-25T13:45:50Z",
       "latest_at": "2026-07-25T13:45:50Z",
@@ -448,14 +465,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6763,
-      "importance": 0.6763,
-      "importance_score": 0.6763,
+      "score": 0.6683,
+      "importance": 0.6683,
+      "importance_score": 0.6683,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1964,
+        "recency": 0.1567,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -583,14 +600,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.61,
-      "importance": 0.61,
-      "importance_score": 0.61,
+      "score": 0.6021,
+      "importance": 0.6021,
+      "importance_score": 0.6021,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9352,
+        "recency": 0.8955,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -661,14 +678,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
+      "score": 0.5075,
+      "importance": 0.5075,
+      "importance_score": 0.5075,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.837,
+        "recency": 0.7973,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -739,14 +756,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8343,
+        "recency": 0.7946,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -817,14 +834,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
+      "score": 0.4922,
+      "importance": 0.4922,
+      "importance_score": 0.4922,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7605,
+        "recency": 0.7208,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -895,14 +912,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4881,
-      "importance": 0.4881,
-      "importance_score": 0.4881,
+      "score": 0.4802,
+      "importance": 0.4802,
+      "importance_score": 0.4802,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7006,
+        "recency": 0.661,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -973,14 +990,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4974,
-      "importance": 0.4974,
-      "importance_score": 0.4974,
+      "score": 0.4895,
+      "importance": 0.4895,
+      "importance_score": 0.4895,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7472,
+        "recency": 0.7075,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1068,14 +1085,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4666,
-      "importance": 0.4666,
-      "importance_score": 0.4666,
+      "score": 0.4586,
+      "importance": 0.4586,
+      "importance_score": 0.4586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4678,
+        "recency": 0.4281,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1146,14 +1163,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4659,
-      "importance": 0.4659,
-      "importance_score": 0.4659,
+      "score": 0.458,
+      "importance": 0.458,
+      "importance_score": 0.458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5897,
+        "recency": 0.55,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1224,14 +1241,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4234,
-      "importance": 0.4234,
-      "importance_score": 0.4234,
+      "score": 0.4155,
+      "importance": 0.4155,
+      "importance_score": 0.4155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3769,
+        "recency": 0.3373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1302,14 +1319,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4194,
-      "importance": 0.4194,
-      "importance_score": 0.4194,
+      "score": 0.4114,
+      "importance": 0.4114,
+      "importance_score": 0.4114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3568,
+        "recency": 0.3171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1380,14 +1397,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4637,
-      "importance": 0.4637,
-      "importance_score": 0.4637,
+      "score": 0.4558,
+      "importance": 0.4558,
+      "importance_score": 0.4558,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5784,
+        "recency": 0.5388,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,14 +1475,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3774,
-      "importance": 0.3774,
-      "importance_score": 0.3774,
+      "score": 0.3695,
+      "importance": 0.3695,
+      "importance_score": 0.3695,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.147,
+        "recency": 0.1073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1536,14 +1553,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3749,
-      "importance": 0.3749,
-      "importance_score": 0.3749,
+      "score": 0.367,
+      "importance": 0.367,
+      "importance_score": 0.367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1346,
+        "recency": 0.0949,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1633,14 +1650,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4048,
-      "importance": 0.4048,
-      "importance_score": 0.4048,
+      "score": 0.3968,
+      "importance": 0.3968,
+      "importance_score": 0.3968,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1589,
+        "recency": 0.1192,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1711,14 +1728,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3705,
-      "importance": 0.3705,
-      "importance_score": 0.3705,
+      "score": 0.3625,
+      "importance": 0.3625,
+      "importance_score": 0.3625,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1124,
+        "recency": 0.0727,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1732,84 +1749,6 @@
         "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
         "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
         "source": "unsung.aresluna.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_70081e2eda02",
-      "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-      "primary_url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bde7dca708f78b7594938bb6be1c196a0a8a9a49",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T21:47:42.345000Z"
-        },
-        {
-          "id": "91ad81f7fa941cd2b198dfb3408c76cd919985e2",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃 / Anthropic's Opus 5 is about token efficiency, not a capability leap",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T21:05:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "bde7dca708f78b7594938bb6be1c196a0a8a9a49",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T21:47:42.345000Z"
-        },
-        {
-          "id": "91ad81f7fa941cd2b198dfb3408c76cd919985e2",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃 / Anthropic's Opus 5 is about token efficiency, not a capability leap",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T21:05:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3594,
-      "importance": 0.3594,
-      "importance_score": 0.3594,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0568,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T21:05:51Z",
-      "latest_at": "2026-07-24T21:47:42.345000Z",
-      "primary_item": {
-        "id": "bde7dca708f78b7594938bb6be1c196a0a8a9a49",
-        "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-        "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-        "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     },
@@ -1867,14 +1806,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3594,
-      "importance": 0.3594,
-      "importance_score": 0.3594,
+      "score": 0.3514,
+      "importance": 0.3514,
+      "importance_score": 0.3514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0568,
+        "recency": 0.0171,
         "story_heat": 0.25
       },
       "category": "watch",
