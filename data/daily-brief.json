@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-25T11:58:09.810100Z",
+  "generated_at": "2026-07-25T13:25:22.182335Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2158-3156-88c4-130946a1faf0&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-2158-3156-88c4-130946a1faf0&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2325-461e-af63-4a0fddeb7614&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-2325-461e-af63-4a0fddeb7614&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "6aeb635d01df27a8e3416d4c960e0e13122f5938",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2325-461e-af63-4a0fddeb7614&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "31a14e00b9113bc3056d3ff1114d76e3786dfbba",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "b233029e4f943c9ad683b8b246f3afed1216c2ff",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0019-4278-867d-1fad928e257d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "be97e5ddf8e7323e18f8e9225ea1a409586ffa20",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2214-46a8-b4c9-54e7b7c84371&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "6aeb635d01df27a8e3416d4c960e0e13122f5938",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2325-461e-af63-4a0fddeb7614&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "31a14e00b9113bc3056d3ff1114d76e3786dfbba",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2158-3156-88c4-130946a1faf0&fp=-3",
@@ -273,15 +282,6 @@
           "id": "b233029e4f943c9ad683b8b246f3afed1216c2ff",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0019-4278-867d-1fad928e257d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "be97e5ddf8e7323e18f8e9225ea1a409586ffa20",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2214-46a8-b4c9-54e7b7c84371&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T12:14:18.589277Z",
-      "latest_at": "2026-07-25T11:58:09.810100Z",
+      "earliest_at": "2026-07-24T14:19:07.513771Z",
+      "latest_at": "2026-07-25T13:25:22.182335Z",
       "primary_item": {
-        "id": "31a14e00b9113bc3056d3ff1114d76e3786dfbba",
+        "id": "6aeb635d01df27a8e3416d4c960e0e13122f5938",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2158-3156-88c4-130946a1faf0&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2325-461e-af63-4a0fddeb7614&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -370,14 +370,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.549,
+        "recency": 0.4885,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -393,163 +393,6 @@
         "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_67c184ed18ef",
-      "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T16:40:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T16:40:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.1958,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T16:40:04Z",
-      "latest_at": "2026-07-24T16:40:04Z",
-      "primary_item": {
-        "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-        "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1a80d0c28a4d",
-      "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-      "primary_url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-      "source": "www.alexhyett.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "www.alexhyett.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T11:07:01.937000Z"
-        },
-        {
-          "id": "b0a51e30625f00ea877d8b3ad99c12e742d69c45",
-          "title": "我尝试用人工智能构建一个真正的应用程序。花了一年的时间 / I Tried Building a Real App with AI. It Took a Year",
-          "url": "https://news.ycombinator.com/item?id=49034342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T14:06:05.677000Z"
-        },
-        {
-          "id": "ec716d2644b0134b2a8872c55b3075a33a5a3ae6",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间 / I Tried Building a Real App with AI. It Took a Year",
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T12:00:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.alexhyett.com"
-      ],
-      "items": [
-        {
-          "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "www.alexhyett.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T11:07:01.937000Z"
-        },
-        {
-          "id": "b0a51e30625f00ea877d8b3ad99c12e742d69c45",
-          "title": "我尝试用人工智能构建一个真正的应用程序。花了一年的时间 / I Tried Building a Real App with AI. It Took a Year",
-          "url": "https://news.ycombinator.com/item?id=49034342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T14:06:05.677000Z"
-        },
-        {
-          "id": "ec716d2644b0134b2a8872c55b3075a33a5a3ae6",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间 / I Tried Building a Real App with AI. It Took a Year",
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T12:00:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5659,
-      "importance": 0.5659,
-      "importance_score": 0.5659,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9645,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T12:00:17Z",
-      "latest_at": "2026-07-25T11:07:01.937000Z",
-      "primary_item": {
-        "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
-        "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-        "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-        "source": "www.alexhyett.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -623,14 +466,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8204,
+        "recency": 0.7598,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -701,14 +544,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9423,
+        "recency": 0.8818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -779,14 +622,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9311,
+        "recency": 0.8705,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -856,14 +699,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
+      "score": 0.4872,
+      "importance": 0.4872,
+      "importance_score": 0.4872,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.2464,
+        "recency": 0.1859,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,14 +777,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4939,
-      "importance": 0.4939,
-      "importance_score": 0.4939,
+      "score": 0.4818,
+      "importance": 0.4818,
+      "importance_score": 0.4818,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7296,
+        "recency": 0.669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1012,14 +855,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4899,
-      "importance": 0.4899,
-      "importance_score": 0.4899,
+      "score": 0.4778,
+      "importance": 0.4778,
+      "importance_score": 0.4778,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7094,
+        "recency": 0.6489,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1109,14 +952,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4753,
-      "importance": 0.4753,
-      "importance_score": 0.4753,
+      "score": 0.4632,
+      "importance": 0.4632,
+      "importance_score": 0.4632,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5115,
+        "recency": 0.4509,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1206,14 +1049,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.466,
-      "importance": 0.466,
-      "importance_score": 0.466,
+      "score": 0.4539,
+      "importance": 0.4539,
+      "importance_score": 0.4539,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.465,
+        "recency": 0.4044,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1284,14 +1127,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4544,
-      "importance": 0.4544,
-      "importance_score": 0.4544,
+      "score": 0.4422,
+      "importance": 0.4422,
+      "importance_score": 0.4422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5318,
+        "recency": 0.4712,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1362,14 +1205,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4479,
-      "importance": 0.4479,
-      "importance_score": 0.4479,
+      "score": 0.4358,
+      "importance": 0.4358,
+      "importance_score": 0.4358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4996,
+        "recency": 0.4391,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1440,14 +1283,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4454,
-      "importance": 0.4454,
-      "importance_score": 0.4454,
+      "score": 0.4333,
+      "importance": 0.4333,
+      "importance_score": 0.4333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4872,
+        "recency": 0.4267,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1517,14 +1360,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4722,
-      "importance": 0.4722,
-      "importance_score": 0.4722,
+      "score": 0.4601,
+      "importance": 0.4601,
+      "importance_score": 0.4601,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6209,
+        "recency": 0.5603,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1595,14 +1438,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4299,
-      "importance": 0.4299,
-      "importance_score": 0.4299,
+      "score": 0.4178,
+      "importance": 0.4178,
+      "importance_score": 0.4178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4094,
+        "recency": 0.3488,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1637,27 +1480,28 @@
           "published_at": "2026-07-24T18:03:38.315000Z"
         },
         {
+          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
+          "title": "对 OpenAI 的流氓黑客代理故事持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://news.ycombinator.com/item?id=49038060",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T17:06:21.469000Z"
+        },
+        {
           "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
           "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "hackernews",
         "www.theguardian.com"
       ],
       "items": [
@@ -1671,41 +1515,41 @@
           "published_at": "2026-07-24T18:03:38.315000Z"
         },
         {
+          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
+          "title": "对 OpenAI 的流氓黑客代理故事持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://news.ycombinator.com/item?id=49038060",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T17:06:21.469000Z"
+        },
+        {
           "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
           "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4238,
-      "importance": 0.4238,
-      "importance_score": 0.4238,
+      "score": 0.4116,
+      "importance": 0.4116,
+      "importance_score": 0.4116,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2538,
+        "recency": 0.1932,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T13:15:35.524000Z",
+      "earliest_at": "2026-07-24T16:33:31Z",
       "latest_at": "2026-07-24T18:03:38.315000Z",
       "primary_item": {
         "id": "b7cee266358674bbfa115907e1fa668565616cbb",
@@ -1788,14 +1632,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4171,
-      "importance": 0.4171,
-      "importance_score": 0.4171,
+      "score": 0.405,
+      "importance": 0.405,
+      "importance_score": 0.405,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2204,
+        "recency": 0.1599,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1865,14 +1709,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.47,
-      "importance": 0.47,
-      "importance_score": 0.47,
+      "score": 0.4579,
+      "importance": 0.4579,
+      "importance_score": 0.4579,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6102,
+        "recency": 0.5496,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1887,6 +1731,162 @@
         "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_e7c943659275",
+      "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应",
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
+      "primary_url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c5ae713ed7127e5e1c33addb2305d9d675bd5a38",
+          "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应",
+          "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T21:47:42.349000Z"
+        },
+        {
+          "id": "aac4e194476f0b5a481661eca187184474336a73",
+          "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应 / Canadian legislator reads out apparent LLM response in floor speech",
+          "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T21:25:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "c5ae713ed7127e5e1c33addb2305d9d675bd5a38",
+          "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应",
+          "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T21:47:42.349000Z"
+        },
+        {
+          "id": "aac4e194476f0b5a481661eca187184474336a73",
+          "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应 / Canadian legislator reads out apparent LLM response in floor speech",
+          "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T21:25:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4178,
+      "importance": 0.4178,
+      "importance_score": 0.4178,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3488,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T21:25:15Z",
+      "latest_at": "2026-07-24T21:47:42.349000Z",
+      "primary_item": {
+        "id": "c5ae713ed7127e5e1c33addb2305d9d675bd5a38",
+        "title": "加拿大议员在议会发言中宣读了一段看似由法律硕士（LLM）撰写的回应",
+        "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b6e4f42cca86",
+      "title": "克劳德 作品第5号",
+      "url": "https://www.anthropic.com/claude-opus-5-system-card",
+      "primary_url": "https://www.anthropic.com/claude-opus-5-system-card",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
+          "title": "克劳德 作品第5号",
+          "url": "https://www.anthropic.com/claude-opus-5-system-card",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T17:15:36.658000Z"
+        },
+        {
+          "id": "fab13a4cfb79df939be7756399127acb0b3182d0",
+          "title": "克劳德 作品第5号 / Claude Opus 5",
+          "url": "https://www.anthropic.com/claude-opus-5-system-card",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:57:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
+          "title": "克劳德 作品第5号",
+          "url": "https://www.anthropic.com/claude-opus-5-system-card",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T17:15:36.658000Z"
+        },
+        {
+          "id": "fab13a4cfb79df939be7756399127acb0b3182d0",
+          "title": "克劳德 作品第5号 / Claude Opus 5",
+          "url": "https://www.anthropic.com/claude-opus-5-system-card",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:57:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.38,
+      "importance": 0.38,
+      "importance_score": 0.38,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1599,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T16:57:41Z",
+      "latest_at": "2026-07-24T17:15:36.658000Z",
+      "primary_item": {
+        "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
+        "title": "克劳德 作品第5号",
+        "url": "https://www.anthropic.com/claude-opus-5-system-card",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
       }
     }
   ]
