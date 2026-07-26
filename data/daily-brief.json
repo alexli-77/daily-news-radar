@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-26T16:51:06.029400Z",
+  "generated_at": "2026-07-26T17:56:00.768388Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0251-2398-9b4e-a03d6ece4f6c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0251-2398-9b4e-a03d6ece4f6c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0356-228a-893b-5828d23e5277&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0356-228a-893b-5828d23e5277&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "067e7566a7662fc1ef99878753a80e68003a01f3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0356-228a-893b-5828d23e5277&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f6095df30ff08a178fe984df77f88a44eba16e94",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "5e1d03399118e1f08947bfcd50474e765b12bdf4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0358-245d-91ff-3363b83b2408&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "2a119d87badee0d6ecaf7de7fa6ac6ad74bcd5c1",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0258-28a6-9b8a-5d37777f2c51&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "067e7566a7662fc1ef99878753a80e68003a01f3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0356-228a-893b-5828d23e5277&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f6095df30ff08a178fe984df77f88a44eba16e94",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0251-2398-9b4e-a03d6ece4f6c&fp=-3",
@@ -291,15 +300,6 @@
           "id": "5e1d03399118e1f08947bfcd50474e765b12bdf4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0358-245d-91ff-3363b83b2408&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "2a119d87badee0d6ecaf7de7fa6ac6ad74bcd5c1",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0258-28a6-9b8a-5d37777f2c51&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T16:58:05.847951Z",
-      "latest_at": "2026-07-26T16:51:06.029400Z",
+      "earliest_at": "2026-07-25T17:58:05.234665Z",
+      "latest_at": "2026-07-26T17:56:00.768388Z",
       "primary_item": {
-        "id": "f6095df30ff08a178fe984df77f88a44eba16e94",
+        "id": "067e7566a7662fc1ef99878753a80e68003a01f3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0251-2398-9b4e-a03d6ece4f6c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0356-228a-893b-5828d23e5277&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -388,14 +388,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8357,
+        "recency": 0.7906,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -449,14 +449,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6561,
+        "recency": 0.611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -546,14 +546,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5718,
-      "importance": 0.5718,
-      "importance_score": 0.5718,
+      "score": 0.5628,
+      "importance": 0.5628,
+      "importance_score": 0.5628,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9491,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -571,79 +571,79 @@
       }
     },
     {
-      "story_id": "story_8a43a7c831c0",
-      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "story_id": "story_8a0d9544ac70",
+      "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://news.ycombinator.com/item?id=49059660",
+      "primary_url": "https://news.ycombinator.com/item?id=49059660",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
+          "published_at": "2026-07-26T17:56:25.193000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
+          "published_at": "2026-07-26T17:56:25.193000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9407,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:25:44.678000Z",
+      "earliest_at": "2026-07-26T16:23:56Z",
+      "latest_at": "2026-07-26T17:56:25.193000Z",
       "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-        "url": "https://news.ycombinator.com/item?id=49057877",
+        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+        "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+        "url": "https://news.ycombinator.com/item?id=49059660",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -702,14 +702,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.861,
+        "recency": 0.8159,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -724,6 +724,84 @@
         "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8a43a7c831c0",
+      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:25:44.678000Z"
+        },
+        {
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:25:44.678000Z"
+        },
+        {
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T15:25:44.678000Z",
+      "primary_item": {
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+        "url": "https://news.ycombinator.com/item?id=49057877",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -780,14 +858,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.4912,
+      "importance": 0.4912,
+      "importance_score": 0.4912,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7609,
+        "recency": 0.7158,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -877,14 +955,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4985,
-      "importance": 0.4985,
-      "importance_score": 0.4985,
+      "score": 0.4895,
+      "importance": 0.4895,
+      "importance_score": 0.4895,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6276,
+        "recency": 0.5825,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -899,84 +977,6 @@
         "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
         "source": "blog.cloudflare.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_840446b01cc7",
-      "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-      "url": "https://news.ycombinator.com/item?id=49056808",
-      "primary_url": "https://news.ycombinator.com/item?id=49056808",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "db852b13c90e745506275fffd4b9d1678359c687",
-          "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-          "url": "https://news.ycombinator.com/item?id=49056808",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T12:25:24.422000Z"
-        },
-        {
-          "id": "a1d8a74e183e5c010f3fedcbc77d7793f4688620",
-          "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-          "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T11:00:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "db852b13c90e745506275fffd4b9d1678359c687",
-          "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-          "url": "https://news.ycombinator.com/item?id=49056808",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T12:25:24.422000Z"
-        },
-        {
-          "id": "a1d8a74e183e5c010f3fedcbc77d7793f4688620",
-          "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-          "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T11:00:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5111,
-      "importance": 0.5111,
-      "importance_score": 0.5111,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8155,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T11:00:54Z",
-      "latest_at": "2026-07-26T12:25:24.422000Z",
-      "primary_item": {
-        "id": "db852b13c90e745506275fffd4b9d1678359c687",
-        "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-        "url": "https://news.ycombinator.com/item?id=49056808",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1033,14 +1033,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4713,
-      "importance": 0.4713,
-      "importance_score": 0.4713,
+      "score": 0.4623,
+      "importance": 0.4623,
+      "importance_score": 0.4623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6165,
+        "recency": 0.5714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,14 +1129,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4652,
-      "importance": 0.4652,
-      "importance_score": 0.4652,
+      "score": 0.4562,
+      "importance": 0.4562,
+      "importance_score": 0.4562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.461,
+        "recency": 0.4159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1226,14 +1226,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4652,
-      "importance": 0.4652,
-      "importance_score": 0.4652,
+      "score": 0.4562,
+      "importance": 0.4562,
+      "importance_score": 0.4562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.461,
+        "recency": 0.4159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1304,14 +1304,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4935,
-      "importance": 0.4935,
-      "importance_score": 0.4935,
+      "score": 0.4845,
+      "importance": 0.4845,
+      "importance_score": 0.4845,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7276,
+        "recency": 0.6825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1326,6 +1326,84 @@
         "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_840446b01cc7",
+      "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
+      "url": "https://news.ycombinator.com/item?id=49056808",
+      "primary_url": "https://news.ycombinator.com/item?id=49056808",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "db852b13c90e745506275fffd4b9d1678359c687",
+          "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
+          "url": "https://news.ycombinator.com/item?id=49056808",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T12:25:24.422000Z"
+        },
+        {
+          "id": "a1d8a74e183e5c010f3fedcbc77d7793f4688620",
+          "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
+          "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T11:00:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "db852b13c90e745506275fffd4b9d1678359c687",
+          "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
+          "url": "https://news.ycombinator.com/item?id=49056808",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T12:25:24.422000Z"
+        },
+        {
+          "id": "a1d8a74e183e5c010f3fedcbc77d7793f4688620",
+          "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
+          "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T11:00:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7704,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T11:00:54Z",
+      "latest_at": "2026-07-26T12:25:24.422000Z",
+      "primary_item": {
+        "id": "db852b13c90e745506275fffd4b9d1678359c687",
+        "title": "OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
+        "url": "https://news.ycombinator.com/item?id=49056808",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1401,14 +1479,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4652,
-      "importance": 0.4652,
-      "importance_score": 0.4652,
+      "score": 0.4562,
+      "importance": 0.4562,
+      "importance_score": 0.4562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.461,
+        "recency": 0.4159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1498,14 +1576,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4275,
-      "importance": 0.4275,
-      "importance_score": 0.4275,
+      "score": 0.4184,
+      "importance": 0.4184,
+      "importance_score": 0.4184,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2723,
+        "recency": 0.2272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1575,14 +1653,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4274,
-      "importance": 0.4274,
-      "importance_score": 0.4274,
+      "score": 0.4183,
+      "importance": 0.4183,
+      "importance_score": 0.4183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3968,
+        "recency": 0.3517,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1653,14 +1731,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.478,
-      "importance": 0.478,
-      "importance_score": 0.478,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6498,
+        "recency": 0.6048,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1731,14 +1809,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4168,
-      "importance": 0.4168,
-      "importance_score": 0.4168,
+      "score": 0.4078,
+      "importance": 0.4078,
+      "importance_score": 0.4078,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3439,
+        "recency": 0.2988,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1809,14 +1887,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3736,
-      "importance": 0.3736,
-      "importance_score": 0.3736,
+      "score": 0.3646,
+      "importance": 0.3646,
+      "importance_score": 0.3646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1281,
+        "recency": 0.083,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1831,83 +1909,6 @@
         "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
         "source": "claude.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bded7cfd2e34",
-      "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-      "url": "https://news.ycombinator.com/item?id=49050859",
-      "primary_url": "https://news.ycombinator.com/item?id=49050859",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:06:49.856000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:24:21.401000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:06:49.856000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:24:21.401000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4169,
-      "importance": 0.4169,
-      "importance_score": 0.4169,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3443,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T22:24:21.401000Z",
-      "latest_at": "2026-07-26T01:06:49.856000Z",
-      "primary_item": {
-        "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-        "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-        "url": "https://news.ycombinator.com/item?id=49050859",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
