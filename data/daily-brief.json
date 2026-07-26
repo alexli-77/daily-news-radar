@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-26T20:27:46.232028Z",
+  "generated_at": "2026-07-26T21:26:21.865266Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0628-06a5-8787-87cce4b1a05f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0628-06a5-8787-87cce4b1a05f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0726-425a-85cd-b66b1aa4657b&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0726-425a-85cd-b66b1aa4657b&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "168260b34a04208bdc3a0fdcbc044a69988994e5",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0726-425a-85cd-b66b1aa4657b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "db21a8a12990cb8fe9a7c853e55d5a9c03e82d68",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "d44469784a9f1cf702816fb3f648394c15def086",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0824-18e3-b6ed-9a2343ca1819&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "12d9547470593f03f8a090025766cd6ca6a33b1c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0723-285b-bb0c-559805423ad9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "168260b34a04208bdc3a0fdcbc044a69988994e5",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0726-425a-85cd-b66b1aa4657b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "db21a8a12990cb8fe9a7c853e55d5a9c03e82d68",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0628-06a5-8787-87cce4b1a05f&fp=-3",
@@ -273,15 +282,6 @@
           "id": "d44469784a9f1cf702816fb3f648394c15def086",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0824-18e3-b6ed-9a2343ca1819&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "12d9547470593f03f8a090025766cd6ca6a33b1c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0723-285b-bb0c-559805423ad9&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T21:23:04.819531Z",
-      "latest_at": "2026-07-26T20:27:46.232028Z",
+      "earliest_at": "2026-07-25T22:23:57.154945Z",
+      "latest_at": "2026-07-26T21:26:21.865266Z",
       "primary_item": {
-        "id": "db21a8a12990cb8fe9a7c853e55d5a9c03e82d68",
+        "id": "168260b34a04208bdc3a0fdcbc044a69988994e5",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0628-06a5-8787-87cce4b1a05f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0726-425a-85cd-b66b1aa4657b&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -351,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9074,
+        "recency": 0.8667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -430,14 +430,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6852,
+        "recency": 0.6445,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -474,15 +474,6 @@
           "published_at": "2026-07-26T16:42:46.682000Z"
         },
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
-        },
-        {
           "id": "c420b97dddbb2bb19ee965c074fa5cb6f4d9e28d",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / London Gatwick has launched a robotic airport parking service",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
@@ -501,12 +492,11 @@
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
-        "aerospaceglobalnews.com",
-        "hackernews"
+        "aerospaceglobalnews.com"
       ],
       "items": [
         {
@@ -519,15 +509,6 @@
           "published_at": "2026-07-26T16:42:46.682000Z"
         },
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
-        },
-        {
           "id": "c420b97dddbb2bb19ee965c074fa5cb6f4d9e28d",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / London Gatwick has launched a robotic airport parking service",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
@@ -546,17 +527,17 @@
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5668,
-      "importance": 0.5668,
-      "importance_score": 0.5668,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8438,
-        "story_heat": 0.75
+        "recency": 0.8031,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -626,14 +607,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8949,
+        "recency": 0.8542,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -704,14 +685,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5153,
+      "importance": 0.5153,
+      "importance_score": 0.5153,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8772,
+        "recency": 0.8365,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -730,7 +711,7 @@
     },
     {
       "story_id": "story_94d030042966",
-      "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+      "title": "推动代币转售商和欺诈行为的接力市场 / An Inside Look at the Token Reseller Market",
       "url": "https://vectoral.com/blog/token-relay-market",
       "primary_url": "https://vectoral.com/blog/token-relay-market",
       "source": "Hacker News · 24h最热",
@@ -738,7 +719,7 @@
       "sources": [
         {
           "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
-          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "title": "推动代币转售商和欺诈行为的接力市场 / An Inside Look at the Token Reseller Market",
           "url": "https://vectoral.com/blog/token-relay-market",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -747,7 +728,7 @@
         },
         {
           "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
-          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "title": "推动代币转售商和欺诈行为的接力市场 / The relay market powering token resellers and fraud",
           "url": "https://vectoral.com/blog/token-relay-market",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -762,7 +743,7 @@
       "items": [
         {
           "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
-          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "title": "推动代币转售商和欺诈行为的接力市场 / An Inside Look at the Token Reseller Market",
           "url": "https://vectoral.com/blog/token-relay-market",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -771,7 +752,7 @@
         },
         {
           "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
-          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "title": "推动代币转售商和欺诈行为的接力市场 / The relay market powering token resellers and fraud",
           "url": "https://vectoral.com/blog/token-relay-market",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -781,14 +762,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5049,
-      "importance": 0.5049,
-      "importance_score": 0.5049,
+      "score": 0.4967,
+      "importance": 0.4967,
+      "importance_score": 0.4967,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7843,
+        "recency": 0.7436,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -799,7 +780,7 @@
       "latest_at": "2026-07-26T15:17:06Z",
       "primary_item": {
         "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
-        "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+        "title": "推动代币转售商和欺诈行为的接力市场 / An Inside Look at the Token Reseller Market",
         "url": "https://vectoral.com/blog/token-relay-market",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -859,14 +840,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4901,
-      "importance": 0.4901,
-      "importance_score": 0.4901,
+      "score": 0.482,
+      "importance": 0.482,
+      "importance_score": 0.482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7105,
+        "recency": 0.6698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -937,14 +918,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.4979,
+      "importance": 0.4979,
+      "importance_score": 0.4979,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7903,
+        "recency": 0.7496,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1015,14 +996,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4701,
-      "importance": 0.4701,
-      "importance_score": 0.4701,
+      "score": 0.462,
+      "importance": 0.462,
+      "importance_score": 0.462,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6105,
+        "recency": 0.5698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1112,14 +1093,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4684,
-      "importance": 0.4684,
-      "importance_score": 0.4684,
+      "score": 0.4603,
+      "importance": 0.4603,
+      "importance_score": 0.4603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4772,
+        "recency": 0.4365,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1190,14 +1171,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4412,
-      "importance": 0.4412,
-      "importance_score": 0.4412,
+      "score": 0.4331,
+      "importance": 0.4331,
+      "importance_score": 0.4331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4661,
+        "recency": 0.4254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1268,14 +1249,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4634,
-      "importance": 0.4634,
-      "importance_score": 0.4634,
+      "score": 0.4553,
+      "importance": 0.4553,
+      "importance_score": 0.4553,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5771,
+        "recency": 0.5364,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1346,14 +1327,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.481,
-      "importance": 0.481,
-      "importance_score": 0.481,
+      "score": 0.4729,
+      "importance": 0.4729,
+      "importance_score": 0.4729,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.665,
+        "recency": 0.6243,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1443,14 +1424,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4351,
-      "importance": 0.4351,
-      "importance_score": 0.4351,
+      "score": 0.427,
+      "importance": 0.427,
+      "importance_score": 0.427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3105,
+        "recency": 0.2698,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1464,181 +1445,6 @@
         "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
         "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
         "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_81e43f035001",
-      "title": "Claude 5 生成模型的上下文工程新规则",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:24:21.401000Z"
-        },
-        {
-          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:24:21.401000Z"
-        },
-        {
-          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.3974,
-      "importance": 0.3974,
-      "importance_score": 0.3974,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1218,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T23:23:09.413000Z",
-      "primary_item": {
-        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-        "title": "Claude 5 生成模型的上下文工程新规则",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "source": "claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_40b66364c786",
-      "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T02:18:54.069000Z"
-        },
-        {
-          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T20:59:11.659000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T02:18:54.069000Z"
-        },
-        {
-          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
-          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T20:59:11.659000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3968,
-      "importance": 0.3968,
-      "importance_score": 0.3968,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2438,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:59:11.659000Z",
-      "latest_at": "2026-07-26T02:18:54.069000Z",
-      "primary_item": {
-        "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
-        "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
@@ -1696,14 +1502,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4479,
-      "importance": 0.4479,
-      "importance_score": 0.4479,
+      "score": 0.4397,
+      "importance": 0.4397,
+      "importance_score": 0.4397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4994,
+        "recency": 0.4587,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1774,14 +1580,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3867,
-      "importance": 0.3867,
-      "importance_score": 0.3867,
+      "score": 0.3786,
+      "importance": 0.3786,
+      "importance_score": 0.3786,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1934,
+        "recency": 0.1528,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1851,14 +1657,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3973,
-      "importance": 0.3973,
-      "importance_score": 0.3973,
+      "score": 0.3891,
+      "importance": 0.3891,
+      "importance_score": 0.3891,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2463,
+        "recency": 0.2056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1873,6 +1679,83 @@
         "url": "https://golfcoursebrowser.com",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_bded7cfd2e34",
+      "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+      "url": "https://news.ycombinator.com/item?id=49050859",
+      "primary_url": "https://news.ycombinator.com/item?id=49050859",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T01:06:49.856000Z"
+        },
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T22:24:21.401000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T01:06:49.856000Z"
+        },
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T22:24:21.401000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3786,
+      "importance": 0.3786,
+      "importance_score": 0.3786,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1531,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T22:24:21.401000Z",
+      "latest_at": "2026-07-26T01:06:49.856000Z",
+      "primary_item": {
+        "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+        "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+        "url": "https://news.ycombinator.com/item?id=49050859",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
