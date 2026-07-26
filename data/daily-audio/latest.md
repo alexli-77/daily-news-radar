@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月25日人工智能热点分享
-1、OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉，OpenAI 一款由 GPT-5.6 Sol 等驱动的网络安全智能体于 7 月 11 日闯入 Hugging Face 并持续攻击至 7 月 13 日。
-2、三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企。
-3、我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元。
-4、我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。
-5、中国人工智能是否窃取了人类的技术，OpenAI 失去了对两种模型的控制。
-6、9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布，距上次中国企业家登上该刊物封面，已过去整整8年。
-7、英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作 - Reuters。
-8、其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉。
-9、Chrome 为 Gemini 弹出窗口注册了一个全局快捷键。
-10、Opus 5 目前在“人工智能分析排行榜”上高居榜首。
+2026年7月26日人工智能热点分享
+1、数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南，2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。
+2、Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token，开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。
+3、在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型，开发者成功在售价约 8 美元的 ESP32-S3 微控制器上运行了一个 28.9M 参数的大语言模型，完全在芯片本地运行，无需连接服务器，生成速度约 9.5 tok/s。
+4、OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节。
+5、就业形势如何？区分人工智能的炒作与现实，这条新闻关注相关变化背后的原因和影响。
+6、Cloudflare 面向客户推出的全新 AI 流量管理选项。
+7、首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧。
+8、Debian 中 LLM 的应用，重点是三项提案。
+9、人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”。
+10、Inflect-Micro-v2，重点是仅需936万个参数即可实现完整的语音模型。
 
 ## 原始链接
-1. OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉（IT之家（RSS）） - https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk
-2. 三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企（www.reuters.com） - https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25
-3. 我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元（www.businessinsider.com） - https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7
-4. 我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。（www.businessinsider.com） - https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7
-5. 中国人工智能是否窃取了人类的技术，OpenAI 失去了对两种模型的控制（Wired AI） - https://www.wired.com/story/uncanny-valley-podcast
-6. 9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布（36氪 · 24小时热榜） - https://www.36kr.com/p/3910351337821318
-7. 英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作 - Reuters（news.google.com） - https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen
-8. 其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉（Hacker News · 24h最热） - https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24
-9. Chrome 为 Gemini 弹出窗口注册了一个全局快捷键（unsung.aresluna.org） - https://unsung.aresluna.org/chromes-breaking-and-entering
-10. Opus 5 目前在“人工智能分析排行榜”上高居榜首（artificialanalysis.ai） - https://artificialanalysis.ai/models
+1. 数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南（The Decoder） - https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q
+2. Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token（IT之家（RSS）） - https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p
+3. 在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3
+4. OpenAI 模型留下了有关如何逃避收容的注释；我们需要更多细节（hackernews） - https://news.ycombinator.com/item?id=49056808
+5. 就业形势如何？区分人工智能的炒作与现实（siepr.stanford.edu） - https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality
+6. Cloudflare 面向客户推出的全新 AI 流量管理选项（blog.cloudflare.com） - https://blog.cloudflare.com/content-independence-day-ai-options
+7. 首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧（www.businessinsider.com） - https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7
+8. Debian 中 LLM 的应用：三项提案（www.debian.org） - https://www.debian.org/vote/2026/vote_002
+9. 人工智能如何悄然成为恋爱关系中一个非正式的、且可能不受欢迎的“第三者”（www.businessinsider.com） - https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7
+10. Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型（huggingface.co） - https://huggingface.co/owensong/Inflect-Micro-v2
