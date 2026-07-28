@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-28T15:13:13.477013Z",
+  "generated_at": "2026-07-28T16:56:07.752728Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0113-4223-8f45-3018ab9e7f3a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-0113-4223-8f45-3018ab9e7f3a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0256-333a-b461-94ada39ab950&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-0256-333a-b461-94ada39ab950&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "96ac4714bbcb5a62bff1b5dfb534badac09a1bea",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0256-333a-b461-94ada39ab950&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "581b32c912b0be08ec306dba34067aa5e5ce4236",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "6d554900c339ebcedb8e4010334a7495916023b5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0315-583a-9a0c-98606b296f15&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b147ab47dc291cc533f02694649c5aa4462ed750",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0121-440e-9660-c9a35e683ee3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "96ac4714bbcb5a62bff1b5dfb534badac09a1bea",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0256-333a-b461-94ada39ab950&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "581b32c912b0be08ec306dba34067aa5e5ce4236",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0113-4223-8f45-3018ab9e7f3a&fp=-3",
@@ -237,15 +246,6 @@
           "id": "6d554900c339ebcedb8e4010334a7495916023b5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0315-583a-9a0c-98606b296f15&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b147ab47dc291cc533f02694649c5aa4462ed750",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0121-440e-9660-c9a35e683ee3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,59 +270,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T15:21:21.033919Z",
-      "latest_at": "2026-07-28T15:13:13.477013Z",
+      "earliest_at": "2026-07-27T17:15:35.189683Z",
+      "latest_at": "2026-07-28T16:56:07.752728Z",
       "primary_item": {
-        "id": "581b32c912b0be08ec306dba34067aa5e5ce4236",
+        "id": "96ac4714bbcb5a62bff1b5dfb534badac09a1bea",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0113-4223-8f45-3018ab9e7f3a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0256-333a-b461-94ada39ab950&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_85dd02699b25",
-      "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "source": "Hugging Face Blog",
+      "story_id": "story_d81cfe08f75c",
+      "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-          "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-          "source": "Hugging Face Blog",
+          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
+          "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T15:01:45Z"
+          "published_at": "2026-07-28T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-          "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-          "source": "Hugging Face Blog",
+          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
+          "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T15:01:45Z"
+          "published_at": "2026-07-28T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8924,
-      "importance": 0.8924,
-      "importance_score": 0.8924,
+      "score": 0.8652,
+      "importance": 0.8652,
+      "importance_score": 0.8652,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.992,
+        "ai_relevance": 0.91,
+        "recency": 0.961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,32 +331,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T15:01:45Z",
-      "latest_at": "2026-07-28T15:01:45Z",
+      "earliest_at": "2026-07-28T16:00:00Z",
+      "latest_at": "2026-07-28T16:00:00Z",
       "primary_item": {
-        "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-        "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-        "source": "Hugging Face Blog",
+        "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
+        "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6b5816a238e8",
-      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "story_id": "story_51a1d6122d7c",
+      "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+      "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+      "primary_url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
+          "published_at": "2026-07-28T14:55:31Z"
         }
       ],
       "source_count": 1,
@@ -365,25 +365,25 @@
       ],
       "items": [
         {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
+          "published_at": "2026-07-28T14:55:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.864,
+        "recency": 0.9162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,12 +392,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T11:57:19Z",
-      "latest_at": "2026-07-28T11:57:19Z",
+      "earliest_at": "2026-07-28T14:55:31Z",
+      "latest_at": "2026-07-28T14:55:31Z",
       "primary_item": {
-        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+        "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -475,14 +475,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7378,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -499,6 +499,187 @@
         "url": "https://www.aibase.com/news/29952",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7147cd5ad29d",
+      "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
+      "url": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr",
+      "primary_url": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr",
+      "source": "Google Blog：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aa0718127716691df9aaf72b9cacd76c6b4ffce4",
+          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
+          "url": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "aa0718127716691df9aaf72b9cacd76c6b4ffce4",
+          "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
+          "url": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.961,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T16:00:00Z",
+      "latest_at": "2026-07-28T16:00:00Z",
+      "primary_item": {
+        "id": "aa0718127716691df9aaf72b9cacd76c6b4ffce4",
+        "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
+        "url": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr",
+        "source": "Google Blog：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a0369549e938",
+      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+      "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+      "primary_url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "879aa755e3b6ea7aafcceba22e102a53ef428cf5",
+          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T15:21:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "879aa755e3b6ea7aafcceba22e102a53ef428cf5",
+          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T15:21:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9343,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T15:21:28Z",
+      "latest_at": "2026-07-28T15:21:28Z",
+      "primary_item": {
+        "id": "879aa755e3b6ea7aafcceba22e102a53ef428cf5",
+        "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+        "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6b5816a238e8",
+      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7925,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T11:57:19Z",
+      "latest_at": "2026-07-28T11:57:19Z",
+      "primary_item": {
+        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -536,14 +717,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9494,
+        "recency": 0.878,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -558,66 +739,6 @@
         "title": "Perplexity 推出 Windows 版个人电脑智能体",
         "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
         "source": "X：Perplexity (@perplexity_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fa0838f1622f",
-      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-      "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-      "primary_url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-      "source": "Google Blog：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
-          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
-          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9075,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T13:00:00Z",
-      "latest_at": "2026-07-28T13:00:00Z",
-      "primary_item": {
-        "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
-        "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-        "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-        "source": "Google Blog：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -675,14 +796,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7378,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -699,6 +820,66 @@
         "url": "https://www.aibase.com/news/29953",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fa0838f1622f",
+      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+      "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "primary_url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "source": "Google Blog：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
+          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
+          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.836,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T13:00:00Z",
+      "latest_at": "2026-07-28T13:00:00Z",
+      "primary_item": {
+        "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
+        "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+        "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+        "source": "Google Blog：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -755,21 +936,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6305,
+        "recency": 0.559,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T06:21:07Z",
       "latest_at": "2026-07-28T06:21:07Z",
@@ -816,20 +996,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7224,
+        "recency": 0.651,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T08:33:30Z",
       "latest_at": "2026-07-28T08:33:30Z",
@@ -838,126 +1017,6 @@
         "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
         "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4464a24ffd5f",
-      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4236,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T01:23:10Z",
-      "latest_at": "2026-07-28T01:23:10Z",
-      "primary_item": {
-        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_524972d29ee3",
-      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-      "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-      "primary_url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
-          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T04:57:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
-          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T04:57:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5722,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T04:57:13Z",
-      "latest_at": "2026-07-28T04:57:13Z",
-      "primary_item": {
-        "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
-        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-        "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -996,14 +1055,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,6 +1078,66 @@
         "url": "https://www.aibase.com/news/29947",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4464a24ffd5f",
+      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T01:23:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T01:23:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.3521,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T01:23:10Z",
+      "latest_at": "2026-07-28T01:23:10Z",
+      "primary_item": {
+        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1056,14 +1175,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1116,14 +1235,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1139,85 +1258,6 @@
         "url": "https://www.aibase.com/news/29946",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d1a4495b2679",
-      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-      "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-      "primary_url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-      "source": "公众号：月之暗面（Kimi）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd39db3055ff2343dadc2d0ae0e889c988deec77",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:34:59Z"
-        },
-        {
-          "id": "7b9bd561c7939980c4b2e85699101d90480396dc",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "url": "https://wallstreetcn.com/livenews/3140420",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "公众号：月之暗面（Kimi）"
-      ],
-      "items": [
-        {
-          "id": "cd39db3055ff2343dadc2d0ae0e889c988deec77",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:34:59Z"
-        },
-        {
-          "id": "7b9bd561c7939980c4b2e85699101d90480396dc",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "url": "https://wallstreetcn.com/livenews/3140420",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.64,
-      "importance": 0.64,
-      "importance_score": 0.64,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0151,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T15:34:59Z",
-      "latest_at": "2026-07-27T17:15:35.189683Z",
-      "primary_item": {
-        "id": "cd39db3055ff2343dadc2d0ae0e889c988deec77",
-        "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-        "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-        "source": "公众号：月之暗面（Kimi）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1255,14 +1295,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1315,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1341,55 +1381,152 @@
       }
     },
     {
-      "story_id": "story_0b8bd289f271",
-      "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
-      "url": "https://news.ycombinator.com/item?id=49083132",
-      "primary_url": "https://news.ycombinator.com/item?id=49083132",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_4cc82f0ed3f8",
+      "title": "谷歌的“超越零”：人工智能时代的企业安全",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "primary_url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "source": "spawn-queue.acm.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "37d3b91aafbe025d55b1b22e0fed39b785f15486",
-          "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
-          "url": "https://news.ycombinator.com/item?id=49083132",
+          "id": "81f513282096a412b8c41fca1c67c73a4d64adda",
+          "title": "谷歌的“超越零”：人工智能时代的企业安全",
+          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+          "source": "spawn-queue.acm.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T16:25:32.895000Z"
+        },
+        {
+          "id": "70ef8a261cf3700d4bc7b4a6d20f65b4fb4dcaef",
+          "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
+          "url": "https://news.ycombinator.com/item?id=49081644",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-28T15:13:49.537000Z"
+          "published_at": "2026-07-28T12:21:25.149000Z"
         },
         {
-          "id": "f0a4b933ae369fc12f7224c803a25bfce9edf287",
-          "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
-          "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+          "id": "dad082a02ebba69f917ead3dfc5e39798b87183e",
+          "title": "谷歌的“超越零”：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
+          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-28T13:00:12Z"
+          "published_at": "2026-07-28T09:59:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "spawn-queue.acm.org"
+      ],
+      "items": [
+        {
+          "id": "81f513282096a412b8c41fca1c67c73a4d64adda",
+          "title": "谷歌的“超越零”：人工智能时代的企业安全",
+          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+          "source": "spawn-queue.acm.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T16:25:32.895000Z"
+        },
+        {
+          "id": "70ef8a261cf3700d4bc7b4a6d20f65b4fb4dcaef",
+          "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
+          "url": "https://news.ycombinator.com/item?id=49081644",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-28T12:21:25.149000Z"
+        },
+        {
+          "id": "dad082a02ebba69f917ead3dfc5e39798b87183e",
+          "title": "谷歌的“超越零”：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
+          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-28T09:59:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9788,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-28T09:59:13Z",
+      "latest_at": "2026-07-28T16:25:32.895000Z",
+      "primary_item": {
+        "id": "81f513282096a412b8c41fca1c67c73a4d64adda",
+        "title": "谷歌的“超越零”：人工智能时代的企业安全",
+        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+        "source": "spawn-queue.acm.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_84c6612c7ac0",
+      "title": "Kimi K3 架构笔记 / Kimi K3 Architecture Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "primary_url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ea1997d1987a360e9d88e7432154669c8acbfe4c",
+          "title": "Kimi K3 架构笔记 / Kimi K3 Architecture Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "339dee8f3048b9c359482a382c83522b996a0760",
+          "title": "Kimi K3 架构概述和注释 / Kimi K3 Architecture Overview and Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T15:48:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "37d3b91aafbe025d55b1b22e0fed39b785f15486",
-          "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
-          "url": "https://news.ycombinator.com/item?id=49083132",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T15:13:49.537000Z"
+          "id": "ea1997d1987a360e9d88e7432154669c8acbfe4c",
+          "title": "Kimi K3 架构笔记 / Kimi K3 Architecture Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f0a4b933ae369fc12f7224c803a25bfce9edf287",
-          "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
-          "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-28T13:00:12Z"
+          "id": "339dee8f3048b9c359482a382c83522b996a0760",
+          "title": "Kimi K3 架构概述和注释 / Kimi K3 Architecture Overview and Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T15:48:34Z"
         }
       ],
       "item_count": 2,
@@ -1408,171 +1545,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-28T13:00:12Z",
-      "latest_at": "2026-07-28T15:13:49.537000Z",
+      "earliest_at": "2026-07-28T15:48:34Z",
+      "latest_at": "2026-07-28T16:56:07.752728Z",
       "primary_item": {
-        "id": "37d3b91aafbe025d55b1b22e0fed39b785f15486",
-        "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
-        "url": "https://news.ycombinator.com/item?id=49083132",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_b812cea1bb1d",
-      "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊",
-      "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-      "primary_url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-      "source": "www.techspot.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "90a1a21d7b4a12ad9e4944e73894bd153fe9818b",
-          "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊",
-          "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T11:37:33.989000Z"
-        },
-        {
-          "id": "cd001daa7b47091eebaae2dcbd74ed2d5d094925",
-          "title": "教授隐形提示陷阱，抓住32/35学生用AI作弊 / Professor's invisible prompt trap catches 32/35 students cheating with AI",
-          "url": "https://news.ycombinator.com/item?id=49074680",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T21:18:55.369000Z"
-        },
-        {
-          "id": "c69b821b65c5b2a045aa814adcc2f94dda579031",
-          "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊 / Professor's invisible prompt trap catches 32/35 students cheating with AI",
-          "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-27T19:46:05Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.techspot.com"
-      ],
-      "items": [
-        {
-          "id": "90a1a21d7b4a12ad9e4944e73894bd153fe9818b",
-          "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊",
-          "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T11:37:33.989000Z"
-        },
-        {
-          "id": "cd001daa7b47091eebaae2dcbd74ed2d5d094925",
-          "title": "教授隐形提示陷阱，抓住32/35学生用AI作弊 / Professor's invisible prompt trap catches 32/35 students cheating with AI",
-          "url": "https://news.ycombinator.com/item?id=49074680",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T21:18:55.369000Z"
-        },
-        {
-          "id": "c69b821b65c5b2a045aa814adcc2f94dda579031",
-          "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊 / Professor's invisible prompt trap catches 32/35 students cheating with AI",
-          "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-27T19:46:05Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8502,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T19:46:05Z",
-      "latest_at": "2026-07-28T11:37:33.989000Z",
-      "primary_item": {
-        "id": "90a1a21d7b4a12ad9e4944e73894bd153fe9818b",
-        "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊",
-        "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-        "source": "www.techspot.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1abafd9198b3",
-      "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-      "url": "https://www.aibase.com/news/29941",
-      "primary_url": "https://www.aibase.com/news/29941",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
-          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-          "url": "https://www.aibase.com/news/29941",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T07:59:15.408467Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
-          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-          "url": "https://www.aibase.com/news/29941",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T07:59:15.408467Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6986,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T07:59:15.408467Z",
-      "latest_at": "2026-07-28T07:59:15.408467Z",
-      "primary_item": {
-        "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
-        "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-        "url": "https://www.aibase.com/news/29941",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "ea1997d1987a360e9d88e7432154669c8acbfe4c",
+        "title": "Kimi K3 架构笔记 / Kimi K3 Architecture Notes",
+        "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
