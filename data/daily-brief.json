@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-28T12:49:13.047214Z",
+  "generated_at": "2026-07-28T15:13:13.477013Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2249-4006-9d0c-c633c8103ba9&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-2249-4006-9d0c-c633c8103ba9&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0113-4223-8f45-3018ab9e7f3a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-0113-4223-8f45-3018ab9e7f3a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "581b32c912b0be08ec306dba34067aa5e5ce4236",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0113-4223-8f45-3018ab9e7f3a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f5ed20218a4340f0a00f22e15d910358607edac8",
           "title": "点击这里进入 / Click here to enter",
@@ -120,12 +129,21 @@
           "published_at": null
         }
       ],
-      "source_count": 12,
+      "source_count": 13,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "581b32c912b0be08ec306dba34067aa5e5ce4236",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0113-4223-8f45-3018ab9e7f3a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f5ed20218a4340f0a00f22e15d910358607edac8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2249-4006-9d0c-c633c8103ba9&fp=-3",
@@ -234,8 +252,8 @@
           "published_at": null
         }
       ],
-      "item_count": 12,
-      "duplicate_count": 12,
+      "item_count": 13,
+      "duplicate_count": 13,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -253,13 +271,135 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-27T15:21:21.033919Z",
-      "latest_at": "2026-07-28T12:49:13.047214Z",
+      "latest_at": "2026-07-28T15:13:13.477013Z",
       "primary_item": {
-        "id": "f5ed20218a4340f0a00f22e15d910358607edac8",
+        "id": "581b32c912b0be08ec306dba34067aa5e5ce4236",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2249-4006-9d0c-c633c8103ba9&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0113-4223-8f45-3018ab9e7f3a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_85dd02699b25",
+      "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
+          "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T15:01:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
+          "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T15:01:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8924,
+      "importance": 0.8924,
+      "importance_score": 0.8924,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.992,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T15:01:45Z",
+      "latest_at": "2026-07-28T15:01:45Z",
+      "primary_item": {
+        "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
+        "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6b5816a238e8",
+      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.864,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T11:57:19Z",
+      "latest_at": "2026-07-28T11:57:19Z",
+      "primary_item": {
+        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -335,14 +475,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8093,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -359,6 +499,126 @@
         "url": "https://www.aibase.com/news/29952",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3aeb789086e8",
+      "title": "Perplexity 推出 Windows 版个人电脑智能体",
+      "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+      "primary_url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "470341c583e506ce6548ef2fdbd22cf2be4f954d",
+          "title": "Perplexity 推出 Windows 版个人电脑智能体",
+          "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T14:00:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Perplexity (@perplexity_ai)"
+      ],
+      "items": [
+        {
+          "id": "470341c583e506ce6548ef2fdbd22cf2be4f954d",
+          "title": "Perplexity 推出 Windows 版个人电脑智能体",
+          "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T14:00:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9494,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T14:00:23Z",
+      "latest_at": "2026-07-28T14:00:23Z",
+      "primary_item": {
+        "id": "470341c583e506ce6548ef2fdbd22cf2be4f954d",
+        "title": "Perplexity 推出 Windows 版个人电脑智能体",
+        "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fa0838f1622f",
+      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+      "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "primary_url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "source": "Google Blog：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
+          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
+          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9075,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T13:00:00Z",
+      "latest_at": "2026-07-28T13:00:00Z",
+      "primary_item": {
+        "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
+        "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+        "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+        "source": "Google Blog：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -415,14 +675,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8093,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -495,14 +755,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.6305,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -518,6 +778,66 @@
         "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
         "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e85d5777eba9",
+      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+      "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+      "primary_url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7224,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T08:33:30Z",
+      "latest_at": "2026-07-28T08:33:30Z",
+      "primary_item": {
+        "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
+        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+        "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -556,14 +876,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5236,
+        "recency": 0.4236,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,66 +900,6 @@
         "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e85d5777eba9",
-      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-      "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-      "primary_url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8224,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T08:33:30Z",
-      "latest_at": "2026-07-28T08:33:30Z",
-      "primary_item": {
-        "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-        "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -677,14 +937,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6722,
+        "recency": 0.5722,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,14 +996,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -759,66 +1019,6 @@
         "url": "https://www.aibase.com/news/29947",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1fe7f694c616",
-      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3294,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T20:43:37Z",
-      "latest_at": "2026-07-27T20:43:37Z",
-      "primary_item": {
-        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -856,14 +1056,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -916,14 +1116,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -995,14 +1195,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.66,
-      "importance": 0.66,
-      "importance_score": 0.66,
+      "score": 0.64,
+      "importance": 0.64,
+      "importance_score": 0.64,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1151,
+        "recency": 0.0151,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1055,14 +1255,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,14 +1315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1138,6 +1338,84 @@
         "url": "https://www.aibase.com/news/29950",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0b8bd289f271",
+      "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
+      "url": "https://news.ycombinator.com/item?id=49083132",
+      "primary_url": "https://news.ycombinator.com/item?id=49083132",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "37d3b91aafbe025d55b1b22e0fed39b785f15486",
+          "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
+          "url": "https://news.ycombinator.com/item?id=49083132",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-28T15:13:49.537000Z"
+        },
+        {
+          "id": "f0a4b933ae369fc12f7224c803a25bfce9edf287",
+          "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
+          "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-28T13:00:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "37d3b91aafbe025d55b1b22e0fed39b785f15486",
+          "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
+          "url": "https://news.ycombinator.com/item?id=49083132",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-28T15:13:49.537000Z"
+        },
+        {
+          "id": "f0a4b933ae369fc12f7224c803a25bfce9edf287",
+          "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
+          "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-28T13:00:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-28T13:00:12Z",
+      "latest_at": "2026-07-28T15:13:49.537000Z",
+      "primary_item": {
+        "id": "37d3b91aafbe025d55b1b22e0fed39b785f15486",
+        "title": "人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?",
+        "url": "https://news.ycombinator.com/item?id=49083132",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1213,14 +1491,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9502,
+        "recency": 0.8502,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1272,14 +1550,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7986,
+        "recency": 0.6986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,300 +1573,6 @@
         "url": "https://www.aibase.com/news/29941",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3e5eebb5cae4",
-      "title": "拥抱脸/语音到语音 / huggingface /      speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "primary_url": "https://github.com/huggingface/speech-to-speech",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f51e771b66ee946a35d28f9b2e0025d78ee389a3",
-          "title": "拥抱脸/语音到语音 / huggingface /      speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T12:49:43.409000Z"
-        },
-        {
-          "id": "1efbd7fadf8275ccdb1fb40e0f1c24d51b8a836b",
-          "title": "拥抱脸/语音到语音 / huggingface / speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "f51e771b66ee946a35d28f9b2e0025d78ee389a3",
-          "title": "拥抱脸/语音到语音 / huggingface /      speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T12:49:43.409000Z"
-        },
-        {
-          "id": "1efbd7fadf8275ccdb1fb40e0f1c24d51b8a836b",
-          "title": "拥抱脸/语音到语音 / huggingface / speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-28T12:49:13.047214Z",
-      "latest_at": "2026-07-28T12:49:43.409000Z",
-      "primary_item": {
-        "id": "f51e771b66ee946a35d28f9b2e0025d78ee389a3",
-        "title": "拥抱脸/语音到语音 / huggingface /      speech-to-speech",
-        "url": "https://github.com/huggingface/speech-to-speech",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_4cc82f0ed3f8",
-      "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://news.ycombinator.com/item?id=49081644",
-      "primary_url": "https://news.ycombinator.com/item?id=49081644",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "70ef8a261cf3700d4bc7b4a6d20f65b4fb4dcaef",
-          "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-          "url": "https://news.ycombinator.com/item?id=49081644",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T12:21:25.149000Z"
-        },
-        {
-          "id": "dad082a02ebba69f917ead3dfc5e39798b87183e",
-          "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-28T09:59:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "70ef8a261cf3700d4bc7b4a6d20f65b4fb4dcaef",
-          "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-          "url": "https://news.ycombinator.com/item?id=49081644",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T12:21:25.149000Z"
-        },
-        {
-          "id": "dad082a02ebba69f917ead3dfc5e39798b87183e",
-          "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-28T09:59:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9807,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-28T09:59:13Z",
-      "latest_at": "2026-07-28T12:21:25.149000Z",
-      "primary_item": {
-        "id": "70ef8a261cf3700d4bc7b4a6d20f65b4fb4dcaef",
-        "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-        "url": "https://news.ycombinator.com/item?id=49081644",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d6be6c2878a2",
-      "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
-      "url": "https://www.aibase.com/news/29942",
-      "primary_url": "https://www.aibase.com/news/29942",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c57476fe556202489fa274f84cb492d60dc4a08",
-          "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
-          "url": "https://www.aibase.com/news/29942",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T07:59:15.408467Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3c57476fe556202489fa274f84cb492d60dc4a08",
-          "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
-          "url": "https://www.aibase.com/news/29942",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T07:59:15.408467Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7986,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T07:59:15.408467Z",
-      "latest_at": "2026-07-28T07:59:15.408467Z",
-      "primary_item": {
-        "id": "3c57476fe556202489fa274f84cb492d60dc4a08",
-        "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
-        "url": "https://www.aibase.com/news/29942",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0ac1c3a62d3b",
-      "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题",
-      "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-      "primary_url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "47e232b75e338ad23ede60d7261e9ff721f0e40b",
-          "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题",
-          "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T10:17:33.225000Z"
-        },
-        {
-          "id": "f9f8574f5530df8689c487e20bf44b77ce116755",
-          "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题 / Nvidia's growing web of AI deals has investors asking an uncomfortable question",
-          "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-28T09:50:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "47e232b75e338ad23ede60d7261e9ff721f0e40b",
-          "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题",
-          "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T10:17:33.225000Z"
-        },
-        {
-          "id": "f9f8574f5530df8689c487e20bf44b77ce116755",
-          "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题 / Nvidia's growing web of AI deals has investors asking an uncomfortable question",
-          "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-28T09:50:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8947,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-28T09:50:01Z",
-      "latest_at": "2026-07-28T10:17:33.225000Z",
-      "primary_item": {
-        "id": "47e232b75e338ad23ede60d7261e9ff721f0e40b",
-        "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题",
-        "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
