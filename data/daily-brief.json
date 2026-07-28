@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-28T05:28:05.997786Z",
+  "generated_at": "2026-07-28T07:59:15.408467Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1528-299b-9db9-83b2b391c6d2&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-1528-299b-9db9-83b2b391c6d2&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1759-3639-9f51-b3223e436abc&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-1759-3639-9f51-b3223e436abc&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "495812f55db13c146c8dc622c735e2b2d056562b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1759-3639-9f51-b3223e436abc&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "7f4d2c80832f14ec6a89b6681b35abfa63883a11",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "495812f55db13c146c8dc622c735e2b2d056562b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1759-3639-9f51-b3223e436abc&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "7f4d2c80832f14ec6a89b6681b35abfa63883a11",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1528-299b-9db9-83b2b391c6d2&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,13 +253,93 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-27T08:52:30.704880Z",
-      "latest_at": "2026-07-28T05:28:05.997786Z",
+      "latest_at": "2026-07-28T07:59:15.408467Z",
       "primary_item": {
-        "id": "7f4d2c80832f14ec6a89b6681b35abfa63883a11",
+        "id": "495812f55db13c146c8dc622c735e2b2d056562b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1528-299b-9db9-83b2b391c6d2&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1759-3639-9f51-b3223e436abc&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_f841a2fd8827",
+      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+      "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+      "primary_url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5b83b94ddcb84b83739e4da5b59bf1e1f2cd8d6d",
+          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T06:21:07Z"
+        },
+        {
+          "id": "5c3e7f6336ac63629db281971d76662f59496bb4",
+          "title": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T06:21:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5b83b94ddcb84b83739e4da5b59bf1e1f2cd8d6d",
+          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T06:21:07Z"
+        },
+        {
+          "id": "5c3e7f6336ac63629db281971d76662f59496bb4",
+          "title": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T06:21:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9318,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T06:21:07Z",
+      "latest_at": "2026-07-28T06:21:07Z",
+      "primary_item": {
+        "id": "5b83b94ddcb84b83739e4da5b59bf1e1f2cd8d6d",
+        "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+        "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -279,14 +377,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8299,
+        "recency": 0.7249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,21 +404,21 @@
       }
     },
     {
-      "story_id": "story_a200dd372db6",
-      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-      "url": "https://www.aibase.com/news/29934",
-      "primary_url": "https://www.aibase.com/news/29934",
+      "story_id": "story_1abafd9198b3",
+      "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+      "url": "https://www.aibase.com/news/29941",
+      "primary_url": "https://www.aibase.com/news/29941",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "497017980a6f12ca52c184fb969c297cea804980",
-          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "url": "https://www.aibase.com/news/29934",
+          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
+          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+          "url": "https://www.aibase.com/news/29941",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "source_count": 1,
@@ -329,13 +427,13 @@
       ],
       "items": [
         {
-          "id": "497017980a6f12ca52c184fb969c297cea804980",
-          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "url": "https://www.aibase.com/news/29934",
+          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
+          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+          "url": "https://www.aibase.com/news/29941",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "item_count": 1,
@@ -355,32 +453,92 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T05:28:05.997786Z",
-      "latest_at": "2026-07-28T05:28:05.997786Z",
+      "earliest_at": "2026-07-28T07:59:15.408467Z",
+      "latest_at": "2026-07-28T07:59:15.408467Z",
       "primary_item": {
-        "id": "497017980a6f12ca52c184fb969c297cea804980",
-        "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-        "url": "https://www.aibase.com/news/29934",
+        "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
+        "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+        "url": "https://www.aibase.com/news/29941",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_47ec1e877d34",
-      "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
-      "url": "https://www.aibase.com/news/29932",
-      "primary_url": "https://www.aibase.com/news/29932",
+      "story_id": "story_524972d29ee3",
+      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+      "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+      "primary_url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7867,
+      "importance": 0.7867,
+      "importance_score": 0.7867,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8736,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T04:57:13Z",
+      "latest_at": "2026-07-28T04:57:13Z",
+      "primary_item": {
+        "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
+        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d6be6c2878a2",
+      "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
+      "url": "https://www.aibase.com/news/29942",
+      "primary_url": "https://www.aibase.com/news/29942",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3f2d2e18254526b7773a46c1523da37b866f992e",
-          "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
-          "url": "https://www.aibase.com/news/29932",
+          "id": "3c57476fe556202489fa274f84cb492d60dc4a08",
+          "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
+          "url": "https://www.aibase.com/news/29942",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "source_count": 1,
@@ -389,13 +547,13 @@
       ],
       "items": [
         {
-          "id": "3f2d2e18254526b7773a46c1523da37b866f992e",
-          "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
-          "url": "https://www.aibase.com/news/29932",
+          "id": "3c57476fe556202489fa274f84cb492d60dc4a08",
+          "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
+          "url": "https://www.aibase.com/news/29942",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "item_count": 1,
@@ -415,12 +573,72 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T05:28:05.997786Z",
-      "latest_at": "2026-07-28T05:28:05.997786Z",
+      "earliest_at": "2026-07-28T07:59:15.408467Z",
+      "latest_at": "2026-07-28T07:59:15.408467Z",
       "primary_item": {
-        "id": "3f2d2e18254526b7773a46c1523da37b866f992e",
-        "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
-        "url": "https://www.aibase.com/news/29932",
+        "id": "3c57476fe556202489fa274f84cb492d60dc4a08",
+        "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
+        "url": "https://www.aibase.com/news/29942",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f8207de20d1f",
+      "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
+      "url": "https://www.aibase.com/news/29944",
+      "primary_url": "https://www.aibase.com/news/29944",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2091a6859c842bed84126eadaf9003361de8f115",
+          "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
+          "url": "https://www.aibase.com/news/29944",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T07:59:15.408467Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2091a6859c842bed84126eadaf9003361de8f115",
+          "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
+          "url": "https://www.aibase.com/news/29944",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T07:59:15.408467Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T07:59:15.408467Z",
+      "latest_at": "2026-07-28T07:59:15.408467Z",
+      "primary_item": {
+        "id": "2091a6859c842bed84126eadaf9003361de8f115",
+        "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
+        "url": "https://www.aibase.com/news/29944",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -460,14 +678,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6358,
+        "recency": 0.5308,
         "story_heat": 0.0
       },
       "category": "official",
@@ -521,20 +739,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7722,
+        "recency": 0.6672,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T00:00:00Z",
       "latest_at": "2026-07-28T00:00:00Z",
@@ -581,21 +798,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5222,
+        "recency": 0.4172,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T18:00:00Z",
       "latest_at": "2026-07-27T18:00:00Z",
@@ -642,20 +858,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7069,
+        "recency": 0.6019,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T22:26:00Z",
       "latest_at": "2026-07-27T22:26:00Z",
@@ -668,21 +883,21 @@
       }
     },
     {
-      "story_id": "story_a2df7a4bc08c",
-      "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
-      "url": "https://www.aibase.com/news/29935",
-      "primary_url": "https://www.aibase.com/news/29935",
+      "story_id": "story_5dc4cac17bb0",
+      "title": "印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标",
+      "url": "https://www.aibase.com/news/29945",
+      "primary_url": "https://www.aibase.com/news/29945",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
-          "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
-          "url": "https://www.aibase.com/news/29935",
+          "id": "1fec6c0dabdad899a8f493b2157d13cc8683f067",
+          "title": "印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标",
+          "url": "https://www.aibase.com/news/29945",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "source_count": 1,
@@ -691,13 +906,13 @@
       ],
       "items": [
         {
-          "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
-          "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
-          "url": "https://www.aibase.com/news/29935",
+          "id": "1fec6c0dabdad899a8f493b2157d13cc8683f067",
+          "title": "印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标",
+          "url": "https://www.aibase.com/news/29945",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "item_count": 1,
@@ -717,12 +932,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T05:28:05.997786Z",
-      "latest_at": "2026-07-28T05:28:05.997786Z",
+      "earliest_at": "2026-07-28T07:59:15.408467Z",
+      "latest_at": "2026-07-28T07:59:15.408467Z",
       "primary_item": {
-        "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
-        "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
-        "url": "https://www.aibase.com/news/29935",
+        "id": "1fec6c0dabdad899a8f493b2157d13cc8683f067",
+        "title": "印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标",
+        "url": "https://www.aibase.com/news/29945",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -762,21 +977,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4388,
+        "recency": 0.3338,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T16:00:00Z",
       "latest_at": "2026-07-27T16:00:00Z",
@@ -786,184 +1000,6 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0f38d4167132",
-      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-      "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-      "primary_url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "394282424a2f71e638a8a558bff87c45c2cd2e25",
-          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-          "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T19:08:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "394282424a2f71e638a8a558bff87c45c2cd2e25",
-          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-          "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T19:08:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.57,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T19:08:51Z",
-      "latest_at": "2026-07-27T19:08:51Z",
-      "primary_item": {
-        "id": "394282424a2f71e638a8a558bff87c45c2cd2e25",
-        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-        "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1d548210b78a",
-      "title": "Kimi 发布视觉感知基准 PerceptionBench",
-      "url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-      "primary_url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6741d797278bdc06aa4eb776e0d069852b3a30b1",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench",
-          "url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "6741d797278bdc06aa4eb776e0d069852b3a30b1",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench",
-          "url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5536,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T18:45:20Z",
-      "latest_at": "2026-07-27T18:45:20Z",
-      "primary_item": {
-        "id": "6741d797278bdc06aa4eb776e0d069852b3a30b1",
-        "title": "Kimi 发布视觉感知基准 PerceptionBench",
-        "url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_798011d5d867",
-      "title": "OpenAI 想把 ChatGPT 塞进你的眼镜：布罗克曼盯上可穿戴，API 仍是早期雏形",
-      "url": "https://www.aibase.com/news/29936",
-      "primary_url": "https://www.aibase.com/news/29936",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "32dc56e2f672f26fd576fcacac929f342fb7414b",
-          "title": "OpenAI 想把 ChatGPT 塞进你的眼镜：布罗克曼盯上可穿戴，API 仍是早期雏形",
-          "url": "https://www.aibase.com/news/29936",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "32dc56e2f672f26fd576fcacac929f342fb7414b",
-          "title": "OpenAI 想把 ChatGPT 塞进你的眼镜：布罗克曼盯上可穿戴，API 仍是早期雏形",
-          "url": "https://www.aibase.com/news/29936",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T05:28:05.997786Z",
-      "latest_at": "2026-07-28T05:28:05.997786Z",
-      "primary_item": {
-        "id": "32dc56e2f672f26fd576fcacac929f342fb7414b",
-        "title": "OpenAI 想把 ChatGPT 塞进你的眼镜：布罗克曼盯上可穿戴，API 仍是早期雏形",
-        "url": "https://www.aibase.com/news/29936",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1020,17 +1056,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
+      "score": 0.7003,
+      "importance": 0.7003,
+      "importance_score": 0.7003,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4214,
+        "recency": 0.3165,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1080,14 +1116,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.4809,
+        "recency": 0.3759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1107,21 +1143,21 @@
       }
     },
     {
-      "story_id": "story_004057815c3a",
-      "title": "TaiXu-Admin V0.1.2 发布：把 LLM、RAG 与 Agent 收进同一套管理后台",
-      "url": "https://www.aibase.com/news/29937",
-      "primary_url": "https://www.aibase.com/news/29937",
+      "story_id": "story_0c8588291aff",
+      "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+      "url": "https://www.aibase.com/news/29943",
+      "primary_url": "https://www.aibase.com/news/29943",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7e82e54e5e7bab64eb7f06da14e059947f1a5125",
-          "title": "TaiXu-Admin V0.1.2 发布：把 LLM、RAG 与 Agent 收进同一套管理后台",
-          "url": "https://www.aibase.com/news/29937",
+          "id": "906a2b7ee8aef1243dc650354068f7edc8dbdb8c",
+          "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+          "url": "https://www.aibase.com/news/29943",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "source_count": 1,
@@ -1130,13 +1166,13 @@
       ],
       "items": [
         {
-          "id": "7e82e54e5e7bab64eb7f06da14e059947f1a5125",
-          "title": "TaiXu-Admin V0.1.2 发布：把 LLM、RAG 与 Agent 收进同一套管理后台",
-          "url": "https://www.aibase.com/news/29937",
+          "id": "906a2b7ee8aef1243dc650354068f7edc8dbdb8c",
+          "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+          "url": "https://www.aibase.com/news/29943",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "item_count": 1,
@@ -1156,32 +1192,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T05:28:05.997786Z",
-      "latest_at": "2026-07-28T05:28:05.997786Z",
+      "earliest_at": "2026-07-28T07:59:15.408467Z",
+      "latest_at": "2026-07-28T07:59:15.408467Z",
       "primary_item": {
-        "id": "7e82e54e5e7bab64eb7f06da14e059947f1a5125",
-        "title": "TaiXu-Admin V0.1.2 发布：把 LLM、RAG 与 Agent 收进同一套管理后台",
-        "url": "https://www.aibase.com/news/29937",
+        "id": "906a2b7ee8aef1243dc650354068f7edc8dbdb8c",
+        "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+        "url": "https://www.aibase.com/news/29943",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_53b0603d5905",
-      "title": "安徽卫视播出国内首部全AI制作非遗剧《桃花潭记》，AIGC剧集登陆上星平台",
-      "url": "https://www.aibase.com/news/29933",
-      "primary_url": "https://www.aibase.com/news/29933",
+      "story_id": "story_c9a7dbabfc21",
+      "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+      "url": "https://www.aibase.com/news/29940",
+      "primary_url": "https://www.aibase.com/news/29940",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "677e78e7f1221df86f32e661269a4b91bea74e06",
-          "title": "安徽卫视播出国内首部全AI制作非遗剧《桃花潭记》，AIGC剧集登陆上星平台",
-          "url": "https://www.aibase.com/news/29933",
+          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
+          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+          "url": "https://www.aibase.com/news/29940",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "source_count": 1,
@@ -1190,13 +1226,13 @@
       ],
       "items": [
         {
-          "id": "677e78e7f1221df86f32e661269a4b91bea74e06",
-          "title": "安徽卫视播出国内首部全AI制作非遗剧《桃花潭记》，AIGC剧集登陆上星平台",
-          "url": "https://www.aibase.com/news/29933",
+          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
+          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+          "url": "https://www.aibase.com/news/29940",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "item_count": 1,
@@ -1216,32 +1252,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T05:28:05.997786Z",
-      "latest_at": "2026-07-28T05:28:05.997786Z",
+      "earliest_at": "2026-07-28T07:59:15.408467Z",
+      "latest_at": "2026-07-28T07:59:15.408467Z",
       "primary_item": {
-        "id": "677e78e7f1221df86f32e661269a4b91bea74e06",
-        "title": "安徽卫视播出国内首部全AI制作非遗剧《桃花潭记》，AIGC剧集登陆上星平台",
-        "url": "https://www.aibase.com/news/29933",
+        "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
+        "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+        "url": "https://www.aibase.com/news/29940",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_10e11d7674f9",
-      "title": "微软亮出首枚安全模型与智能体作战系统：MDASH 里绑着它，把 Gemini 和 GPT 甩在 Cyber Gym",
-      "url": "https://www.aibase.com/news/29930",
-      "primary_url": "https://www.aibase.com/news/29930",
+      "story_id": "story_18a06c36d615",
+      "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
+      "url": "https://www.aibase.com/news/29939",
+      "primary_url": "https://www.aibase.com/news/29939",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8952322714f646275aea760517a614b65a3c476f",
-          "title": "微软亮出首枚安全模型与智能体作战系统：MDASH 里绑着它，把 Gemini 和 GPT 甩在 Cyber Gym",
-          "url": "https://www.aibase.com/news/29930",
+          "id": "49610f2b6dbfb452934e713d2476ca4becb1c1db",
+          "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
+          "url": "https://www.aibase.com/news/29939",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "source_count": 1,
@@ -1250,13 +1286,13 @@
       ],
       "items": [
         {
-          "id": "8952322714f646275aea760517a614b65a3c476f",
-          "title": "微软亮出首枚安全模型与智能体作战系统：MDASH 里绑着它，把 Gemini 和 GPT 甩在 Cyber Gym",
-          "url": "https://www.aibase.com/news/29930",
+          "id": "49610f2b6dbfb452934e713d2476ca4becb1c1db",
+          "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
+          "url": "https://www.aibase.com/news/29939",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "item_count": 1,
@@ -1276,32 +1312,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T05:28:05.997786Z",
-      "latest_at": "2026-07-28T05:28:05.997786Z",
+      "earliest_at": "2026-07-28T07:59:15.408467Z",
+      "latest_at": "2026-07-28T07:59:15.408467Z",
       "primary_item": {
-        "id": "8952322714f646275aea760517a614b65a3c476f",
-        "title": "微软亮出首枚安全模型与智能体作战系统：MDASH 里绑着它，把 Gemini 和 GPT 甩在 Cyber Gym",
-        "url": "https://www.aibase.com/news/29930",
+        "id": "49610f2b6dbfb452934e713d2476ca4becb1c1db",
+        "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
+        "url": "https://www.aibase.com/news/29939",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6cbecdb1abc7",
-      "title": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元，深化AI算力合作",
-      "url": "https://www.aibase.com/news/29931",
-      "primary_url": "https://www.aibase.com/news/29931",
+      "story_id": "story_fa5d3f532a11",
+      "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
+      "url": "https://www.aibase.com/news/29938",
+      "primary_url": "https://www.aibase.com/news/29938",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e1645bfc72cb498d09854b73208a127653022bca",
-          "title": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元，深化AI算力合作",
-          "url": "https://www.aibase.com/news/29931",
+          "id": "5a7b9e8962065a5bf9e847f20df3655d0349843d",
+          "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
+          "url": "https://www.aibase.com/news/29938",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "source_count": 1,
@@ -1310,13 +1346,13 @@
       ],
       "items": [
         {
-          "id": "e1645bfc72cb498d09854b73208a127653022bca",
-          "title": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元，深化AI算力合作",
-          "url": "https://www.aibase.com/news/29931",
+          "id": "5a7b9e8962065a5bf9e847f20df3655d0349843d",
+          "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
+          "url": "https://www.aibase.com/news/29938",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T05:28:05.997786Z"
+          "published_at": "2026-07-28T07:59:15.408467Z"
         }
       ],
       "item_count": 1,
@@ -1336,92 +1372,72 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T05:28:05.997786Z",
-      "latest_at": "2026-07-28T05:28:05.997786Z",
+      "earliest_at": "2026-07-28T07:59:15.408467Z",
+      "latest_at": "2026-07-28T07:59:15.408467Z",
       "primary_item": {
-        "id": "e1645bfc72cb498d09854b73208a127653022bca",
-        "title": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元，深化AI算力合作",
-        "url": "https://www.aibase.com/news/29931",
+        "id": "5a7b9e8962065a5bf9e847f20df3655d0349843d",
+        "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
+        "url": "https://www.aibase.com/news/29938",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_88df13077375",
-      "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
-      "url": "https://www.aibase.com/news/29919",
-      "primary_url": "https://www.aibase.com/news/29919",
+      "story_id": "story_a200dd372db6",
+      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+      "url": "https://www.aibase.com/news/29934",
+      "primary_url": "https://www.aibase.com/news/29934",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9b44c55605a32459a796261ea59b593ee25da007",
-          "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
-          "url": "https://www.aibase.com/news/29919",
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "url": "https://www.aibase.com/news/29934",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T02:07:35.797319Z"
-        },
-        {
-          "id": "3f17f59817ea2011621069f2c35f837089a13ed3",
-          "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
-          "url": "https://www.aibase.com/zh/news/29919",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-28T05:28:05.997786Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9b44c55605a32459a796261ea59b593ee25da007",
-          "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
-          "url": "https://www.aibase.com/news/29919",
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "url": "https://www.aibase.com/news/29934",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T02:07:35.797319Z"
-        },
-        {
-          "id": "3f17f59817ea2011621069f2c35f837089a13ed3",
-          "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
-          "url": "https://www.aibase.com/zh/news/29919",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-28T05:28:05.997786Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8608,
-        "story_heat": 0.25
+        "recency": 0.895,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T02:07:35.797319Z",
-      "latest_at": "2026-07-28T02:07:35.797319Z",
+      "earliest_at": "2026-07-28T05:28:05.997786Z",
+      "latest_at": "2026-07-28T05:28:05.997786Z",
       "primary_item": {
-        "id": "9b44c55605a32459a796261ea59b593ee25da007",
-        "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
-        "url": "https://www.aibase.com/news/29919",
+        "id": "497017980a6f12ca52c184fb969c297cea804980",
+        "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "url": "https://www.aibase.com/news/29934",
         "source": "AIbase",
         "source_name": "AIbase"
       }
