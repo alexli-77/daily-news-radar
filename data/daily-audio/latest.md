@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月27日人工智能热点分享
-1、Claude分享链接配置翻车，重点是用户私钥、公司机密被Google公开收录。
-2、35 名大学生 32 人考试作弊，教授用一行"隐形咒语"让AI现原形。
-3、抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐。
-4、软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度。
-5、Claude 会话分享链接被搜索引擎"误抓"，大量含私钥与隐私的对话遭公开索引。
-6、GEO服务商迎来“效率革命”，重点是一套SaaS平台系统解决计费、交付、代理管理三大难题。
-7、Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入。
-8、Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行。
-9、OpenAI 首席执行官奥尔特曼泼冷水，重点是AI 救不了你的工时，超级智能时代人只会更忙。
-10、QQ宠物携AI大脑重生，重点是接入腾讯Hy3 大模型，这次真的会"回应"你。
+2026年7月28日人工智能热点分享
+1、火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力。
+2、谷歌AI搜索一年翻倍，重点是43%搜索结果现AI概览，传统网页正被"直接给答案"取代。
+3、"抱抱脸"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码，属于 AI 基础设施和算力成本相关信号。
+4、AI大模型将全面拥抱IPv6，雄安新区率先试点"单栈"网络。
+5、国产 GPU 也能跑万亿大模型，重点是海光 DCU 适配 Kimi K3，896 专家并行不卡顿。
+6、宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊。
+7、阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程。
+8、德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权，德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。
+9、GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理。
+10、Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%，Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。
 
 ## 原始链接
-1. Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录（AIbase） - https://www.aibase.com/news/29917
-2. 35 名大学生 32 人考试作弊，教授用一行"隐形咒语"让AI现原形（AIbase） - https://www.aibase.com/news/29916
-3. 抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐（AIbase） - https://www.aibase.com/news/29918
-4. 软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度（AIbase） - https://www.aibase.com/news/29915
-5. Claude 会话分享链接被搜索引擎"误抓"，大量含私钥与隐私的对话遭公开索引（AIbase） - https://www.aibase.com/news/29910
-6. GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题（AIbase） - https://www.aibase.com/news/29914
-7. Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入（AIbase） - https://www.aibase.com/news/29903
-8. Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行（AIbase） - https://www.aibase.com/news/29904
-9. OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙（AIbase） - https://www.aibase.com/news/29908
-10. QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会"回应"你（AIbase） - https://www.aibase.com/news/29905
+1. 火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力（AIbase） - https://www.aibase.com/news/29952
+2. 谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被"直接给答案"取代（AIbase） - https://www.aibase.com/news/29953
+3. "抱抱脸"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码（AIbase） - https://www.aibase.com/news/29947
+4. AI大模型将全面拥抱IPv6，雄安新区率先试点"单栈"网络（AIbase） - https://www.aibase.com/news/29951
+5. 国产 GPU 也能跑万亿大模型：海光 DCU 适配 Kimi K3，896 专家并行不卡顿（AIbase） - https://www.aibase.com/news/29946
+6. 宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊（AIbase） - https://www.aibase.com/news/29948
+7. 阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程（AIbase） - https://www.aibase.com/news/29950
+8. 德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权（IT之家（RSS）） - https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka
+9. GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理（GitHub 更新日志） - https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management
+10. Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%（MarkTechPost（RSS）） - https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix
