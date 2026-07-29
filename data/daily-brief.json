@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T16:47:19.570654Z",
+  "generated_at": "2026-07-29T18:02:07.252117Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0247-5989-9e6c-7a83e97aa4d1&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0247-5989-9e6c-7a83e97aa4d1&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0402-29a9-9cf5-e9a86b32eb56&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0402-29a9-9cf5-e9a86b32eb56&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b51f4f17e6291938828e6c0996f46a9d556dfd4c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0402-29a9-9cf5-e9a86b32eb56&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b106e7c6391166b9d07631c153879e5c6f980836",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "fe8d48bd54ed4973c23029e71e108ead2b9e0361",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0409-136b-bc14-ca0dd045f32d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "96ac4714bbcb5a62bff1b5dfb534badac09a1bea",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0256-333a-b461-94ada39ab950&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "b51f4f17e6291938828e6c0996f46a9d556dfd4c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0402-29a9-9cf5-e9a86b32eb56&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b106e7c6391166b9d07631c153879e5c6f980836",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0247-5989-9e6c-7a83e97aa4d1&fp=-3",
@@ -219,15 +228,6 @@
           "id": "fe8d48bd54ed4973c23029e71e108ead2b9e0361",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0409-136b-bc14-ca0dd045f32d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "96ac4714bbcb5a62bff1b5dfb534badac09a1bea",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0256-333a-b461-94ada39ab950&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T16:56:07.752728Z",
-      "latest_at": "2026-07-29T16:47:19.570654Z",
+      "earliest_at": "2026-07-28T18:08:52.857534Z",
+      "latest_at": "2026-07-29T18:02:07.252117Z",
       "primary_item": {
-        "id": "b106e7c6391166b9d07631c153879e5c6f980836",
+        "id": "b51f4f17e6291938828e6c0996f46a9d556dfd4c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0247-5989-9e6c-7a83e97aa4d1&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0402-29a9-9cf5-e9a86b32eb56&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8846,
+        "recency": 0.8326,
         "story_heat": 0.0
       },
       "category": "official",
@@ -321,6 +321,186 @@
         "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_984cff605560",
+      "title": "OpenAI 为学术研究者免费提供前沿模型",
+      "url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+      "primary_url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0eca8f1ef373990ceb4f797455b9abd510815aff",
+          "title": "OpenAI 为学术研究者免费提供前沿模型",
+          "url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:22:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sherwin Wu（@sherwinwu）"
+      ],
+      "items": [
+        {
+          "id": "0eca8f1ef373990ceb4f797455b9abd510815aff",
+          "title": "OpenAI 为学术研究者免费提供前沿模型",
+          "url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:22:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9722,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T17:22:02Z",
+      "latest_at": "2026-07-29T17:22:02Z",
+      "primary_item": {
+        "id": "0eca8f1ef373990ceb4f797455b9abd510815aff",
+        "title": "OpenAI 为学术研究者免费提供前沿模型",
+        "url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+        "source": "X：Sherwin Wu（@sherwinwu）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9123aaf6ca51",
+      "title": "Perplexity 开源智能体检测层 Numbat",
+      "url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+      "primary_url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9f8d217079f4a21c9ba962390933d9c2b575e4df",
+          "title": "Perplexity 开源智能体检测层 Numbat",
+          "url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:01:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Perplexity (@perplexity_ai)"
+      ],
+      "items": [
+        {
+          "id": "9f8d217079f4a21c9ba962390933d9c2b575e4df",
+          "title": "Perplexity 开源智能体检测层 Numbat",
+          "url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:01:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.958,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T17:01:42Z",
+      "latest_at": "2026-07-29T17:01:42Z",
+      "primary_item": {
+        "id": "9f8d217079f4a21c9ba962390933d9c2b575e4df",
+        "title": "Perplexity 开源智能体检测层 Numbat",
+        "url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2aa7558d6e08",
+      "title": "Replit 用环境智能重塑 AI 设计体验",
+      "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+      "primary_url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb14e68dce272148d582f3223167f2327d4a9136",
+          "title": "Replit 用环境智能重塑 AI 设计体验",
+          "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "bb14e68dce272148d582f3223167f2327d4a9136",
+          "title": "Replit 用环境智能重塑 AI 设计体验",
+          "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9365,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T16:30:42Z",
+      "latest_at": "2026-07-29T16:30:42Z",
+      "primary_item": {
+        "id": "bb14e68dce272148d582f3223167f2327d4a9136",
+        "title": "Replit 用环境智能重塑 AI 设计体验",
+        "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -358,14 +538,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -380,6 +560,66 @@
         "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
         "url": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4c0c812e129b",
+      "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+      "url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+      "primary_url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+      "source": "Google DeepMind：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9aa1f4aa59f3c68c1ebaa699ce6ccb15f9487d89",
+          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+          "url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:02:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9aa1f4aa59f3c68c1ebaa699ce6ccb15f9487d89",
+          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+          "url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:02:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9167,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T16:02:10Z",
+      "latest_at": "2026-07-29T16:02:10Z",
+      "primary_item": {
+        "id": "9aa1f4aa59f3c68c1ebaa699ce6ccb15f9487d89",
+        "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+        "url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+        "source": "Google DeepMind：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -418,14 +658,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9499,
+        "recency": 0.8979,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -478,14 +718,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,14 +797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7072,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -581,6 +821,86 @@
         "url": "https://www.aibase.com/news/29983",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        },
+        {
+          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
+          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        },
+        {
+          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
+          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.2485,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-29T00:00:00Z",
+      "primary_item": {
+        "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
+        "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -618,14 +938,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.831,
+        "recency": 0.779,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -678,14 +998,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.809,
+        "recency": 0.7571,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -738,14 +1058,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7068,
+        "recency": 0.6549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -799,14 +1119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7966,
+        "recency": 0.7447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -878,14 +1198,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7072,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -902,67 +1222,6 @@
         "url": "https://www.aibase.com/news/29981",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.3005,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-        "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1019,14 +1278,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7072,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1099,14 +1358,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7072,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1123,66 +1382,6 @@
         "url": "https://www.aibase.com/news/29980",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a6ec8a388aad",
-      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2831,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T23:35:01Z",
-      "latest_at": "2026-07-28T23:35:01Z",
-      "primary_item": {
-        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1239,14 +1438,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6358,
+        "recency": 0.5838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1319,14 +1518,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6358,
+        "recency": 0.5838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1341,351 +1540,6 @@
         "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
         "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
         "url": "https://www.aibase.com/news/29977",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5e9421b7be60",
-      "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f620aa5e102e1d8bc76044bc44d9971dd6ff9b4c",
-          "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:21:25.897000Z"
-        },
-        {
-          "id": "7e8e0c1fdad18add017459401e2eab97df23fe97",
-          "title": "美联储会议及AI企业财报公布前股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T14:01:35.875000Z"
-        },
-        {
-          "id": "3f00e12adfa52156cde6dbde8d3c9389876b3103",
-          "title": "美联储决议在即，AI企业财报即将公布，股市震荡：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T12:57:36.442000Z"
-        },
-        {
-          "id": "1ddde40ef9607a448b6d1c3be43bc6dff69f2b9b",
-          "title": "美联储会议及AI企业财报将至，美股上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T07:37:19.855000Z"
-        },
-        {
-          "id": "9653f600561510116c555b59ede40860a3069587",
-          "title": "受伊朗局势影响油价上涨，人工智能担忧导致股市震荡：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T01:45:21.504000Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "f620aa5e102e1d8bc76044bc44d9971dd6ff9b4c",
-          "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:21:25.897000Z"
-        },
-        {
-          "id": "7e8e0c1fdad18add017459401e2eab97df23fe97",
-          "title": "美联储会议及AI企业财报公布前股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T14:01:35.875000Z"
-        },
-        {
-          "id": "3f00e12adfa52156cde6dbde8d3c9389876b3103",
-          "title": "美联储决议在即，AI企业财报即将公布，股市震荡：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T12:57:36.442000Z"
-        },
-        {
-          "id": "1ddde40ef9607a448b6d1c3be43bc6dff69f2b9b",
-          "title": "美联储会议及AI企业财报将至，美股上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T07:37:19.855000Z"
-        },
-        {
-          "id": "9653f600561510116c555b59ede40860a3069587",
-          "title": "受伊朗局势影响油价上涨，人工智能担忧导致股市震荡：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T01:45:21.504000Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6111,
-      "importance": 0.6111,
-      "importance_score": 0.6111,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9404,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T01:45:21.504000Z",
-      "latest_at": "2026-07-29T15:21:25.897000Z",
-      "primary_item": {
-        "id": "f620aa5e102e1d8bc76044bc44d9971dd6ff9b4c",
-        "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2823386c5716",
-      "title": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-      "primary_url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-      "source": "enklypesalt.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e8987391203dc1b3c3ff9a21f692a6b8d083a5b5",
-          "title": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "enklypesalt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T13:29:13.089000Z"
-        },
-        {
-          "id": "28488c928afc9c7580f77280de6940b8d1d61026",
-          "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
-          "url": "https://news.ycombinator.com/item?id=49096188",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-29T12:59:17.556000Z"
-        },
-        {
-          "id": "99d12ec2c767a81b132fe396235666bcdb8ae735",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "enklypesalt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T12:25:13.325000Z"
-        },
-        {
-          "id": "35c7b098b19b0cec6bfdf85047fd643a6c80ca62",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中 / Copilot will propagate a malicious worm from one Word document to another",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T12:20:10Z"
-        },
-        {
-          "id": "9e4f05e8bcd1abc87dbf58b605888862317047fc",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中 / Document-borne AI worms can self-propagate through Copilot for Word",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T11:44:33Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "enklypesalt.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e8987391203dc1b3c3ff9a21f692a6b8d083a5b5",
-          "title": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "enklypesalt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T13:29:13.089000Z"
-        },
-        {
-          "id": "28488c928afc9c7580f77280de6940b8d1d61026",
-          "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
-          "url": "https://news.ycombinator.com/item?id=49096188",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-29T12:59:17.556000Z"
-        },
-        {
-          "id": "99d12ec2c767a81b132fe396235666bcdb8ae735",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "enklypesalt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T12:25:13.325000Z"
-        },
-        {
-          "id": "35c7b098b19b0cec6bfdf85047fd643a6c80ca62",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中 / Copilot will propagate a malicious worm from one Word document to another",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T12:20:10Z"
-        },
-        {
-          "id": "9e4f05e8bcd1abc87dbf58b605888862317047fc",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中 / Document-borne AI worms can self-propagate through Copilot for Word",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T11:44:33Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5955,
-      "importance": 0.5955,
-      "importance_score": 0.5955,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8624,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T11:44:33Z",
-      "latest_at": "2026-07-29T13:29:13.089000Z",
-      "primary_item": {
-        "id": "e8987391203dc1b3c3ff9a21f692a6b8d083a5b5",
-        "title": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播",
-        "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-        "source": "enklypesalt.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9e9ac0b74498",
-      "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-      "url": "https://www.aibase.com/news/29979",
-      "primary_url": "https://www.aibase.com/news/29979",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/news/29979",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T08:02:49.345839Z"
-        },
-        {
-          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
-          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/zh/news/29979",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/news/29979",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T08:02:49.345839Z"
-        },
-        {
-          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
-          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/zh/news/29979",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6358,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T08:02:49.345839Z",
-      "latest_at": "2026-07-29T11:00:26.390388Z",
-      "primary_item": {
-        "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-        "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-        "url": "https://www.aibase.com/news/29979",
         "source": "AIbase",
         "source_name": "AIbase"
       }
