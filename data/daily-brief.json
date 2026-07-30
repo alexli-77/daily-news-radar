@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T15:46:10.095662Z",
+  "generated_at": "2026-07-30T17:17:33.090915Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,18 +118,9 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "b106e7c6391166b9d07631c153879e5c6f980836",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0247-5989-9e6c-7a83e97aa4d1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
@@ -241,27 +232,18 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "b106e7c6391166b9d07631c153879e5c6f980836",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0247-5989-9e6c-7a83e97aa4d1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
-      "score": 0.912,
-      "importance": 0.912,
-      "importance_score": 0.912,
+      "item_count": 12,
+      "duplicate_count": 12,
+      "score": 0.8993,
+      "importance": 0.8993,
+      "importance_score": 0.8993,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9365,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -270,7 +252,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T16:47:19.570654Z",
+      "earliest_at": "2026-07-29T18:02:07.252117Z",
       "latest_at": "2026-07-30T15:46:10.095662Z",
       "primary_item": {
         "id": "73b8c8093e2a48f5716a6b0e5464607939509a3b",
@@ -278,67 +260,6 @@
         "url": "http://ai.hubtoday.app/?tr_uuid=20260731-0146-338c-ba84-e48e8aaf1da0&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_f684c3a66a25",
-      "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "94478772289f7d30ab8af720414186d57c47492e",
-          "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:09:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "94478772289f7d30ab8af720414186d57c47492e",
-          "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:09:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8889,
-      "importance": 0.8889,
-      "importance_score": 0.8889,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.9743,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T15:09:09Z",
-      "latest_at": "2026-07-30T15:09:09Z",
-      "primary_item": {
-        "id": "94478772289f7d30ab8af720414186d57c47492e",
-        "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -376,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8668,
-      "importance": 0.8668,
-      "importance_score": 0.8668,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9692,
+        "recency": 0.9057,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,6 +321,127 @@
         "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7a6592c940a7",
+      "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T16:14:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T16:14:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8522,
+      "importance": 0.8522,
+      "importance_score": 0.8522,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9562,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T16:14:29Z",
+      "latest_at": "2026-07-30T16:14:29Z",
+      "primary_item": {
+        "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+        "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_04768364e477",
+      "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
+      "url": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2",
+      "primary_url": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5f66e3712c933fb0c44f215be58f74443038d0c3",
+          "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
+          "url": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T15:50:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "5f66e3712c933fb0c44f215be58f74443038d0c3",
+          "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
+          "url": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T15:50:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9396,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T15:50:35Z",
+      "latest_at": "2026-07-30T15:50:35Z",
+      "primary_item": {
+        "id": "5f66e3712c933fb0c44f215be58f74443038d0c3",
+        "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
+        "url": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -437,14 +479,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9693,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,14 +539,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9686,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,6 +562,67 @@
         "url": "https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln",
         "source": "Google DeepMind：Blog（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9cb4cbdb834e",
+      "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+      "primary_url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
+          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T14:54:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
+          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T14:54:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9009,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T14:54:47Z",
+      "latest_at": "2026-07-30T14:54:47Z",
+      "primary_item": {
+        "id": "63114627b4555cb419a1da7bffb9887203ad3083",
+        "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+        "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -576,14 +679,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.6956,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -637,14 +740,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8761,
+        "recency": 0.8126,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -697,14 +800,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6648,
+        "recency": 0.6013,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,14 +878,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.655,
+        "recency": 0.5916,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -799,66 +902,6 @@
         "url": "https://www.aibase.com/news/30009",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6683db9728fe",
-      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.2362,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T21:26:19Z",
-      "latest_at": "2026-07-29T21:26:19Z",
-      "primary_item": {
-        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -896,14 +939,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.6956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -975,14 +1018,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7014,
-      "importance": 0.7014,
-      "importance_score": 0.7014,
+      "score": 0.6887,
+      "importance": 0.6887,
+      "importance_score": 0.6887,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3218,
+        "recency": 0.2583,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1035,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.6956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1058,6 +1101,66 @@
         "url": "https://www.aibase.com/news/30014",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6683db9728fe",
+      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
+          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T21:26:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
+          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T21:26:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.1728,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T21:26:19Z",
+      "latest_at": "2026-07-29T21:26:19Z",
+      "primary_item": {
+        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
+        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1114,14 +1217,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5453,
+        "recency": 0.4818,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1193,14 +1296,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5453,
+        "recency": 0.4818,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1272,14 +1375,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5814,
+      "importance": 0.5814,
+      "importance_score": 0.5814,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7804,
+        "recency": 0.717,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1297,372 +1400,197 @@
       }
     },
     {
-      "story_id": "story_ddefdd525242",
-      "title": "ChatGPT 和 Roblox 将受欧盟最严格的数字法规约束",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
+      "story_id": "story_64a1dcce28a9",
+      "title": "Show HN: Claude-account – 切换 Claude Code 帐户而无需再次登录 / Show HN: Claude-account – switch Claude Code accounts without logging in again",
+      "url": "https://news.ycombinator.com/item?id=49111019",
+      "primary_url": "https://news.ycombinator.com/item?id=49111019",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "097e92db493eeb6a445fdd8d9725ba0e35c4f874",
-          "title": "ChatGPT 和 Roblox 将受欧盟最严格的数字法规约束",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T15:21:22.636000Z"
+          "id": "783a8065ea13a79464bfd139e3c9425d38425448",
+          "title": "Show HN: Claude-account – 切换 Claude Code 帐户而无需再次登录 / Show HN: Claude-account – switch Claude Code accounts without logging in again",
+          "url": "https://news.ycombinator.com/item?id=49111019",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T17:05:12.564000Z"
         },
         {
-          "id": "4edca6c8925271a632eff78e502c99c4f10c93a2",
-          "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+          "id": "4c836bb3b56f4eb053a8d38837fdd7e1ae7e0130",
+          "title": "Show HN: Claude-account – 无需重新登录即可切换 Claude Code 账户",
+          "url": "https://github.com/hamzarehmandeveloper/claude-account",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T15:05:40.591000Z"
+        },
+        {
+          "id": "67470fc0570b686613c6aba8abbc73642ecb3b57",
+          "title": "Show HN: Claude-account – 无需重新登录即可切换 Claude Code 账户 / Show HN: Claude-account – switch Claude Code accounts without logging in again",
+          "url": "https://github.com/hamzarehmandeveloper/claude-account",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-30T11:30:34Z"
-        },
-        {
-          "id": "a078495961b71b5f6a711b4126af03895e13e35e",
-          "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T00:18:07.675000Z"
+          "published_at": "2026-07-30T14:58:59Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "www.bloomberg.com"
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "097e92db493eeb6a445fdd8d9725ba0e35c4f874",
-          "title": "ChatGPT 和 Roblox 将受欧盟最严格的数字法规约束",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T15:21:22.636000Z"
+          "id": "783a8065ea13a79464bfd139e3c9425d38425448",
+          "title": "Show HN: Claude-account – 切换 Claude Code 帐户而无需再次登录 / Show HN: Claude-account – switch Claude Code accounts without logging in again",
+          "url": "https://news.ycombinator.com/item?id=49111019",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T17:05:12.564000Z"
         },
         {
-          "id": "4edca6c8925271a632eff78e502c99c4f10c93a2",
-          "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+          "id": "4c836bb3b56f4eb053a8d38837fdd7e1ae7e0130",
+          "title": "Show HN: Claude-account – 无需重新登录即可切换 Claude Code 账户",
+          "url": "https://github.com/hamzarehmandeveloper/claude-account",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T15:05:40.591000Z"
+        },
+        {
+          "id": "67470fc0570b686613c6aba8abbc73642ecb3b57",
+          "title": "Show HN: Claude-account – 无需重新登录即可切换 Claude Code 账户 / Show HN: Claude-account – switch Claude Code accounts without logging in again",
+          "url": "https://github.com/hamzarehmandeveloper/claude-account",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-30T11:30:34Z"
-        },
-        {
-          "id": "a078495961b71b5f6a711b4126af03895e13e35e",
-          "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T00:18:07.675000Z"
+          "published_at": "2026-07-30T14:58:59Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5713,
+      "importance": 0.5713,
+      "importance_score": 0.5713,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9828,
+        "recency": 0.9914,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-30T00:18:07.675000Z",
-      "latest_at": "2026-07-30T15:21:22.636000Z",
+      "earliest_at": "2026-07-30T14:58:59Z",
+      "latest_at": "2026-07-30T17:05:12.564000Z",
       "primary_item": {
-        "id": "097e92db493eeb6a445fdd8d9725ba0e35c4f874",
-        "title": "ChatGPT 和 Roblox 将受欧盟最严格的数字法规约束",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
+        "id": "783a8065ea13a79464bfd139e3c9425d38425448",
+        "title": "Show HN: Claude-account – 切换 Claude Code 帐户而无需再次登录 / Show HN: Claude-account – switch Claude Code accounts without logging in again",
+        "url": "https://news.ycombinator.com/item?id=49111019",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_0adddc85b697",
-      "title": "新的MCP规范解决了企业采用该技术面临的主要障碍",
-      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
-      "primary_url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
-      "source": "arstechnica.com",
+      "story_id": "story_82c2a5cb1208",
+      "title": "Gemini Robotics 2 为机器人带来了全身智能",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+      "primary_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+      "source": "deepmind.google",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "60ff2ff1d4ad3ac99599c53e60d64b9e302d06f3",
-          "title": "新的MCP规范解决了企业采用该技术面临的主要障碍",
-          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
-          "source": "arstechnica.com",
+          "id": "ee28af4f0c22eb65b659885f6af725417e552b5d",
+          "title": "Gemini Robotics 2 为机器人带来了全身智能",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+          "source": "deepmind.google",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-30T15:21:23.346000Z"
+          "published_at": "2026-07-30T16:09:19.970000Z"
         },
         {
-          "id": "7e3740f1360ffeda23bc6e00926e54360fd4d7fe",
-          "title": "新的MCP规范解决了企业采用该技术面临的主要障碍 / New MCP specification addresses the main barrier to enterprise adoption",
-          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T14:53:07Z"
+          "id": "5a9b853fb94376b0789912d9ea7be17a4cc98ff2",
+          "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://news.ycombinator.com/item?id=49111237",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T15:34:50.770000Z"
         },
         {
-          "id": "4175d4a388a5f6fd74d8aac12010b4c331c1f9e4",
-          "title": "新的MCP规范解决了企业采用该技术面临的主要障碍 / With a stateless makeover, new MCP spec targets enterprise scale",
-          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
-          "source": "Ars Technica",
+          "id": "a011f2a5b8945916eee7888fd84d7ca2e0843bb9",
+          "title": "Gemini Robotics 2 为机器人带来了全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-30T14:53:07Z"
+          "published_at": "2026-07-30T15:15:48Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Ars Technica",
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
+        "Hacker News",
+        "deepmind.google",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "60ff2ff1d4ad3ac99599c53e60d64b9e302d06f3",
-          "title": "新的MCP规范解决了企业采用该技术面临的主要障碍",
-          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
-          "source": "arstechnica.com",
+          "id": "ee28af4f0c22eb65b659885f6af725417e552b5d",
+          "title": "Gemini Robotics 2 为机器人带来了全身智能",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+          "source": "deepmind.google",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-30T15:21:23.346000Z"
+          "published_at": "2026-07-30T16:09:19.970000Z"
         },
         {
-          "id": "7e3740f1360ffeda23bc6e00926e54360fd4d7fe",
-          "title": "新的MCP规范解决了企业采用该技术面临的主要障碍 / New MCP specification addresses the main barrier to enterprise adoption",
-          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T14:53:07Z"
+          "id": "5a9b853fb94376b0789912d9ea7be17a4cc98ff2",
+          "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://news.ycombinator.com/item?id=49111237",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T15:34:50.770000Z"
         },
         {
-          "id": "4175d4a388a5f6fd74d8aac12010b4c331c1f9e4",
-          "title": "新的MCP规范解决了企业采用该技术面临的主要障碍 / With a stateless makeover, new MCP spec targets enterprise scale",
-          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
-          "source": "Ars Technica",
+          "id": "a011f2a5b8945916eee7888fd84d7ca2e0843bb9",
+          "title": "Gemini Robotics 2 为机器人带来了全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-30T14:53:07Z"
+          "published_at": "2026-07-30T15:15:48Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5635,
+      "importance": 0.5635,
+      "importance_score": 0.5635,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9828,
+        "recency": 0.9526,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-30T14:53:07Z",
-      "latest_at": "2026-07-30T15:21:23.346000Z",
+      "earliest_at": "2026-07-30T15:15:48Z",
+      "latest_at": "2026-07-30T16:09:19.970000Z",
       "primary_item": {
-        "id": "60ff2ff1d4ad3ac99599c53e60d64b9e302d06f3",
-        "title": "新的MCP规范解决了企业采用该技术面临的主要障碍",
-        "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale",
-        "source": "arstechnica.com",
+        "id": "ee28af4f0c22eb65b659885f6af725417e552b5d",
+        "title": "Gemini Robotics 2 为机器人带来了全身智能",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+        "source": "deepmind.google",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1abd69aa6b83",
-      "title": "字节跳动整合豆包、飞书、火山引擎，加速AI企业服务布局",
-      "url": "https://www.aibase.com/news/29999",
-      "primary_url": "https://www.aibase.com/news/29999",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1abc603374d69d988c764ed2700e5481a0ac026f",
-          "title": "字节跳动整合豆包、飞书、火山引擎，加速AI企业服务布局",
-          "url": "https://www.aibase.com/news/29999",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T04:51:22.470901Z"
-        },
-        {
-          "id": "0c3f19cf94b756d6a17f894097babd52ba12a6d1",
-          "title": "字节跳动整合豆包、飞书、火山引擎，加速 AI 企业服务布局",
-          "url": "https://www.aibase.com/zh/news/29999",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1abc603374d69d988c764ed2700e5481a0ac026f",
-          "title": "字节跳动整合豆包、飞书、火山引擎，加速AI企业服务布局",
-          "url": "https://www.aibase.com/news/29999",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T04:51:22.470901Z"
-        },
-        {
-          "id": "0c3f19cf94b756d6a17f894097babd52ba12a6d1",
-          "title": "字节跳动整合豆包、飞书、火山引擎，加速 AI 企业服务布局",
-          "url": "https://www.aibase.com/zh/news/29999",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5453,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T04:51:22.470901Z",
-      "latest_at": "2026-07-30T04:51:22.470901Z",
-      "primary_item": {
-        "id": "1abc603374d69d988c764ed2700e5481a0ac026f",
-        "title": "字节跳动整合豆包、飞书、火山引擎，加速AI企业服务布局",
-        "url": "https://www.aibase.com/news/29999",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fa442220645e",
-      "title": "GCC指导委员会宣布人工智能政策 / GCC steering committee announces AI policy",
-      "url": "https://news.ycombinator.com/item?id=49108685",
-      "primary_url": "https://news.ycombinator.com/item?id=49108685",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3e23e4b122bf2453c2847c62f89761853e1edd96",
-          "title": "GCC指导委员会宣布人工智能政策 / GCC steering committee announces AI policy",
-          "url": "https://news.ycombinator.com/item?id=49108685",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-30T13:41:17.679000Z"
-        },
-        {
-          "id": "bbf33f470635c9d1c9df3152c51a7bedf4295f22",
-          "title": "海湾合作委员会（GCC）指导委员会公布人工智能政策",
-          "url": "https://lwn.net/Articles/1086041",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T13:38:11.405000Z"
-        },
-        {
-          "id": "af0116f620fdfdd66fa5ce1688c533d7b3822d28",
-          "title": "海湾合作委员会（GCC）指导委员会公布人工智能政策 / GCC steering committee announces AI policy",
-          "url": "https://lwn.net/Articles/1086041",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-30T11:45:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "lwn.net"
-      ],
-      "items": [
-        {
-          "id": "3e23e4b122bf2453c2847c62f89761853e1edd96",
-          "title": "GCC指导委员会宣布人工智能政策 / GCC steering committee announces AI policy",
-          "url": "https://news.ycombinator.com/item?id=49108685",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-30T13:41:17.679000Z"
-        },
-        {
-          "id": "bbf33f470635c9d1c9df3152c51a7bedf4295f22",
-          "title": "海湾合作委员会（GCC）指导委员会公布人工智能政策",
-          "url": "https://lwn.net/Articles/1086041",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T13:38:11.405000Z"
-        },
-        {
-          "id": "af0116f620fdfdd66fa5ce1688c533d7b3822d28",
-          "title": "海湾合作委员会（GCC）指导委员会公布人工智能政策 / GCC steering committee announces AI policy",
-          "url": "https://lwn.net/Articles/1086041",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-30T11:45:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5557,
-      "importance": 0.5557,
-      "importance_score": 0.5557,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9133,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-30T11:45:44Z",
-      "latest_at": "2026-07-30T13:41:17.679000Z",
-      "primary_item": {
-        "id": "3e23e4b122bf2453c2847c62f89761853e1edd96",
-        "title": "GCC指导委员会宣布人工智能政策 / GCC steering committee announces AI policy",
-        "url": "https://news.ycombinator.com/item?id=49108685",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
