@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-07-30T17:17:33.090915Z",
+  "generated_at": "2026-07-30T18:53:25.962753Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-30",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-30",
       "title": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -33,11 +38,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-07-30",
       "title": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "很多人让 Agent 抓取网页时，习惯直接开浏览器。如果要连续抓几十个页面，甚至做长期采集，始终开着浏览器就有点重了。作者实测Scrapling + MCP：能用HTTP请求就直接抓，需要渲染时再启动浏览器，最后只把目标字段回传给Agent，减少上下文占用。文中还用天气、豆瓣Top250、豆瓣图书、B 站榜单、知乎热榜等案例，验证了分页、并发、落盘、限速和兜底能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
