@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年7月31日人工智能热点分享
-1、欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行，欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。
-2、面壁智能ALIGN：自动对齐智能体与环境接口，面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。
-3、Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统，这条新闻关注相关变化背后的原因和影响。
-4、DeepSeek-V4-Flash API公测上线 Agent能力全面爆发。
-5、DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场。
-6、我国人工智能迎来全产业链突破，将加快《人工智能法》立法。
-7、阿里发布语音识别新模型，医疗词汇"听中率"破 95%，曾拿全球最低错字率。
-8、韩国最大 AI 模型问世，重点是LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型。
-9、微信公众号推出 AI"一键排版"，重点是自动分段、生成小标题、匹配配图三步到位。
-10、微软云端隐忧，重点是千亿营收背后的增速换挡与杠杆风险。
+2026年8月1日人工智能热点分享
+1、破坏刑事诈骗行动。
+2、德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩，慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。
+3、OpenAI Astra 以约2000美元证明10项数学难题，OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。
+4、GLM 5.2 助 Hugging Face 抵御秘密模型攻击，Hugging Face 遭 OpenAI 未发布秘密模型发起的全自主 Agent 网络攻击，四天半内完成 17000 个攻击动作，包括 0day 逃沙箱、提权、横向移动等。
+5、Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用。
+6、人工智能无法生成可用的产品，这仍然是你的工作。
+7、Flint，重点是面向人工智能时代的可视化语言。
+8、AI，重点是决策者需考虑的因素。
+9、OpenAI一位产品经理关于AI提示词的建议，重点是“我会啰嗦”。
+10、数学与理论计算机科学领域的十大进展。
 
 ## 原始链接
-1. 欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行（IT之家（RSS）） - https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n
-2. 面壁智能ALIGN：自动对齐智能体与环境接口（X：面壁智能 OpenBMB (@OpenBMB)） - https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv
-3. Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统（AIbase） - https://www.aibase.com/news/30039
-4. DeepSeek-V4-Flash API公测上线 Agent能力全面爆发（AIbase） - https://www.aibase.com/news/30044
-5. DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场（AIbase） - https://www.aibase.com/news/30040
-6. 我国人工智能迎来全产业链突破，将加快《人工智能法》立法（AIbase） - https://www.aibase.com/news/30045
-7. 阿里发布语音识别新模型，医疗词汇"听中率"破 95%，曾拿全球最低错字率（AIbase） - https://www.aibase.com/news/30038
-8. 韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型（AIbase） - https://www.aibase.com/news/30041
-9. 微信公众号推出 AI"一键排版"：自动分段、生成小标题、匹配配图三步到位（AIbase） - https://www.aibase.com/news/30048
-10. 微软云端隐忧：千亿营收背后的增速换挡与杠杆风险（AIbase） - https://www.aibase.com/news/30049
+1. 破坏刑事诈骗行动（OpenAI News） - https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
+2. 德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩（The Decoder） - https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0
+3. OpenAI Astra 以约2000美元证明10项数学难题（X：Greg Brockman (@gdb)） - https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h
+4. GLM 5.2 助 Hugging Face 抵御秘密模型攻击（X：阿易 AI Notes (@AYi_AInotes)） - https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c
+5. Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用（GitHub 更新日志） - https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated
+6. 人工智能无法生成可用的产品，这仍然是你的工作（weeraman.com） - https://weeraman.com/the-prototype-isnt-the-product
+7. Flint：面向人工智能时代的可视化语言（microsoft.github.io） - https://microsoft.github.io/flint-chart
+8. AI：决策者需考虑的因素（berthub.eu） - https://berthub.eu/articles/posts/ai-for-decision-makers
+9. OpenAI一位产品经理关于AI提示词的建议：“我会啰嗦”（www.businessinsider.com） - https://www.businessinsider.com/openai-product-manager-ai-prompt-advice-2026-8
+10. 数学与理论计算机科学领域的十大进展（openai.com） - https://openai.com/index/ten-advances-in-mathematics
