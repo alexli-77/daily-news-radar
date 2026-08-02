@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:24:44.652977Z",
+  "generated_at": "2026-08-02T23:26:56.489638Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.9156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -125,8 +125,105 @@
       }
     },
     {
+      "story_id": "story_cfdd2789b4ea",
+      "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "primary_url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "source": "www.euronews.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3239bce5628bd9229716fc1c9ae361a12576d2be",
+          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "source": "www.euronews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T22:48:54.109000Z"
+        },
+        {
+          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "url": "https://news.ycombinator.com/item?id=49147606",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
+        },
+        {
+          "id": "859a449233c42d51f2a1075630e46469a0d426b0",
+          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T19:40:19Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.euronews.com"
+      ],
+      "items": [
+        {
+          "id": "3239bce5628bd9229716fc1c9ae361a12576d2be",
+          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "source": "www.euronews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T22:48:54.109000Z"
+        },
+        {
+          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "url": "https://news.ycombinator.com/item?id=49147606",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
+        },
+        {
+          "id": "859a449233c42d51f2a1075630e46469a0d426b0",
+          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T19:40:19Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5677,
+      "importance": 0.5677,
+      "importance_score": 0.5677,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9736,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T19:40:19Z",
+      "latest_at": "2026-08-02T22:48:54.109000Z",
+      "primary_item": {
+        "id": "3239bce5628bd9229716fc1c9ae361a12576d2be",
+        "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
+        "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+        "source": "www.euronews.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
       "story_id": "story_42cdc0dbe85c",
-      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
       "url": "https://news.ycombinator.com/item?id=49147842",
       "primary_url": "https://news.ycombinator.com/item?id=49147842",
       "source": "hackernews",
@@ -134,7 +231,7 @@
       "sources": [
         {
           "id": "b02401c080930792e17dc012904ecbea963e8d3c",
-          "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
           "url": "https://news.ycombinator.com/item?id=49147842",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -169,7 +266,7 @@
       "items": [
         {
           "id": "b02401c080930792e17dc012904ecbea963e8d3c",
-          "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
           "url": "https://news.ycombinator.com/item?id=49147842",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -197,14 +294,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5645,
+      "importance": 0.5645,
+      "importance_score": 0.5645,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9573,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -215,7 +312,7 @@
       "latest_at": "2026-08-02T22:25:26.838000Z",
       "primary_item": {
         "id": "b02401c080930792e17dc012904ecbea963e8d3c",
-        "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
         "url": "https://news.ycombinator.com/item?id=49147842",
         "source": "hackernews",
         "source_name": "NewsNow"
@@ -294,14 +391,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5475,
-      "importance": 0.5475,
-      "importance_score": 0.5475,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8723,
+        "recency": 0.8291,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -371,14 +468,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8572,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -449,14 +546,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8571,
+        "recency": 0.8139,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -527,14 +624,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.8946,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -605,14 +702,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.4916,
+      "importance": 0.4916,
+      "importance_score": 0.4916,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7612,
+        "recency": 0.718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -683,14 +780,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4825,
-      "importance": 0.4825,
-      "importance_score": 0.4825,
+      "score": 0.4738,
+      "importance": 0.4738,
+      "importance_score": 0.4738,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6723,
+        "recency": 0.6291,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -705,84 +802,6 @@
         "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cfdd2789b4ea",
-      "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-      "url": "https://news.ycombinator.com/item?id=49147606",
-      "primary_url": "https://news.ycombinator.com/item?id=49147606",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "859a449233c42d51f2a1075630e46469a0d426b0",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:40:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "859a449233c42d51f2a1075630e46469a0d426b0",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:40:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9378,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:40:19Z",
-      "latest_at": "2026-08-02T20:55:13.221000Z",
-      "primary_item": {
-        "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-        "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-        "url": "https://news.ycombinator.com/item?id=49147606",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -839,14 +858,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4749,
-      "importance": 0.4749,
-      "importance_score": 0.4749,
+      "score": 0.4663,
+      "importance": 0.4663,
+      "importance_score": 0.4663,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.2445,
+        "recency": 0.2013,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -917,14 +936,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5017,
-      "importance": 0.5017,
-      "importance_score": 0.5017,
+      "score": 0.493,
+      "importance": 0.493,
+      "importance_score": 0.493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7683,
+        "recency": 0.7251,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -994,14 +1013,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.485,
-      "importance": 0.485,
-      "importance_score": 0.485,
+      "score": 0.4764,
+      "importance": 0.4764,
+      "importance_score": 0.4764,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6851,
+        "recency": 0.6419,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,14 +1091,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4545,
-      "importance": 0.4545,
-      "importance_score": 0.4545,
+      "score": 0.4458,
+      "importance": 0.4458,
+      "importance_score": 0.4458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5324,
+        "recency": 0.4892,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,14 +1169,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4513,
-      "importance": 0.4513,
-      "importance_score": 0.4513,
+      "score": 0.4427,
+      "importance": 0.4427,
+      "importance_score": 0.4427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5166,
+        "recency": 0.4734,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1228,14 +1247,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5017,
-      "importance": 0.5017,
-      "importance_score": 0.5017,
+      "score": 0.493,
+      "importance": 0.493,
+      "importance_score": 0.493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7683,
+        "recency": 0.7251,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1305,14 +1324,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4249,
-      "importance": 0.4249,
-      "importance_score": 0.4249,
+      "score": 0.4162,
+      "importance": 0.4162,
+      "importance_score": 0.4162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3844,
+        "recency": 0.3412,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1383,14 +1402,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4225,
-      "importance": 0.4225,
-      "importance_score": 0.4225,
+      "score": 0.4139,
+      "importance": 0.4139,
+      "importance_score": 0.4139,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3726,
+        "recency": 0.3294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1408,118 +1427,81 @@
       }
     },
     {
-      "story_id": "story_e8cc710abd7b",
-      "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "primary_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "source": "mitsloan.mit.edu",
-      "source_name": "Buzzing",
+      "story_id": "story_302ebd399e0c",
+      "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://news.ycombinator.com/item?id=49143688",
+      "primary_url": "https://news.ycombinator.com/item?id=49143688",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "mitsloan.mit.edu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T00:41:17.348000Z"
+          "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "url": "https://news.ycombinator.com/item?id=49143688",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T12:23:38.619000Z"
         },
         {
-          "id": "f99e99f2cd8a914b5e50fd7d997205b872e76d13",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "d36bc76d016323efdbc569025c8342d8c062a49c",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "id": "b9d9677cb11e85d70d5be0e63ecc8cd392334660",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "url": "https://twitter.com/polynoamial/status/2083467194663571701",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
+          "published_at": "2026-08-02T12:01:37Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "mitsloan.mit.edu"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "mitsloan.mit.edu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T00:41:17.348000Z"
+          "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "url": "https://news.ycombinator.com/item?id=49143688",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T12:23:38.619000Z"
         },
         {
-          "id": "f99e99f2cd8a914b5e50fd7d997205b872e76d13",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:25:12Z"
-        },
-        {
-          "id": "d36bc76d016323efdbc569025c8342d8c062a49c",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "id": "b9d9677cb11e85d70d5be0e63ecc8cd392334660",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "url": "https://twitter.com/polynoamial/status/2083467194663571701",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
+          "published_at": "2026-08-02T12:01:37Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.417,
-      "importance": 0.417,
-      "importance_score": 0.417,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4559,
+      "importance": 0.4559,
+      "importance_score": 0.4559,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0948,
-        "story_heat": 0.75
+        "recency": 0.5394,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T22:25:12Z",
-      "latest_at": "2026-08-02T00:41:17.348000Z",
+      "earliest_at": "2026-08-02T12:01:37Z",
+      "latest_at": "2026-08-02T12:23:38.619000Z",
       "primary_item": {
-        "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
-        "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "source": "mitsloan.mit.edu",
-        "source_name": "Buzzing"
+        "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+        "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "url": "https://news.ycombinator.com/item?id=49143688",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1576,14 +1558,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4313,
-      "importance": 0.4313,
-      "importance_score": 0.4313,
+      "score": 0.4227,
+      "importance": 0.4227,
+      "importance_score": 0.4227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4167,
+        "recency": 0.3735,
         "story_heat": 0.25
       },
       "category": "watch",
