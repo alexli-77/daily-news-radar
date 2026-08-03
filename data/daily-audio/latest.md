@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月2日人工智能热点分享
+2026年8月3日人工智能热点分享
 1、破坏刑事诈骗行动。
-2、Codex 用 Sol 指挥 Luna Max 省额度翻倍产出，把 Sol 定位为「包工头」而非全栈苦力，用配置实现任务委托，给出了一个可复用的省额度方案，但长期可靠性待真实验证。
-3、Grok 支持分析任意视频，Grok 可以分析任何视频。
-4、关于人工智能发展的公开信。
-5、内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题。
-6、人工智能，重点是Ars Notoria 和即时知识的承诺。
-7、通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务。
-8、顶尖经济学家史蒂夫·汉克向我们阐述了他认为人工智能不会成为大规模就业杀手的原因。
-9、从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步。
-10、Show HN，重点是CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器。
+2、商汤开源SenseNova U1.5-Lite-Preview，重点是8B模型支持原生4K图像生成。
+3、德国法院重磅裁定，重点是AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩。
+4、月之暗面回应赴港IPO传闻，重点是本月提交上市申请消息不实。
+5、Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境，Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。
+6、Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC，Cloudflare 在 Agents Week 期间推出 Workers 运行时新处理器 connect(socket)，可直接接受 Spectrum 提供的入站 TCP 套接字，并支持将套接字转发至 Durable。
+7、月之暗面否认“最早于本月内提交香港 IPO 申请”传闻。
+8、腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升。
+9、Kimi Work 幻灯片制作教程发布，使用 Kimi Work 制作幻灯片 - 教程 1。
+10、IBM 报告，重点是四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%。
 
 ## 原始链接
 1. 破坏刑事诈骗行动（OpenAI News） - https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
-2. Codex 用 Sol 指挥 Luna Max 省额度翻倍产出（X：阿易 AI Notes (@AYi_AInotes)） - https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1
-3. Grok 支持分析任意视频（X：Elon Musk (@elonmusk, xAI)） - https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk
-4. 关于人工智能发展的公开信（Simon Willison） - https://simonwillison.net/2026/Aug/2/open-letters
-5. 内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题（hackernews） - https://news.ycombinator.com/item?id=49143688
-6. 人工智能：Ars Notoria 和即时知识的承诺（hackernews） - https://news.ycombinator.com/item?id=49143001
-7. 通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务（ankursethi.com） - https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code
-8. 顶尖经济学家史蒂夫·汉克向我们阐述了他认为人工智能不会成为大规模就业杀手的原因（www.businessinsider.com） - https://www.businessinsider.com/steve-hanke-ai-not-destroying-jobs-unemployment-cost-data-centers-2026-7
-9. 从 TPU 到自我进化的 Agent，Jeff Dean 如何判断 AI 的下一步（Readhub · AI） - https://news.qq.com/rain/a/20260802A07RV800
-10. Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器（hackernews） - https://news.ycombinator.com/item?id=49140340
+2. 商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成（AIbase） - https://www.aibase.com/news/30081
+3. 德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩（AIbase） - https://www.aibase.com/news/30079
+4. 月之暗面回应赴港IPO传闻：本月提交上市申请消息不实（AIbase） - https://www.aibase.com/news/30077
+5. Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境（Cloudflare Blog） - https://aihot.virxact.com/items/cmsdal06c16pxroeu5xtlavmg
+6. Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC（Cloudflare Blog） - https://aihot.virxact.com/items/cmsdal06d16pyroeu00obye0v
+7. 月之暗面否认“最早于本月内提交香港 IPO 申请”传闻（AIbase） - https://www.aibase.com/news/30083
+8. 腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升（AIbase） - https://www.aibase.com/news/30082
+9. Kimi Work 幻灯片制作教程发布（X：Kimi.ai (@Kimi_Moonshot)） - https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj
+10. IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%（AIbase） - https://www.aibase.com/news/30072
