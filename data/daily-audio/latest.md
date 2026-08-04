@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月3日人工智能热点分享
-1、破坏刑事诈骗行动。
-2、商汤开源SenseNova U1.5-Lite-Preview，重点是8B模型支持原生4K图像生成。
-3、德国法院重磅裁定，重点是AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩。
-4、月之暗面回应赴港IPO传闻，重点是本月提交上市申请消息不实。
-5、Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境，Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。
-6、Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC，Cloudflare 在 Agents Week 期间推出 Workers 运行时新处理器 connect(socket)，可直接接受 Spectrum 提供的入站 TCP 套接字，并支持将套接字转发至 Durable。
-7、月之暗面否认“最早于本月内提交香港 IPO 申请”传闻。
-8、腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升。
-9、Kimi Work 幻灯片制作教程发布，使用 Kimi Work 制作幻灯片 - 教程 1。
-10、IBM 报告，重点是四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%。
+2026年8月4日人工智能热点分享
+1、我们于 2026 年 7 月公布的最新 AI 新闻。
+2、面壁智能开源 ForgeStencil，重点是双 Agent 一周自动优化 100+ 工业软件，全程零人工介入。
+3、AI 写代码烧掉 1215 万元，超预算 860%，重点是亚马逊内部事故敲响企业 AI 成本警钟。
+4、腾讯混元发布 Hy ASR 3.0 preview，重点是语音识别不再逐字硬转，而是真的听懂了语境。
+5、腾讯混元发布Hy ASR3.0preview，重点是语音识别迈入“懂语境”新阶段。
+6、8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版。
+7、CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日。
+8、腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别，腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。
+9、用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线，本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。
+10、自定义 Copilot 云代理的推理级别。
 
 ## 原始链接
-1. 破坏刑事诈骗行动（OpenAI News） - https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
-2. 商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成（AIbase） - https://www.aibase.com/news/30081
-3. 德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩（AIbase） - https://www.aibase.com/news/30079
-4. 月之暗面回应赴港IPO传闻：本月提交上市申请消息不实（AIbase） - https://www.aibase.com/news/30077
-5. Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境（Cloudflare Blog） - https://aihot.virxact.com/items/cmsdal06c16pxroeu5xtlavmg
-6. Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC（Cloudflare Blog） - https://aihot.virxact.com/items/cmsdal06d16pyroeu00obye0v
-7. 月之暗面否认“最早于本月内提交香港 IPO 申请”传闻（AIbase） - https://www.aibase.com/news/30083
-8. 腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升（AIbase） - https://www.aibase.com/news/30082
-9. Kimi Work 幻灯片制作教程发布（X：Kimi.ai (@Kimi_Moonshot)） - https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj
-10. IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%（AIbase） - https://www.aibase.com/news/30072
+1. 我们于 2026 年 7 月公布的最新 AI 新闻（Google AI Blog） - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
+2. 面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入（AIbase） - https://www.aibase.com/news/30105
+3. AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟（AIbase） - https://www.aibase.com/news/30109
+4. 腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境（AIbase） - https://www.aibase.com/news/30110
+5. 腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段（AIbase） - https://www.aibase.com/news/30108
+6. 8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版（AIbase） - https://www.aibase.com/news/30107
+7. CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日（AIbase） - https://www.aibase.com/news/30102
+8. 腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别（公众号：腾讯混元） - https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4
+9. 用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线（MarkTechPost（RSS）） - https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps
+10. 自定义 Copilot 云代理的推理级别（GitHub 更新日志） - https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent
