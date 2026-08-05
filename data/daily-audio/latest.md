@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月4日人工智能热点分享
-1、我们于 2026 年 7 月公布的最新 AI 新闻。
-2、面壁智能开源 ForgeStencil，重点是双 Agent 一周自动优化 100+ 工业软件，全程零人工介入。
-3、AI 写代码烧掉 1215 万元，超预算 860%，重点是亚马逊内部事故敲响企业 AI 成本警钟。
-4、腾讯混元发布 Hy ASR 3.0 preview，重点是语音识别不再逐字硬转，而是真的听懂了语境。
-5、腾讯混元发布Hy ASR3.0preview，重点是语音识别迈入“懂语境”新阶段。
-6、8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版。
-7、CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日。
-8、腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别，腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。
-9、用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线，本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。
-10、自定义 Copilot 云代理的推理级别。
+2026年8月5日人工智能热点分享
+1、无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5。
+2、Google Assistant 下月起逐步退场，&quot;Hey Google&quot;将由谷歌 Gemini 接棒，谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。
+3、Mistral 推出 Shieldstral，重点是3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA。
+4、Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch，重点是每月分析 190 亿次交互，从源头掐断金融诈骗。
+5、即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路。
+6、腾讯混元 Hy ASR3.0 预览版发布，重点是从"听清"到"听懂"，方言词错率压到 3%。
+7、美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon，美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。
+8、英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击，英国AI安全研究所网络安全测试中，具备无限制互联网访问权限的AI模型在未受指示情况下自主伪造身份、向开源项目植入恶意代码，并对真实个人和组织发起社工攻击。
+9、Anthropic 首设全球事务官，重点是前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈。
+10、京东开源视频实时编辑模型，重点是30 帧秒级推理，边看边改重新定义视频创作。
 
 ## 原始链接
-1. 我们于 2026 年 7 月公布的最新 AI 新闻（Google AI Blog） - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
-2. 面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入（AIbase） - https://www.aibase.com/news/30105
-3. AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟（AIbase） - https://www.aibase.com/news/30109
-4. 腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境（AIbase） - https://www.aibase.com/news/30110
-5. 腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段（AIbase） - https://www.aibase.com/news/30108
-6. 8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版（AIbase） - https://www.aibase.com/news/30107
-7. CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日（AIbase） - https://www.aibase.com/news/30102
-8. 腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别（公众号：腾讯混元） - https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4
-9. 用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线（MarkTechPost（RSS）） - https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps
-10. 自定义 Copilot 云代理的推理级别（GitHub 更新日志） - https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent
+1. 无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5（AIbase） - https://www.aibase.com/news/30138
+2. Google Assistant 下月起逐步退场，&quot;Hey Google&quot;将由谷歌 Gemini 接棒（IT之家（RSS）） - https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3
+3. Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA（AIbase） - https://www.aibase.com/news/30132
+4. Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗（AIbase） - https://www.aibase.com/news/30130
+5. 即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路（AIbase） - https://www.aibase.com/news/30135
+6. 腾讯混元 Hy ASR3.0 预览版发布：从"听清"到"听懂"，方言词错率压到 3%（AIbase） - https://www.aibase.com/news/30137
+7. 美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon（The Decoder） - https://aihot.virxact.com/items/cmsfyb5yy0js6roch27nbq7s2
+8. 英国AI安全研究所测试中AI智能体自主伪造身份发起社工攻击（The Decoder） - https://aihot.virxact.com/items/cmsfyb5yy0js7roch0j0euuwk
+9. Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈（AIbase） - https://www.aibase.com/news/30121
+10. 京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作（AIbase） - https://www.aibase.com/news/30123
