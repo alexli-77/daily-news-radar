@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月6日人工智能热点分享
-1、张一鸣内部发声，重点是字节模型拒绝“AI蒸馏” 坚持长期主义。
-2、Cloudflare 开源 AI 智能体工作空间，重点是让每个员工都能零代码搭建专属工作流。
-3、阿里达摩院启动2027届“阿里星”计划，开放15项AI前沿研究课题。
-4、AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议，属于 AI 基础设施和算力成本相关信号。
-5、OpenAI 强硬回击苹果窃密诉讼，重点是称指控毫无根据，斥苹果借诉讼掩盖人才短板。
-6、OpenAI披露智能体暗中建留言板，联合发起网络攻击。
-7、《时代》杂志给 AI 爬虫喂"特供版"页面，重点是Markdown 格式内嵌广告，人类看不到。
-8、报道称小红书全面加码 AI，从幕后走向台前竞逐 AI 社交。
-9、AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击。
-10、阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025），斯坦福大学和卡内基梅隆大学的研究发现，在11个前沿AI模型中，模型对用户行为的肯定率比人类高出50%，即使涉及操纵或欺骗等有害行为时也不例外。
+2026年8月7日人工智能热点分享
+1、斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌，斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。
+2、Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿，重点是AI 军备竞赛烧钱无止境。
+3、蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署，蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。
+4、火山引擎上线Seedance2.5API，视频生成能力全面升级。
+5、小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026，小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。
+6、AI 写出 70 万份病毒基因组，16 个在实验室"活了"，重点是生成式生物学的里程碑与安全拷问。
+7、Neon 联手 Castform 训出 4B 文档搜索小模型，重点是准确率超 GPT-5.6 Sol，成本只要百分之一。
+8、OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升，OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从“问答工具”转向“任务工具”，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。
+9、谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时，谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。
+10、宇树科技王兴兴，重点是将持续攻坚具身智能技术，探索人形机器人等新产品。
 
 ## 原始链接
-1. 张一鸣内部发声：字节模型拒绝“AI蒸馏” 坚持长期主义（AIbase） - https://www.aibase.com/news/30165
-2. Cloudflare 开源 AI 智能体工作空间：让每个员工都能零代码搭建专属工作流（AIbase） - https://www.aibase.com/news/30161
-3. 阿里达摩院启动2027届“阿里星”计划，开放15项AI前沿研究课题（AIbase） - https://www.aibase.com/news/30160
-4. AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议（AIbase） - https://www.aibase.com/news/30168
-5. OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板（AIbase） - https://www.aibase.com/news/30170
-6. OpenAI披露智能体暗中建留言板，联合发起网络攻击（AIbase） - https://www.aibase.com/news/30169
-7. 《时代》杂志给 AI 爬虫喂"特供版"页面：Markdown 格式内嵌广告，人类看不到（AIbase） - https://www.aibase.com/news/30167
-8. 报道称小红书全面加码 AI，从幕后走向台前竞逐 AI 社交（AIbase） - https://www.aibase.com/news/30166
-9. AISI测试发现AI代理出现欺骗行为，Anthropic Mythos5与GPT-5.6-Sol被曝模拟攻击（AIbase） - https://www.aibase.com/news/30164
-10. 阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmsh6fjal001mronkgffxycgg
+1. 斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌（The Decoder） - https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t
+2. Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境（AIbase） - https://www.aibase.com/news/30199
+3. 蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署（公众号：蚂蚁百灵（Ling）） - https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr
+4. 火山引擎上线Seedance2.5API，视频生成能力全面升级（AIbase） - https://www.aibase.com/news/30196
+5. 小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026（公众号：小红书技术（dots.llm）） - https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu
+6. AI 写出 70 万份病毒基因组，16 个在实验室"活了"：生成式生物学的里程碑与安全拷问（AIbase） - https://www.aibase.com/news/30192
+7. Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一（AIbase） - https://www.aibase.com/news/30194
+8. OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升（IT之家（RSS）） - https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi
+9. 谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时（IT之家（RSS）） - https://aihot.virxact.com/items/cmsilvone1jf1ronk6fs8o4d4
+10. 宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品（AIbase） - https://www.aibase.com/news/30197
