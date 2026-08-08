@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:30:08.550371Z",
+  "generated_at": "2026-08-08T13:27:48.347821Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9415,
+        "recency": 0.9014,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8299,
+        "recency": 0.7898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -158,14 +158,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4485,
+        "recency": 0.4085,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,14 +219,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.358,
+        "recency": 0.3179,
         "story_heat": 0.0
       },
       "category": "official",
@@ -298,17 +298,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
-      "importance_label": "行业动态",
+      "score": 0.7177,
+      "importance": 0.7177,
+      "importance_score": 0.7177,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4436,
+        "recency": 0.4036,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -358,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3467,
+        "recency": 0.3067,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,14 +418,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3819,
+        "recency": 0.3418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,63 +444,159 @@
       }
     },
     {
-      "story_id": "story_1256b7011cc5",
-      "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_559ec1c8538d",
+      "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "url": "https://news.ycombinator.com/item?id=49221089",
+      "primary_url": "https://news.ycombinator.com/item?id=49221089",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
+          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
+          "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "url": "https://news.ycombinator.com/item?id=49221089",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T13:28:18.126000Z"
+        },
+        {
+          "id": "acee0936dcff6743d870b19d0b03f48a61274675",
+          "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T12:16:03Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
+          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
+          "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "url": "https://news.ycombinator.com/item?id=49221089",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T13:28:18.126000Z"
+        },
+        {
+          "id": "acee0936dcff6743d870b19d0b03f48a61274675",
+          "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T12:16:03Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2435,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T18:20:47Z",
-      "latest_at": "2026-08-07T18:20:47Z",
+      "earliest_at": "2026-08-08T12:16:03Z",
+      "latest_at": "2026-08-08T13:28:18.126000Z",
       "primary_item": {
-        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-        "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
+        "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+        "url": "https://news.ycombinator.com/item?id=49221089",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_159e06467b2c",
+      "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+      "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T12:14:35.904000Z"
+        },
+        {
+          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T12:14:35.904000Z"
+        },
+        {
+          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9492,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T12:00:01Z",
+      "latest_at": "2026-08-08T12:14:35.904000Z",
+      "primary_item": {
+        "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+        "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+        "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -557,14 +653,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9358,
+        "recency": 0.8958,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -635,14 +731,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9116,
+        "recency": 0.8715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -655,84 +751,6 @@
         "id": "26f8fb2d763ee96270036f3daa99a0f638745fd0",
         "title": "他加入了OpenAI。以下是他给那些希望在该实验室求职的人的一些建议。",
         "url": "https://www.businessinsider.com/openai-hiring-job-advice-from-product-manager-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8b3be1aef926",
-      "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
-      "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-      "primary_url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
-          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
-          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T09:50:49.654000Z"
-        },
-        {
-          "id": "124c56df434445a57516fc03c19002ddc0a14ad3",
-          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型 / Arena AI CEO says enterprises don’t know which AI models to trust",
-          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T09:36:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
-          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
-          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T09:50:49.654000Z"
-        },
-        {
-          "id": "124c56df434445a57516fc03c19002ddc0a14ad3",
-          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型 / Arena AI CEO says enterprises don’t know which AI models to trust",
-          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T09:36:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8894,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T09:36:01Z",
-      "latest_at": "2026-08-08T09:50:49.654000Z",
-      "primary_item": {
-        "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
-        "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
-        "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -790,14 +808,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4909,
-      "importance": 0.4909,
-      "importance_score": 0.4909,
+      "score": 0.4829,
+      "importance": 0.4829,
+      "importance_score": 0.4829,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7144,
+        "recency": 0.6744,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -868,14 +886,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4818,
-      "importance": 0.4818,
-      "importance_score": 0.4818,
+      "score": 0.4738,
+      "importance": 0.4738,
+      "importance_score": 0.4738,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6689,
+        "recency": 0.6288,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -946,14 +964,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4818,
-      "importance": 0.4818,
-      "importance_score": 0.4818,
+      "score": 0.4738,
+      "importance": 0.4738,
+      "importance_score": 0.4738,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6689,
+        "recency": 0.6288,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -968,6 +986,84 @@
         "url": "https://www.36kr.com/p/3930193006837125",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_8b3be1aef926",
+      "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
+      "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+      "primary_url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
+          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
+          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T09:50:49.654000Z"
+        },
+        {
+          "id": "124c56df434445a57516fc03c19002ddc0a14ad3",
+          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型 / Arena AI CEO says enterprises don’t know which AI models to trust",
+          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T09:36:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
+          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
+          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T09:50:49.654000Z"
+        },
+        {
+          "id": "124c56df434445a57516fc03c19002ddc0a14ad3",
+          "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型 / Arena AI CEO says enterprises don’t know which AI models to trust",
+          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T09:36:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8493,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T09:36:01Z",
+      "latest_at": "2026-08-08T09:50:49.654000Z",
+      "primary_item": {
+        "id": "155fd3b43f26390428733e190d7fbb2debc4dbd1",
+        "title": "Arena AI首席执行官表示，企业不知道该信任哪些AI模型",
+        "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1023,14 +1119,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.459,
-      "importance": 0.459,
-      "importance_score": 0.459,
+      "score": 0.451,
+      "importance": 0.451,
+      "importance_score": 0.451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5549,
+        "recency": 0.5148,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1045,84 +1141,6 @@
         "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_682035b82e13",
-      "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
-      "url": "https://news.ycombinator.com/item?id=49217629",
-      "primary_url": "https://news.ycombinator.com/item?id=49217629",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "29857904b535ab3154c5c84933dd4a2b65b9af3d",
-          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
-          "url": "https://news.ycombinator.com/item?id=49217629",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T01:06:33.553000Z"
-        },
-        {
-          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
-          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
-          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T00:03:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "29857904b535ab3154c5c84933dd4a2b65b9af3d",
-          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
-          "url": "https://news.ycombinator.com/item?id=49217629",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T01:06:33.553000Z"
-        },
-        {
-          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
-          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
-          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T00:03:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4531,
-      "importance": 0.4531,
-      "importance_score": 0.4531,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5253,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T00:03:31Z",
-      "latest_at": "2026-08-08T01:06:33.553000Z",
-      "primary_item": {
-        "id": "29857904b535ab3154c5c84933dd4a2b65b9af3d",
-        "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
-        "url": "https://news.ycombinator.com/item?id=49217629",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1198,14 +1216,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4442,
-      "importance": 0.4442,
-      "importance_score": 0.4442,
+      "score": 0.4362,
+      "importance": 0.4362,
+      "importance_score": 0.4362,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.356,
+        "recency": 0.3159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1295,14 +1313,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4242,
-      "importance": 0.4242,
-      "importance_score": 0.4242,
+      "score": 0.4162,
+      "importance": 0.4162,
+      "importance_score": 0.4162,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2559,
+        "recency": 0.2159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1320,78 +1338,79 @@
       }
     },
     {
-      "story_id": "story_aa58fdb8c41e",
-      "title": "大规模管理人工智能编码成本 / Managing AI Coding Costs at Scale",
-      "url": "https://news.ycombinator.com/item?id=49214468",
-      "primary_url": "https://news.ycombinator.com/item?id=49214468",
+      "story_id": "story_682035b82e13",
+      "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+      "url": "https://news.ycombinator.com/item?id=49217629",
+      "primary_url": "https://news.ycombinator.com/item?id=49217629",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "fde07b592f5711381b8eff1d306f682acff1d8e9",
-          "title": "大规模管理人工智能编码成本 / Managing AI Coding Costs at Scale",
-          "url": "https://news.ycombinator.com/item?id=49214468",
+          "id": "29857904b535ab3154c5c84933dd4a2b65b9af3d",
+          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+          "url": "https://news.ycombinator.com/item?id=49217629",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-08T01:06:33.553000Z"
         },
         {
-          "id": "8afc8984e384de0b5f4712c0026cd90a0077807b",
-          "title": "Databricks 将 AI 编码支出减少了 70% / Databricks drove down AI coding spend 70%",
-          "url": "https://news.ycombinator.com/item?id=49214468",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T19:29:53.662000Z"
+          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
+          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T00:03:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "fde07b592f5711381b8eff1d306f682acff1d8e9",
-          "title": "大规模管理人工智能编码成本 / Managing AI Coding Costs at Scale",
-          "url": "https://news.ycombinator.com/item?id=49214468",
+          "id": "29857904b535ab3154c5c84933dd4a2b65b9af3d",
+          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+          "url": "https://news.ycombinator.com/item?id=49217629",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-08T01:06:33.553000Z"
         },
         {
-          "id": "8afc8984e384de0b5f4712c0026cd90a0077807b",
-          "title": "Databricks 将 AI 编码支出减少了 70% / Databricks drove down AI coding spend 70%",
-          "url": "https://news.ycombinator.com/item?id=49214468",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T19:29:53.662000Z"
+          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
+          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T00:03:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4531,
-      "importance": 0.4531,
-      "importance_score": 0.4531,
+      "score": 0.445,
+      "importance": 0.445,
+      "importance_score": 0.445,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5253,
+        "recency": 0.4852,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-07T19:29:53.662000Z",
+      "earliest_at": "2026-08-08T00:03:31Z",
       "latest_at": "2026-08-08T01:06:33.553000Z",
       "primary_item": {
-        "id": "fde07b592f5711381b8eff1d306f682acff1d8e9",
-        "title": "大规模管理人工智能编码成本 / Managing AI Coding Costs at Scale",
-        "url": "https://news.ycombinator.com/item?id=49214468",
+        "id": "29857904b535ab3154c5c84933dd4a2b65b9af3d",
+        "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+        "url": "https://news.ycombinator.com/item?id=49217629",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1450,14 +1469,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4432,
-      "importance": 0.4432,
-      "importance_score": 0.4432,
+      "score": 0.4352,
+      "importance": 0.4352,
+      "importance_score": 0.4352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4761,
+        "recency": 0.4361,
         "story_heat": 0.25
       },
       "category": "watch",
