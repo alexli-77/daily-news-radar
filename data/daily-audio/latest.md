@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月7日人工智能热点分享
-1、斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌，斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。
-2、Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿，重点是AI 军备竞赛烧钱无止境。
-3、蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署，蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。
-4、火山引擎上线Seedance2.5API，视频生成能力全面升级。
-5、小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026，小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。
-6、AI 写出 70 万份病毒基因组，16 个在实验室"活了"，重点是生成式生物学的里程碑与安全拷问。
-7、Neon 联手 Castform 训出 4B 文档搜索小模型，重点是准确率超 GPT-5.6 Sol，成本只要百分之一。
-8、OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升，OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从“问答工具”转向“任务工具”，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。
-9、谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时，谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。
-10、宇树科技王兴兴，重点是将持续攻坚具身智能技术，探索人形机器人等新产品。
+2026年8月8日人工智能热点分享
+1、DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间，Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强。
+2、OpenAI：因网络安全风险，延缓 Astra 模型发布，OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达“关键”级别的模型，决定延缓发布。
+3、CPU 回来了，重点是重新思考 LLM 推理的 CPU-GPU 分割。
+4、人工智能热潮正在创造薪资更高的数据中心岗位。
+5、OpenAI 对 Hugging Face 的意外攻击时间线公布。
+6、他加入了OpenAI。以下是他给那些希望在该实验室求职的人的一些建议。
+7、Arena AI首席执行官表示，企业不知道该信任哪些AI模型。
+8、[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！，推广 - @XShadow - 写在前面平台开发用了半个月，一步步优化，实现全自动正规银行扣款，官网可查账单，提供质保。
+9、价值 350 万的「提示词」开源了，揭秘全球首部全 AI 生成的电影长片。
+10、突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了，OMG，你（Astra）吓到我了。
 
 ## 原始链接
-1. 斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌（The Decoder） - https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t
-2. Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境（AIbase） - https://www.aibase.com/news/30199
-3. 蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署（公众号：蚂蚁百灵（Ling）） - https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr
-4. 火山引擎上线Seedance2.5API，视频生成能力全面升级（AIbase） - https://www.aibase.com/news/30196
-5. 小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026（公众号：小红书技术（dots.llm）） - https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu
-6. AI 写出 70 万份病毒基因组，16 个在实验室"活了"：生成式生物学的里程碑与安全拷问（AIbase） - https://www.aibase.com/news/30192
-7. Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一（AIbase） - https://www.aibase.com/news/30194
-8. OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升（IT之家（RSS）） - https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi
-9. 谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时（IT之家（RSS）） - https://aihot.virxact.com/items/cmsilvone1jf1ronk6fs8o4d4
-10. 宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品（AIbase） - https://www.aibase.com/news/30197
+1. DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间（Ars Technica：AI（RSS）） - https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7
+2. OpenAI：因网络安全风险，延缓 Astra 模型发布（IT之家（RSS）） - https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6
+3. CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割（hackernews） - https://news.ycombinator.com/item?id=49221089
+4. 人工智能热潮正在创造薪资更高的数据中心岗位（www.businessinsider.com） - https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8
+5. OpenAI 对 Hugging Face 的意外攻击时间线公布（Hacker News (黑客新闻)） - https://simonwillison.net/2026/Aug/7/openai-timeline
+6. 他加入了OpenAI。以下是他给那些希望在该实验室求职的人的一些建议。（www.businessinsider.com） - https://www.businessinsider.com/openai-hiring-job-advice-from-product-manager-2026-8
+7. Arena AI首席执行官表示，企业不知道该信任哪些AI模型（www.businessinsider.com） - https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8
+8. [分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！（V2EX (创意工作者社区)） - https://www.v2ex.com/t/1232891
+9. 价值 350 万的「提示词」开源了，揭秘全球首部全 AI 生成的电影长片（Readhub · AI） - https://www.huxiu.com/article/4881638.html?f=rss
+10. 突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了（36氪 · 24小时热榜） - https://www.36kr.com/p/3930193006837125
