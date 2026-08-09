@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:21:18.307925Z",
+  "generated_at": "2026-08-09T22:57:27.498917Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,20 +98,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6916,
+        "recency": 0.6665,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T14:57:11Z",
       "latest_at": "2026-08-09T14:57:11Z",
@@ -158,14 +157,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6727,
+        "recency": 0.6476,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,85 +178,6 @@
         "title": "AI安全测试正成为安全风险",
         "url": "https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0f14f1b58eb6",
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
-      "primary_url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "415c8fda121711d3b1f059aadae9aae71242bf83",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
-        },
-        {
-          "id": "e3762adbecfc92d514b72ebb63ccc721b34a25aa",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "url": "https://www.ithome.com/0/987/452.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T22:46:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "415c8fda121711d3b1f059aadae9aae71242bf83",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T22:46:14Z"
-        },
-        {
-          "id": "e3762adbecfc92d514b72ebb63ccc721b34a25aa",
-          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-          "url": "https://www.ithome.com/0/987/452.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T22:46:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6405,
-      "importance": 0.6405,
-      "importance_score": 0.6405,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0173,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T22:46:14Z",
-      "latest_at": "2026-08-08T22:46:14Z",
-      "primary_item": {
-        "id": "415c8fda121711d3b1f059aadae9aae71242bf83",
-        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -371,14 +291,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5816,
-      "importance": 0.5816,
-      "importance_score": 0.5816,
+      "score": 0.5765,
+      "importance": 0.5765,
+      "importance_score": 0.5765,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7928,
+        "recency": 0.7677,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -396,99 +316,236 @@
       }
     },
     {
-      "story_id": "story_c889f9e34eab",
-      "title": "我如何利用大型语言模型（LLM）学习复杂主题",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-      "primary_url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-      "source": "laurentiugabriel.github.io",
-      "source_name": "Buzzing",
+      "story_id": "story_3b479a1d73e9",
+      "title": "3.82 亿月活每天收入不足百万，AI 的流量逻辑已经死了",
+      "url": "https://www.huxiu.com/article/4881831.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881831.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "laurentiugabriel.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T20:30:33.242000Z"
+          "id": "4d27c022d8251f3371c9762f418a7adf91289865",
+          "title": "3.82 亿月活每天收入不足百万，AI 的流量逻辑已经死了",
+          "url": "https://www.huxiu.com/article/4881831.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-          "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
-          "url": "https://news.ycombinator.com/item?id=49234675",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T19:37:49.635000Z"
-        },
-        {
-          "id": "cf7f2c0866cec8358b002676e8bacb1945ea3b90",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T19:16:49Z"
+          "id": "a2ea32e9e2e39e3fc0e9db89c31bc2a7ea1b6361",
+          "title": "3.82亿月活每天收入不足百万，AI的流量逻辑已经死了",
+          "url": "https://www.huxiu.com/article/4881831.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T22:15:13Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews",
-        "laurentiugabriel.github.io"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "laurentiugabriel.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T20:30:33.242000Z"
+          "id": "4d27c022d8251f3371c9762f418a7adf91289865",
+          "title": "3.82 亿月活每天收入不足百万，AI 的流量逻辑已经死了",
+          "url": "https://www.huxiu.com/article/4881831.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-          "title": "我如何利用法学硕士学习复杂的主题 / How I use LLMs to learn complex topics",
-          "url": "https://news.ycombinator.com/item?id=49234675",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T19:37:49.635000Z"
-        },
-        {
-          "id": "cf7f2c0866cec8358b002676e8bacb1945ea3b90",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T19:16:49Z"
+          "id": "a2ea32e9e2e39e3fc0e9db89c31bc2a7ea1b6361",
+          "title": "3.82亿月活每天收入不足百万，AI的流量逻辑已经死了",
+          "url": "https://www.huxiu.com/article/4881831.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T22:15:13Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5576,
-      "importance": 0.5576,
-      "importance_score": 0.5576,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9231,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T19:16:49Z",
-      "latest_at": "2026-08-09T20:30:33.242000Z",
+      "earliest_at": "2026-08-09T22:15:13Z",
+      "latest_at": "2026-08-09T22:57:27.498917Z",
       "primary_item": {
-        "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
-        "title": "我如何利用大型语言模型（LLM）学习复杂主题",
-        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-        "source": "laurentiugabriel.github.io",
+        "id": "4d27c022d8251f3371c9762f418a7adf91289865",
+        "title": "3.82 亿月活每天收入不足百万，AI 的流量逻辑已经死了",
+        "url": "https://www.huxiu.com/article/4881831.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6990f6ce15d7",
+      "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？",
+      "url": "https://github.com/JustVugg/lumabri",
+      "primary_url": "https://github.com/JustVugg/lumabri",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "59f62fccded8951a0b9b76ee12a4087e186bc253",
+          "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？",
+          "url": "https://github.com/JustVugg/lumabri",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T22:38:37.075000Z"
+        },
+        {
+          "id": "c3e85138d8b1f195fafe0331f3082a2ad8fe3ddd",
+          "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？ / Show HN: Lumabri – What if LLMs worked like Napster?",
+          "url": "https://github.com/JustVugg/lumabri",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T22:24:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "59f62fccded8951a0b9b76ee12a4087e186bc253",
+          "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？",
+          "url": "https://github.com/JustVugg/lumabri",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T22:38:37.075000Z"
+        },
+        {
+          "id": "c3e85138d8b1f195fafe0331f3082a2ad8fe3ddd",
+          "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？ / Show HN: Lumabri – What if LLMs worked like Napster?",
+          "url": "https://github.com/JustVugg/lumabri",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T22:24:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9869,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T22:24:24Z",
+      "latest_at": "2026-08-09T22:38:37.075000Z",
+      "primary_item": {
+        "id": "59f62fccded8951a0b9b76ee12a4087e186bc253",
+        "title": "Show HN: Lumabri——如果大型语言模型（LLM）像Napster那样运作会怎样？",
+        "url": "https://github.com/JustVugg/lumabri",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e61e9a32542b",
+      "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+      "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f4b3329460e084e8f5e910c2b5e94913d39baa6d",
+          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T22:38:37.850000Z"
+        },
+        {
+          "id": "5e4d2e55ee5b02c09c932cf8cdce191104b75468",
+          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的 / How Cursor recruits elite AI engineers when huge salaries aren't enough",
+          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T19:50:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f4b3329460e084e8f5e910c2b5e94913d39baa6d",
+          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T22:38:37.850000Z"
+        },
+        {
+          "id": "5e4d2e55ee5b02c09c932cf8cdce191104b75468",
+          "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的 / How Cursor recruits elite AI engineers when huge salaries aren't enough",
+          "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T19:50:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9869,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T19:50:44Z",
+      "latest_at": "2026-08-09T22:38:37.850000Z",
+      "primary_item": {
+        "id": "f4b3329460e084e8f5e910c2b5e94913d39baa6d",
+        "title": "当高薪已不足以吸引人才时，Cursor是如何招募顶尖AI工程师的",
+        "url": "https://www.businessinsider.com/ai-tech-talent-wars-cursor-recruiting-strategies-gifts-salary-perks-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -546,14 +603,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9493,
+        "recency": 0.9242,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -571,158 +628,81 @@
       }
     },
     {
-      "story_id": "story_7da447eee112",
-      "title": "奥特曼的 ChatGPT 育儿大法引发争议",
-      "url": "https://hub.baai.ac.cn/view/57003",
-      "primary_url": "https://hub.baai.ac.cn/view/57003",
+      "story_id": "story_c889f9e34eab",
+      "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "primary_url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "475c6c5d13532436b20dd54f9a85cbac6a0cea40",
-          "title": "奥特曼的 ChatGPT 育儿大法引发争议",
-          "url": "https://hub.baai.ac.cn/view/57003",
+          "id": "92a170237a1413daa6bdee985665972d3c965856",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f02231bca320e375945763bbeb31433a30800224",
-          "title": "奥特曼的 ChatGPT 育儿大法，捅了马蜂窝",
-          "url": "https://hub.baai.ac.cn/view/57003",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "laurentiugabriel.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T20:30:33.242000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "laurentiugabriel.github.io"
       ],
       "items": [
         {
-          "id": "475c6c5d13532436b20dd54f9a85cbac6a0cea40",
-          "title": "奥特曼的 ChatGPT 育儿大法引发争议",
-          "url": "https://hub.baai.ac.cn/view/57003",
+          "id": "92a170237a1413daa6bdee985665972d3c965856",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f02231bca320e375945763bbeb31433a30800224",
-          "title": "奥特曼的 ChatGPT 育儿大法，捅了马蜂窝",
-          "url": "https://hub.baai.ac.cn/view/57003",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
+          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "laurentiugabriel.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T20:30:33.242000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.752,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T15:35:45.078718Z",
-      "latest_at": "2026-08-09T16:24:14.268959Z",
+      "earliest_at": "2026-08-09T20:30:33.242000Z",
+      "latest_at": "2026-08-09T22:57:27.498917Z",
       "primary_item": {
-        "id": "475c6c5d13532436b20dd54f9a85cbac6a0cea40",
-        "title": "奥特曼的 ChatGPT 育儿大法引发争议",
-        "url": "https://hub.baai.ac.cn/view/57003",
+        "id": "92a170237a1413daa6bdee985665972d3c965856",
+        "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e0f81213158e",
-      "title": "全球领先的人工智能公司都在努力控制其最新模型",
-      "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
-          "title": "全球领先的人工智能公司都在努力控制其最新模型",
-          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T15:42:34.143000Z"
-        },
-        {
-          "id": "af4a66486156ef5d4500ac4f1a2f123596f017ef",
-          "title": "全球领先的人工智能公司都在努力控制其最新模型 / The world's leading AI companies are all struggling to contain their latest models",
-          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T15:24:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
-          "title": "全球领先的人工智能公司都在努力控制其最新模型",
-          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T15:42:34.143000Z"
-        },
-        {
-          "id": "af4a66486156ef5d4500ac4f1a2f123596f017ef",
-          "title": "全球领先的人工智能公司都在努力控制其最新模型 / The world's leading AI companies are all struggling to contain their latest models",
-          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T15:24:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4926,
-      "importance": 0.4926,
-      "importance_score": 0.4926,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7231,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T15:24:36Z",
-      "latest_at": "2026-08-09T15:42:34.143000Z",
-      "primary_item": {
-        "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
-        "title": "全球领先的人工智能公司都在努力控制其最新模型",
-        "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -778,14 +758,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4904,
-      "importance": 0.4904,
-      "importance_score": 0.4904,
+      "score": 0.4854,
+      "importance": 0.4854,
+      "importance_score": 0.4854,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7121,
+        "recency": 0.687,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -856,14 +836,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
+      "score": 0.5078,
+      "importance": 0.5078,
+      "importance_score": 0.5078,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8239,
+        "recency": 0.7988,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -881,30 +861,30 @@
       }
     },
     {
-      "story_id": "story_695eb81a7c65",
-      "title": "现在轮到OpenAI出招了",
-      "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
-      "primary_url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+      "story_id": "story_e0f81213158e",
+      "title": "全球领先的人工智能公司都在努力控制其最新模型",
+      "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
-          "title": "现在轮到OpenAI出招了",
-          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
+          "title": "全球领先的人工智能公司都在努力控制其最新模型",
+          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T14:54:45.218000Z"
+          "published_at": "2026-08-09T15:42:34.143000Z"
         },
         {
-          "id": "b1ac18b85f3b0b250a6216ad642f0c0b14f35ec6",
-          "title": "现在轮到OpenAI出招了 / The Ball in OpenAI's court",
-          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "id": "af4a66486156ef5d4500ac4f1a2f123596f017ef",
+          "title": "全球领先的人工智能公司都在努力控制其最新模型 / The world's leading AI companies are all struggling to contain their latest models",
+          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T08:11:01Z"
+          "published_at": "2026-08-09T15:24:36Z"
         }
       ],
       "source_count": 2,
@@ -914,46 +894,46 @@
       ],
       "items": [
         {
-          "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
-          "title": "现在轮到OpenAI出招了",
-          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
+          "title": "全球领先的人工智能公司都在努力控制其最新模型",
+          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T14:54:45.218000Z"
+          "published_at": "2026-08-09T15:42:34.143000Z"
         },
         {
-          "id": "b1ac18b85f3b0b250a6216ad642f0c0b14f35ec6",
-          "title": "现在轮到OpenAI出招了 / The Ball in OpenAI's court",
-          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "id": "af4a66486156ef5d4500ac4f1a2f123596f017ef",
+          "title": "全球领先的人工智能公司都在努力控制其最新模型 / The world's leading AI companies are all struggling to contain their latest models",
+          "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T08:11:01Z"
+          "published_at": "2026-08-09T15:24:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.486,
-      "importance": 0.486,
-      "importance_score": 0.486,
+      "score": 0.4876,
+      "importance": 0.4876,
+      "importance_score": 0.4876,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6899,
+        "recency": 0.698,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T08:11:01Z",
-      "latest_at": "2026-08-09T14:54:45.218000Z",
+      "earliest_at": "2026-08-09T15:24:36Z",
+      "latest_at": "2026-08-09T15:42:34.143000Z",
       "primary_item": {
-        "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
-        "title": "现在轮到OpenAI出招了",
-        "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+        "id": "286aded809cdaa1ca891f19fb6d4479fb52ca653",
+        "title": "全球领先的人工智能公司都在努力控制其最新模型",
+        "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1012,14 +992,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8029,
+        "recency": 0.7778,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,26 +1017,26 @@
       }
     },
     {
-      "story_id": "story_18b0dbee24c9",
-      "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-      "primary_url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
+      "story_id": "story_7da447eee112",
+      "title": "奥特曼的 ChatGPT 育儿大法引发争议",
+      "url": "https://hub.baai.ac.cn/view/57003",
+      "primary_url": "https://hub.baai.ac.cn/view/57003",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
-          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T22:36:03Z"
+          "id": "475c6c5d13532436b20dd54f9a85cbac6a0cea40",
+          "title": "奥特曼的 ChatGPT 育儿大法引发争议",
+          "url": "https://hub.baai.ac.cn/view/57003",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
-          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
-          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "id": "f02231bca320e375945763bbeb31433a30800224",
+          "title": "奥特曼的 ChatGPT 育儿大法，捅了马蜂窝",
+          "url": "https://hub.baai.ac.cn/view/57003",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1065,23 +1045,22 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "Simon Willison"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
-          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T22:36:03Z"
+          "id": "475c6c5d13532436b20dd54f9a85cbac6a0cea40",
+          "title": "奥特曼的 ChatGPT 育儿大法引发争议",
+          "url": "https://hub.baai.ac.cn/view/57003",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
-          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
-          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "id": "f02231bca320e375945763bbeb31433a30800224",
+          "title": "奥特曼的 ChatGPT 育儿大法，捅了马蜂窝",
+          "url": "https://hub.baai.ac.cn/view/57003",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1090,55 +1069,55 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.44,
-      "importance": 0.44,
-      "importance_score": 0.44,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.0102,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7269,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-08T22:36:03Z",
-      "latest_at": "2026-08-08T23:20:09.234248Z",
+      "earliest_at": "2026-08-09T15:35:45.078718Z",
+      "latest_at": "2026-08-09T16:24:14.268959Z",
       "primary_item": {
-        "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
-        "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-        "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
+        "id": "475c6c5d13532436b20dd54f9a85cbac6a0cea40",
+        "title": "奥特曼的 ChatGPT 育儿大法引发争议",
+        "url": "https://hub.baai.ac.cn/view/57003",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_7c5f1b9ff121",
-      "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。",
-      "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
-      "primary_url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+      "story_id": "story_695eb81a7c65",
+      "title": "现在轮到OpenAI出招了",
+      "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+      "primary_url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "48e006b106a52fe105dae1d83c4248b3e378c27a",
-          "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。",
-          "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+          "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
+          "title": "现在轮到OpenAI出招了",
+          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T14:22:54.879000Z"
+          "published_at": "2026-08-09T14:54:45.218000Z"
         },
         {
-          "id": "338a5b1619e7734639af86977b1f9ebb6bc2fa32",
-          "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。 / AI is shaking software. There's a new way to spot which companies are built to survive.",
-          "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+          "id": "b1ac18b85f3b0b250a6216ad642f0c0b14f35ec6",
+          "title": "现在轮到OpenAI出招了 / The Ball in OpenAI's court",
+          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T14:00:01Z"
+          "published_at": "2026-08-09T08:11:01Z"
         }
       ],
       "source_count": 2,
@@ -1148,46 +1127,46 @@
       ],
       "items": [
         {
-          "id": "48e006b106a52fe105dae1d83c4248b3e378c27a",
-          "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。",
-          "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+          "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
+          "title": "现在轮到OpenAI出招了",
+          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T14:22:54.879000Z"
+          "published_at": "2026-08-09T14:54:45.218000Z"
         },
         {
-          "id": "338a5b1619e7734639af86977b1f9ebb6bc2fa32",
-          "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。 / AI is shaking software. There's a new way to spot which companies are built to survive.",
-          "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+          "id": "b1ac18b85f3b0b250a6216ad642f0c0b14f35ec6",
+          "title": "现在轮到OpenAI出招了 / The Ball in OpenAI's court",
+          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T14:00:01Z"
+          "published_at": "2026-08-09T08:11:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4816,
-      "importance": 0.4816,
-      "importance_score": 0.4816,
+      "score": 0.481,
+      "importance": 0.481,
+      "importance_score": 0.481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6678,
+        "recency": 0.6648,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T14:00:01Z",
-      "latest_at": "2026-08-09T14:22:54.879000Z",
+      "earliest_at": "2026-08-09T08:11:01Z",
+      "latest_at": "2026-08-09T14:54:45.218000Z",
       "primary_item": {
-        "id": "48e006b106a52fe105dae1d83c4248b3e378c27a",
-        "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。",
-        "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+        "id": "abd2e29d6fcdf766ed0ef7f5c0077ed45d295d40",
+        "title": "现在轮到OpenAI出招了",
+        "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1265,14 +1244,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6568,
+        "recency": 0.6317,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1285,6 +1264,162 @@
         "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
         "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
         "url": "https://news.ycombinator.com/item?id=49230550",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7c5f1b9ff121",
+      "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。",
+      "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+      "primary_url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "48e006b106a52fe105dae1d83c4248b3e378c27a",
+          "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。",
+          "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T14:22:54.879000Z"
+        },
+        {
+          "id": "338a5b1619e7734639af86977b1f9ebb6bc2fa32",
+          "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。 / AI is shaking software. There's a new way to spot which companies are built to survive.",
+          "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T14:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "48e006b106a52fe105dae1d83c4248b3e378c27a",
+          "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。",
+          "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T14:22:54.879000Z"
+        },
+        {
+          "id": "338a5b1619e7734639af86977b1f9ebb6bc2fa32",
+          "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。 / AI is shaking software. There's a new way to spot which companies are built to survive.",
+          "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T14:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4765,
+      "importance": 0.4765,
+      "importance_score": 0.4765,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6427,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T14:00:01Z",
+      "latest_at": "2026-08-09T14:22:54.879000Z",
+      "primary_item": {
+        "id": "48e006b106a52fe105dae1d83c4248b3e378c27a",
+        "title": "人工智能正在颠覆软件行业。现在出现了一种新方法，可以识别出哪些公司具备长远发展的潜力。",
+        "url": "https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_45361f348240",
+      "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+      "url": "https://news.ycombinator.com/item?id=49231838",
+      "primary_url": "https://news.ycombinator.com/item?id=49231838",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "url": "https://news.ycombinator.com/item?id=49231838",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T16:37:19.032000Z"
+        },
+        {
+          "id": "a1925d17d55a737b655ccae97f1a47ce1cd16aa8",
+          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T14:36:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "url": "https://news.ycombinator.com/item?id=49231838",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T16:37:19.032000Z"
+        },
+        {
+          "id": "a1925d17d55a737b655ccae97f1a47ce1cd16aa8",
+          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T14:36:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4952,
+      "importance": 0.4952,
+      "importance_score": 0.4952,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.736,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T14:36:46Z",
+      "latest_at": "2026-08-09T16:37:19.032000Z",
+      "primary_item": {
+        "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+        "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+        "url": "https://news.ycombinator.com/item?id=49231838",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1361,14 +1496,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.3821,
-      "importance": 0.3821,
-      "importance_score": 0.3821,
+      "score": 0.3771,
+      "importance": 0.3771,
+      "importance_score": 0.3771,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0454,
+        "recency": 0.0203,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1386,30 +1521,30 @@
       }
     },
     {
-      "story_id": "story_45361f348240",
-      "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-      "url": "https://news.ycombinator.com/item?id=49231838",
-      "primary_url": "https://news.ycombinator.com/item?id=49231838",
+      "story_id": "story_04b701cf6c36",
+      "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+      "url": "https://news.ycombinator.com/item?id=49230954",
+      "primary_url": "https://news.ycombinator.com/item?id=49230954",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "url": "https://news.ycombinator.com/item?id=49231838",
+          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+          "url": "https://news.ycombinator.com/item?id=49230954",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T16:37:19.032000Z"
+          "published_at": "2026-08-09T13:42:54.734000Z"
         },
         {
-          "id": "a1925d17d55a737b655ccae97f1a47ce1cd16aa8",
-          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "id": "e92172beddcb1912109ace63adf377086e39d234",
+          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-09T14:36:46Z"
+          "published_at": "2026-08-09T12:52:10Z"
         }
       ],
       "source_count": 2,
@@ -1419,204 +1554,48 @@
       ],
       "items": [
         {
-          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "url": "https://news.ycombinator.com/item?id=49231838",
+          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+          "url": "https://news.ycombinator.com/item?id=49230954",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T16:37:19.032000Z"
+          "published_at": "2026-08-09T13:42:54.734000Z"
         },
         {
-          "id": "a1925d17d55a737b655ccae97f1a47ce1cd16aa8",
-          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "id": "e92172beddcb1912109ace63adf377086e39d234",
+          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-09T14:36:46Z"
+          "published_at": "2026-08-09T12:52:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.471,
+      "importance": 0.471,
+      "importance_score": 0.471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7611,
+        "recency": 0.6149,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T14:36:46Z",
-      "latest_at": "2026-08-09T16:37:19.032000Z",
+      "earliest_at": "2026-08-09T12:52:10Z",
+      "latest_at": "2026-08-09T13:42:54.734000Z",
       "primary_item": {
-        "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-        "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
-        "url": "https://news.ycombinator.com/item?id=49231838",
+        "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+        "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+        "url": "https://news.ycombinator.com/item?id=49230954",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e83b068a58df",
-      "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-      "url": "http://www.geekpark.net/news/368579",
-      "primary_url": "http://www.geekpark.net/news/368579",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
-          "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-          "url": "http://www.geekpark.net/news/368579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0da323456024f560f9913a54fd0bedc2525ba00b",
-          "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
-          "url": "https://www.huxiu.com/article/4881757.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T04:21:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
-          "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-          "url": "http://www.geekpark.net/news/368579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0da323456024f560f9913a54fd0bedc2525ba00b",
-          "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
-          "url": "https://www.huxiu.com/article/4881757.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T04:21:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4011,
-      "importance": 0.4011,
-      "importance_score": 0.4011,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2654,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T04:21:14Z",
-      "latest_at": "2026-08-09T04:43:27.368147Z",
-      "primary_item": {
-        "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
-        "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-        "url": "http://www.geekpark.net/news/368579",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_33a4ca69a450",
-      "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
-      "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-      "primary_url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7905cc540138b1821c329d83185511daa44c8d9b",
-          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
-          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T09:18:39.324000Z"
-        },
-        {
-          "id": "024f3159f794b35f22c5948d071c9835e9893198",
-          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。 / I build AI data centers. I want them to disappear from view.",
-          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T09:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7905cc540138b1821c329d83185511daa44c8d9b",
-          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
-          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T09:18:39.324000Z"
-        },
-        {
-          "id": "024f3159f794b35f22c5948d071c9835e9893198",
-          "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。 / I build AI data centers. I want them to disappear from view.",
-          "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T09:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4393,
-      "importance": 0.4393,
-      "importance_score": 0.4393,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4565,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T09:01:01Z",
-      "latest_at": "2026-08-09T09:18:39.324000Z",
-      "primary_item": {
-        "id": "7905cc540138b1821c329d83185511daa44c8d9b",
-        "title": "我建造人工智能数据中心。我希望它们从人们的视野中消失。",
-        "url": "https://www.businessinsider.com/nvidia-ai-data-center-designer-engineer-more-efficient-less-visible-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
