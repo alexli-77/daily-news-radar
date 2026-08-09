@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T12:33:14.529941Z",
+  "generated_at": "2026-08-09T13:42:19.713958Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7808,
+        "recency": 0.7328,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,20 +98,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7026,
+        "recency": 0.6547,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T05:25:02Z",
       "latest_at": "2026-08-09T05:25:02Z",
@@ -177,17 +176,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
-      "importance_label": "行业动态",
+      "score": 0.7125,
+      "importance": 0.7125,
+      "importance_score": 0.7125,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4257,
+        "recency": 0.3777,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -203,109 +202,186 @@
       }
     },
     {
-      "story_id": "story_2a9020742ec6",
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
-      "url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
-      "primary_url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a18e9213a914e24e19b8a05db7167a9877d6fc0e",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
-          "url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        },
-        {
-          "id": "682068a11714b8eea5aae54179de865fdd172a09",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a18e9213a914e24e19b8a05db7167a9877d6fc0e",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
-          "url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        },
-        {
-          "id": "682068a11714b8eea5aae54179de865fdd172a09",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6461,
-      "importance": 0.6461,
-      "importance_score": 0.6461,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0454,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T13:38:40Z",
-      "latest_at": "2026-08-08T13:38:40Z",
-      "primary_item": {
-        "id": "a18e9213a914e24e19b8a05db7167a9877d6fc0e",
-        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
-        "url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_644ee0a04941",
-      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "url": "https://news.ycombinator.com/item?id=49229412",
-      "primary_url": "https://news.ycombinator.com/item?id=49229412",
+      "story_id": "story_04b701cf6c36",
+      "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+      "url": "https://news.ycombinator.com/item?id=49230954",
+      "primary_url": "https://news.ycombinator.com/item?id=49230954",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "url": "https://news.ycombinator.com/item?id=49229412",
+          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+          "url": "https://news.ycombinator.com/item?id=49230954",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T10:06:30.781000Z"
+          "published_at": "2026-08-09T13:42:54.734000Z"
         },
         {
-          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "id": "e92172beddcb1912109ace63adf377086e39d234",
+          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T12:52:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+          "url": "https://news.ycombinator.com/item?id=49230954",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T13:42:54.734000Z"
+        },
+        {
+          "id": "e92172beddcb1912109ace63adf377086e39d234",
+          "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T12:52:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T12:52:10Z",
+      "latest_at": "2026-08-09T13:42:54.734000Z",
+      "primary_item": {
+        "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+        "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
+        "url": "https://news.ycombinator.com/item?id=49230954",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_bd5f6c57f204",
+      "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
+      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+      "primary_url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+      "source": "blog.n.ichol.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2a51c08bd79c5a401d68a6701c1721d11d8cc46f",
+          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
+          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+          "source": "blog.n.ichol.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T11:58:46.174000Z"
+        },
+        {
+          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
+          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T08:00:51Z"
+          "published_at": "2026-08-09T11:46:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "blog.n.ichol.ai"
+      ],
+      "items": [
+        {
+          "id": "2a51c08bd79c5a401d68a6701c1721d11d8cc46f",
+          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
+          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+          "source": "blog.n.ichol.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-09T11:58:46.174000Z"
+        },
+        {
+          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
+          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T11:46:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9281,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T11:46:28Z",
+      "latest_at": "2026-08-09T11:58:46.174000Z",
+      "primary_item": {
+        "id": "2a51c08bd79c5a401d68a6701c1721d11d8cc46f",
+        "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
+        "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+        "source": "blog.n.ichol.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0e28f3cfd74f",
+      "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "url": "https://news.ycombinator.com/item?id=49231022",
+      "primary_url": "https://news.ycombinator.com/item?id=49231022",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "faefcecd27d54e9a5b23de511c89ecdebd486d7b",
+          "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+          "url": "https://news.ycombinator.com/item?id=49231022",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T13:42:54.734000Z"
+        },
+        {
+          "id": "dbfb363117a0b3e166b457f365f07b3744e95b42",
+          "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+          "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T13:03:49Z"
         }
       ],
       "source_count": 2,
@@ -315,46 +391,46 @@
       ],
       "items": [
         {
-          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "url": "https://news.ycombinator.com/item?id=49229412",
+          "id": "faefcecd27d54e9a5b23de511c89ecdebd486d7b",
+          "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+          "url": "https://news.ycombinator.com/item?id=49231022",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T10:06:30.781000Z"
+          "published_at": "2026-08-09T13:42:54.734000Z"
         },
         {
-          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
-          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "id": "dbfb363117a0b3e166b457f365f07b3744e95b42",
+          "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+          "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T08:00:51Z"
+          "published_at": "2026-08-09T13:03:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8981,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T08:00:51Z",
-      "latest_at": "2026-08-09T10:06:30.781000Z",
+      "earliest_at": "2026-08-09T13:03:49Z",
+      "latest_at": "2026-08-09T13:42:54.734000Z",
       "primary_item": {
-        "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
-        "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-        "url": "https://news.ycombinator.com/item?id=49229412",
+        "id": "faefcecd27d54e9a5b23de511c89ecdebd486d7b",
+        "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+        "url": "https://news.ycombinator.com/item?id=49231022",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -413,14 +489,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.4186,
+        "recency": 0.3706,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -510,14 +586,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7426,
+        "recency": 0.6946,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -588,14 +664,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8649,
+        "recency": 0.8169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -666,14 +742,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4828,
-      "importance": 0.4828,
-      "importance_score": 0.4828,
+      "score": 0.4732,
+      "importance": 0.4732,
+      "importance_score": 0.4732,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6738,
+        "recency": 0.6258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -688,6 +764,84 @@
         "url": "http://www.geekpark.net/news/368579",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_644ee0a04941",
+      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://news.ycombinator.com/item?id=49229412",
+      "primary_url": "https://news.ycombinator.com/item?id=49229412",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://news.ycombinator.com/item?id=49229412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T10:06:30.781000Z"
+        },
+        {
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:00:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://news.ycombinator.com/item?id=49229412",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T10:06:30.781000Z"
+        },
+        {
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
+          "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:00:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8501,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T08:00:51Z",
+      "latest_at": "2026-08-09T10:06:30.781000Z",
+      "primary_item": {
+        "id": "6698514cdb0575f59fac59a74c7965f03cd1189d",
+        "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "url": "https://news.ycombinator.com/item?id=49229412",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -762,14 +916,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4637,
-      "importance": 0.4637,
-      "importance_score": 0.4637,
+      "score": 0.4542,
+      "importance": 0.4542,
+      "importance_score": 0.4542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4537,
+        "recency": 0.4058,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -784,84 +938,6 @@
         "url": "https://github.com/sebastiancarlos/faaah",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3023f1b0d8e2",
-      "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-      "url": "https://news.ycombinator.com/item?id=49228086",
-      "primary_url": "https://news.ycombinator.com/item?id=49228086",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T05:42:07.546000Z"
-        },
-        {
-          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "url": "https://marketnow.site",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T03:13:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "url": "https://news.ycombinator.com/item?id=49228086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T05:42:07.546000Z"
-        },
-        {
-          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
-          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-          "url": "https://marketnow.site",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T03:13:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4909,
-      "importance": 0.4909,
-      "importance_score": 0.4909,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7145,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T03:13:01Z",
-      "latest_at": "2026-08-09T05:42:07.546000Z",
-      "primary_item": {
-        "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
-        "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-        "url": "https://news.ycombinator.com/item?id=49228086",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -918,14 +994,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4828,
-      "importance": 0.4828,
-      "importance_score": 0.4828,
+      "score": 0.4732,
+      "importance": 0.4732,
+      "importance_score": 0.4732,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6738,
+        "recency": 0.6258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1014,14 +1090,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4304,
-      "importance": 0.4304,
-      "importance_score": 0.4304,
+      "score": 0.4208,
+      "importance": 0.4208,
+      "importance_score": 0.4208,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2872,
+        "recency": 0.2392,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1036,84 +1112,6 @@
         "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
         "source": "mezha.net",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8a13e134e6ed",
-      "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
-      "url": "https://news.ycombinator.com/item?id=49227718",
-      "primary_url": "https://news.ycombinator.com/item?id=49227718",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
-          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
-          "url": "https://news.ycombinator.com/item?id=49227718",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T04:44:02.082000Z"
-        },
-        {
-          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
-          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
-          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T02:01:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
-          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
-          "url": "https://news.ycombinator.com/item?id=49227718",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T04:44:02.082000Z"
-        },
-        {
-          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
-          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
-          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T02:01:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4828,
-      "importance": 0.4828,
-      "importance_score": 0.4828,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6742,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T02:01:38Z",
-      "latest_at": "2026-08-09T04:44:02.082000Z",
-      "primary_item": {
-        "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
-        "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
-        "url": "https://news.ycombinator.com/item?id=49227718",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1170,14 +1168,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4828,
-      "importance": 0.4828,
-      "importance_score": 0.4828,
+      "score": 0.4732,
+      "importance": 0.4732,
+      "importance_score": 0.4732,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6738,
+        "recency": 0.6258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1248,14 +1246,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4203,
-      "importance": 0.4203,
-      "importance_score": 0.4203,
+      "score": 0.4107,
+      "importance": 0.4107,
+      "importance_score": 0.4107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.3315,
+        "recency": 0.2835,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1345,14 +1343,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4193,
-      "importance": 0.4193,
-      "importance_score": 0.4193,
+      "score": 0.4097,
+      "importance": 0.4097,
+      "importance_score": 0.4097,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2316,
+        "recency": 0.1837,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1367,6 +1365,84 @@
         "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
         "source": "social.treehouse.systems",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3023f1b0d8e2",
+      "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://news.ycombinator.com/item?id=49228086",
+      "primary_url": "https://news.ycombinator.com/item?id=49228086",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
+          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "url": "https://news.ycombinator.com/item?id=49228086",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T05:42:07.546000Z"
+        },
+        {
+          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
+          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "url": "https://marketnow.site",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T03:13:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
+          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "url": "https://news.ycombinator.com/item?id=49228086",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T05:42:07.546000Z"
+        },
+        {
+          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
+          "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "url": "https://marketnow.site",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T03:13:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4813,
+      "importance": 0.4813,
+      "importance_score": 0.4813,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6665,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T03:13:01Z",
+      "latest_at": "2026-08-09T05:42:07.546000Z",
+      "primary_item": {
+        "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
+        "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+        "url": "https://news.ycombinator.com/item?id=49228086",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1423,14 +1499,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3965,
-      "importance": 0.3965,
-      "importance_score": 0.3965,
+      "score": 0.387,
+      "importance": 0.387,
+      "importance_score": 0.387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2427,
+        "recency": 0.1948,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1501,14 +1577,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4701,
-      "importance": 0.4701,
-      "importance_score": 0.4701,
+      "score": 0.4605,
+      "importance": 0.4605,
+      "importance_score": 0.4605,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6106,
+        "recency": 0.5626,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1523,83 +1599,6 @@
         "url": "https://www.ithome.com/0/987/488.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0d9b355ae6e9",
-      "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
-      "url": "https://specification.website/spec/foundations/for-sale-dns",
-      "primary_url": "https://specification.website/spec/foundations/for-sale-dns",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "912c999d8772ec10b813862b6f7777cb3c0f0682",
-          "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
-          "url": "https://specification.website/spec/foundations/for-sale-dns",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T13:26:51Z"
-        },
-        {
-          "id": "270078a06c73023159d7987ccd20c5efd965ffba",
-          "title": "现在，域名可以在DNS中标注为“待售”了 / _for-sale DNS records",
-          "url": "https://specification.website/spec/foundations/for-sale-dns",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T13:26:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "912c999d8772ec10b813862b6f7777cb3c0f0682",
-          "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
-          "url": "https://specification.website/spec/foundations/for-sale-dns",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T13:26:51Z"
-        },
-        {
-          "id": "270078a06c73023159d7987ccd20c5efd965ffba",
-          "title": "现在，域名可以在DNS中标注为“待售”了 / _for-sale DNS records",
-          "url": "https://specification.website/spec/foundations/for-sale-dns",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T13:26:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3554,
-      "importance": 0.3554,
-      "importance_score": 0.3554,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0372,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T13:26:51Z",
-      "latest_at": "2026-08-08T13:26:51Z",
-      "primary_item": {
-        "id": "912c999d8772ec10b813862b6f7777cb3c0f0682",
-        "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
-        "url": "https://specification.website/spec/foundations/for-sale-dns",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
