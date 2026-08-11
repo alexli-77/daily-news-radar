@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月10日人工智能热点分享
-1、阿里Meoo秒悟上线团队版，接入Qwen-3.8-Max模型。
-2、SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理，SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。
-3、英伟达首款开源全双工语音模型VoiceChat 11B正式发布。
-4、Meta 发布开源模型 Muse Glimmer，推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。
-5、Scale AI 开源 Muse 系列模型，1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。
-6、Meta 开源 Muse Glimmer 30B 模型，Meta 今日开源 Muse Glimmer，一个可在单张消费级 GPU 上本地运行的 30B 参数稠密模型，并即将开源最新基础模型 Muse Spark 1.2 的权重。
-7、AI 承诺四天工作制，员工却每周加班 90 小时，重点是科技巨头自己都没做到。
-8、上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号。
-9、国产AI生态迎高光时刻，重点是调用量连冠全球，明星模型强势登顶。
-10、AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受，Suno更新于7月7日，允许iPhone用户直接在iMessage中生成AI歌曲。
+2026年8月11日人工智能热点分享
+1、想到 ACE 了吗？我们可以用更少的代币做到这一点，这条新闻关注相关变化背后的原因和影响。
+2、NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务，NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。
+3、Anthropic 全球范围内为 Claude 输出嵌入隐形水印，重点是AI 内容溯源时代正式开启。
+4、OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧，OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。
+5、Claude挑战百年数学难题未果，却意外改写了人类数学史的底层边界！。
+6、扎克伯格押注本地智能，重点是Meta 重磅开源 30B 稠密模型 Muse Glimmer。
+7、Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4。
+8、YouTube 大幅提高创收门槛，重点是观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲。
+9、消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战，Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。
+10、Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力。
 
 ## 原始链接
-1. 阿里Meoo秒悟上线团队版，接入Qwen-3.8-Max模型（AIbase） - https://www.aibase.com/news/30221
-2. SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理（LMSYS：Blog（Chatbot Arena 团队）） - https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta
-3. 英伟达首款开源全双工语音模型VoiceChat 11B正式发布（AIbase） - https://www.aibase.com/news/30220
-4. Meta 发布开源模型 Muse Glimmer（X：AI at Meta (@AIatMeta)） - https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7
-5. Scale AI 开源 Muse 系列模型（X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)） - https://aihot.virxact.com/items/cmsn3w3ln012wror1xk5nrmcw
-6. Meta 开源 Muse Glimmer 30B 模型（X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)） - https://aihot.virxact.com/items/cmsn3w3ln012xror1rn8ass8c
-7. AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到（AIbase） - https://www.aibase.com/news/30223
-8. 上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号（AIbase） - https://www.aibase.com/news/30224
-9. 国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶（AIbase） - https://www.aibase.com/news/30225
-10. AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受（AIbase） - https://www.aibase.com/news/30216
+1. 想到 ACE 了吗？我们可以用更少的代币做到这一点（Hugging Face 博客） - https://huggingface.co/blog/ibm-research/altk-evolve-sldd
+2. NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务（NVIDIA Blog（RSS）） - https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq
+3. Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启（AIbase） - https://www.aibase.com/news/30253
+4. OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧（The Verge：AI（RSS）） - https://aihot.virxact.com/items/cmsokd2b00viorofwaq9wrsv1
+5. Claude挑战百年数学难题未果，却意外改写了人类数学史的底层边界！（AIbase） - https://www.aibase.com/news/30251
+6. 扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer（AIbase） - https://www.aibase.com/news/30250
+7. Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4（AIbase） - https://www.aibase.com/news/30249
+8. YouTube 大幅提高创收门槛：观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲（AIbase） - https://www.aibase.com/news/30248
+9. 消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战（IT之家（RSS）） - https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y
+10. Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力（AIbase） - https://www.aibase.com/news/30247
