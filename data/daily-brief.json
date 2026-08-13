@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-12T23:32:14.953040Z",
+  "generated_at": "2026-08-13T01:14:55.756515Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_352c0404f438",
+      "title": "维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯",
+      "url": "https://www.aibase.com/news/30294",
+      "primary_url": "https://www.aibase.com/news/30294",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "181d67ce43677cc2a3af32b396872f2feb2d3b6a",
+          "title": "维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯",
+          "url": "https://www.aibase.com/news/30294",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
+        },
+        {
+          "id": "160c90700e1bb790412aaf99fb69b66dc2eef7f1",
+          "title": "维基百科信息遭恶意篡改，谷歌搜索误显示 OpenAI CEO 奥尔特曼死讯",
+          "url": "https://www.ithome.com/0/989/024.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-13T00:06:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "181d67ce43677cc2a3af32b396872f2feb2d3b6a",
+          "title": "维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯",
+          "url": "https://www.aibase.com/news/30294",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
+        },
+        {
+          "id": "160c90700e1bb790412aaf99fb69b66dc2eef7f1",
+          "title": "维基百科信息遭恶意篡改，谷歌搜索误显示 OpenAI CEO 奥尔特曼死讯",
+          "url": "https://www.ithome.com/0/989/024.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-13T00:06:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T00:06:49Z",
+      "latest_at": "2026-08-13T01:14:55.756515Z",
+      "primary_item": {
+        "id": "181d67ce43677cc2a3af32b396872f2feb2d3b6a",
+        "title": "维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯",
+        "url": "https://www.aibase.com/news/30294",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_d0656ae81e3d",
       "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
@@ -38,14 +118,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.8472,
-      "importance_score": 0.8472,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8109,
+        "recency": 0.7396,
         "story_heat": 0.0
       },
       "category": "official",
@@ -99,14 +179,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7965,
+        "recency": 0.7252,
         "story_heat": 0.0
       },
       "category": "official",
@@ -123,6 +203,146 @@
         "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_43fa604a23b0",
+      "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
+      "url": "https://www.aibase.com/news/30292",
+      "primary_url": "https://www.aibase.com/news/30292",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6b32d25a00d510bb136029b81a648399ffacdf33",
+          "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
+          "url": "https://www.aibase.com/news/30292",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
+        },
+        {
+          "id": "48b433e7cd148bdc4b232fcd2fc27fa2774f4ca4",
+          "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
+          "url": "https://www.aibase.com/zh/news/30292",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6b32d25a00d510bb136029b81a648399ffacdf33",
+          "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
+          "url": "https://www.aibase.com/news/30292",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
+        },
+        {
+          "id": "48b433e7cd148bdc4b232fcd2fc27fa2774f4ca4",
+          "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
+          "url": "https://www.aibase.com/zh/news/30292",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T01:14:55.756515Z",
+      "latest_at": "2026-08-13T01:14:55.756515Z",
+      "primary_item": {
+        "id": "6b32d25a00d510bb136029b81a648399ffacdf33",
+        "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
+        "url": "https://www.aibase.com/news/30292",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d1c44c7e7579",
+      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+      "url": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
+      "primary_url": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "755cd02045357938f8c1ba2b52075a6226373385",
+          "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+          "url": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T22:22:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "755cd02045357938f8c1ba2b52075a6226373385",
+          "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+          "url": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T22:22:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8802,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T22:22:28Z",
+      "latest_at": "2026-08-12T22:22:28Z",
+      "primary_item": {
+        "id": "755cd02045357938f8c1ba2b52075a6226373385",
+        "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+        "url": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -160,14 +380,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7904,
+        "recency": 0.7191,
         "story_heat": 0.0
       },
       "category": "official",
@@ -221,14 +441,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 0.7923,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -300,14 +520,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6929,
+        "recency": 0.6216,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -324,6 +544,66 @@
         "url": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a9f8ad9983ca",
+      "title": "Anthropic 给 Claude 输出悄悄加水印：Reddit 吵翻天，有用户怒斥\"数字文身\"",
+      "url": "https://www.aibase.com/news/30291",
+      "primary_url": "https://www.aibase.com/news/30291",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c2bb52563ac11554a54000e86c021cb0b3c1531b",
+          "title": "Anthropic 给 Claude 输出悄悄加水印：Reddit 吵翻天，有用户怒斥\"数字文身\"",
+          "url": "https://www.aibase.com/news/30291",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c2bb52563ac11554a54000e86c021cb0b3c1531b",
+          "title": "Anthropic 给 Claude 输出悄悄加水印：Reddit 吵翻天，有用户怒斥\"数字文身\"",
+          "url": "https://www.aibase.com/news/30291",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T01:14:55.756515Z",
+      "latest_at": "2026-08-13T01:14:55.756515Z",
+      "primary_item": {
+        "id": "c2bb52563ac11554a54000e86c021cb0b3c1531b",
+        "title": "Anthropic 给 Claude 输出悄悄加水印：Reddit 吵翻天，有用户怒斥\"数字文身\"",
+        "url": "https://www.aibase.com/news/30291",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -361,14 +641,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7694,
+        "recency": 0.6981,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -421,14 +701,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7676,
+        "recency": 0.6963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -481,14 +761,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6866,
+        "recency": 0.6153,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -540,14 +820,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6727,
+        "recency": 0.6014,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -618,14 +898,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6844,
+        "recency": 0.6131,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -645,297 +925,241 @@
       }
     },
     {
-      "story_id": "story_feb08e237f7f",
-      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-      "url": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
-      "primary_url": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_41a59e886666",
+      "title": "半年连吸金5亿元！西湖机器人押注具身智能爆发前夜",
+      "url": "https://www.aibase.com/news/30295",
+      "primary_url": "https://www.aibase.com/news/30295",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "472c81841e3aca642175ba826a2519140a73679e",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "url": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
+          "id": "3a680055671438d0a8423a5883f279bdc147bdf0",
+          "title": "半年连吸金5亿元！西湖机器人押注具身智能爆发前夜",
+          "url": "https://www.aibase.com/news/30295",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "472c81841e3aca642175ba826a2519140a73679e",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "url": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
+          "id": "3a680055671438d0a8423a5883f279bdc147bdf0",
+          "title": "半年连吸金5亿元！西湖机器人押注具身智能爆发前夜",
+          "url": "https://www.aibase.com/news/30295",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5618,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-12T13:01:16Z",
-      "latest_at": "2026-08-12T13:01:16Z",
+      "earliest_at": "2026-08-13T01:14:55.756515Z",
+      "latest_at": "2026-08-13T01:14:55.756515Z",
       "primary_item": {
-        "id": "472c81841e3aca642175ba826a2519140a73679e",
-        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-        "url": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6b14515103cc",
-      "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
-      "url": "https://www.aibase.com/news/30285",
-      "primary_url": "https://www.aibase.com/news/30285",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
-          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
-          "url": "https://www.aibase.com/news/30285",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T09:37:07.141201Z"
-        },
-        {
-          "id": "30a547362a0de41f7fb1a0d2ac65258769968bd8",
-          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当「打工人」而非「聊天工具」",
-          "url": "https://www.aibase.com/zh/news/30285",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
-          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
-          "url": "https://www.aibase.com/news/30285",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T09:37:07.141201Z"
-        },
-        {
-          "id": "30a547362a0de41f7fb1a0d2ac65258769968bd8",
-          "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当「打工人」而非「聊天工具」",
-          "url": "https://www.aibase.com/zh/news/30285",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.42,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T09:37:07.141201Z",
-      "latest_at": "2026-08-12T09:37:07.141201Z",
-      "primary_item": {
-        "id": "263e185c2b15d0074f53abd47dbb8a3bbf87f105",
-        "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
-        "url": "https://www.aibase.com/news/30285",
+        "id": "3a680055671438d0a8423a5883f279bdc147bdf0",
+        "title": "半年连吸金5亿元！西湖机器人押注具身智能爆发前夜",
+        "url": "https://www.aibase.com/news/30295",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_942ce48e17b0",
-      "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-      "url": "https://www.aibase.com/news/30289",
-      "primary_url": "https://www.aibase.com/news/30289",
+      "story_id": "story_421aff99a23f",
+      "title": "性能狂飙！Grok 4.6正式发布，实力比肩GPT-5.6 Sol",
+      "url": "https://www.aibase.com/news/30293",
+      "primary_url": "https://www.aibase.com/news/30293",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
-          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-          "url": "https://www.aibase.com/news/30289",
+          "id": "32d4af7b81825da628e33040a52cb669eeda04e0",
+          "title": "性能狂飙！Grok 4.6正式发布，实力比肩GPT-5.6 Sol",
+          "url": "https://www.aibase.com/news/30293",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T09:37:07.141201Z"
-        },
-        {
-          "id": "dd1f0ca85d3819af62db71fd6cad6afd3caa1cc3",
-          "title": "腾讯 AI 全线推进：Hy4 近期发布，WorkBuddy 持续领跑，小微扩大灰测",
-          "url": "https://www.aibase.com/zh/news/30289",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-13T01:14:55.756515Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
-          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-          "url": "https://www.aibase.com/news/30289",
+          "id": "32d4af7b81825da628e33040a52cb669eeda04e0",
+          "title": "性能狂飙！Grok 4.6正式发布，实力比肩GPT-5.6 Sol",
+          "url": "https://www.aibase.com/news/30293",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T09:37:07.141201Z"
-        },
-        {
-          "id": "dd1f0ca85d3819af62db71fd6cad6afd3caa1cc3",
-          "title": "腾讯 AI 全线推进：Hy4 近期发布，WorkBuddy 持续领跑，小微扩大灰测",
-          "url": "https://www.aibase.com/zh/news/30289",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-13T01:14:55.756515Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.42,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-12T09:37:07.141201Z",
-      "latest_at": "2026-08-12T09:37:07.141201Z",
+      "earliest_at": "2026-08-13T01:14:55.756515Z",
+      "latest_at": "2026-08-13T01:14:55.756515Z",
       "primary_item": {
-        "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
-        "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-        "url": "https://www.aibase.com/news/30289",
+        "id": "32d4af7b81825da628e33040a52cb669eeda04e0",
+        "title": "性能狂飙！Grok 4.6正式发布，实力比肩GPT-5.6 Sol",
+        "url": "https://www.aibase.com/news/30293",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_456fc214b456",
-      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-      "url": "https://www.aibase.com/news/30277",
-      "primary_url": "https://www.aibase.com/news/30277",
+      "story_id": "story_5abfb9124983",
+      "title": "深夜震撼发布：DeepSeek V4 Pro正式版亮相，比肩顶尖Fable大模型",
+      "url": "https://www.aibase.com/news/30296",
+      "primary_url": "https://www.aibase.com/news/30296",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "url": "https://www.aibase.com/news/30277",
+          "id": "9c01a094d3371281cbacab020e1a2c3126de8e9d",
+          "title": "深夜震撼发布：DeepSeek V4 Pro正式版亮相，比肩顶尖Fable大模型",
+          "url": "https://www.aibase.com/news/30296",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T08:09:57.810341Z"
-        },
-        {
-          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
-          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
-          "url": "https://www.aibase.com/zh/news/30277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-13T01:14:55.756515Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "url": "https://www.aibase.com/news/30277",
+          "id": "9c01a094d3371281cbacab020e1a2c3126de8e9d",
+          "title": "深夜震撼发布：DeepSeek V4 Pro正式版亮相，比肩顶尖Fable大模型",
+          "url": "https://www.aibase.com/news/30296",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T08:09:57.810341Z"
-        },
-        {
-          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
-          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
-          "url": "https://www.aibase.com/zh/news/30277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-13T01:14:55.756515Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7089,
-      "importance": 0.7089,
-      "importance_score": 0.7089,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3595,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-12T08:09:57.810341Z",
-      "latest_at": "2026-08-12T08:09:57.810341Z",
+      "earliest_at": "2026-08-13T01:14:55.756515Z",
+      "latest_at": "2026-08-13T01:14:55.756515Z",
       "primary_item": {
-        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-        "url": "https://www.aibase.com/news/30277",
+        "id": "9c01a094d3371281cbacab020e1a2c3126de8e9d",
+        "title": "深夜震撼发布：DeepSeek V4 Pro正式版亮相，比肩顶尖Fable大模型",
+        "url": "https://www.aibase.com/news/30296",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f239d600f865",
+      "title": "阿里重磅开源2.4万亿参数大模型，多项性能比肩Fable 5",
+      "url": "https://www.aibase.com/news/30290",
+      "primary_url": "https://www.aibase.com/news/30290",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d2b5d1da372b5d605a68f54a9d48eccace5c1184",
+          "title": "阿里重磅开源2.4万亿参数大模型，多项性能比肩Fable 5",
+          "url": "https://www.aibase.com/news/30290",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d2b5d1da372b5d605a68f54a9d48eccace5c1184",
+          "title": "阿里重磅开源2.4万亿参数大模型，多项性能比肩Fable 5",
+          "url": "https://www.aibase.com/news/30290",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T01:14:55.756515Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T01:14:55.756515Z",
+      "latest_at": "2026-08-13T01:14:55.756515Z",
+      "primary_item": {
+        "id": "d2b5d1da372b5d605a68f54a9d48eccace5c1184",
+        "title": "阿里重磅开源2.4万亿参数大模型，多项性能比肩Fable 5",
+        "url": "https://www.aibase.com/news/30290",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -994,14 +1218,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6974,
-      "importance": 0.6974,
-      "importance_score": 0.6974,
+      "score": 0.6831,
+      "importance": 0.6831,
+      "importance_score": 0.6831,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3018,
+        "recency": 0.2305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1017,85 +1241,6 @@
         "url": "https://aihot.virxact.com/items/cmspr6h6s01hero4hjcdf95mw",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_31a51d9a09e9",
-      "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-      "url": "https://www.aibase.com/news/30283",
-      "primary_url": "https://www.aibase.com/news/30283",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
-          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "url": "https://www.aibase.com/news/30283",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:09:57.810341Z"
-        },
-        {
-          "id": "c3473b2ee9d39fdf6882560cd609c1363a6e3919",
-          "title": "前通义千问负责人林俊旸官宣创业，成立 AI 实验室 Pragmatik Labs，获数亿美元融资估值达 20 亿",
-          "url": "https://www.aibase.com/zh/news/30283",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
-          "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-          "url": "https://www.aibase.com/news/30283",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:09:57.810341Z"
-        },
-        {
-          "id": "c3473b2ee9d39fdf6882560cd609c1363a6e3919",
-          "title": "前通义千问负责人林俊旸官宣创业，成立 AI 实验室 Pragmatik Labs，获数亿美元融资估值达 20 亿",
-          "url": "https://www.aibase.com/zh/news/30283",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7089,
-      "importance": 0.7089,
-      "importance_score": 0.7089,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3595,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T08:09:57.810341Z",
-      "latest_at": "2026-08-12T09:37:07.141201Z",
-      "primary_item": {
-        "id": "4fc88da65bda692dddd2b6ac4763557b467f43af",
-        "title": "前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿",
-        "url": "https://www.aibase.com/news/30283",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1152,14 +1297,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5892,
-      "importance": 0.5892,
-      "importance_score": 0.5892,
+      "score": 0.575,
+      "importance": 0.575,
+      "importance_score": 0.575,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.6961,
+        "recency": 0.6248,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1174,297 +1319,6 @@
         "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
         "source": "Hugging Face Blog",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_52fa033e5f1f",
-      "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-      "url": "https://news.ycombinator.com/item?id=49271994",
-      "primary_url": "https://news.ycombinator.com/item?id=49271994",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T21:37:40.994000Z"
-        },
-        {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.florianherrengt.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T21:37:40.994000Z"
-        },
-        {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5821,
-      "importance": 0.5821,
-      "importance_score": 0.5821,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9204,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-12T13:20:05Z",
-      "latest_at": "2026-08-12T21:37:40.994000Z",
-      "primary_item": {
-        "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-        "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-        "url": "https://news.ycombinator.com/item?id=49271994",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_e4f4793b8655",
-      "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-      "url": "https://www.aibase.com/news/30273",
-      "primary_url": "https://www.aibase.com/news/30273",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/news/30273",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T05:25:07.265174Z"
-        },
-        {
-          "id": "52f15384f190f8028c277eb53949533e5bc7375e",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/zh/news/30273",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/news/30273",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T05:25:07.265174Z"
-        },
-        {
-          "id": "52f15384f190f8028c277eb53949533e5bc7375e",
-          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-          "url": "https://www.aibase.com/zh/news/30273",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.686,
-      "importance": 0.686,
-      "importance_score": 0.686,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.245,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T05:25:07.265174Z",
-      "latest_at": "2026-08-12T05:25:07.265174Z",
-      "primary_item": {
-        "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
-        "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
-        "url": "https://www.aibase.com/news/30273",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3783053d9ef9",
-      "title": "Launch HN: 新发现的材料（YC P26）——用于发现新材料的人工智能代理",
-      "url": "https://discoveredmaterials.com/research",
-      "primary_url": "https://discoveredmaterials.com/research",
-      "source": "discoveredmaterials.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "992614a591d130f335238940a95ab910150637bc",
-          "title": "Launch HN: 新发现的材料（YC P26）——用于发现新材料的人工智能代理",
-          "url": "https://discoveredmaterials.com/research",
-          "source": "discoveredmaterials.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T21:56:23.132000Z"
-        },
-        {
-          "id": "c961a2cae712e099a1ef3f4d0661e8398dacd43c",
-          "title": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理 / Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-          "url": "https://news.ycombinator.com/item?id=49269090",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T10:37:56.766000Z"
-        },
-        {
-          "id": "987e3e1b87204930b43c0ac3685c822acdd909ef",
-          "title": "Launch HN: 新发现的材料（YC P26）——用于发现新材料的人工智能代理 / Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-          "url": "https://discoveredmaterials.com/research",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T07:51:20Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "discoveredmaterials.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "992614a591d130f335238940a95ab910150637bc",
-          "title": "Launch HN: 新发现的材料（YC P26）——用于发现新材料的人工智能代理",
-          "url": "https://discoveredmaterials.com/research",
-          "source": "discoveredmaterials.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T21:56:23.132000Z"
-        },
-        {
-          "id": "c961a2cae712e099a1ef3f4d0661e8398dacd43c",
-          "title": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理 / Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-          "url": "https://news.ycombinator.com/item?id=49269090",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T10:37:56.766000Z"
-        },
-        {
-          "id": "987e3e1b87204930b43c0ac3685c822acdd909ef",
-          "title": "Launch HN: 新发现的材料（YC P26）——用于发现新材料的人工智能代理 / Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-          "url": "https://discoveredmaterials.com/research",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T07:51:20Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9334,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-12T07:51:20Z",
-      "latest_at": "2026-08-12T21:56:23.132000Z",
-      "primary_item": {
-        "id": "992614a591d130f335238940a95ab910150637bc",
-        "title": "Launch HN: 新发现的材料（YC P26）——用于发现新材料的人工智能代理",
-        "url": "https://discoveredmaterials.com/research",
-        "source": "discoveredmaterials.com",
-        "source_name": "Buzzing"
       }
     }
   ]
