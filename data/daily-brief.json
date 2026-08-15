@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:49:50.346319Z",
+  "generated_at": "2026-08-15T14:14:31.870686Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,14 +56,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8826,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -117,14 +117,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3708,
+        "recency": 0.3536,
         "story_heat": 0.0
       },
       "category": "official",
@@ -215,14 +215,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6672,
-      "importance": 0.6672,
-      "importance_score": 0.6672,
+      "score": 0.6638,
+      "importance": 0.6638,
+      "importance_score": 0.6638,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.026,
+        "recency": 0.0088,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -238,6 +238,181 @@
         "url": "https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e7607846045a",
+      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+      "url": "https://sankalp.bearblog.dev/autoresearch",
+      "primary_url": "https://sankalp.bearblog.dev/autoresearch",
+      "source": "sankalp.bearblog.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "sankalp.bearblog.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T13:58:02.713000Z"
+        },
+        {
+          "id": "346274b22b37e9694636fa708f056faa34061988",
+          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://news.ycombinator.com/item?id=49309549",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T12:08:04.728000Z"
+        },
+        {
+          "id": "bc9604c13e3a66b8b75be69bf59facde955e8ba2",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:00:02Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "sankalp.bearblog.dev"
+      ],
+      "items": [
+        {
+          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "sankalp.bearblog.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T13:58:02.713000Z"
+        },
+        {
+          "id": "346274b22b37e9694636fa708f056faa34061988",
+          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://news.ycombinator.com/item?id=49309549",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T12:08:04.728000Z"
+        },
+        {
+          "id": "bc9604c13e3a66b8b75be69bf59facde955e8ba2",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:00:02Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5707,
+      "importance": 0.5707,
+      "importance_score": 0.5707,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9886,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:00:02Z",
+      "latest_at": "2026-08-15T13:58:02.713000Z",
+      "primary_item": {
+        "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
+        "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+        "url": "https://sankalp.bearblog.dev/autoresearch",
+        "source": "sankalp.bearblog.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0b73ad404776",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "fb298e71a21de056b737cb1400f65f0be73dfa0f",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "fb298e71a21de056b737cb1400f65f0be73dfa0f",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:25:32Z",
+      "latest_at": "2026-08-15T14:08:55Z",
+      "primary_item": {
+        "id": "fb298e71a21de056b737cb1400f65f0be73dfa0f",
+        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -294,14 +469,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.992,
+        "recency": 0.9748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -372,14 +547,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8723,
+        "recency": 0.8551,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -450,14 +625,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8723,
+        "recency": 0.8551,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -528,14 +703,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.992,
+        "recency": 0.9748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -624,14 +799,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5097,
-      "importance": 0.5097,
-      "importance_score": 0.5097,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6836,
+        "recency": 0.6665,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -702,14 +877,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4955,
-      "importance": 0.4955,
-      "importance_score": 0.4955,
+      "score": 0.4921,
+      "importance": 0.4921,
+      "importance_score": 0.4921,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7374,
+        "recency": 0.7203,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -780,14 +955,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4918,
-      "importance": 0.4918,
-      "importance_score": 0.4918,
+      "score": 0.4884,
+      "importance": 0.4884,
+      "importance_score": 0.4884,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.719,
+        "recency": 0.7019,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -858,14 +1033,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8612,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -883,79 +1058,79 @@
       }
     },
     {
-      "story_id": "story_e7607846045a",
-      "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "url": "https://news.ycombinator.com/item?id=49309549",
-      "primary_url": "https://news.ycombinator.com/item?id=49309549",
+      "story_id": "story_aaca96fa0e6a",
+      "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+      "url": "https://news.ycombinator.com/item?id=49309050",
+      "primary_url": "https://news.ycombinator.com/item?id=49309050",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "346274b22b37e9694636fa708f056faa34061988",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "url": "https://news.ycombinator.com/item?id=49309549",
+          "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
+          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "url": "https://news.ycombinator.com/item?id=49309050",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T12:08:04.728000Z"
+          "published_at": "2026-08-15T11:42:20.338000Z"
         },
         {
-          "id": "bc9604c13e3a66b8b75be69bf59facde955e8ba2",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:00:02Z"
+          "id": "e87d34022d30c47cf57e217d6741dffe90a85d0f",
+          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T09:20:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "346274b22b37e9694636fa708f056faa34061988",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "url": "https://news.ycombinator.com/item?id=49309549",
+          "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
+          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "url": "https://news.ycombinator.com/item?id=49309050",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T12:08:04.728000Z"
+          "published_at": "2026-08-15T11:42:20.338000Z"
         },
         {
-          "id": "bc9604c13e3a66b8b75be69bf59facde955e8ba2",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:00:02Z"
+          "id": "e87d34022d30c47cf57e217d6741dffe90a85d0f",
+          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T09:20:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9293,
+        "recency": 0.8943,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T11:00:02Z",
-      "latest_at": "2026-08-15T12:08:04.728000Z",
+      "earliest_at": "2026-08-15T09:20:07Z",
+      "latest_at": "2026-08-15T11:42:20.338000Z",
       "primary_item": {
-        "id": "346274b22b37e9694636fa708f056faa34061988",
-        "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "url": "https://news.ycombinator.com/item?id=49309549",
+        "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
+        "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+        "url": "https://news.ycombinator.com/item?id=49309050",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1014,14 +1189,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.518,
-      "importance": 0.518,
-      "importance_score": 0.518,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8502,
+        "recency": 0.8331,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1092,14 +1267,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4514,
-      "importance": 0.4514,
-      "importance_score": 0.4514,
+      "score": 0.4479,
+      "importance": 0.4479,
+      "importance_score": 0.4479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5168,
+        "recency": 0.4996,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1189,14 +1364,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4433,
-      "importance": 0.4433,
-      "importance_score": 0.4433,
+      "score": 0.4399,
+      "importance": 0.4399,
+      "importance_score": 0.4399,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3516,
+        "recency": 0.3344,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1211,84 +1386,6 @@
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "source": "claude.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_aaca96fa0e6a",
-      "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
-      "url": "https://news.ycombinator.com/item?id=49309050",
-      "primary_url": "https://news.ycombinator.com/item?id=49309050",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
-          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
-          "url": "https://news.ycombinator.com/item?id=49309050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T11:42:20.338000Z"
-        },
-        {
-          "id": "e87d34022d30c47cf57e217d6741dffe90a85d0f",
-          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
-          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T09:20:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
-          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
-          "url": "https://news.ycombinator.com/item?id=49309050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T11:42:20.338000Z"
-        },
-        {
-          "id": "e87d34022d30c47cf57e217d6741dffe90a85d0f",
-          "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
-          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T09:20:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9115,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T09:20:07Z",
-      "latest_at": "2026-08-15T11:42:20.338000Z",
-      "primary_item": {
-        "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
-        "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
-        "url": "https://news.ycombinator.com/item?id=49309050",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1344,14 +1441,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4382,
-      "importance": 0.4382,
-      "importance_score": 0.4382,
+      "score": 0.4348,
+      "importance": 0.4348,
+      "importance_score": 0.4348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.451,
+        "recency": 0.4339,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1366,6 +1463,103 @@
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a1a4fdb6d6a5",
+      "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://news.ycombinator.com/item?id=49307700",
+      "primary_url": "https://news.ycombinator.com/item?id=49307700",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:23:11.909000Z"
+        },
+        {
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T04:53:57.841000Z"
+        },
+        {
+          "id": "9e2da1aa3b0c3622691c9553aed24690564828d8",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "chenxiachan.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:23:11.909000Z"
+        },
+        {
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T04:53:57.841000Z"
+        },
+        {
+          "id": "9e2da1aa3b0c3622691c9553aed24690564828d8",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5075,
+      "importance": 0.5075,
+      "importance_score": 0.5075,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6727,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T04:42:07Z",
+      "latest_at": "2026-08-15T06:23:11.909000Z",
+      "primary_item": {
+        "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+        "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "url": "https://news.ycombinator.com/item?id=49307700",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1422,14 +1616,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4507,
-      "importance": 0.4507,
-      "importance_score": 0.4507,
+      "score": 0.4473,
+      "importance": 0.4473,
+      "importance_score": 0.4473,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5135,
+        "recency": 0.4963,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1444,181 +1638,6 @@
         "url": "https://www.ithome.com/0/989/999.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_543d69cb31ad",
-      "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "primary_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "source": "blog.google",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f41976f167970f859103f965ef83cfd41f741414",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T19:22:21.717000Z"
-        },
-        {
-          "id": "424699eea9fa4bc93cac2c0562150cb75326158d",
-          "title": "谷歌正在通过同态加密使私人人工智能变得实用 / Google is making private AI practical with homomorphic encryption",
-          "url": "https://news.ycombinator.com/item?id=49300314",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T17:05:46.600000Z"
-        },
-        {
-          "id": "ecdd5d39c9dfb4382bbaeac1e8fe46ec12ca5bf1",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google is making private AI practical with homomorphic encryption",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:43:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "blog.google",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f41976f167970f859103f965ef83cfd41f741414",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T19:22:21.717000Z"
-        },
-        {
-          "id": "424699eea9fa4bc93cac2c0562150cb75326158d",
-          "title": "谷歌正在通过同态加密使私人人工智能变得实用 / Google is making private AI practical with homomorphic encryption",
-          "url": "https://news.ycombinator.com/item?id=49300314",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T17:05:46.600000Z"
-        },
-        {
-          "id": "ecdd5d39c9dfb4382bbaeac1e8fe46ec12ca5bf1",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google is making private AI practical with homomorphic encryption",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:43:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4192,
-      "importance": 0.4192,
-      "importance_score": 0.4192,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2309,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:43:10Z",
-      "latest_at": "2026-08-14T19:22:21.717000Z",
-      "primary_item": {
-        "id": "f41976f167970f859103f965ef83cfd41f741414",
-        "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-        "source": "blog.google",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c71ab223e5c0",
-      "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-      "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dbcc639113a67c34be4b15783c590acda889f65c",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T08:22:17.069000Z"
-        },
-        {
-          "id": "89c6527e6dbde2f93b0b21e76861baaadbc7d955",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工 / The AI boss at a San Francisco store just fired its first human",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T08:11:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "dbcc639113a67c34be4b15783c590acda889f65c",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T08:22:17.069000Z"
-        },
-        {
-          "id": "89c6527e6dbde2f93b0b21e76861baaadbc7d955",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工 / The AI boss at a San Francisco store just fired its first human",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T08:11:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5025,
-      "importance": 0.5025,
-      "importance_score": 0.5025,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7725,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T08:11:01Z",
-      "latest_at": "2026-08-15T08:22:17.069000Z",
-      "primary_item": {
-        "id": "dbcc639113a67c34be4b15783c590acda889f65c",
-        "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-        "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
