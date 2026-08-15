@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月14日人工智能热点分享
-1、MiniMax 发布 Music3 音乐模型，重点是给歌词和描述，可生成最长 5 分钟歌曲。
-2、dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理，小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。
-3、智谱 GLM-5.3 发布，重点是7400 亿参数没涨，靠后训练硬拉 50% 性能，编程能力逼近 Fable 5。
-4、AI企业也能按Token融资，重点是广东首推“Token贷”。
-5、微软又弃一 AI 形象，重点是Copilot 黄色小怪 Mico 退场，转岗学习平台。
-6、超200家伙伴抢先入驻，千问开放平台加速AI智能体落地。
-7、OpenAI年化营收突破400亿美元，7月环比暴增超20%。
-8、三星用Claude Code加速芯片验证：一个月项目缩短至两天，属于 AI 基础设施和算力成本相关信号。
-9、DeepSeek V4 Pro 登陆硅基流动，重点是百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元。
-10、告别单机模型“虚胖”，重点是百灵团队联合AReno打通本地智能体强化学习闭环。
+2026年8月15日人工智能热点分享
+1、AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入，这项研究把市场稀释从推测变成可量化证据，版权诉讼中此前缺少的经验性数据可能由此补上，并影响合理使用的判断。
+2、随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战，价格战让模型API的成本弹性成为现实，原先因账单压力转向中国厂商的用户，可能在OpenAI和Anthropic降价后重新比较能力与价格。
+3、Debian 已开始对 AI/LLM 贡献的未来进行投票。
+4、培养人工智能科学家以复现研究成果。
+5、安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报。
+6、关于华尔街大型银行如何运用人工智能，我们所了解的一切。
+7、我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。
+8、显示 HN，重点是ThoughtDAG – LLM 对话的可编辑上下文图。
+9、Show HN，重点是Deltix – 基于人工智能的测试。
+10、旧金山一家商店的AI主管刚刚解雇了第一位人类员工。
 
 ## 原始链接
-1. MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲（AIbase） - https://www.aibase.com/news/30362
-2. dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理（公众号：小红书技术（dots.llm）） - https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88
-3. 智谱 GLM-5.3 发布：7400 亿参数没涨，靠后训练硬拉 50% 性能，编程能力逼近 Fable 5（AIbase） - https://www.aibase.com/news/30353
-4. AI企业也能按Token融资：广东首推“Token贷”（AIbase） - https://www.aibase.com/news/30365
-5. 微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台（AIbase） - https://www.aibase.com/news/30364
-6. 超200家伙伴抢先入驻，千问开放平台加速AI智能体落地（AIbase） - https://www.aibase.com/news/30361
-7. OpenAI年化营收突破400亿美元，7月环比暴增超20%（AIbase） - https://www.aibase.com/news/30347
-8. 三星用Claude Code加速芯片验证：一个月项目缩短至两天（AIbase） - https://www.aibase.com/news/30346
-9. DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元（AIbase） - https://www.aibase.com/news/30358
-10. 告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环（AIbase） - https://www.aibase.com/news/30357
+1. AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入（The Decoder） - https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v
+2. 随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战（Ars Technica：AI（RSS）） - https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av
+3. Debian 已开始对 AI/LLM 贡献的未来进行投票（hackernews） - https://news.ycombinator.com/item?id=49309050
+4. 培养人工智能科学家以复现研究成果（inherentlabs.ai） - https://inherentlabs.ai/research/training-to-replicate
+5. 安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报（www.businessinsider.com） - https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8
+6. 关于华尔街大型银行如何运用人工智能，我们所了解的一切（www.businessinsider.com） - https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026
+7. 我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。（www.businessinsider.com） - https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8
+8. 显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图（hackernews） - https://news.ycombinator.com/item?id=49307700
+9. Show HN: Deltix – 基于人工智能的测试（app.deltix.ai） - https://app.deltix.ai
+10. 旧金山一家商店的AI主管刚刚解雇了第一位人类员工（www.businessinsider.com） - https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8
