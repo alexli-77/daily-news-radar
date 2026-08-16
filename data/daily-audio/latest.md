@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月15日人工智能热点分享
-1、AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入，这项研究把市场稀释从推测变成可量化证据，版权诉讼中此前缺少的经验性数据可能由此补上，并影响合理使用的判断。
-2、随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战，价格战让模型API的成本弹性成为现实，原先因账单压力转向中国厂商的用户，可能在OpenAI和Anthropic降价后重新比较能力与价格。
-3、Debian 已开始对 AI/LLM 贡献的未来进行投票。
-4、培养人工智能科学家以复现研究成果。
-5、安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报。
-6、关于华尔街大型银行如何运用人工智能，我们所了解的一切。
-7、我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。
-8、显示 HN，重点是ThoughtDAG – LLM 对话的可编辑上下文图。
-9、Show HN，重点是Deltix – 基于人工智能的测试。
-10、旧金山一家商店的AI主管刚刚解雇了第一位人类员工。
+2026年8月16日人工智能热点分享
+1、新兴多智能体系统的模式与问题，随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。
+2、如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？，这条新闻关注相关变化背后的原因和影响。
+3、BCG北美区负责人认为，在人工智能时代，哪项技能更为重要。
+4、akitaonrails / ai-内存 / akitaonrails / ai-memory。
+5、全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天，该抗议者封锁 OpenAI 总部后被判 14 天监禁，入狱前呼吁 OpenAI 等企业停止超级 AI 研发，近期多国多方也陆续发声警示 AI 风险 反AI抗议。
+6、科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终。
+7、ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件，OpenAI 为 ChatGPT 订阅用户推出新功能，可将谷歌云盘文件直接添加到对话中并编辑，无需频繁切换应用。
+8、人工智能在药物研发中的应用——概述、现状及未来发展方向。
+9、索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户，该专利中的 AI 账号由大语言模型驱动，可模拟未成年人聊天，接触可疑用户后标记风险，提前预警保护真实玩家，技术落地尚未确定 索尼PlayStation。
+10、ProofRun – AI 编码代理的本地验证收据。
 
 ## 原始链接
-1. AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入（The Decoder） - https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v
-2. 随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战（Ars Technica：AI（RSS）） - https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av
-3. Debian 已开始对 AI/LLM 贡献的未来进行投票（hackernews） - https://news.ycombinator.com/item?id=49309050
-4. 培养人工智能科学家以复现研究成果（inherentlabs.ai） - https://inherentlabs.ai/research/training-to-replicate
-5. 安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报（www.businessinsider.com） - https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8
-6. 关于华尔街大型银行如何运用人工智能，我们所了解的一切（www.businessinsider.com） - https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026
-7. 我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。（www.businessinsider.com） - https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8
-8. 显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图（hackernews） - https://news.ycombinator.com/item?id=49307700
-9. Show HN: Deltix – 基于人工智能的测试（app.deltix.ai） - https://app.deltix.ai
-10. 旧金山一家商店的AI主管刚刚解雇了第一位人类员工（www.businessinsider.com） - https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8
+1. 新兴多智能体系统的模式与问题（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l
+2. 如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？（littlelearner-ll.github.io） - https://littlelearner-ll.github.io
+3. BCG北美区负责人认为，在人工智能时代，哪项技能更为重要（www.businessinsider.com） - https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8
+4. akitaonrails / ai-内存 / akitaonrails / ai-memory（github） - https://github.com/akitaonrails/ai-memory
+5. 全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天（IT之家 (ITHome)） - https://www.ithome.com/0/990/368.htm
+6. 科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终（www.businessinsider.com） - https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8
+7. ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件（Readhub · AI） - https://www.ithome.com/0/990/295.htm
+8. 人工智能在药物研发中的应用——概述、现状及未来发展方向（www.science.org） - https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
+9. 索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户（Readhub · AI） - https://www.ithome.com/0/990/270.htm
+10. ProofRun – AI 编码代理的本地验证收据（hackernews） - https://news.ycombinator.com/item?id=49316605
