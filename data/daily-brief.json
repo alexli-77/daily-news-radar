@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:16:26.157598Z",
+  "generated_at": "2026-08-16T18:52:46.256014Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7094,
+        "recency": 0.6842,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-16T11:17:57Z",
       "latest_at": "2026-08-16T11:17:57Z",
@@ -136,14 +135,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
+      "score": 0.561,
+      "importance": 0.561,
+      "importance_score": 0.561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9654,
+        "recency": 0.9402,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -233,14 +232,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
+      "score": 0.5467,
+      "importance": 0.5467,
+      "importance_score": 0.5467,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.894,
+        "recency": 0.8687,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -255,6 +254,84 @@
         "url": "https://news.ycombinator.com/item?id=49319814",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_e81108c281d1",
+      "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "finance.yahoo.com",
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9844,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T17:26:40.195000Z",
+      "latest_at": "2026-08-16T18:30:21.826000Z",
+      "primary_item": {
+        "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+        "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -311,14 +388,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9654,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -389,14 +466,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9555,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -467,14 +544,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.843,
+        "recency": 0.8177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -564,14 +641,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
+      "score": 0.4965,
+      "importance": 0.4965,
+      "importance_score": 0.4965,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6428,
+        "recency": 0.6175,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -642,14 +719,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4915,
-      "importance": 0.4915,
-      "importance_score": 0.4915,
+      "score": 0.4865,
+      "importance": 0.4865,
+      "importance_score": 0.4865,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7177,
+        "recency": 0.6924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -720,14 +797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4899,
-      "importance": 0.4899,
-      "importance_score": 0.4899,
+      "score": 0.4848,
+      "importance": 0.4848,
+      "importance_score": 0.4848,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7094,
+        "recency": 0.6842,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -798,14 +875,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5189,
-      "importance": 0.5189,
-      "importance_score": 0.5189,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8543,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -875,14 +952,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4881,
-      "importance": 0.4881,
-      "importance_score": 0.4881,
+      "score": 0.4831,
+      "importance": 0.4831,
+      "importance_score": 0.4831,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7005,
+        "recency": 0.6753,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -990,14 +1067,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4689,
-      "importance": 0.4689,
-      "importance_score": 0.4689,
+      "score": 0.4638,
+      "importance": 0.4638,
+      "importance_score": 0.4638,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3544,
+        "recency": 0.3291,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1068,14 +1145,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4937,
+      "importance": 0.4937,
+      "importance_score": 0.4937,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7539,
+        "recency": 0.7286,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1146,14 +1223,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8323,
+        "recency": 0.8071,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1224,14 +1301,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.47,
-      "importance": 0.47,
-      "importance_score": 0.47,
+      "score": 0.4649,
+      "importance": 0.4649,
+      "importance_score": 0.4649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6099,
+        "recency": 0.5846,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1302,14 +1379,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4854,
-      "importance": 0.4854,
-      "importance_score": 0.4854,
+      "score": 0.4804,
+      "importance": 0.4804,
+      "importance_score": 0.4804,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6872,
+        "recency": 0.6619,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1380,14 +1457,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4411,
-      "importance": 0.4411,
-      "importance_score": 0.4411,
+      "score": 0.4361,
+      "importance": 0.4361,
+      "importance_score": 0.4361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4656,
+        "recency": 0.4403,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1457,14 +1534,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3677,
-      "importance": 0.3677,
-      "importance_score": 0.3677,
+      "score": 0.3626,
+      "importance": 0.3626,
+      "importance_score": 0.3626,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0983,
+        "recency": 0.0731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1535,14 +1612,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4389,
-      "importance": 0.4389,
-      "importance_score": 0.4389,
+      "score": 0.4338,
+      "importance": 0.4338,
+      "importance_score": 0.4338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4544,
+        "recency": 0.4291,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1557,84 +1634,6 @@
         "url": "https://news.ycombinator.com/item?id=49316605",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_13fe377049bd",
-      "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-      "url": "https://www.ithome.com/0/990/207.htm",
-      "primary_url": "https://www.ithome.com/0/990/207.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
-          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T23:32:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-          "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c6b0ce5c23241bf8c68232c218d70ebe87f672d4",
-          "title": "从 2500 亿美元降至不足 1200 亿美元，消息称英伟达大幅收缩对 OpenAI 数据中心的融资担保",
-          "url": "https://www.ithome.com/0/990/207.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T23:32:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4025,
-      "importance": 0.4025,
-      "importance_score": 0.4025,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2723,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T23:32:41Z",
-      "latest_at": "2026-08-16T00:48:29.259611Z",
-      "primary_item": {
-        "id": "1acb0c89943ae66403e4167d361cee7426249ec1",
-        "title": "英伟达大幅收缩对 OpenAI 数据中心融资担保，从 2500 亿美元降至不足 1200 亿美元",
-        "url": "https://www.ithome.com/0/990/207.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
