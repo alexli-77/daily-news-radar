@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月17日人工智能热点分享
-1、情报时代的新政策理念。
-2、阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛。
-3、周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果。
-4、美国原告在诉状暗藏 AI 提示词，重点是法官警告"提示注入"正侵入法庭。
-5、豆包“工作任务”功能上新，重点是手机可远程操控电脑，跨设备办公再无边界。
-6、阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”。
-7、AI圈迎来“降本”潮，重点是企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望。
-8、苹果蓄势待发！正与各大出版商密谋付费引入实时新闻。
-9、宇树科技发布“超人”人形机器人，重点是原地跳高2米、极速12.66m/s。
-10、亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压。
+2026年8月18日人工智能热点分享
+1、独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元。
+2、微信密集上新，重点是AI 入口增至 16 个，转账撤回也有新玩法。
+3、全球第 3 家，重点是代码显示 vivo 手机将接入安卓 AI 诈骗检测。
+4、Anthropic 披露 Model 2，重点是性能略超公开最强 Claude Mythos 5。
+5、哈佛 MIT 造出 83 亿"AI 人"，重点是用 MatrAIx 系统模拟全球人类行为。
+6、OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护，OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。
+7、半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费。
+8、布罗克曼敲警钟，重点是AI 攻破 Hugging Face 成"分水岭"，企业速做 10 件事。
+9、Vercel 开源 Zero 语言，重点是专为 AI Agent 设计，把"图"当源码。
+10、昆仑万维发布Mureka V9.5，重点是AI音乐告别“机械堆砌”，转向“人情味”创作。
 
 ## 原始链接
-1. 情报时代的新政策理念（OpenAI News） - https://openai.com/index/new-policy-ideas-for-the-intelligence-age
-2. 阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛（AIbase） - https://www.aibase.com/news/30405
-3. 周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果（AIbase） - https://www.aibase.com/news/30404
-4. 美国原告在诉状暗藏 AI 提示词：法官警告"提示注入"正侵入法庭（AIbase） - https://www.aibase.com/news/30401
-5. 豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界（AIbase） - https://www.aibase.com/news/30402
-6. 阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”（AIbase） - https://www.aibase.com/news/30399
-7. AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望（AIbase） - https://www.aibase.com/news/30396
-8. 苹果蓄势待发！正与各大出版商密谋付费引入实时新闻（AIbase） - https://www.aibase.com/news/30406
-9. 宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s（AIbase） - https://www.aibase.com/news/30395
-10. 亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压（AIbase） - https://www.aibase.com/news/30403
+1. 独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元（AIbase） - https://www.aibase.com/news/30429
+2. 微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法（AIbase） - https://www.aibase.com/news/30444
+3. 全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测（AIbase） - https://www.aibase.com/news/30441
+4. Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5（AIbase） - https://www.aibase.com/news/30439
+5. 哈佛 MIT 造出 83 亿"AI 人"：用 MatrAIx 系统模拟全球人类行为（AIbase） - https://www.aibase.com/news/30440
+6. OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护（OpenAI：官网动态（RSS · 排除企业/客户案例）） - https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5
+7. 半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费（AIbase） - https://www.aibase.com/news/30435
+8. 布罗克曼敲警钟：AI 攻破 Hugging Face 成"分水岭"，企业速做 10 件事（AIbase） - https://www.aibase.com/news/30434
+9. Vercel 开源 Zero 语言：专为 AI Agent 设计，把"图"当源码（AIbase） - https://www.aibase.com/news/30432
+10. 昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作（AIbase） - https://www.aibase.com/news/30430
