@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:00:13.611191Z",
+  "generated_at": "2026-08-19T08:43:38.878896Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,14 +76,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8494,
-      "importance": 0.8494,
-      "importance_score": 0.8494,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.937,
+        "recency": 0.9069,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -98,6 +98,86 @@
         "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
         "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
         "url": "https://www.aibase.com/news/30467",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e12ba73f4e82",
+      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+      "url": "https://www.aibase.com/news/30473",
+      "primary_url": "https://www.aibase.com/news/30473",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/news/30473",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T08:00:13.611191Z"
+        },
+        {
+          "id": "a47b99fb167199355497cb9befafe005c4e7590e",
+          "title": "神奇小子公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/zh/news/30473",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/news/30473",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T08:00:13.611191Z"
+        },
+        {
+          "id": "a47b99fb167199355497cb9befafe005c4e7590e",
+          "title": "神奇小子公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/zh/news/30473",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9698,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T08:00:13.611191Z",
+      "latest_at": "2026-08-19T08:43:38.878896Z",
+      "primary_item": {
+        "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+        "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+        "url": "https://www.aibase.com/news/30473",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -137,14 +217,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6478,
+        "recency": 0.6177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -164,61 +244,81 @@
       }
     },
     {
-      "story_id": "story_e12ba73f4e82",
-      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-      "url": "https://www.aibase.com/news/30473",
-      "primary_url": "https://www.aibase.com/news/30473",
+      "story_id": "story_329a0e5d3a77",
+      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+      "url": "https://www.aibase.com/news/30471",
+      "primary_url": "https://www.aibase.com/news/30471",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "url": "https://www.aibase.com/news/30473",
+          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "url": "https://www.aibase.com/news/30471",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-19T08:00:13.611191Z"
+        },
+        {
+          "id": "f404ab452ef51170beca842eb45c08693b66ac22",
+          "title": "Mozilla 升级 Firefox 智能窗口，新增 AI 标签管理与网页检索",
+          "url": "https://www.aibase.com/zh/news/30471",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "url": "https://www.aibase.com/news/30473",
+          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "url": "https://www.aibase.com/news/30471",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-19T08:00:13.611191Z"
+        },
+        {
+          "id": "f404ab452ef51170beca842eb45c08693b66ac22",
+          "title": "Mozilla 升级 Firefox 智能窗口，新增 AI 标签管理与网页检索",
+          "url": "https://www.aibase.com/zh/news/30471",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9698,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-19T08:00:13.611191Z",
-      "latest_at": "2026-08-19T08:00:13.611191Z",
+      "latest_at": "2026-08-19T08:43:38.878896Z",
       "primary_item": {
-        "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-        "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-        "url": "https://www.aibase.com/news/30473",
+        "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+        "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+        "url": "https://www.aibase.com/news/30471",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -258,20 +358,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7106,
+        "recency": 0.6804,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T01:03:29Z",
       "latest_at": "2026-08-19T01:03:29Z",
@@ -281,66 +380,6 @@
         "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
         "source": "公众号：智谱（GLM）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_db13d9ba9b84",
-      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-      "url": "https://www.aibase.com/news/30469",
-      "primary_url": "https://www.aibase.com/news/30469",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "url": "https://www.aibase.com/news/30469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T08:00:13.611191Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "url": "https://www.aibase.com/news/30469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T08:00:13.611191Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T08:00:13.611191Z",
-      "latest_at": "2026-08-19T08:00:13.611191Z",
-      "primary_item": {
-        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "url": "https://www.aibase.com/news/30469",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -378,14 +417,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5814,
+        "recency": 0.5513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -439,14 +478,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6021,
+        "recency": 0.572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -464,80 +503,21 @@
       }
     },
     {
-      "story_id": "story_a37ffe7a8328",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-      "primary_url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9224fe85a65f2bef92a38e7d6ef66b6f0871171e",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "9224fe85a65f2bef92a38e7d6ef66b6f0871171e",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5596,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T21:26:01Z",
-      "latest_at": "2026-08-18T21:26:01Z",
-      "primary_item": {
-        "id": "9224fe85a65f2bef92a38e7d6ef66b6f0871171e",
-        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_329a0e5d3a77",
-      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-      "url": "https://www.aibase.com/news/30471",
-      "primary_url": "https://www.aibase.com/news/30471",
+      "story_id": "story_e4bcd5a2183e",
+      "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+      "url": "https://www.aibase.com/news/30474",
+      "primary_url": "https://www.aibase.com/news/30474",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "url": "https://www.aibase.com/news/30471",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T08:00:13.611191Z"
+          "published_at": "2026-08-19T08:43:38.878896Z"
         }
       ],
       "source_count": 1,
@@ -546,13 +526,13 @@
       ],
       "items": [
         {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "url": "https://www.aibase.com/news/30471",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T08:00:13.611191Z"
+          "published_at": "2026-08-19T08:43:38.878896Z"
         }
       ],
       "item_count": 1,
@@ -572,12 +552,72 @@
         "high_ai_relevance",
         "high_importance"
       ],
+      "earliest_at": "2026-08-19T08:43:38.878896Z",
+      "latest_at": "2026-08-19T08:43:38.878896Z",
+      "primary_item": {
+        "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+        "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+        "url": "https://www.aibase.com/news/30474",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_db13d9ba9b84",
+      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+      "url": "https://www.aibase.com/news/30469",
+      "primary_url": "https://www.aibase.com/news/30469",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "url": "https://www.aibase.com/news/30469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T08:00:13.611191Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "url": "https://www.aibase.com/news/30469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T08:00:13.611191Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9698,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
       "earliest_at": "2026-08-19T08:00:13.611191Z",
       "latest_at": "2026-08-19T08:00:13.611191Z",
       "primary_item": {
-        "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-        "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "url": "https://www.aibase.com/news/30471",
+        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "url": "https://www.aibase.com/news/30469",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -617,14 +657,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9698,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,14 +717,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9698,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -737,14 +777,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.973,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,63 +803,98 @@
       }
     },
     {
-      "story_id": "story_fde02af99fc4",
-      "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
-      "url": "https://www.aibase.com/news/30464",
-      "primary_url": "https://www.aibase.com/news/30464",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1fa6ecfb9685",
+      "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
-          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
-          "url": "https://www.aibase.com/news/30464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T06:29:32.127145Z"
+          "id": "5e3ae1d387d24763fd61c15c4fadd325a805fc5c",
+          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T08:05:57.269000Z"
+        },
+        {
+          "id": "2f9c56c1365530efe40ed398daa5e2ba4402e9f0",
+          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨629%",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T01:42:02.547000Z"
+        },
+        {
+          "id": "7fb33377fdcb058b49a58d7c4a98380a1e3f6f96",
+          "title": "Unitree Robotics 完成 9.04 亿美元上海首次公开募股后即将上市",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T23:18:19.985000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
-          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
-          "url": "https://www.aibase.com/news/30464",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T06:29:32.127145Z"
+          "id": "5e3ae1d387d24763fd61c15c4fadd325a805fc5c",
+          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T08:05:57.269000Z"
+        },
+        {
+          "id": "2f9c56c1365530efe40ed398daa5e2ba4402e9f0",
+          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨629%",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T01:42:02.547000Z"
+        },
+        {
+          "id": "7fb33377fdcb058b49a58d7c4a98380a1e3f6f96",
+          "title": "Unitree Robotics 完成 9.04 亿美元上海首次公开募股后即将上市",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T23:18:19.985000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5678,
+      "importance": 0.5678,
+      "importance_score": 0.5678,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.937,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9738,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-19T06:29:32.127145Z",
-      "latest_at": "2026-08-19T06:29:32.127145Z",
+      "earliest_at": "2026-08-18T23:18:19.985000Z",
+      "latest_at": "2026-08-19T08:05:57.269000Z",
       "primary_item": {
-        "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
-        "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
-        "url": "https://www.aibase.com/news/30464",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "5e3ae1d387d24763fd61c15c4fadd325a805fc5c",
+        "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -895,14 +970,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5545,
+      "importance": 0.5545,
+      "importance_score": 0.5545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9375,
+        "recency": 0.9074,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -920,17 +995,17 @@
       }
     },
     {
-      "story_id": "story_241aada58d5c",
-      "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
-      "url": "https://www.aibase.com/news/30466",
-      "primary_url": "https://www.aibase.com/news/30466",
+      "story_id": "story_fde02af99fc4",
+      "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+      "url": "https://www.aibase.com/news/30464",
+      "primary_url": "https://www.aibase.com/news/30464",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e05533837dd963d298b50f65dc868d9d032108a4",
-          "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
-          "url": "https://www.aibase.com/news/30466",
+          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+          "url": "https://www.aibase.com/news/30464",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -943,9 +1018,9 @@
       ],
       "items": [
         {
-          "id": "e05533837dd963d298b50f65dc868d9d032108a4",
-          "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
-          "url": "https://www.aibase.com/news/30466",
+          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+          "url": "https://www.aibase.com/news/30464",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -954,14 +1029,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.937,
+        "recency": 0.9069,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -972,9 +1047,9 @@
       "earliest_at": "2026-08-19T06:29:32.127145Z",
       "latest_at": "2026-08-19T06:29:32.127145Z",
       "primary_item": {
-        "id": "e05533837dd963d298b50f65dc868d9d032108a4",
-        "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
-        "url": "https://www.aibase.com/news/30466",
+        "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+        "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+        "url": "https://www.aibase.com/news/30464",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1033,14 +1108,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.4582,
+        "recency": 0.428,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1058,17 +1133,17 @@
       }
     },
     {
-      "story_id": "story_90a4ea77fea8",
-      "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
-      "url": "https://www.aibase.com/news/30465",
-      "primary_url": "https://www.aibase.com/news/30465",
+      "story_id": "story_241aada58d5c",
+      "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+      "url": "https://www.aibase.com/news/30466",
+      "primary_url": "https://www.aibase.com/news/30466",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
-          "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
-          "url": "https://www.aibase.com/news/30465",
+          "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+          "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "url": "https://www.aibase.com/news/30466",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1081,9 +1156,9 @@
       ],
       "items": [
         {
-          "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
-          "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
-          "url": "https://www.aibase.com/news/30465",
+          "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+          "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "url": "https://www.aibase.com/news/30466",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1092,14 +1167,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.937,
+        "recency": 0.9069,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1110,9 +1185,9 @@
       "earliest_at": "2026-08-19T06:29:32.127145Z",
       "latest_at": "2026-08-19T06:29:32.127145Z",
       "primary_item": {
-        "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
-        "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
-        "url": "https://www.aibase.com/news/30465",
+        "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+        "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+        "url": "https://www.aibase.com/news/30466",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1171,14 +1246,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
+      "score": 0.5095,
+      "importance": 0.5095,
+      "importance_score": 0.5095,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8375,
+        "recency": 0.8074,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1248,14 +1323,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
+      "score": 0.5075,
+      "importance": 0.5075,
+      "importance_score": 0.5075,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8276,
+        "recency": 0.7975,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,80 +1348,81 @@
       }
     },
     {
-      "story_id": "story_d22ee7c9ec91",
-      "title": "Pony AI股价下跌，首席执行官警告称网约车业务前景不明",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
+      "story_id": "story_774f7412d1a3",
+      "title": "Rich Sutton 和 Khurram Javed：人工智能模型为何停止学习以及如何重新开始 / Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "primary_url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "source": "Follow Builders · Podcast · Training Data",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "1a2f530d71182437914a96e6d9244a2fc44c73c5",
-          "title": "Pony AI股价下跌，首席执行官警告称网约车业务前景不明",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T03:50:03.926000Z"
+          "id": "65bd8f4ce6844fedfd66b3a77cff95ff144cee76",
+          "title": "Rich Sutton 和 Khurram Javed：人工智能模型为何停止学习以及如何重新开始 / Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+          "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+          "source": "Follow Builders · Podcast · Training Data",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T09:00:00Z"
         },
         {
-          "id": "3a91c2369b1edd910757deb0a45f6f35f087508f",
-          "title": "Pony AI的自动驾驶出租车营收创下新高，销售额激增69%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T10:14:12.715000Z"
+          "id": "0ec554339ff5470e106a03ce366aec815f1ce79a",
+          "title": "Defcon 上最酷的反监视工具 [视频] / The coolest anti-surveillance tools at Defcon [video]",
+          "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T14:49:19Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.bloomberg.com"
+        "Follow Builders · Podcast · Training Data",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "1a2f530d71182437914a96e6d9244a2fc44c73c5",
-          "title": "Pony AI股价下跌，首席执行官警告称网约车业务前景不明",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T03:50:03.926000Z"
+          "id": "65bd8f4ce6844fedfd66b3a77cff95ff144cee76",
+          "title": "Rich Sutton 和 Khurram Javed：人工智能模型为何停止学习以及如何重新开始 / Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+          "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+          "source": "Follow Builders · Podcast · Training Data",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T09:00:00Z"
         },
         {
-          "id": "3a91c2369b1edd910757deb0a45f6f35f087508f",
-          "title": "Pony AI的自动驾驶出租车营收创下新高，销售额激增69%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T10:14:12.715000Z"
+          "id": "0ec554339ff5470e106a03ce366aec815f1ce79a",
+          "title": "Defcon 上最酷的反监视工具 [视频] / The coolest anti-surveillance tools at Defcon [video]",
+          "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T14:49:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8263,
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.0114,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-18T10:14:12.715000Z",
-      "latest_at": "2026-08-19T03:50:03.926000Z",
+      "earliest_at": "2026-08-18T09:00:00Z",
+      "latest_at": "2026-08-18T14:49:19Z",
       "primary_item": {
-        "id": "1a2f530d71182437914a96e6d9244a2fc44c73c5",
-        "title": "Pony AI股价下跌，首席执行官警告称网约车业务前景不明",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
+        "id": "65bd8f4ce6844fedfd66b3a77cff95ff144cee76",
+        "title": "Rich Sutton 和 Khurram Javed：人工智能模型为何停止学习以及如何重新开始 / Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+        "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+        "source": "Follow Builders · Podcast · Training Data",
+        "source_name": "Follow Builders"
       }
     }
   ]
