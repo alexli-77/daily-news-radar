@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:35:50.465498Z",
+  "generated_at": "2026-08-21T08:29:43.003678Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9626,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -79,6 +79,227 @@
         "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
         "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
         "url": "https://www.aibase.com/news/30529",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3c2b88d25603",
+      "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+      "url": "https://www.aibase.com/news/30531",
+      "primary_url": "https://www.aibase.com/news/30531",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+          "url": "https://www.aibase.com/news/30531",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T07:35:50.465498Z"
+        },
+        {
+          "id": "45d0edd5e7f89d278589be6d43d36132b2edd928",
+          "title": "OpenAI 全面开源 Codex Harness，AI 编程智能体底层能力进一步开放",
+          "url": "https://www.aibase.com/zh/news/30531",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+          "url": "https://www.aibase.com/news/30531",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T07:35:50.465498Z"
+        },
+        {
+          "id": "45d0edd5e7f89d278589be6d43d36132b2edd928",
+          "title": "OpenAI 全面开源 Codex Harness，AI 编程智能体底层能力进一步开放",
+          "url": "https://www.aibase.com/zh/news/30531",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9626,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T07:35:50.465498Z",
+      "latest_at": "2026-08-21T08:29:43.003678Z",
+      "primary_item": {
+        "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
+        "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+        "url": "https://www.aibase.com/news/30531",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8049599f3b1e",
+      "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "primary_url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T23:29:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T23:29:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6249,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T23:29:34Z",
+      "latest_at": "2026-08-20T23:29:34Z",
+      "primary_item": {
+        "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+        "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_68ba77daf669",
+      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+      "url": "https://www.aibase.com/news/30530",
+      "primary_url": "https://www.aibase.com/news/30530",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "url": "https://www.aibase.com/news/30530",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T07:35:50.465498Z"
+        },
+        {
+          "id": "9b750b7223e4919d63ef006e57acd8da94ce18a6",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "url": "https://www.aibase.com/zh/news/30530",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "url": "https://www.aibase.com/news/30530",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T07:35:50.465498Z"
+        },
+        {
+          "id": "9b750b7223e4919d63ef006e57acd8da94ce18a6",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "url": "https://www.aibase.com/zh/news/30530",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9626,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T07:35:50.465498Z",
+      "latest_at": "2026-08-21T08:29:43.003678Z",
+      "primary_item": {
+        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "url": "https://www.aibase.com/news/30530",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -137,14 +358,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9568,
+        "recency": 0.9194,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -164,21 +385,21 @@
       }
     },
     {
-      "story_id": "story_8049599f3b1e",
-      "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
-      "primary_url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "story_id": "story_b9b1ecfd122f",
+      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
-          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T23:29:34Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "source_count": 1,
@@ -187,39 +408,38 @@
       ],
       "items": [
         {
-          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
-          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T23:29:34Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6623,
+        "recency": 0.3909,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T23:29:34Z",
-      "latest_at": "2026-08-20T23:29:34Z",
+      "earliest_at": "2026-08-20T17:52:38Z",
+      "latest_at": "2026-08-20T17:52:38Z",
       "primary_item": {
-        "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
-        "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -278,14 +498,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9568,
+        "recency": 0.9194,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,6 +520,66 @@
         "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
         "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
         "url": "https://www.aibase.com/news/30527",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8b3f8b3d79fc",
+      "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+      "url": "https://www.aibase.com/news/30533",
+      "primary_url": "https://www.aibase.com/news/30533",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8b4934413b6222572539508e765a783f252dafa6",
+          "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "url": "https://www.aibase.com/news/30533",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T08:29:43.003678Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8b4934413b6222572539508e765a783f252dafa6",
+          "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+          "url": "https://www.aibase.com/news/30533",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T08:29:43.003678Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T08:29:43.003678Z",
+      "latest_at": "2026-08-21T08:29:43.003678Z",
+      "primary_item": {
+        "id": "8b4934413b6222572539508e765a783f252dafa6",
+        "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+        "url": "https://www.aibase.com/news/30533",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -339,14 +619,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9626,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,246 +640,6 @@
         "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
         "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
         "url": "https://www.aibase.com/news/30528",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b9b1ecfd122f",
-      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4283,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T17:52:38Z",
-      "latest_at": "2026-08-20T17:52:38Z",
-      "primary_item": {
-        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3c2b88d25603",
-      "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-      "url": "https://www.aibase.com/news/30531",
-      "primary_url": "https://www.aibase.com/news/30531",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "url": "https://www.aibase.com/news/30531",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:50.465498Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "url": "https://www.aibase.com/news/30531",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:50.465498Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T07:35:50.465498Z",
-      "latest_at": "2026-08-21T07:35:50.465498Z",
-      "primary_item": {
-        "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-        "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-        "url": "https://www.aibase.com/news/30531",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f67290731017",
-      "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3185,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T15:14:31Z",
-      "latest_at": "2026-08-20T15:14:31Z",
-      "primary_item": {
-        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-        "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_68ba77daf669",
-      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-      "url": "https://www.aibase.com/news/30530",
-      "primary_url": "https://www.aibase.com/news/30530",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:50.465498Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:35:50.465498Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T07:35:50.465498Z",
-      "latest_at": "2026-08-21T07:35:50.465498Z",
-      "primary_item": {
-        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "url": "https://www.aibase.com/news/30530",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -658,14 +698,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8278,
+        "recency": 0.7904,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -680,86 +720,6 @@
         "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
         "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
         "url": "https://www.aibase.com/news/30522",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d393b50ad8fb",
-      "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
-      "url": "https://www.aibase.com/news/30523",
-      "primary_url": "https://www.aibase.com/news/30523",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
-          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
-          "url": "https://www.aibase.com/news/30523",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T03:27:53.531165Z"
-        },
-        {
-          "id": "fe3d113480fa4748bb60184dd39ab446ad62a272",
-          "title": "千问 AI 平台模型矩阵扩容，GLM-5.3、DeepSeek-V4-Pro 正式上线",
-          "url": "https://www.aibase.com/zh/news/30523",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
-          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
-          "url": "https://www.aibase.com/news/30523",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T03:27:53.531165Z"
-        },
-        {
-          "id": "fe3d113480fa4748bb60184dd39ab446ad62a272",
-          "title": "千问 AI 平台模型矩阵扩容，GLM-5.3、DeepSeek-V4-Pro 正式上线",
-          "url": "https://www.aibase.com/zh/news/30523",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8278,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T03:27:53.531165Z",
-      "latest_at": "2026-08-21T03:27:53.531165Z",
-      "primary_item": {
-        "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
-        "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
-        "url": "https://www.aibase.com/news/30523",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -837,14 +797,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5707,
-      "importance": 0.5707,
-      "importance_score": 0.5707,
+      "score": 0.5632,
+      "importance": 0.5632,
+      "importance_score": 0.5632,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9885,
+        "recency": 0.9511,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -934,14 +894,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5607,
+      "importance": 0.5607,
+      "importance_score": 0.5607,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9761,
+        "recency": 0.9387,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -959,26 +919,26 @@
       }
     },
     {
-      "story_id": "story_22f026d0bf53",
-      "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
-      "url": "https://www.aibase.com/news/30521",
-      "primary_url": "https://www.aibase.com/news/30521",
+      "story_id": "story_d393b50ad8fb",
+      "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+      "url": "https://www.aibase.com/news/30523",
+      "primary_url": "https://www.aibase.com/news/30523",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
-          "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
-          "url": "https://www.aibase.com/news/30521",
+          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
+          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "url": "https://www.aibase.com/news/30523",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T03:27:53.531165Z"
         },
         {
-          "id": "5518e9378f2ba221587bf0be3c8348b8611bd4e8",
-          "title": "皮尤研究：ChatGPT 发布后，超三成网页出现 AI 创作痕迹",
-          "url": "https://www.aibase.com/zh/news/30521",
+          "id": "fe3d113480fa4748bb60184dd39ab446ad62a272",
+          "title": "千问 AI 平台模型矩阵扩容，GLM-5.3、DeepSeek-V4-Pro 正式上线",
+          "url": "https://www.aibase.com/zh/news/30523",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -992,18 +952,18 @@
       ],
       "items": [
         {
-          "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
-          "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
-          "url": "https://www.aibase.com/news/30521",
+          "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
+          "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+          "url": "https://www.aibase.com/news/30523",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T03:27:53.531165Z"
         },
         {
-          "id": "5518e9378f2ba221587bf0be3c8348b8611bd4e8",
-          "title": "皮尤研究：ChatGPT 发布后，超三成网页出现 AI 创作痕迹",
-          "url": "https://www.aibase.com/zh/news/30521",
+          "id": "fe3d113480fa4748bb60184dd39ab446ad62a272",
+          "title": "千问 AI 平台模型矩阵扩容，GLM-5.3、DeepSeek-V4-Pro 正式上线",
+          "url": "https://www.aibase.com/zh/news/30523",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1012,14 +972,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8278,
+        "recency": 0.7904,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1031,9 +991,9 @@
       "earliest_at": "2026-08-21T03:27:53.531165Z",
       "latest_at": "2026-08-21T03:27:53.531165Z",
       "primary_item": {
-        "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
-        "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
-        "url": "https://www.aibase.com/news/30521",
+        "id": "da75ce5d2e0dfb97c381b81852c31c43906051fd",
+        "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+        "url": "https://www.aibase.com/news/30523",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1111,14 +1071,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8538,
+        "recency": 0.8164,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1189,14 +1149,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9761,
+        "recency": 0.9387,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1211,6 +1171,86 @@
         "url": "https://openrouter.ai/stealth/ox-alpha",
         "source": "openrouter.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_22f026d0bf53",
+      "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
+      "url": "https://www.aibase.com/news/30521",
+      "primary_url": "https://www.aibase.com/news/30521",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
+          "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
+          "url": "https://www.aibase.com/news/30521",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T03:27:53.531165Z"
+        },
+        {
+          "id": "5518e9378f2ba221587bf0be3c8348b8611bd4e8",
+          "title": "皮尤研究：ChatGPT 发布后，超三成网页出现 AI 创作痕迹",
+          "url": "https://www.aibase.com/zh/news/30521",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
+          "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
+          "url": "https://www.aibase.com/news/30521",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T03:27:53.531165Z"
+        },
+        {
+          "id": "5518e9378f2ba221587bf0be3c8348b8611bd4e8",
+          "title": "皮尤研究：ChatGPT 发布后，超三成网页出现 AI 创作痕迹",
+          "url": "https://www.aibase.com/zh/news/30521",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7904,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T03:27:53.531165Z",
+      "latest_at": "2026-08-21T03:27:53.531165Z",
+      "primary_item": {
+        "id": "9bf23c23227eb2ae64a14f20079c3d1ddd1ea67b",
+        "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
+        "url": "https://www.aibase.com/news/30521",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1267,14 +1307,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9205,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1364,14 +1404,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7763,
+        "recency": 0.7389,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1386,66 +1426,6 @@
         "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
         "source": "mathstodon.xyz",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_636371076acd",
-      "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
-      "url": "https://www.aibase.com/news/30525",
-      "primary_url": "https://www.aibase.com/news/30525",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7deeee4b400fba0bdf63e385c0a743bdb11e7248",
-          "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
-          "url": "https://www.aibase.com/news/30525",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T05:55:38.484522Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7deeee4b400fba0bdf63e385c0a743bdb11e7248",
-          "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
-          "url": "https://www.aibase.com/news/30525",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T05:55:38.484522Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9304,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T05:55:38.484522Z",
-      "latest_at": "2026-08-21T05:55:38.484522Z",
-      "primary_item": {
-        "id": "7deeee4b400fba0bdf63e385c0a743bdb11e7248",
-        "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
-        "url": "https://www.aibase.com/news/30525",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1521,14 +1501,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6876,
+        "recency": 0.6502,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1543,6 +1523,140 @@
         "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
         "source": "blog.yaros.ae",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0ac0123bfb33",
+      "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://news.ycombinator.com/item?id=49375996",
+      "primary_url": "https://news.ycombinator.com/item?id=49375996",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+          "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T21:10:01.030000Z"
+        },
+        {
+          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T18:30:20Z"
+        },
+        {
+          "id": "ae7fdf7294d9ba7423cf32a998ec3fd685f8a640",
+          "title": "用单独的法学硕士清理克劳德 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T15:39:15.824000Z"
+        },
+        {
+          "id": "cc1b775bba92523b58408a40b7ca2736fd1cd218",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T15:26:02Z"
+        },
+        {
+          "id": "4d8a26f88dc77a20300a5f460cbaf45462dea8c1",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T15:26:02Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+          "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T21:10:01.030000Z"
+        },
+        {
+          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T18:30:20Z"
+        },
+        {
+          "id": "ae7fdf7294d9ba7423cf32a998ec3fd685f8a640",
+          "title": "用单独的法学硕士清理克劳德 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T15:39:15.824000Z"
+        },
+        {
+          "id": "cc1b775bba92523b58408a40b7ca2736fd1cd218",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T15:26:02Z"
+        },
+        {
+          "id": "4d8a26f88dc77a20300a5f460cbaf45462dea8c1",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T15:26:02Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.528,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-20T15:26:02Z",
+      "latest_at": "2026-08-20T21:10:01.030000Z",
+      "primary_item": {
+        "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+        "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+        "url": "https://news.ycombinator.com/item?id=49375996",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
