@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月20日人工智能热点分享
-1、MiniMax Design发布，重点是用自然语言“指挥”视频创作，告别逐帧编辑。
-2、DeepSeek Harness重磅更新，重点是多模态支持全面上线，意外剧透V4视觉版动向。
-3、美团搜索 3.0如何用大模型表征重构本地生活搜索底座？，这条新闻关注相关变化背后的原因和影响。
-4、阿里发布 Qwen-UI-Agent，主打让模型真正&quot;会用&quot;每一块屏幕，阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。
-5、IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者。
-6、快手二季度营收355亿元，可灵AI商业化收入同比增长超200%。
-7、小米人形机器人首次亮相，已成功注册多枚小米铁大商标。
-8、王兴兴，重点是具身智能最快2至3年迎来“ChatGPT时刻”。
-9、通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑。
-10、宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售。
+2026年8月21日人工智能热点分享
+1、面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型，面壁智能 OpenBMB 推出 MathForm，一个面向 Lean 4 数学自动形式化的开源框架、数据集与模型。
+2、字节Seed再调整，重点是预训练、强化学习与Agent研发全面重构。
+3、雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆。
+4、韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI。
+5、Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%。
+6、OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放。
+7、阿里开源 Qwen-UI-Agent，重点是真机多模态基座模型登场。
+8、国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型。
+9、长眼！DeepSeek Flash视觉模型突发更新，支持多模态。
+10、SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析。
 
 ## 原始链接
-1. MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑（AIbase） - https://www.aibase.com/news/30503
-2. DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向（AIbase） - https://www.aibase.com/news/30508
-3. 美团搜索 3.0如何用大模型表征重构本地生活搜索底座？（AIbase） - https://www.aibase.com/news/30507
-4. 阿里发布 Qwen-UI-Agent，主打让模型真正&quot;会用&quot;每一块屏幕（IT之家（RSS）） - https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby
-5. IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者（AIbase） - https://www.aibase.com/news/30501
-6. 快手二季度营收355亿元，可灵AI商业化收入同比增长超200%（AIbase） - https://www.aibase.com/news/30500
-7. 小米人形机器人首次亮相，已成功注册多枚小米铁大商标（AIbase） - https://www.aibase.com/news/30506
-8. 王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”（AIbase） - https://www.aibase.com/news/30498
-9. 通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑（AIbase） - https://www.aibase.com/news/30504
-10. 宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售（AIbase） - https://www.aibase.com/news/30502
+1. 面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型（X：面壁智能 OpenBMB (@OpenBMB)） - https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt
+2. 字节Seed再调整:预训练、强化学习与Agent研发全面重构（AIbase） - https://www.aibase.com/news/30537
+3. 雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆（AIbase） - https://www.aibase.com/news/30535
+4. 韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI（AIbase） - https://www.aibase.com/news/30533
+5. Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%（AIbase） - https://www.aibase.com/news/30529
+6. OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放（AIbase） - https://www.aibase.com/news/30531
+7. 阿里开源 Qwen-UI-Agent：真机多模态基座模型登场（AIbase） - https://www.aibase.com/news/30530
+8. 国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型（AIbase） - https://www.aibase.com/news/30534
+9. 长眼！DeepSeek Flash视觉模型突发更新，支持多模态（AIbase） - https://www.aibase.com/news/30536
+10. SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析（AIbase） - https://www.aibase.com/news/30526
