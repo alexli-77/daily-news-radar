@@ -1,28 +1,14 @@
 {
-  "generated_at": "2026-08-22T17:43:20.480555Z",
+  "generated_at": "2026-08-22T18:17:02.786516Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 24,
+  "total_events": 25,
   "events": [
-    {
-      "story_id": "story_63b27a9d3c69",
-      "item_id": "f7fed9e746113066d50fcb035ed27cf0608dca1a",
-      "merged_into": "story_63b27a9d3c69",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_3ca3a9462aff",
       "item_id": "d2aaf3250e48e6058ecd5c4f47fcd7ff0914d601",
       "merged_into": "story_3ca3a9462aff",
       "reason": "canonical_url",
       "similarity": 1.0
-    },
-    {
-      "story_id": "story_61f4070b9f50",
-      "item_id": "11d756e585cde87457b7a7ab64787465dbf9847a",
-      "merged_into": "story_61f4070b9f50",
-      "reason": "title_similarity",
-      "similarity": 0.9369
     },
     {
       "story_id": "story_62928a839319",
@@ -95,10 +81,24 @@
       "similarity": 1.0
     },
     {
+      "story_id": "story_c4b6f54aa6e7",
+      "item_id": "7e9bdcbd5036b83126e0913cc31b6fcd5506eda6",
+      "merged_into": "story_c4b6f54aa6e7",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
       "story_id": "story_b7cb2747bb61",
       "item_id": "c2c6fe1f1b1066560fee1897c263b3f3b1ef0f69",
       "merged_into": "story_b7cb2747bb61",
       "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_80d4d98280b4",
+      "item_id": "e2aebfad7a6256299cd6bda017aa762d5fec10f6",
+      "merged_into": "story_80d4d98280b4",
+      "reason": "canonical_url",
       "similarity": 1.0
     },
     {
@@ -169,6 +169,13 @@
       "item_id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
       "merged_into": "story_45f68b1865d1",
       "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_99c051212fc4",
+      "item_id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+      "merged_into": "story_99c051212fc4",
+      "reason": "canonical_url",
       "similarity": 1.0
     }
   ]
