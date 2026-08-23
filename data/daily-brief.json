@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:45:56.029104Z",
+  "generated_at": "2026-08-23T21:42:57.543850Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7275,
+        "recency": 0.6879,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -156,14 +156,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6601,
-      "importance": 0.6601,
-      "importance_score": 0.6601,
+      "score": 0.6522,
+      "importance": 0.6522,
+      "importance_score": 0.6522,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9854,
+        "recency": 0.9458,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -234,14 +234,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6156,
-      "importance": 0.6156,
-      "importance_score": 0.6156,
+      "score": 0.6077,
+      "importance": 0.6077,
+      "importance_score": 0.6077,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.8431,
+        "recency": 0.8035,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -256,6 +256,277 @@
         "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
         "source": "InfoQ CN",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_8e4f008cc043",
+      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+      "url": "https://news.ycombinator.com/item?id=49411178",
+      "primary_url": "https://news.ycombinator.com/item?id=49411178",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "url": "https://news.ycombinator.com/item?id=49411178",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T21:29:22.825000Z"
+        },
+        {
+          "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "url": "https://news.ycombinator.com/item?id=49411178",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T19:59:11.583000Z"
+        },
+        {
+          "id": "4c8d577271c898822181c7cb1de5a6ca84193dd2",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T18:27:33Z"
+        },
+        {
+          "id": "eb51cf77429d8879c21d5b651208024962cf7a67",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T18:27:33Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "url": "https://news.ycombinator.com/item?id=49411178",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T21:29:22.825000Z"
+        },
+        {
+          "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "url": "https://news.ycombinator.com/item?id=49411178",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T19:59:11.583000Z"
+        },
+        {
+          "id": "4c8d577271c898822181c7cb1de5a6ca84193dd2",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T18:27:33Z"
+        },
+        {
+          "id": "eb51cf77429d8879c21d5b651208024962cf7a67",
+          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T18:27:33Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5961,
+      "importance": 0.5961,
+      "importance_score": 0.5961,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9906,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T18:27:33Z",
+      "latest_at": "2026-08-23T21:29:22.825000Z",
+      "primary_item": {
+        "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
+        "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+        "url": "https://news.ycombinator.com/item?id=49411178",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_37ba5c34e2c1",
+      "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+      "primary_url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:22.029000Z"
+        },
+        {
+          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:01:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:22.029000Z"
+        },
+        {
+          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
+          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:01:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8989,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T19:01:36Z",
+      "latest_at": "2026-08-23T19:17:22.029000Z",
+      "primary_item": {
+        "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
+        "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
+        "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1a46c098bd02",
+      "title": "与人工智能相关的各种可靠性事故即将发生",
+      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+      "primary_url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+      "source": "surfingcomplexity.blog",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+          "title": "与人工智能相关的各种可靠性事故即将发生",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "surfingcomplexity.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:21.738000Z"
+        },
+        {
+          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
+          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T19:04:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "surfingcomplexity.blog"
+      ],
+      "items": [
+        {
+          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+          "title": "与人工智能相关的各种可靠性事故即将发生",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "surfingcomplexity.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:21.738000Z"
+        },
+        {
+          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
+          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T19:04:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8989,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T19:04:41Z",
+      "latest_at": "2026-08-23T19:17:21.738000Z",
+      "primary_item": {
+        "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+        "title": "与人工智能相关的各种可靠性事故即将发生",
+        "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+        "source": "surfingcomplexity.blog",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -350,14 +621,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.558,
-      "importance": 0.558,
-      "importance_score": 0.558,
+      "score": 0.5501,
+      "importance": 0.5501,
+      "importance_score": 0.5501,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8001,
+        "recency": 0.7605,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -372,162 +643,6 @@
         "url": "https://news.ycombinator.com/item?id=49409073",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_37ba5c34e2c1",
-      "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
-      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-      "primary_url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
-          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
-          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:22.029000Z"
-        },
-        {
-          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
-          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
-          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T19:01:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
-          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
-          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:22.029000Z"
-        },
-        {
-          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
-          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
-          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T19:01:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9385,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T19:01:36Z",
-      "latest_at": "2026-08-23T19:17:22.029000Z",
-      "primary_item": {
-        "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
-        "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
-        "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1a46c098bd02",
-      "title": "与人工智能相关的各种可靠性事故即将发生",
-      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-      "primary_url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-      "source": "surfingcomplexity.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-          "title": "与人工智能相关的各种可靠性事故即将发生",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:21.738000Z"
-        },
-        {
-          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
-          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T19:04:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "surfingcomplexity.blog"
-      ],
-      "items": [
-        {
-          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-          "title": "与人工智能相关的各种可靠性事故即将发生",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:21.738000Z"
-        },
-        {
-          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
-          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T19:04:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9385,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T19:04:41Z",
-      "latest_at": "2026-08-23T19:17:21.738000Z",
-      "primary_item": {
-        "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-        "title": "与人工智能相关的各种可靠性事故即将发生",
-        "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-        "source": "surfingcomplexity.blog",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -584,14 +699,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8717,
+        "recency": 0.8321,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -606,84 +721,6 @@
         "url": "https://www.ai-materiality-map.org/data-workers",
         "source": "www.ai-materiality-map.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9bca989a7de9",
-      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-      "url": "https://news.ycombinator.com/item?id=49410480",
-      "primary_url": "https://news.ycombinator.com/item?id=49410480",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "url": "https://news.ycombinator.com/item?id=49410480",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T19:59:11.583000Z"
-        },
-        {
-          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:07:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "url": "https://news.ycombinator.com/item?id=49410480",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T19:59:11.583000Z"
-        },
-        {
-          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:07:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9675,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T17:07:04Z",
-      "latest_at": "2026-08-23T19:59:11.583000Z",
-      "primary_item": {
-        "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-        "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-        "url": "https://news.ycombinator.com/item?id=49410480",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -740,14 +777,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.4982,
+      "importance": 0.4982,
+      "importance_score": 0.4982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7905,
+        "recency": 0.7509,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -765,79 +802,79 @@
       }
     },
     {
-      "story_id": "story_8e4f008cc043",
-      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-      "url": "https://news.ycombinator.com/item?id=49411178",
-      "primary_url": "https://news.ycombinator.com/item?id=49411178",
+      "story_id": "story_9bca989a7de9",
+      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+      "url": "https://news.ycombinator.com/item?id=49410480",
+      "primary_url": "https://news.ycombinator.com/item?id=49410480",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "url": "https://news.ycombinator.com/item?id=49411178",
+          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "url": "https://news.ycombinator.com/item?id=49410480",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T19:59:11.583000Z"
         },
         {
-          "id": "eb51cf77429d8879c21d5b651208024962cf7a67",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T18:27:33Z"
+          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T17:07:04Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "url": "https://news.ycombinator.com/item?id=49411178",
+          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "url": "https://news.ycombinator.com/item?id=49410480",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T19:59:11.583000Z"
         },
         {
-          "id": "eb51cf77429d8879c21d5b651208024962cf7a67",
-          "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-          "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T18:27:33Z"
+          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T17:07:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9675,
+        "recency": 0.9279,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T18:27:33Z",
+      "earliest_at": "2026-08-23T17:07:04Z",
       "latest_at": "2026-08-23T19:59:11.583000Z",
       "primary_item": {
-        "id": "74c08f2a6e4d7e05f53510e48f4fe91671c218ba",
-        "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-        "url": "https://news.ycombinator.com/item?id=49411178",
+        "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
+        "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+        "url": "https://news.ycombinator.com/item?id=49410480",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -895,14 +932,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4735,
-      "importance": 0.4735,
-      "importance_score": 0.4735,
+      "score": 0.4655,
+      "importance": 0.4655,
+      "importance_score": 0.4655,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6273,
+        "recency": 0.5877,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -973,14 +1010,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4689,
-      "importance": 0.4689,
-      "importance_score": 0.4689,
+      "score": 0.461,
+      "importance": 0.461,
+      "importance_score": 0.461,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6047,
+        "recency": 0.5651,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1051,14 +1088,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4937,
-      "importance": 0.4937,
-      "importance_score": 0.4937,
+      "score": 0.4858,
+      "importance": 0.4858,
+      "importance_score": 0.4858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7286,
+        "recency": 0.689,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,14 +1166,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4602,
-      "importance": 0.4602,
-      "importance_score": 0.4602,
+      "score": 0.4523,
+      "importance": 0.4523,
+      "importance_score": 0.4523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5609,
+        "recency": 0.5213,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1207,14 +1244,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9675,
+        "recency": 0.9279,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1285,14 +1322,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4801,
-      "importance": 0.4801,
-      "importance_score": 0.4801,
+      "score": 0.4722,
+      "importance": 0.4722,
+      "importance_score": 0.4722,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6607,
+        "recency": 0.6211,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1362,14 +1399,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4402,
-      "importance": 0.4402,
-      "importance_score": 0.4402,
+      "score": 0.4323,
+      "importance": 0.4323,
+      "importance_score": 0.4323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4609,
+        "recency": 0.4213,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1440,14 +1477,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4689,
-      "importance": 0.4689,
-      "importance_score": 0.4689,
+      "score": 0.461,
+      "importance": 0.461,
+      "importance_score": 0.461,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6047,
+        "recency": 0.5651,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,14 +1555,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9675,
+        "recency": 0.9279,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1596,14 +1633,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4689,
-      "importance": 0.4689,
-      "importance_score": 0.4689,
+      "score": 0.461,
+      "importance": 0.461,
+      "importance_score": 0.461,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6047,
+        "recency": 0.5651,
         "story_heat": 0.25
       },
       "category": "watch",
