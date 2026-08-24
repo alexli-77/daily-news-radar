@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月23日人工智能热点分享
-1、亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩，亚马逊云科技开源 Dogwood，将 Cedar 扩展至智能体工具调用序列治理。
-2、阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金。
-3、NousResearch / hermes-agent。
-4、anthropics / claude-plugins-community。
-5、freestylefly / awesome-gpt-image-2，Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 - freestylefly/awesome-gpt-image-2。
-6、橡鹿机器人全球首发三款烹饪机器人产品，橡鹿机器人在 2026 世界机器人大会上带来三款新品，其中 3K 视觉 AI 炒菜机器人能通过三颗工业相机实时“看”锅内食材变化，由 AI 大模型自主决策调整火候，解决出品波动问题。
-7、微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对，其规模包括 3 栋建筑，总建筑面积达到 4.65 万平方米。
-8、NanoGPT 速通前沿。
-9、亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗，同时，库班认为，患者病情突然变化时，医生需要实时观察、沟通、共情并作出判断，这些能力并非 AI 可以复制。
-10、阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张。
+2026年8月24日人工智能热点分享
+1、中国开源模型出海，重点是法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet。
+2、字节整合AI办公产品，TRAE、扣子团队并入豆包。
+3、韩国修法为 AI 开绿灯，重点是经监管审查后可使用限定个人数据。
+4、阿里达摩院肝癌AI模型登上《自然·医学》，重点是两个月揪出 15 例漏诊肿瘤。
+5、Kimi K2.5 月底退役，重点是月之暗面第一代万亿参数多模态模型谢幕。
+6、OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级。
+7、小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙，属于 AI 基础设施和算力成本相关信号。
+8、2026CSDI，重点是AGI前夜，属于懂Agent、更懂模型的长期深耕企业。
+9、“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元。
+10、小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座，属于 AI 基础设施和算力成本相关信号。
 
 ## 原始链接
-1. 亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩（InfoQ CN） - https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO
-2. 阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金（www.reuters.com） - https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23
-3. NousResearch / hermes-agent（github） - https://github.com/NousResearch/hermes-agent
-4. anthropics / claude-plugins-community（github） - https://github.com/anthropics/claude-plugins-community
-5. freestylefly / awesome-gpt-image-2（github） - https://github.com/freestylefly/awesome-gpt-image-2
-6. 橡鹿机器人全球首发三款烹饪机器人产品（Readhub · AI） - https://www.ithome.com/0/993/248.htm
-7. 微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对（Readhub · AI） - https://www.ithome.com/0/993/242.htm
-8. NanoGPT 速通前沿（www.primeintellect.ai） - https://www.primeintellect.ai/research/nanogpt-speedrun
-9. 亿万投资人马克·库班：医生应该教患者如何用AI辅助治疗（Readhub · AI） - https://www.ithome.com/0/993/193.htm
-10. 阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张（www.bloomberg.com） - https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion
+1. 中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet（AIbase） - https://www.aibase.com/news/30577
+2. 字节整合AI办公产品，TRAE、扣子团队并入豆包（AIbase） - https://www.aibase.com/news/30576
+3. 韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据（AIbase） - https://www.aibase.com/news/30575
+4. 阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤（AIbase） - https://www.aibase.com/news/30568
+5. Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕（AIbase） - https://www.aibase.com/news/30563
+6. OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级（AIbase） - https://www.aibase.com/news/30565
+7. 小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙（AIbase） - https://www.aibase.com/news/30574
+8. 2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业（AIbase） - https://www.aibase.com/news/30569
+9. “AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元（AIbase） - https://www.aibase.com/news/30571
+10. 小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座（AIbase） - https://www.aibase.com/news/30572
