@@ -3,25 +3,25 @@
 ## 播报稿
 
 2026年8月24日人工智能热点分享
-1、中国开源模型出海，重点是法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet。
-2、字节整合AI办公产品，TRAE、扣子团队并入豆包。
-3、韩国修法为 AI 开绿灯，重点是经监管审查后可使用限定个人数据。
-4、阿里达摩院肝癌AI模型登上《自然·医学》，重点是两个月揪出 15 例漏诊肿瘤。
-5、Kimi K2.5 月底退役，重点是月之暗面第一代万亿参数多模态模型谢幕。
-6、OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级。
-7、小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙，属于 AI 基础设施和算力成本相关信号。
-8、2026CSDI，重点是AGI前夜，属于懂Agent、更懂模型的长期深耕企业。
-9、“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元。
-10、小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座，属于 AI 基础设施和算力成本相关信号。
+1、NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍，NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。
+2、全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代。
+3、具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元。
+4、OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？，OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。
+5、Codex MCP server command deprecated。
+6、中国开源模型出海，重点是法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet。
+7、字节整合AI办公产品，TRAE、扣子团队并入豆包。
+8、韩国修法为 AI 开绿灯，重点是经监管审查后可使用限定个人数据。
+9、阿里达摩院肝癌AI模型登上《自然·医学》，重点是两个月揪出 15 例漏诊肿瘤。
+10、Kimi K2.5 月底退役，重点是月之暗面第一代万亿参数多模态模型谢幕。
 
 ## 原始链接
-1. 中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet（AIbase） - https://www.aibase.com/news/30577
-2. 字节整合AI办公产品，TRAE、扣子团队并入豆包（AIbase） - https://www.aibase.com/news/30576
-3. 韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据（AIbase） - https://www.aibase.com/news/30575
-4. 阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤（AIbase） - https://www.aibase.com/news/30568
-5. Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕（AIbase） - https://www.aibase.com/news/30563
-6. OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级（AIbase） - https://www.aibase.com/news/30565
-7. 小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙（AIbase） - https://www.aibase.com/news/30574
-8. 2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业（AIbase） - https://www.aibase.com/news/30569
-9. “AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元（AIbase） - https://www.aibase.com/news/30571
-10. 小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座（AIbase） - https://www.aibase.com/news/30572
+1. NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍（NVIDIA Blog（RSS）） - https://aihot.virxact.com/items/cmt7e0g7y232wro738qg82x67
+2. 全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代（AIbase） - https://www.aibase.com/news/30580
+3. 具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元（AIbase） - https://www.aibase.com/news/30579
+4. OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？（TechCrunch：AI（RSS）） - https://aihot.virxact.com/items/cmt7e3m7h234gro73wwwhymb0
+5. Codex MCP server command deprecated（OpenAI Codex Changelog） - https://developers.openai.com/codex/changelog
+6. 中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet（AIbase） - https://www.aibase.com/news/30577
+7. 字节整合AI办公产品，TRAE、扣子团队并入豆包（AIbase） - https://www.aibase.com/news/30576
+8. 韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据（AIbase） - https://www.aibase.com/news/30575
+9. 阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤（AIbase） - https://www.aibase.com/news/30568
+10. Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕（AIbase） - https://www.aibase.com/news/30563
