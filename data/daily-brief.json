@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T15:42:31.573620Z",
+  "generated_at": "2026-08-29T19:02:13.126833Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_91992ed9f82d",
@@ -38,21 +38,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3455,
+        "recency": 0.2068,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T00:00:00Z",
       "latest_at": "2026-08-29T00:00:00Z",
@@ -65,121 +64,81 @@
       }
     },
     {
-      "story_id": "story_9205c81e4e4a",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-      "primary_url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_6472bbcb1287",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://news.ycombinator.com/item?id=49491568",
+      "primary_url": "https://news.ycombinator.com/item?id=49491568",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "51d6f99ca01e9033a2462c6663c5fe9accdb913b",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16Z"
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "51d6f99ca01e9033a2462c6663c5fe9accdb913b",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6595,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T07:32:16Z",
-      "latest_at": "2026-08-29T07:32:16Z",
-      "primary_item": {
-        "id": "51d6f99ca01e9033a2462c6663c5fe9accdb913b",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b9c40837d98e",
-      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-      "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-      "primary_url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
         {
-          "id": "b6c02e887b7f4ba9d71883c1bffd0c495b9ffea4",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22Z"
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b6c02e887b7f4ba9d71883c1bffd0c495b9ffea4",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6374,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9822,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-29T07:00:22Z",
-      "latest_at": "2026-08-29T07:00:22Z",
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T18:36:32.292000Z",
       "primary_item": {
-        "id": "b6c02e887b7f4ba9d71883c1bffd0c495b9ffea4",
-        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "url": "https://news.ycombinator.com/item?id=49491568",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -236,14 +195,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -258,6 +217,84 @@
         "url": "https://www.huxiu.com/article/4887054.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6a55c76d0a2a",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://news.ycombinator.com/item?id=49491113",
+      "primary_url": "https://news.ycombinator.com/item?id=49491113",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9822,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T16:16:32Z",
+      "latest_at": "2026-08-29T18:36:32.292000Z",
+      "primary_item": {
+        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://news.ycombinator.com/item?id=49491113",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -314,14 +351,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9043,
+        "recency": 0.7656,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -392,14 +429,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4744,
+      "importance": 0.4744,
+      "importance_score": 0.4744,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7707,
+        "recency": 0.6321,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -470,14 +507,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
+      "score": 0.47,
+      "importance": 0.47,
+      "importance_score": 0.47,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7485,
+        "recency": 0.6098,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -495,174 +532,78 @@
       }
     },
     {
-      "story_id": "story_fb769fc67e24",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "primary_url": "https://arxiv.org/abs/2608.23691",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
+      "story_id": "story_356cb5adee51",
+      "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "primary_url": "https://www.inventati.org/who/manifesto",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "7d620cb4d0573f5b2a9f32d2a7c3b76c9191d289",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        },
-        {
-          "id": "a25ac6e0ed4e7b73b5dcd8df9eab5bf1dd3d650c",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://arxiv.org/abs/2608.23691",
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-28T17:01:12Z"
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "7d620cb4d0573f5b2a9f32d2a7c3b76c9191d289",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        },
-        {
-          "id": "a25ac6e0ed4e7b73b5dcd8df9eab5bf1dd3d650c",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://arxiv.org/abs/2608.23691",
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-28T17:01:12Z"
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4799,
-      "importance": 0.4799,
-      "importance_score": 0.4799,
+      "score": 0.453,
+      "importance": 0.453,
+      "importance_score": 0.453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6596,
+        "recency": 0.5252,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-28T17:01:12Z",
-      "latest_at": "2026-08-29T07:32:16.981000Z",
+      "earliest_at": "2026-08-29T07:38:31Z",
+      "latest_at": "2026-08-29T07:38:31Z",
       "primary_item": {
-        "id": "7d620cb4d0573f5b2a9f32d2a7c3b76c9191d289",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "url": "https://arxiv.org/abs/2608.23691",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7a769c91d345",
-      "title": "Twitterwebviewer.com Service Discontinued",
-      "url": "https://twitterwebviewer.com",
-      "primary_url": "https://twitterwebviewer.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-          "title": "Twitterwebviewer.com Service Discontinued",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T04:11:35Z"
-        },
-        {
-          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
-          "title": "Service Discontinued",
-          "url": "https://twitterwebviewer.com/?rev=1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T18:16:23Z"
-        },
-        {
-          "id": "fbdc7afff9c7a0b506d2864af5786879d1b019df",
-          "title": "TwitterWebViewer also no longer in operation, following a request from X Corp",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T16:36:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-          "title": "Twitterwebviewer.com Service Discontinued",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T04:11:35Z"
-        },
-        {
-          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
-          "title": "Service Discontinued",
-          "url": "https://twitterwebviewer.com/?rev=1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T18:16:23Z"
-        },
-        {
-          "id": "fbdc7afff9c7a0b506d2864af5786879d1b019df",
-          "title": "TwitterWebViewer also no longer in operation, following a request from X Corp",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T16:36:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.477,
-      "importance": 0.477,
-      "importance_score": 0.477,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5202,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T16:36:17Z",
-      "latest_at": "2026-08-29T04:11:35Z",
-      "primary_item": {
-        "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-        "title": "Twitterwebviewer.com Service Discontinued",
-        "url": "https://twitterwebviewer.com",
+        "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+        "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+        "url": "https://www.inventati.org/who/manifesto",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -721,14 +662,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4732,
-      "importance": 0.4732,
-      "importance_score": 0.4732,
+      "score": 0.4455,
+      "importance": 0.4455,
+      "importance_score": 0.4455,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6262,
+        "recency": 0.4875,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -799,14 +740,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4688,
-      "importance": 0.4688,
-      "importance_score": 0.4688,
+      "score": 0.4411,
+      "importance": 0.4411,
+      "importance_score": 0.4411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.604,
+        "recency": 0.4653,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -877,14 +818,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4444,
-      "importance": 0.4444,
-      "importance_score": 0.4444,
+      "score": 0.4166,
+      "importance": 0.4166,
+      "importance_score": 0.4166,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4818,
+        "recency": 0.3431,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -955,14 +896,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4421,
-      "importance": 0.4421,
-      "importance_score": 0.4421,
+      "score": 0.4144,
+      "importance": 0.4144,
+      "importance_score": 0.4144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4707,
+        "recency": 0.3321,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -976,162 +917,6 @@
         "title": "Debian 对 LLM 的使用既不支持也不禁止",
         "url": "https://www.debian.org/vote/2026/vote_002",
         "source": "www.debian.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6f9fb517eb6d",
-      "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学",
-      "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-      "primary_url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-      "source": "markwilliamscook.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1635424a84524804795eef92534024522fddd70b",
-          "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学",
-          "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-          "source": "markwilliamscook.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T19:16:44.216000Z"
-        },
-        {
-          "id": "53546bcf904074487c611a7a7287dc9d34af9f39",
-          "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学 / How cats.txt showed llms.txt evidence is GEO astrology",
-          "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T18:11:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "markwilliamscook.substack.com"
-      ],
-      "items": [
-        {
-          "id": "1635424a84524804795eef92534024522fddd70b",
-          "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学",
-          "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-          "source": "markwilliamscook.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T19:16:44.216000Z"
-        },
-        {
-          "id": "53546bcf904074487c611a7a7287dc9d34af9f39",
-          "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学 / How cats.txt showed llms.txt evidence is GEO astrology",
-          "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T18:11:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3778,
-      "importance": 0.3778,
-      "importance_score": 0.3778,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1488,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T18:11:43Z",
-      "latest_at": "2026-08-28T19:16:44.216000Z",
-      "primary_item": {
-        "id": "1635424a84524804795eef92534024522fddd70b",
-        "title": "《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学",
-        "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-        "source": "markwilliamscook.substack.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_64c4f1514068",
-      "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "814422473bd3deb9d5737b7f02378cdbd843a90b",
-          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T18:28:20.792000Z"
-        },
-        {
-          "id": "58701ed1715f680898f13672a8b2d9715dbf9775",
-          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T18:07:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "814422473bd3deb9d5737b7f02378cdbd843a90b",
-          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T18:28:20.792000Z"
-        },
-        {
-          "id": "58701ed1715f680898f13672a8b2d9715dbf9775",
-          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T18:07:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.371,
-      "importance": 0.371,
-      "importance_score": 0.371,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1152,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T18:07:55Z",
-      "latest_at": "2026-08-28T18:28:20.792000Z",
-      "primary_item": {
-        "id": "814422473bd3deb9d5737b7f02378cdbd843a90b",
-        "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
-        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-        "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     }
