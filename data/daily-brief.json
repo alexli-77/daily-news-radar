@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T14:09:19.588466Z",
+  "generated_at": "2026-08-30T18:06:58.024247Z",
   "window_hours": 24,
   "total_items": 17,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7785,
+        "recency": 0.6134,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-30T08:50:20Z",
       "latest_at": "2026-08-30T08:50:20Z",
@@ -61,6 +60,259 @@
         "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_773e61521fea",
+      "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "primary_url": "https://github.com/anthropics/claude-code/issues/66504",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T16:35:36.082000Z"
+        },
+        {
+          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://news.ycombinator.com/item?id=49498201",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T13:49:57.812000Z"
+        },
+        {
+          "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T12:50:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T16:35:36.082000Z"
+        },
+        {
+          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://news.ycombinator.com/item?id=49498201",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T13:49:57.812000Z"
+        },
+        {
+          "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T12:50:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9366,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T12:50:54Z",
+      "latest_at": "2026-08-30T16:35:36.082000Z",
+      "primary_item": {
+        "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+        "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+        "url": "https://github.com/anthropics/claude-code/issues/66504",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2929f114895f",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://news.ycombinator.com/item?id=49498787",
+      "primary_url": "https://news.ycombinator.com/item?id=49498787",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://news.ycombinator.com/item?id=49498787",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T17:50:37.146000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://news.ycombinator.com/item?id=49498787",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T17:50:37.146000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9886,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T14:06:54Z",
+      "latest_at": "2026-08-30T17:50:37.146000Z",
+      "primary_item": {
+        "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+        "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+        "url": "https://news.ycombinator.com/item?id=49498787",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_e87657446309",
+      "title": "“无AI星期五”",
+      "url": "https://noaifridays.com",
+      "primary_url": "https://noaifridays.com",
+      "source": "noaifridays.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8208f10f261b860b152b622827844b09cfe8b276",
+          "title": "“无AI星期五”",
+          "url": "https://noaifridays.com",
+          "source": "noaifridays.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T15:15:25.717000Z"
+        },
+        {
+          "id": "b2e2dc0947d05e788c218548dd572b74e596e05f",
+          "title": "“无AI星期五” / No AI Fridays",
+          "url": "https://noaifridays.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T12:31:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "noaifridays.com"
+      ],
+      "items": [
+        {
+          "id": "8208f10f261b860b152b622827844b09cfe8b276",
+          "title": "“无AI星期五”",
+          "url": "https://noaifridays.com",
+          "source": "noaifridays.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T15:15:25.717000Z"
+        },
+        {
+          "id": "b2e2dc0947d05e788c218548dd572b74e596e05f",
+          "title": "“无AI星期五” / No AI Fridays",
+          "url": "https://noaifridays.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T12:31:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8809,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T12:31:05Z",
+      "latest_at": "2026-08-30T15:15:25.717000Z",
+      "primary_item": {
+        "id": "8208f10f261b860b152b622827844b09cfe8b276",
+        "title": "“无AI星期五”",
+        "url": "https://noaifridays.com",
+        "source": "noaifridays.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -117,14 +369,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -138,84 +390,6 @@
         "title": "pollen-robotics /      microduck_rl",
         "url": "https://github.com/pollen-robotics/microduck_rl",
         "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_773e61521fea",
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "url": "https://news.ycombinator.com/item?id=49498201",
-      "primary_url": "https://news.ycombinator.com/item?id=49498201",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
-          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://news.ycombinator.com/item?id=49498201",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T13:49:57.812000Z"
-        },
-        {
-          "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
-          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T12:50:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
-          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://news.ycombinator.com/item?id=49498201",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T13:49:57.812000Z"
-        },
-        {
-          "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
-          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T12:50:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9866,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T12:50:54Z",
-      "latest_at": "2026-08-30T13:49:57.812000Z",
-      "primary_item": {
-        "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
-        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-        "url": "https://news.ycombinator.com/item?id=49498201",
-        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -273,14 +447,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -351,14 +525,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9866,
+        "recency": 0.8215,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -373,6 +547,83 @@
         "url": "https://news.ycombinator.com/item?id=49497357",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7c0dc4c06e47",
+      "title": "Building my own network stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+      "primary_url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
+          "title": "Building my own network stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        },
+        {
+          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
+          "title": "Everyone Should Build Their Own Network Stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
+          "title": "Building my own network stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        },
+        {
+          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
+          "title": "Everyone Should Build Their Own Network Stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4793,
+      "importance": 0.4793,
+      "importance_score": 0.4793,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6564,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T09:52:15Z",
+      "latest_at": "2026-08-30T09:52:15Z",
+      "primary_item": {
+        "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
+        "title": "Building my own network stack",
+        "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -429,14 +680,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4773,
-      "importance": 0.4773,
-      "importance_score": 0.4773,
+      "score": 0.4443,
+      "importance": 0.4443,
+      "importance_score": 0.4443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6465,
+        "recency": 0.4815,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -507,14 +758,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.428,
-      "importance": 0.428,
-      "importance_score": 0.428,
+      "score": 0.395,
+      "importance": 0.395,
+      "importance_score": 0.395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4,
+        "recency": 0.235,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -529,103 +780,6 @@
         "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6472bbcb1287",
-      "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "primary_url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "source": "newsletter.eng-leadership.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "newsletter.eng-leadership.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.528000Z"
-        },
-        {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://news.ycombinator.com/item?id=49491568",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T18:36:32.292000Z"
-        },
-        {
-          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T17:19:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "newsletter.eng-leadership.com"
-      ],
-      "items": [
-        {
-          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "newsletter.eng-leadership.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.528000Z"
-        },
-        {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://news.ycombinator.com/item?id=49491568",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T18:36:32.292000Z"
-        },
-        {
-          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T17:19:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4245,
-      "importance": 0.4245,
-      "importance_score": 0.4245,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2576,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T17:19:47Z",
-      "latest_at": "2026-08-29T20:20:15.528000Z",
-      "primary_item": {
-        "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
-        "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-        "source": "newsletter.eng-leadership.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -682,14 +836,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4121,
-      "importance": 0.4121,
-      "importance_score": 0.4121,
+      "score": 0.3791,
+      "importance": 0.3791,
+      "importance_score": 0.3791,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3205,
+        "recency": 0.1555,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -704,84 +858,6 @@
         "url": "https://github.com/ComposioHQ/awesome-claude-skills",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_73be14de88e6",
-      "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-      "url": "https://github.com/todotge/canonical-basis",
-      "primary_url": "https://github.com/todotge/canonical-basis",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.547000Z"
-        },
-        {
-          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T20:16:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.547000Z"
-        },
-        {
-          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T20:16:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3995,
-      "importance": 0.3995,
-      "importance_score": 0.3995,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2576,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T20:16:54Z",
-      "latest_at": "2026-08-29T20:20:15.547000Z",
-      "primary_item": {
-        "id": "b95d6628369ed6cabde344594c534bf36f77a990",
-        "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-        "url": "https://github.com/todotge/canonical-basis",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -838,14 +914,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.428,
-      "importance": 0.428,
-      "importance_score": 0.428,
+      "score": 0.395,
+      "importance": 0.395,
+      "importance_score": 0.395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4,
+        "recency": 0.235,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -916,14 +992,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3951,
-      "importance": 0.3951,
-      "importance_score": 0.3951,
+      "score": 0.3621,
+      "importance": 0.3621,
+      "importance_score": 0.3621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2354,
+        "recency": 0.0703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -941,80 +1017,81 @@
       }
     },
     {
-      "story_id": "story_dc0363ce3679",
-      "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
-      "primary_url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_73be14de88e6",
+      "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+      "url": "https://github.com/todotge/canonical-basis",
+      "primary_url": "https://github.com/todotge/canonical-basis",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
-          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
-          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T19:33:23Z"
+          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.547000Z"
         },
         {
-          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
-          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
-          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T19:33:23Z"
+          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T20:16:54Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Lobsters (技术社区)",
+        "github.com"
       ],
       "items": [
         {
-          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
-          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
-          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T19:33:23Z"
+          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.547000Z"
         },
         {
-          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
-          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
-          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T19:33:23Z"
+          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T20:16:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.393,
-      "importance": 0.393,
-      "importance_score": 0.393,
+      "score": 0.3665,
+      "importance": 0.3665,
+      "importance_score": 0.3665,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.225,
+        "recency": 0.0926,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T19:33:23Z",
-      "latest_at": "2026-08-29T19:33:23Z",
+      "earliest_at": "2026-08-29T20:16:54Z",
+      "latest_at": "2026-08-29T20:20:15.547000Z",
       "primary_item": {
-        "id": "b096e66246435ff13e0333f093a2328ca5fba132",
-        "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
-        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+        "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+        "url": "https://github.com/todotge/canonical-basis",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1071,14 +1148,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.428,
-      "importance": 0.428,
-      "importance_score": 0.428,
+      "score": 0.395,
+      "importance": 0.395,
+      "importance_score": 0.395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4,
+        "recency": 0.235,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1096,79 +1173,78 @@
       }
     },
     {
-      "story_id": "story_6b08cd3b6d93",
-      "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-      "primary_url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "story_id": "story_dc0363ce3679",
+      "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+      "primary_url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
-          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-29T17:28:53Z"
+          "published_at": "2026-08-29T19:33:23Z"
         },
         {
-          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
-          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
-          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T16:20:16.082000Z"
+          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:33:23Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.axios.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
-          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-29T17:28:53Z"
+          "published_at": "2026-08-29T19:33:23Z"
         },
         {
-          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
-          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
-          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T16:20:16.082000Z"
+          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:33:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3757,
-      "importance": 0.3757,
-      "importance_score": 0.3757,
+      "score": 0.36,
+      "importance": 0.36,
+      "importance_score": 0.36,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1386,
+        "recency": 0.06,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T16:20:16.082000Z",
-      "latest_at": "2026-08-29T17:28:53Z",
+      "earliest_at": "2026-08-29T19:33:23Z",
+      "latest_at": "2026-08-29T19:33:23Z",
       "primary_item": {
-        "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
-        "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-        "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+        "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+        "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1227,14 +1303,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.428,
-      "importance": 0.428,
-      "importance_score": 0.428,
+      "score": 0.395,
+      "importance": 0.395,
+      "importance_score": 0.395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4,
+        "recency": 0.235,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1249,84 +1325,6 @@
         "url": "https://www.ithome.com/0/996/058.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6a55c76d0a2a",
-      "title": "The growing divide between AI hype and software engineering reality",
-      "url": "https://news.ycombinator.com/item?id=49491113",
-      "primary_url": "https://news.ycombinator.com/item?id=49491113",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T18:36:32.292000Z"
-        },
-        {
-          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T16:16:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T18:36:32.292000Z"
-        },
-        {
-          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T16:16:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3851,
-      "importance": 0.3851,
-      "importance_score": 0.3851,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1856,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T16:16:32Z",
-      "latest_at": "2026-08-29T18:36:32.292000Z",
-      "primary_item": {
-        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-        "title": "The growing divide between AI hype and software engineering reality",
-        "url": "https://news.ycombinator.com/item?id=49491113",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
