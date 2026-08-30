@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月29日人工智能热点分享
-1、开放世界多智能体环境中的自主数学发现，在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。
-2、谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图，2026年，微软、谷歌、亚马逊、Meta、英伟达、苹果、特斯拉与SpaceX八家科技巨头在AI领域的资本开支合计已超万亿美元。
-3、我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。
-4、StemDeck，一款免费、开源且本地化的AI茎叶分离器。
-5、Debian 投票通过允许“负责任地使用生成式人工智能”。
-6、我不小心把LLM内存变成了程序分析。
-7、我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊。
-8、关于Cursor被SpaceX收购后的决定，说明 AI 编码能力正在嵌入协作和生产力工具。
-9、Debian 对 LLM 的使用既不支持也不禁止。
-10、《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学。
+2026年8月30日人工智能热点分享
+1、索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude，索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。
+2、Claude Session URL appended to commit messages and PR descriptions by default。
+3、Fair Work Commission condemns 'plain wrong' AI legal advice。
+4、在 Claude Code Opus 5 自动模式下进行提示注入。
+5、LLMs are making me lose my savviness。
+6、苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线，科技媒体 9to5Mac 昨日（8 月 29 日）发布博文，报道称在苹果 Siri AI 上线之前，苹果车联方案 CarPlay 目前已接入支持 4 款 AI 聊天机器人。
+7、苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别，科技媒体 9to5Mac 昨日（8 月 29 日）报道，苹果计划最早 2027 年推出其首款 AI 智能眼镜，预估会在 2027 年全球开发者大会（WWDC27）上面向开发者公布，并在当年晚些时候出货。
+8、荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法，据荣耀研发工程师 @荣耀曹工 分享，AI 追色的调节功能最近还上线了一个类似“调色盘”的新玩法，可以分“影调”和“颜色”来调整等级。
+9、良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)。
+10、ComposioHQ / awesome-claude-skills。
 
 ## 原始链接
-1. 开放世界多智能体环境中的自主数学发现（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn
-2. 谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图（Readhub · AI） - https://www.huxiu.com/article/4887054.html?f=rss
-3. 我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。（www.businessinsider.com） - https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8
-4. StemDeck，一款免费、开源且本地化的AI茎叶分离器（github.com） - https://github.com/stemdeckapp/stemdeck
-5. Debian 投票通过允许“负责任地使用生成式人工智能”（www.phoronix.com） - https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use
-6. 我不小心把LLM内存变成了程序分析（pwning.systems） - https://pwning.systems/posts/llm-memory-program-analysis
-7. 我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊（arbustoemchamas.substack.com） - https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory
-8. 关于Cursor被SpaceX收购后的决定（openai.com） - https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
-9. Debian 对 LLM 的使用既不支持也不禁止（www.debian.org） - https://www.debian.org/vote/2026/vote_002
-10. 《cats.txt》如何通过《llms.txt》提供证据，这属于GEO占星学（markwilliamscook.substack.com） - https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence
+1. 索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude（The Decoder） - https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1
+2. Claude Session URL appended to commit messages and PR descriptions by default（hackernews） - https://news.ycombinator.com/item?id=49498201
+3. Fair Work Commission condemns 'plain wrong' AI legal advice（hackernews） - https://news.ycombinator.com/item?id=49497357
+4. 在 Claude Code Opus 5 自动模式下进行提示注入（embracethered.com） - https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode
+5. LLMs are making me lose my savviness（Readhub · AI） - https://pgaleone.eu/ai/2026/08/29/losing-savviness
+6. 苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线（Readhub · AI） - https://www.ithome.com/0/996/057.htm
+7. 苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别（Readhub · AI） - https://www.ithome.com/0/996/053.htm
+8. 荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法（Readhub · AI） - https://www.ithome.com/0/996/058.htm
+9. 良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)（newsletter.eng-leadership.com） - https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity
+10. ComposioHQ / awesome-claude-skills（GitHub · Trending Today） - https://github.com/ComposioHQ/awesome-claude-skills
