@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年8月30日人工智能热点分享
-1、Anthropic调整Claude Code用量限制，重点是基本额度永久上调25%，实际每周上限降17%。
-2、Glassdoor报告，重点是美国员工AI好评率跌至43%，生成式AI引发职场不满情绪。
-3、丹麦紧急出手整治 AI 作弊，重点是加口头答辩、监控考试电脑屏幕。
-4、华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院。
-5、国内首部 AIGC 长剧《后西游记》今日开播，也是首部"边审边播"剧集。
-6、国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式。
-7、不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck。
-8、深度对齐与自研坚守，重点是字节跳动豆包大模型2.2宣布推迟发布。
-9、米哈游 AI 女友《BSide，重点是Olivia Lin》上线不足一月停运，离线版本今日限时领取。
-10、音乐巨头联手向AI开炮，重点是索尼华纳正式起诉Anthropic涉嫌大规模版权盗窃。
+2026年9月1日人工智能热点分享
+1、Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型。
+2、路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治，据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。
+3、1200 个 AI 智能体集体“越狱”攻击开源社区，重点是独立调查揭出比 OpenAI 自述更严重的真相。
+4、57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”。
+5、ChatGPT Ads上线不足200天年化收入突破10 亿美元。
+6、DeepSeek 首个开源多模态模型来了，重点是这双“眼睛”不给人类看图，专供 Agent 干活。
+7、MiniMax新模型引爆股价大涨超20%，下半年蓄势冲击3万亿参数。
+8、Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面。
+9、中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”。
+10、炮轰车企AI体验太垃圾！罗永浩，重点是为什么不直接接入豆包、千问和Kimi？。
 
 ## 原始链接
-1. Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%（AIbase） - https://www.aibase.com/news/30709
-2. Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪（AIbase） - https://www.aibase.com/news/30706
-3. 丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕（AIbase） - https://www.aibase.com/news/30704
-4. 华为联合瑞金医院正式发布瑞智病理大模型RuiPath 2.0并落地90余家医院（AIbase） - https://www.aibase.com/news/30710
-5. 国内首部 AIGC 长剧《后西游记》今日开播，也是首部"边审边播"剧集（AIbase） - https://www.aibase.com/news/30708
-6. 国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式（AIbase） - https://www.aibase.com/news/30701
-7. 不到四百美元还能自己动手训练！Hugging Face 推出微型开源双足机器人Microduck（AIbase） - https://www.aibase.com/news/30705
-8. 深度对齐与自研坚守：字节跳动豆包大模型2.2宣布推迟发布（AIbase） - https://www.aibase.com/news/30702
-9. 米哈游 AI 女友《BSide: Olivia Lin》上线不足一月停运，离线版本今日限时领取（AIbase） - https://www.aibase.com/news/30703
-10. 音乐巨头联手向AI开炮：索尼华纳正式起诉Anthropic涉嫌大规模版权盗窃（AIbase） - https://www.aibase.com/news/30707
+1. Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型（AIbase） - https://www.aibase.com/news/30760
+2. 路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治（IT之家（RSS）） - https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev
+3. 1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相（AIbase） - https://www.aibase.com/news/30752
+4. 57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”（AIbase） - https://www.aibase.com/news/30754
+5. ChatGPT Ads上线不足200天年化收入突破10 亿美元（AIbase） - https://www.aibase.com/news/30753
+6. DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活（AIbase） - https://www.aibase.com/news/30755
+7. MiniMax新模型引爆股价大涨超20%，下半年蓄势冲击3万亿参数（AIbase） - https://www.aibase.com/news/30751
+8. Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面（AIbase） - https://www.aibase.com/news/30756
+9. 中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”（AIbase） - https://www.aibase.com/news/30750
+10. 炮轰车企AI体验太垃圾！罗永浩：为什么不直接接入豆包、千问和Kimi？（AIbase） - https://www.aibase.com/news/30759
