@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T00:25:40.778878Z",
+  "generated_at": "2026-09-06T04:55:06.177920Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_1a374c35055a",
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8793,
+        "recency": 0.6922,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,20 +98,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7504,
+        "recency": 0.5633,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-05T18:26:17Z",
       "latest_at": "2026-09-05T18:26:17Z",
@@ -158,20 +157,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.736,
+        "recency": 0.5489,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-05T18:05:27Z",
       "latest_at": "2026-09-05T18:05:27Z",
@@ -184,141 +182,81 @@
       }
     },
     {
-      "story_id": "story_e9c73c82ab50",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-      "url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
-      "primary_url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_ae0c2e3335c6",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://news.ycombinator.com/item?id=49582582",
+      "primary_url": "https://news.ycombinator.com/item?id=49582582",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "32e8178605473032e686b0cfdacf6b3d20fe6f59",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "32e8178605473032e686b0cfdacf6b3d20fe6f59",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5454,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-05T13:31:04Z",
-      "latest_at": "2026-09-05T13:31:04Z",
-      "primary_item": {
-        "id": "32e8178605473032e686b0cfdacf6b3d20fe6f59",
-        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-        "url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9d1da6c9da77",
-      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-      "url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
-      "primary_url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "49b3a56ebf752cdc6d2d1e31cf921143c31151b4",
-          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T00:42:24Z"
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://news.ycombinator.com/item?id=49582582",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T04:55:36.559000Z"
         },
         {
-          "id": "2a9f3bd183eaad70c009364dbb75b4518cb0413a",
-          "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
-          "url": "https://www.ithome.com/0/998/661.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T00:42:24Z"
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T01:52:45Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "49b3a56ebf752cdc6d2d1e31cf921143c31151b4",
-          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T00:42:24Z"
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://news.ycombinator.com/item?id=49582582",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T04:55:36.559000Z"
         },
         {
-          "id": "2a9f3bd183eaad70c009364dbb75b4518cb0413a",
-          "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
-          "url": "https://www.ithome.com/0/998/661.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T00:42:24Z"
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T01:52:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6393,
-      "importance": 0.6393,
-      "importance_score": 0.6393,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0116,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-05T00:42:24Z",
-      "latest_at": "2026-09-05T00:42:24Z",
+      "earliest_at": "2026-09-06T01:52:45Z",
+      "latest_at": "2026-09-06T04:55:36.559000Z",
       "primary_item": {
-        "id": "49b3a56ebf752cdc6d2d1e31cf921143c31151b4",
-        "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-        "url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+        "title": "GPT-6 Astra on robot arms",
+        "url": "https://news.ycombinator.com/item?id=49582582",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -393,14 +331,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9127,
+        "recency": 0.7256,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -415,84 +353,6 @@
         "url": "https://arxiv.org/abs/2609.03344",
         "source": "arxiv.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_01b334a233a9",
-      "title": "How AI is breaking the British state",
-      "url": "https://news.ycombinator.com/item?id=49580687",
-      "primary_url": "https://news.ycombinator.com/item?id=49580687",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
-          "title": "How AI is breaking the British state",
-          "url": "https://news.ycombinator.com/item?id=49580687",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T23:56:39.671000Z"
-        },
-        {
-          "id": "c5c078869cf01859228a2a9ebb9ac9a74aaec9b6",
-          "title": "How AI is breaking the British state",
-          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T21:05:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
-          "title": "How AI is breaking the British state",
-          "url": "https://news.ycombinator.com/item?id=49580687",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T23:56:39.671000Z"
-        },
-        {
-          "id": "c5c078869cf01859228a2a9ebb9ac9a74aaec9b6",
-          "title": "How AI is breaking the British state",
-          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T21:05:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9798,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T21:05:35Z",
-      "latest_at": "2026-09-05T23:56:39.671000Z",
-      "primary_item": {
-        "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
-        "title": "How AI is breaking the British state",
-        "url": "https://news.ycombinator.com/item?id=49580687",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -566,14 +426,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8332,
+        "recency": 0.6461,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -644,14 +504,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.4807,
+      "importance": 0.4807,
+      "importance_score": 0.4807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8506,
+        "recency": 0.6635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -669,30 +529,30 @@
       }
     },
     {
-      "story_id": "story_f31be0c625cb",
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49581240",
-      "primary_url": "https://news.ycombinator.com/item?id=49581240",
+      "story_id": "story_01b334a233a9",
+      "title": "How AI is breaking the British state",
+      "url": "https://news.ycombinator.com/item?id=49580687",
+      "primary_url": "https://news.ycombinator.com/item?id=49580687",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49581240",
+          "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
+          "title": "How AI is breaking the British state",
+          "url": "https://news.ycombinator.com/item?id=49580687",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-05T23:56:39.671000Z"
         },
         {
-          "id": "c062a2e88ba46358d824a63e526a5aa688ad9ae5",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "id": "c5c078869cf01859228a2a9ebb9ac9a74aaec9b6",
+          "title": "How AI is breaking the British state",
+          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-05T22:15:52Z"
+          "published_at": "2026-09-05T21:05:35Z"
         }
       ],
       "source_count": 2,
@@ -702,46 +562,46 @@
       ],
       "items": [
         {
-          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49581240",
+          "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
+          "title": "How AI is breaking the British state",
+          "url": "https://news.ycombinator.com/item?id=49580687",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-05T23:56:39.671000Z"
         },
         {
-          "id": "c062a2e88ba46358d824a63e526a5aa688ad9ae5",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "id": "c5c078869cf01859228a2a9ebb9ac9a74aaec9b6",
+          "title": "How AI is breaking the British state",
+          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-05T22:15:52Z"
+          "published_at": "2026-09-05T21:05:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9798,
+        "recency": 0.7927,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T22:15:52Z",
+      "earliest_at": "2026-09-05T21:05:35Z",
       "latest_at": "2026-09-05T23:56:39.671000Z",
       "primary_item": {
-        "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-        "url": "https://news.ycombinator.com/item?id=49581240",
+        "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
+        "title": "How AI is breaking the British state",
+        "url": "https://news.ycombinator.com/item?id=49580687",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -800,14 +660,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4614,
+      "importance": 0.4614,
+      "importance_score": 0.4614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7539,
+        "recency": 0.5668,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -822,84 +682,6 @@
         "url": "https://github.com/WorldFlowAI/everything-claude-code",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_483f2911dcb6",
-      "title": "刚刚，Claude首次证明费马大定理，清华姚班大神出手了",
-      "url": "https://www.36kr.com/p/3969755274883328",
-      "primary_url": "https://www.36kr.com/p/3969755274883328",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3f84322a582817fa45ed73837bcfdb8ff2bd2940",
-          "title": "刚刚，Claude首次证明费马大定理，清华姚班大神出手了",
-          "url": "https://www.36kr.com/p/3969755274883328",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-09-05T18:30:44.974414Z"
-        },
-        {
-          "id": "f60e87610a8956428dc4c494c043ddd6e41dc70d",
-          "title": "Claude 首次证明费马大定理，清华姚班大神参与",
-          "url": "https://www.36kr.com/p/3969755274883328",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3f84322a582817fa45ed73837bcfdb8ff2bd2940",
-          "title": "刚刚，Claude首次证明费马大定理，清华姚班大神出手了",
-          "url": "https://www.36kr.com/p/3969755274883328",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-09-05T18:30:44.974414Z"
-        },
-        {
-          "id": "f60e87610a8956428dc4c494c043ddd6e41dc70d",
-          "title": "Claude 首次证明费马大定理，清华姚班大神参与",
-          "url": "https://www.36kr.com/p/3969755274883328",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7535,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T02:13:27.882852Z",
-      "latest_at": "2026-09-05T18:30:44.974414Z",
-      "primary_item": {
-        "id": "3f84322a582817fa45ed73837bcfdb8ff2bd2940",
-        "title": "刚刚，Claude首次证明费马大定理，清华姚班大神出手了",
-        "url": "https://www.36kr.com/p/3969755274883328",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
       }
     },
     {
@@ -956,14 +738,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4911,
-      "importance": 0.4911,
-      "importance_score": 0.4911,
+      "score": 0.4537,
+      "importance": 0.4537,
+      "importance_score": 0.4537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7154,
+        "recency": 0.5283,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1034,14 +816,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.489,
-      "importance": 0.489,
-      "importance_score": 0.489,
+      "score": 0.4516,
+      "importance": 0.4516,
+      "importance_score": 0.4516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7052,
+        "recency": 0.5181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1056,6 +838,84 @@
         "url": "https://reut.rs/3ThCCCK",
         "source": "reut.rs",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f31be0c625cb",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=49581240",
+      "primary_url": "https://news.ycombinator.com/item?id=49581240",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=49581240",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
+        },
+        {
+          "id": "c062a2e88ba46358d824a63e526a5aa688ad9ae5",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T22:15:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=49581240",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
+        },
+        {
+          "id": "c062a2e88ba46358d824a63e526a5aa688ad9ae5",
+          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T22:15:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7927,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T22:15:52Z",
+      "latest_at": "2026-09-05T23:56:39.671000Z",
+      "primary_item": {
+        "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "url": "https://news.ycombinator.com/item?id=49581240",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1112,14 +972,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4804,
-      "importance": 0.4804,
-      "importance_score": 0.4804,
+      "score": 0.443,
+      "importance": 0.443,
+      "importance_score": 0.443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6619,
+        "recency": 0.4748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1190,14 +1050,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4804,
-      "importance": 0.4804,
-      "importance_score": 0.4804,
+      "score": 0.443,
+      "importance": 0.443,
+      "importance_score": 0.443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6619,
+        "recency": 0.4748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1212,84 +1072,6 @@
         "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
         "source": "www.anthropic.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7b7e5871aea3",
-      "title": "America's two largest school districts impose AI moratoriums",
-      "url": "https://news.ycombinator.com/item?id=49580980",
-      "primary_url": "https://news.ycombinator.com/item?id=49580980",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
-          "title": "America's two largest school districts impose AI moratoriums",
-          "url": "https://news.ycombinator.com/item?id=49580980",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T22:31:27.553000Z"
-        },
-        {
-          "id": "c46c4730621034b7751ac0cf57c7c030201f890e",
-          "title": "America's two largest school districts impose AI moratoriums",
-          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T21:43:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
-          "title": "America's two largest school districts impose AI moratoriums",
-          "url": "https://news.ycombinator.com/item?id=49580980",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T22:31:27.553000Z"
-        },
-        {
-          "id": "c46c4730621034b7751ac0cf57c7c030201f890e",
-          "title": "America's two largest school districts impose AI moratoriums",
-          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T21:43:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9207,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T21:43:22Z",
-      "latest_at": "2026-09-05T22:31:27.553000Z",
-      "primary_item": {
-        "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
-        "title": "America's two largest school districts impose AI moratoriums",
-        "url": "https://news.ycombinator.com/item?id=49580980",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1346,14 +1128,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.4613,
+      "importance": 0.4613,
+      "importance_score": 0.4613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7535,
+        "recency": 0.5664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1442,14 +1224,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4619,
-      "importance": 0.4619,
-      "importance_score": 0.4619,
+      "score": 0.4245,
+      "importance": 0.4245,
+      "importance_score": 0.4245,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4446,
+        "recency": 0.2575,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1464,6 +1246,84 @@
         "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
         "source": "www.sylvainkalache.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7b7e5871aea3",
+      "title": "America's two largest school districts impose AI moratoriums",
+      "url": "https://news.ycombinator.com/item?id=49580980",
+      "primary_url": "https://news.ycombinator.com/item?id=49580980",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T22:31:27.553000Z"
+        },
+        {
+          "id": "c46c4730621034b7751ac0cf57c7c030201f890e",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T21:43:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://news.ycombinator.com/item?id=49580980",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T22:31:27.553000Z"
+        },
+        {
+          "id": "c46c4730621034b7751ac0cf57c7c030201f890e",
+          "title": "America's two largest school districts impose AI moratoriums",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T21:43:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4947,
+      "importance": 0.4947,
+      "importance_score": 0.4947,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7336,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T21:43:22Z",
+      "latest_at": "2026-09-05T22:31:27.553000Z",
+      "primary_item": {
+        "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
+        "title": "America's two largest school districts impose AI moratoriums",
+        "url": "https://news.ycombinator.com/item?id=49580980",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1520,14 +1380,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4064,
-      "importance": 0.4064,
-      "importance_score": 0.4064,
+      "score": 0.369,
+      "importance": 0.369,
+      "importance_score": 0.369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.292,
+        "recency": 0.1049,
         "story_heat": 0.25
       },
       "category": "watch",
