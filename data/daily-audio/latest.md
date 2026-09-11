@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年9月9日人工智能热点分享
-1、Enterprise managed permissions for GitHub Copilot agent operations。
-2、GitHub Advanced Security expands trial availability。
-3、Get ready for the game with new football features in Search。
-4、AI Coding诞生新吉尼斯纪录，重点是9岁孩子夺冠，外滩黑客松上万人用AI做应用。
-5、Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会，原文说明 Paul Christiano 加入后的治理角色与独立监督定位，读者可了解 OpenAI 安全治理层的人事变化。
-6、2026外滩大会AI艺术节亮相，重点是AI在上海开唱、办展，探索人机共创新边界。
-7、Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告。
-8、Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查，Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。
-9、Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验，Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。
-10、谷歌重磅福利，重点是Gemini每日简报功能向全体免费用户全面开放。
+2026年9月11日人工智能热点分享
+1、Anthropic 披露，重点是今年已阻止多起利用 AI 研发生物武器的尝试。
+2、具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议，这条新闻关注相关变化背后的原因和影响。
+3、外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”。
+4、小米开源工业级目标说话人语音识别大模型 CocktailASR-1。
+5、支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营。
+6、蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至。
+7、告别卡顿与机械感，重点是OpenAI 推出全双工语音模型 GPT-Live-1。
+8、DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用。
+9、OpenAI 开放 GPT-Live-1 API，重点是每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者。
+10、Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发，说明 AI 编码能力正在嵌入协作和生产力工具。
 
 ## 原始链接
-1. Enterprise managed permissions for GitHub Copilot agent operations（GitHub 更新日志） - https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations
-2. GitHub Advanced Security expands trial availability（GitHub 更新日志） - https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability
-3. Get ready for the game with new football features in Search（Google AI Blog） - https://blog.google/products-and-platforms/products/search/football-features-google-search
-4. AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用（AIbase） - https://www.aibase.com/news/30937
-5. Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会（X：Greg Brockman (@gdb)） - https://aihot.news/items/cmtui33fr1dyvrofphqq514ej
-6. 2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界（AIbase） - https://www.aibase.com/news/30936
-7. Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告（Anthropic：Research（发表成果 · 网页）） - https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u
-8. Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查（X：Anthropic (@AnthropicAI)） - https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7
-9. Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验（Mistral） - https://aihot.news/items/cmtugpn561cgnrofplpzs3udv
-10. 谷歌重磅福利：Gemini每日简报功能向全体免费用户全面开放（AIbase） - https://www.aibase.com/news/30935
+1. Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试（AIbase） - https://www.aibase.com/news/30999
+2. 具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议（AIbase） - https://www.aibase.com/news/31002
+3. 外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”（AIbase） - https://www.aibase.com/news/31003
+4. 小米开源工业级目标说话人语音识别大模型 CocktailASR-1（AIbase） - https://www.aibase.com/news/31001
+5. 支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营（AIbase） - https://www.aibase.com/news/31000
+6. 蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至（AIbase） - https://www.aibase.com/news/30997
+7. 告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1（AIbase） - https://www.aibase.com/news/30996
+8. DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用（AIbase） - https://www.aibase.com/news/30995
+9. OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者（AIbase） - https://www.aibase.com/news/30994
+10. Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发（AIbase） - https://www.aibase.com/news/30993
