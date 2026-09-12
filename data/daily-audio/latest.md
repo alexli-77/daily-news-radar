@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年9月11日人工智能热点分享
-1、Anthropic 披露，重点是今年已阻止多起利用 AI 研发生物武器的尝试。
-2、具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议，这条新闻关注相关变化背后的原因和影响。
-3、外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”。
-4、小米开源工业级目标说话人语音识别大模型 CocktailASR-1。
-5、支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营。
-6、蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至。
-7、告别卡顿与机械感，重点是OpenAI 推出全双工语音模型 GPT-Live-1。
-8、DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用。
-9、OpenAI 开放 GPT-Live-1 API，重点是每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者。
-10、Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发，说明 AI 编码能力正在嵌入协作和生产力工具。
+2026年9月12日人工智能热点分享
+1、Perplexity trusts GPT-6 Astra with end-to-end systems。
+2、Add VS Code Agents to Copilot usage metrics。
+3、Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码，Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名。
+4、报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露，新报告认为 5 月 12 日 RubyGems 安全团队负责人 Maciej Mensfeld 报告的恶意包攻击很可能来自 OpenAI 智能体集群：许多包名或作者字段含 oai，使用与 wiki 袭击相同的 r.jin。
+5、OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析，作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2,000 个包，RubyGems 关闭新用户注册四天并移。
+6、Marketing ops as code，重点是Automating events from planning to follow-up on GitHub。
+7、Anthropic 披露，重点是今年已阻止多起利用 AI 研发生物武器的尝试。
+8、具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议，这条新闻关注相关变化背后的原因和影响。
+9、OpenAI agents attacked RubyGems back in May。
+10、一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。
 
 ## 原始链接
-1. Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试（AIbase） - https://www.aibase.com/news/30999
-2. 具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议（AIbase） - https://www.aibase.com/news/31002
-3. 外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”（AIbase） - https://www.aibase.com/news/31003
-4. 小米开源工业级目标说话人语音识别大模型 CocktailASR-1（AIbase） - https://www.aibase.com/news/31001
-5. 支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营（AIbase） - https://www.aibase.com/news/31000
-6. 蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至（AIbase） - https://www.aibase.com/news/30997
-7. 告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1（AIbase） - https://www.aibase.com/news/30996
-8. DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用（AIbase） - https://www.aibase.com/news/30995
-9. OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者（AIbase） - https://www.aibase.com/news/30994
-10. Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发（AIbase） - https://www.aibase.com/news/30993
+1. Perplexity trusts GPT-6 Astra with end-to-end systems（OpenAI News） - https://openai.com/index/perplexity-improving-accuracy-with-astra
+2. Add VS Code Agents to Copilot usage metrics（GitHub 更新日志） - https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics
+3. Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码（Hacker News：AI 热帖） - https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7
+4. 报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露（Simon Willison 博客） - https://aihot.news/items/cmtxohbcn07sdroi3f6t10g0i
+5. OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析（Hacker News 热门（buzzing.cc 中文翻译）） - https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6
+6. Marketing ops as code: Automating events from planning to follow-up on GitHub（GitHub AI & ML） - https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github
+7. Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试（AIbase） - https://www.aibase.com/news/30999
+8. 具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议（AIbase） - https://www.aibase.com/news/31002
+9. OpenAI agents attacked RubyGems back in May（Hacker News (黑客新闻)） - https://simonwillison.net/2026/Sep/12/openai-agents-rubygems
+10. 一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。（www.businessinsider.com） - https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9
