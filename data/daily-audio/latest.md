@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年9月14日人工智能热点分享
-1、GPT-6 Astra展现恐怖统治力，重点是模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍。
-2、Suno发布v6音乐模型，重点是联合华纳、BMG 共创，自然语言就能改歌、混音、采样。
-3、WorkBuddy 升级 PPT 能力，重点是一句话生成可上台版，原文件可续改。
-4、YC 总裁反对封杀蒸馏，重点是与其禁，不如让开源实验室走“正门”合法获取能力。
-5、蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售。
-6、DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放。
-7、ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问。
-8、OpenAI 推出 Agents API，重点是把 Codex 拆成云端服务，"造 Agent" 变成一次 API 调用。
-9、智能体跑长任务为何"失忆跑题"，重点是AWS、Claude Code、Manus 们用四套框架机制给出答案。
-10、小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先，小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。
+2026年9月15日人工智能热点分享
+1、Your Agent Aced the Task. Will It Do It Again?，这条新闻关注相关变化背后的原因和影响。
+2、加拿大研究员呼吁无限期暂停前沿 AI 研发，重点是否则人类灭绝“只是时间问题”。
+3、数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?，这条新闻关注相关变化背后的原因和影响。
+4、阶跃发布StepAudio3系列模型，重点是五款模型同步上线开放平台。
+5、阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！。
+6、微信回应小微AI隐私争议，重点是不会读取用户已删除朋友圈。
+7、DeepSeek Harness 官方桌面端即将就绪，重点是三大平台支持，用 V4.1 Flash 还是自家最香。
+8、上海 AI Lab 开源多模态基础大模型书生-S2，重点是Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源。
+9、微软 CEO内网发声，重点是AI 必须保持在人类控制之下，该花多少时间就花多少。
+10、曝 Anthropic、OpenAI 与谷歌秘密磋商，重点是筹建 AI 安全标准机构。
 
 ## 原始链接
-1. GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍（AIbase） - https://www.aibase.com/news/31035
-2. Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样（AIbase） - https://www.aibase.com/news/31033
-3. WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改（AIbase） - https://www.aibase.com/news/31036
-4. YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力（AIbase） - https://www.aibase.com/news/31037
-5. 蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售（AIbase） - https://www.aibase.com/news/31038
-6. DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放（AIbase） - https://www.aibase.com/news/31028
-7. ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问（AIbase） - https://www.aibase.com/news/31030
-8. OpenAI 推出 Agents API：把 Codex 拆成云端服务，"造 Agent" 变成一次 API 调用（AIbase） - https://www.aibase.com/news/31025
-9. 智能体跑长任务为何"失忆跑题"：AWS、Claude Code、Manus 们用四套框架机制给出答案（AIbase） - https://www.aibase.com/news/31020
-10. 小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先（公众号：小红书技术（dots.llm）） - https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq
+1. Your Agent Aced the Task. Will It Do It Again?（Hugging Face 博客） - https://huggingface.co/blog/ibm-research/altk-evolve-consistency
+2. 加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”（AIbase） - https://www.aibase.com/news/31065
+3. 数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?（AIbase） - https://www.aibase.com/news/31062
+4. 阶跃发布StepAudio3系列模型:五款模型同步上线开放平台（AIbase） - https://www.aibase.com/news/31063
+5. 阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！（AIbase） - https://www.aibase.com/news/31066
+6. 微信回应小微AI隐私争议:不会读取用户已删除朋友圈（AIbase） - https://www.aibase.com/news/31061
+7. DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香（AIbase） - https://www.aibase.com/news/31057
+8. 上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源（AIbase） - https://www.aibase.com/news/31056
+9. 微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少（AIbase） - https://www.aibase.com/news/31055
+10. 曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构（AIbase） - https://www.aibase.com/news/31060
