@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年9月15日人工智能热点分享
-1、Your Agent Aced the Task. Will It Do It Again?，这条新闻关注相关变化背后的原因和影响。
-2、加拿大研究员呼吁无限期暂停前沿 AI 研发，重点是否则人类灭绝“只是时间问题”。
-3、数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?，这条新闻关注相关变化背后的原因和影响。
-4、阶跃发布StepAudio3系列模型，重点是五款模型同步上线开放平台。
-5、阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！。
-6、微信回应小微AI隐私争议，重点是不会读取用户已删除朋友圈。
-7、DeepSeek Harness 官方桌面端即将就绪，重点是三大平台支持，用 V4.1 Flash 还是自家最香。
-8、上海 AI Lab 开源多模态基础大模型书生-S2，重点是Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源。
-9、微软 CEO内网发声，重点是AI 必须保持在人类控制之下，该花多少时间就花多少。
-10、曝 Anthropic、OpenAI 与谷歌秘密磋商，重点是筹建 AI 安全标准机构。
+2026年9月17日人工智能热点分享
+1、千问APP升级未成年人保护模式，让青少年安全地用好AI。
+2、小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节。
+3、研究显示印度外包几乎没被 AI 挤占，重点是软件服务出口占 GDP 升至 5.2%。
+4、阿里云展示全新升级的 Wan3.0 视频大模型，重点是单条直出 30 秒长镜头，支持多达五条视频参考。
+5、Anthropic 合并 Claude 产品线，重点是Cowork 与 Chat 合为一体，打造统一办公入口。
+6、Kimi 发布金融行业 AI 解决方案，重点是10 余个数据源一站式接入，资料处理从天级压到小时级。
+7、iOS 27.2 测试版首曝大批新功能，重点是健康应用彻底重构，Siri 扩展至五种新语言。
+8、Anthropic大动作，重点是将Chat与Cowork合并，推出Docs与Slides全新功能。
+9、MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划。
+10、冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资。
 
 ## 原始链接
-1. Your Agent Aced the Task. Will It Do It Again?（Hugging Face 博客） - https://huggingface.co/blog/ibm-research/altk-evolve-consistency
-2. 加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”（AIbase） - https://www.aibase.com/news/31065
-3. 数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?（AIbase） - https://www.aibase.com/news/31062
-4. 阶跃发布StepAudio3系列模型:五款模型同步上线开放平台（AIbase） - https://www.aibase.com/news/31063
-5. 阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！（AIbase） - https://www.aibase.com/news/31066
-6. 微信回应小微AI隐私争议:不会读取用户已删除朋友圈（AIbase） - https://www.aibase.com/news/31061
-7. DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香（AIbase） - https://www.aibase.com/news/31057
-8. 上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源（AIbase） - https://www.aibase.com/news/31056
-9. 微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少（AIbase） - https://www.aibase.com/news/31055
-10. 曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构（AIbase） - https://www.aibase.com/news/31060
+1. 千问APP升级未成年人保护模式，让青少年安全地用好AI（AIbase） - https://www.aibase.com/news/31139
+2. 小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节（AIbase） - https://www.aibase.com/news/31131
+3. 研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%（AIbase） - https://www.aibase.com/news/31135
+4. 阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考（AIbase） - https://www.aibase.com/news/31126
+5. Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口（AIbase） - https://www.aibase.com/news/31125
+6. Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级（AIbase） - https://www.aibase.com/news/31132
+7. iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言（AIbase） - https://www.aibase.com/news/31123
+8. Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能（AIbase） - https://www.aibase.com/news/31134
+9. MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划（AIbase） - https://www.aibase.com/news/31124
+10. 冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资（AIbase） - https://www.aibase.com/news/31133
