@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年9月17日人工智能热点分享
-1、千问APP升级未成年人保护模式，让青少年安全地用好AI。
-2、小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节。
-3、研究显示印度外包几乎没被 AI 挤占，重点是软件服务出口占 GDP 升至 5.2%。
-4、阿里云展示全新升级的 Wan3.0 视频大模型，重点是单条直出 30 秒长镜头，支持多达五条视频参考。
-5、Anthropic 合并 Claude 产品线，重点是Cowork 与 Chat 合为一体，打造统一办公入口。
-6、Kimi 发布金融行业 AI 解决方案，重点是10 余个数据源一站式接入，资料处理从天级压到小时级。
-7、iOS 27.2 测试版首曝大批新功能，重点是健康应用彻底重构，Siri 扩展至五种新语言。
-8、Anthropic大动作，重点是将Chat与Cowork合并，推出Docs与Slides全新功能。
-9、MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划。
-10、冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资。
+2026年9月18日人工智能热点分享
+1、Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始，Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。
+2、Anthropic 首次量化公开 AI 研发自动化进度，重点是Claude 主导 26% 研发，压力甩给 OpenAI 等竞品。
+3、吴恩达回应AI末日论，重点是别被科幻叙事带偏，应解决现实工程问题。
+4、智谱发布 GLM-5.3-FlashX:速度飙至200tokens/s，国产算力再提速，属于 AI 基础设施和算力成本相关信号。
+5、阿里发布 Qwen3.8-Omni-Flash，重点是原生全模态、百万上下文，音频成本砍掉 98%。
+6、Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明，Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。
+7、逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS，开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次。
+8、Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款。
+9、Anthropic 用 AI 造 AI，重点是Claude 已主导公司四分之一研发工作。
+10、Calibre上手 AI 互动写作，重点是电子书管理器摇身变成"文字冒险游戏引擎"。
 
 ## 原始链接
-1. 千问APP升级未成年人保护模式，让青少年安全地用好AI（AIbase） - https://www.aibase.com/news/31139
-2. 小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节（AIbase） - https://www.aibase.com/news/31131
-3. 研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%（AIbase） - https://www.aibase.com/news/31135
-4. 阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考（AIbase） - https://www.aibase.com/news/31126
-5. Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口（AIbase） - https://www.aibase.com/news/31125
-6. Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级（AIbase） - https://www.aibase.com/news/31132
-7. iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言（AIbase） - https://www.aibase.com/news/31123
-8. Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能（AIbase） - https://www.aibase.com/news/31134
-9. MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划（AIbase） - https://www.aibase.com/news/31124
-10. 冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资（AIbase） - https://www.aibase.com/news/31133
+1. Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始（Tessl：产品与工程博客） - https://aihot.news/items/cmu707f5a0lferowk7ytu9d3h
+2. Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品（AIbase） - https://www.aibase.com/news/31162
+3. 吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题（AIbase） - https://www.aibase.com/news/31161
+4. 智谱发布 GLM-5.3-FlashX:速度飙至200tokens/s，国产算力再提速（AIbase） - https://www.aibase.com/news/31160
+5. 阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%（AIbase） - https://www.aibase.com/news/31158
+6. Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明（Trail of Bits：AI安全研究） - https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped
+7. 逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS（Hacker News：AI 热帖） - https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l
+8. Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款（AIbase） - https://www.aibase.com/news/31152
+9. Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作（AIbase） - https://www.aibase.com/news/31169
+10. Calibre上手 AI 互动写作：电子书管理器摇身变成"文字冒险游戏引擎"（AIbase） - https://www.aibase.com/news/31170
