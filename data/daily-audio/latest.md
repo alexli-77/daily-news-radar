@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年9月20日人工智能热点分享
-1、微信 AI 团队开源 WeKnora，重点是知识库不再只“动嘴”，还能在沙箱里“动手”。
-2、特朗普要给“人工智能”改名，重点是18 万人投票，“卓越智能”暂时领先。
-3、一颗 260 克的"鸡蛋关节"，重点是稚晖君发布启元 Q1、T1 人形机器人。
-4、东风人形机器人"小东"下月进厂，重点是汽车大模型给具身智能当"师傅"，年底要和真人掰手腕。
-5、剪映发布全新 AI 能力，重点是专业版上线“剪映 Hub”，移动端推 AI 助手“小映”。
-6、Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像，Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。
-7、Anthropic 把 IPO 推到 11 月，重点是2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的"护身符"。
-8、GPT-6 Astra 联手人类攻破重大进展级数学难题，重点是AI 不再只是解题机，成了规律发现者。
-9、MiniMax 开源 Code CLI，重点是命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下。
-10、雷神首款 AI 移动工作站明日开售，重点是64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包。
+2026年9月21日人工智能热点分享
+1、微软花 12 万美元让 AI 重写 Copilot 运行时，重点是43 万行 TS 变 80 万行 Rust，快 15.9 倍。
+2、月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows。
+3、Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上。
+4、亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级，亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。
+5、Siri AI 和解开放申请，重点是符合条件的美国 iPhone 用户每台可领 25 美元。
+6、开发者实锤OpenAI广告追踪链条，重点是ChatGPT账号正悄悄绑定你的全网浏览足迹。
+7、快手把直播字幕延迟砍到 500 毫秒内，重点是自研端到端工程范式，把电商直播的字幕打成"实时"。
+8、百度文库网盘宣布AI办公出海，库库AI全球月活超4000万。
+9、阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头。
+10、阿里换帅Qwen团队，重点是刘大一恒接掌通义千问大模型，云栖大会前亮相。
 
 ## 原始链接
-1. 微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”（AIbase） - https://www.aibase.com/news/31201
-2. 特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先（AIbase） - https://www.aibase.com/news/31203
-3. 一颗 260 克的"鸡蛋关节"：稚晖君发布启元 Q1、T1 人形机器人（AIbase） - https://www.aibase.com/news/31205
-4. 东风人形机器人"小东"下月进厂：汽车大模型给具身智能当"师傅"，年底要和真人掰手腕（AIbase） - https://www.aibase.com/news/31204
-5. 剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”（AIbase） - https://www.aibase.com/news/31206
-6. Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像（Qwen：Blog Retrieval（API）） - https://aihot.news/items/cmu9tfhu904turokx2vfjy34f
-7. Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的"护身符"（AIbase） - https://www.aibase.com/news/31199
-8. GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者（AIbase） - https://www.aibase.com/news/31195
-9. MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下（AIbase） - https://www.aibase.com/news/31189
-10. 雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包（AIbase） - https://www.aibase.com/news/31197
+1. 微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍（AIbase） - https://www.aibase.com/news/31240
+2. 月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows（AIbase） - https://www.aibase.com/news/31239
+3. Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上（AIbase） - https://www.aibase.com/news/31241
+4. 亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级（IT之家（RSS）） - https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu
+5. Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元（AIbase） - https://www.aibase.com/news/31228
+6. 开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹（AIbase） - https://www.aibase.com/news/31234
+7. 快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成"实时"（AIbase） - https://www.aibase.com/news/31224
+8. 百度文库网盘宣布AI办公出海，库库AI全球月活超4000万（AIbase） - https://www.aibase.com/news/31236
+9. 阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头（AIbase） - https://www.aibase.com/news/31227
+10. 阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相（AIbase） - https://www.aibase.com/news/31233
