@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年9月22日人工智能热点分享
-1、Qwen4已投入训练，阿里公布10万亿参数模型演进路线。
-2、上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手。
-3、消息称高瓴创投合伙人严文韬加入DeepSeek，担任CFO。
-4、硅谷 AI“黑客屋”乱象，重点是月租 1 万美元的豪宅，留下 37 次警方记录。
-5、福布斯美国最年轻 10 位亿万富豪，重点是7 人靠 AI 上榜，4 人来自 Anthropic。
-6、蚂蚁阿福健康专区进入2000多家商超，AI营养师走向线下。
-7、阿里平头哥发布AI芯片真武V900，算力达M890三倍，属于 AI 基础设施和算力成本相关信号。
-8、韩国 FuriosaAI 公布第三代推理加速器：算力与内存带宽均提升 32 倍，属于 AI 基础设施和算力成本相关信号。
-9、Refreshed repository pull requests page generally available。
-10、2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态。
+2026年9月23日人工智能热点分享
+1、OpenAI extends cyber access to Ukraine for civilian defense。
+2、科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态。
+3、千问一口气端出五款语音大模型，TTS价格腰斩七成、ASR砍掉九成五，把耳朵和嗓子全打包给了开发者。
+4、OpenAI 向乌克兰政府开放 Daybreak 网络防御计划，OpenAI 宣布向乌克兰政府开放其 Daybreak 计划，支持民用基础设施的网络防御，与乌克兰数字化转型部合作提供识别软件漏洞、开发和测试修复的工具。
+5、AI牛市溢出第一波红利，重点是日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元。
+6、Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖，属于 AI 基础设施和算力成本相关信号。
+7、全新深蓝 S07 正式官宣接入豆包大模型，9 月 28 日震撼上市。
+8、千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%。
+9、国内开发者如何稳定使用 Claude Code、Codex 和 Gemini CLI，重点是从配置接入到团队协作。
+10、杭州一小伙3天搓出100个作品冲击百万大奖，支付宝，重点是别急。
 
 ## 原始链接
-1. Qwen4已投入训练，阿里公布10万亿参数模型演进路线（AIbase） - https://www.aibase.com/news/31264
-2. 上海AI Lab与上交大抛出NCP预训练新范式，8.9B隐空间模型用一半Token追平对手（AIbase） - https://www.aibase.com/news/31257
-3. 消息称高瓴创投合伙人严文韬加入DeepSeek，担任CFO（AIbase） - https://www.aibase.com/news/31265
-4. 硅谷 AI“黑客屋”乱象：月租 1 万美元的豪宅，留下 37 次警方记录（AIbase） - https://www.aibase.com/news/31266
-5. 福布斯美国最年轻 10 位亿万富豪：7 人靠 AI 上榜，4 人来自 Anthropic（AIbase） - https://www.aibase.com/news/31254
-6. 蚂蚁阿福健康专区进入2000多家商超，AI营养师走向线下（AIbase） - https://www.aibase.com/news/31267
-7. 阿里平头哥发布AI芯片真武V900，算力达M890三倍（AIbase） - https://www.aibase.com/news/31260
-8. 韩国 FuriosaAI 公布第三代推理加速器：算力与内存带宽均提升 32 倍（AIbase） - https://www.aibase.com/news/31255
-9. Refreshed repository pull requests page generally available（GitHub 更新日志） - https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available
-10. 2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态（AIbase） - https://www.aibase.com/news/31259
+1. OpenAI extends cyber access to Ukraine for civilian defense（OpenAI News） - https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
+2. 科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态（AIbase） - https://www.aibase.com/news/31314
+3. 千问一口气端出五款语音大模型，TTS价格腰斩七成、ASR砍掉九成五，把耳朵和嗓子全打包给了开发者（AIbase） - https://www.aibase.com/news/31305
+4. OpenAI 向乌克兰政府开放 Daybreak 网络防御计划（OpenAI：官网动态（RSS · 排除企业/客户案例）） - https://aihot.news/items/cmue2etyn0k5broghxiolkkpi
+5. AI牛市溢出第一波红利:日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元（AIbase） - https://www.aibase.com/news/31310
+6. Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖（AIbase） - https://www.aibase.com/news/31313
+7. 全新深蓝 S07 正式官宣接入豆包大模型，9 月 28 日震撼上市（AIbase） - https://www.aibase.com/news/31306
+8. 千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%（AIbase） - https://www.aibase.com/news/31303
+9. 国内开发者如何稳定使用 Claude Code、Codex 和 Gemini CLI：从配置接入到团队协作（AIbase） - https://www.aibase.com/news/31312
+10. 杭州一小伙3天搓出100个作品冲击百万大奖，支付宝:别急（AIbase） - https://www.aibase.com/news/31315
