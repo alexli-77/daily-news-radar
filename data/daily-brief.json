@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:42:09.251147Z",
+  "generated_at": "2026-09-27T02:47:35.393972Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9797,
+        "recency": 0.8509,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -80,6 +80,66 @@
         "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
         "url": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c9b543065e4e",
+      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+      "url": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
+      "primary_url": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10bd7e741873243921e48d45ff7fda4c2d519302",
+          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+          "url": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:55:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "10bd7e741873243921e48d45ff7fda4c2d519302",
+          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+          "url": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:55:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8807,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T23:55:49Z",
+      "latest_at": "2026-09-26T23:55:49Z",
+      "primary_item": {
+        "id": "10bd7e741873243921e48d45ff7fda4c2d519302",
+        "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+        "url": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -118,14 +178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9657,
+        "recency": 0.8369,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -178,20 +238,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7225,
+        "recency": 0.5938,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-26T17:02:36Z",
       "latest_at": "2026-09-26T17:02:36Z",
@@ -204,121 +263,275 @@
       }
     },
     {
-      "story_id": "story_3c2099f4a314",
-      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-      "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-      "primary_url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
+      "story_id": "story_a06eefcaabe4",
+      "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "primary_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "source": "www.privatemode.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0d433a15c585d915b8c524f15f5a1a2be25d682e",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
+          "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "www.privatemode.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T02:23:00.585000Z"
+        },
+        {
+          "id": "19bc13238fe8adb0debe13c9547bcb98bb9126f1",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turn GLM-5.3-Flash into a Jev-like System One model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T02:07:23Z"
+        },
+        {
+          "id": "e8a03149162d8a1ff1e6a94b95652ccfd397c8f9",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Hacker News：AI 热帖"
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.privatemode.ai"
       ],
       "items": [
         {
-          "id": "0d433a15c585d915b8c524f15f5a1a2be25d682e",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
+          "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "www.privatemode.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T02:23:00.585000Z"
+        },
+        {
+          "id": "19bc13238fe8adb0debe13c9547bcb98bb9126f1",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turn GLM-5.3-Flash into a Jev-like System One model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T02:07:23Z"
+        },
+        {
+          "id": "e8a03149162d8a1ff1e6a94b95652ccfd397c8f9",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5984,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9829,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-26T14:03:54Z",
+      "earliest_at": "2026-09-26T15:49:04Z",
+      "latest_at": "2026-09-27T02:23:00.585000Z",
       "primary_item": {
-        "id": "0d433a15c585d915b8c524f15f5a1a2be25d682e",
-        "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-        "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
+        "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
+        "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "source": "www.privatemode.ai",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_d55a44ffc786",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-      "primary_url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_592647d55324",
+      "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "source": "www.bbc.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "49efbfcdfcd41ccb5123f6bad37d58f9121d2d7a",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
+          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T00:34:02.450000Z"
+        },
+        {
+          "id": "bbff655df694e9f10881403393590c321f9a24c6",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站 / OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T14:03:54Z"
+        },
+        {
+          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://news.ycombinator.com/item?id=49856665",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "IT之家（RSS）"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.bbc.com"
       ],
       "items": [
         {
-          "id": "49efbfcdfcd41ccb5123f6bad37d58f9121d2d7a",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
+          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T00:34:02.450000Z"
+        },
+        {
+          "id": "bbff655df694e9f10881403393590c321f9a24c6",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站 / OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T14:03:54Z"
+        },
+        {
+          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://news.ycombinator.com/item?id=49856665",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T14:03:54Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5545,
+      "importance": 0.5545,
+      "importance_score": 0.5545,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6681,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9073,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:44:10Z",
-      "latest_at": "2026-09-26T15:44:10Z",
+      "earliest_at": "2026-09-26T14:03:54Z",
+      "latest_at": "2026-09-27T00:34:02.450000Z",
       "primary_item": {
-        "id": "49efbfcdfcd41ccb5123f6bad37d58f9121d2d7a",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
+        "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+        "source": "www.bbc.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7614f7cbe655",
+      "title": "管住 AI，成了一门新生意",
+      "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T00:36:28Z",
+      "latest_at": "2026-09-27T02:47:35.393972Z",
+      "primary_item": {
+        "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+        "title": "管住 AI，成了一门新生意",
+        "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -394,14 +607,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9696,
+        "recency": 0.8408,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -437,7 +650,7 @@
         },
         {
           "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
-          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
           "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -445,19 +658,20 @@
           "published_at": "2026-09-26T09:41:58Z"
         },
         {
-          "id": "d6933e824d8eb6bb8932fafc73e7fdb92dfa1633",
-          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣",
-          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-          "source": "discourse.haskell.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:44:26.283000Z"
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "discourse.haskell.org"
+        "discourse.haskell.org",
+        "hackernews"
       ],
       "items": [
         {
@@ -471,7 +685,7 @@
         },
         {
           "id": "fddb3519635d9d28ba5cd4e1b0c1c545096d41b2",
-          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
           "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -479,32 +693,32 @@
           "published_at": "2026-09-26T09:41:58Z"
         },
         {
-          "id": "d6933e824d8eb6bb8932fafc73e7fdb92dfa1633",
-          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣",
-          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-          "source": "discourse.haskell.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:44:26.283000Z"
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.861,
+        "recency": 0.7323,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-25T23:44:26.283000Z",
+      "earliest_at": "2026-09-26T09:41:58Z",
       "latest_at": "2026-09-26T20:22:03.489000Z",
       "primary_item": {
         "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
@@ -568,14 +782,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
+      "score": 0.5118,
+      "importance": 0.5118,
+      "importance_score": 0.5118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9478,
+        "recency": 0.819,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -646,14 +860,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9257,
+        "recency": 0.7969,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -671,98 +885,79 @@
       }
     },
     {
-      "story_id": "story_fc201052ac82",
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "story_id": "story_819e92326da0",
+      "title": "OpenAI pauses training of its 'most capable models'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
-          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
+          "title": "OpenAI pauses training of its 'most capable models'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T21:07:08Z"
         },
         {
-          "id": "e2654fd3f4d981f7176ee0a9fcb8f8f3135802a4",
-          "title": "Make Claude your assistant in excalidraw",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:56:34Z"
-        },
-        {
-          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "Make Claude your assistant in excalidraw",
-          "url": "https://news.ycombinator.com/item?id=49857729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T15:56:34Z"
+          "id": "43c8be1fdfc66c3a631831047e3ea19c7be6fcca",
+          "title": "OpenAI pauses training of its ‘most capable models’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T16:34:59Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
-        "hackernews"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
-          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
+          "title": "OpenAI pauses training of its 'most capable models'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-26T15:56:34Z"
+          "published_at": "2026-09-26T21:07:08Z"
         },
         {
-          "id": "e2654fd3f4d981f7176ee0a9fcb8f8f3135802a4",
-          "title": "Make Claude your assistant in excalidraw",
-          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:56:34Z"
-        },
-        {
-          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
-          "title": "Make Claude your assistant in excalidraw",
-          "url": "https://news.ycombinator.com/item?id=49857729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T15:56:34Z"
+          "id": "43c8be1fdfc66c3a631831047e3ea19c7be6fcca",
+          "title": "OpenAI pauses training of its ‘most capable models’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T16:34:59Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6767,
-        "story_heat": 0.5
+        "recency": 0.7636,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:56:34Z",
-      "latest_at": "2026-09-26T15:56:34Z",
+      "earliest_at": "2026-09-26T16:34:59Z",
+      "latest_at": "2026-09-26T21:07:08Z",
       "primary_item": {
-        "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
-        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
+        "title": "OpenAI pauses training of its 'most capable models'",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -840,14 +1035,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5059,
-      "importance": 0.5059,
-      "importance_score": 0.5059,
+      "score": 0.4802,
+      "importance": 0.4802,
+      "importance_score": 0.4802,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6646,
+        "recency": 0.5359,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -918,14 +1113,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4763,
+      "importance": 0.4763,
+      "importance_score": 0.4763,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7704,
+        "recency": 0.6416,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -940,83 +1135,6 @@
         "url": "https://github.com/anthropics/claude-code-action",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "关于使用 Common Lisp 进行深度学习的简要展望",
-      "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-      "primary_url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "00a0786ace29ff22ae310c8179a3ff66ed15f685",
-          "title": "关于使用 Common Lisp 进行深度学习的简要展望",
-          "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T17:45:16.403000Z"
-        },
-        {
-          "id": "8c4f3ae2fbbc77a24fc1d326bc6dd6e7884ea961",
-          "title": "Homa：AI 集群中 TCP 的终结——约翰·奥斯特豪特",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T00:15:40.253000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "00a0786ace29ff22ae310c8179a3ff66ed15f685",
-          "title": "关于使用 Common Lisp 进行深度学习的简要展望",
-          "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T17:45:16.403000Z"
-        },
-        {
-          "id": "8c4f3ae2fbbc77a24fc1d326bc6dd6e7884ea961",
-          "title": "Homa：AI 集群中 TCP 的终结——约翰·奥斯特豪特",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T00:15:40.253000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7522,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T00:15:40.253000Z",
-      "latest_at": "2026-09-26T17:45:16.403000Z",
-      "primary_item": {
-        "id": "00a0786ace29ff22ae310c8179a3ff66ed15f685",
-        "title": "关于使用 Common Lisp 进行深度学习的简要展望",
-        "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1073,14 +1191,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.4945,
+      "importance": 0.4945,
+      "importance_score": 0.4945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8611,
+        "recency": 0.7323,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1095,84 +1213,6 @@
         "url": "https://arxiv.org/abs/2608.23642",
         "source": "arxiv.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7af26c7f12f1",
-      "title": "揭秘OpenAI代理如何入侵Hugging Face的细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org",
-      "primary_url": "https://swarmtraces.org",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "b31392cface2150eb7d906f1d390fe445350256e",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "url": "https://swarmtraces.org",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T16:27:29Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "swarmtraces.org"
-      ],
-      "items": [
-        {
-          "id": "b31392cface2150eb7d906f1d390fe445350256e",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "url": "https://swarmtraces.org",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T16:27:29Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4876,
-      "importance": 0.4876,
-      "importance_score": 0.4876,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6981,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T23:59:47.248000Z",
-      "latest_at": "2026-09-26T16:27:29Z",
-      "primary_item": {
-        "id": "b31392cface2150eb7d906f1d390fe445350256e",
-        "title": "揭秘OpenAI代理如何入侵Hugging Face的细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-        "url": "https://swarmtraces.org",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1248,14 +1288,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.484,
-      "importance": 0.484,
-      "importance_score": 0.484,
+      "score": 0.4582,
+      "importance": 0.4582,
+      "importance_score": 0.4582,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.555,
+        "recency": 0.4262,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1270,6 +1310,103 @@
         "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
         "source": "allanrbo.blogspot.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fc201052ac82",
+      "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
+          "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "e2654fd3f4d981f7176ee0a9fcb8f8f3135802a4",
+          "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Make Claude your assistant in excalidraw",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
+          "title": "Make Claude your assistant in excalidraw",
+          "url": "https://news.ycombinator.com/item?id=49857729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:56:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
+          "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "e2654fd3f4d981f7176ee0a9fcb8f8f3135802a4",
+          "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Make Claude your assistant in excalidraw",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "8615fecf9bd4f94990df704e48bd7d674c3a702b",
+          "title": "Make Claude your assistant in excalidraw",
+          "url": "https://news.ycombinator.com/item?id=49857729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:56:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4826,
+      "importance": 0.4826,
+      "importance_score": 0.4826,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5479,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T15:56:34Z",
+      "latest_at": "2026-09-26T15:56:34Z",
+      "primary_item": {
+        "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
+        "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1326,14 +1463,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4763,
+      "importance": 0.4763,
+      "importance_score": 0.4763,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7704,
+        "recency": 0.6416,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,161 +1485,6 @@
         "url": "https://github.com/mobile-next/mobile-mcp",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_464712ef80ec",
-      "title": "Japan moves to tighten rules for foreigners",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-      "primary_url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
-          "title": "Japan moves to tighten rules for foreigners",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        },
-        {
-          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
-          "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
-          "title": "Japan moves to tighten rules for foreigners",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        },
-        {
-          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
-          "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4981,
-      "importance": 0.4981,
-      "importance_score": 0.4981,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7507,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T17:43:11Z",
-      "latest_at": "2026-09-26T17:43:11Z",
-      "primary_item": {
-        "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
-        "title": "Japan moves to tighten rules for foreigners",
-        "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_592647d55324",
-      "title": "OpenAI bots meddled with multiple US Government agency sites",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "bbff655df694e9f10881403393590c321f9a24c6",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bbff655df694e9f10881403393590c321f9a24c6",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4677,
-      "importance": 0.4677,
-      "importance_score": 0.4677,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5984,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-26T14:03:54Z",
-      "primary_item": {
-        "id": "bbff655df694e9f10881403393590c321f9a24c6",
-        "title": "OpenAI bots meddled with multiple US Government agency sites",
-        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1559,14 +1541,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4655,
-      "importance": 0.4655,
-      "importance_score": 0.4655,
+      "score": 0.4397,
+      "importance": 0.4397,
+      "importance_score": 0.4397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5874,
+        "recency": 0.4587,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1580,6 +1562,84 @@
         "title": "OpenAI 揭示了人工智能时代最重要的职场技能",
         "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ab6a90f5d123",
+      "title": "没有AI的一个月",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "primary_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "source": "blog.bustikiller.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+          "title": "没有AI的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:03.398000Z"
+        },
+        {
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
+          "title": "没有AI的一个月 / One Month Without AI",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T10:08:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "blog.bustikiller.com"
+      ],
+      "items": [
+        {
+          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+          "title": "没有AI的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:03.398000Z"
+        },
+        {
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
+          "title": "没有AI的一个月 / One Month Without AI",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T10:08:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4397,
+      "importance": 0.4397,
+      "importance_score": 0.4397,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4587,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T10:08:21Z",
+      "latest_at": "2026-09-26T13:48:03.398000Z",
+      "primary_item": {
+        "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+        "title": "没有AI的一个月",
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "source": "blog.bustikiller.com",
         "source_name": "Buzzing"
       }
     }
