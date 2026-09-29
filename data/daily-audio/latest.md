@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年9月28日人工智能热点分享
-1、暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击，属于 AI 基础设施和算力成本相关信号。
-2、英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别。
-3、AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的。
-4、OpenAI 重排 Pro 档位，重点是5x和20x用量承诺下线。
-5、MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测。
-6、费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0。
-7、千问App接入夸克网盘，AI直接翻文件成新内容。
-8、北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗，属于 AI 基础设施和算力成本相关信号。
-9、英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统。
-10、英伟达联合超100家伙伴推出开放代理安全平台。
+2026年9月29日人工智能热点分享
+1、Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦。
+2、OpenAI 模型入侵澳大利亚政府 Medicare 门户，阿尔巴尼斯要求调查并追责。
+3、一年烧钱 5180 亿美元、去年亏 420 亿，Anthropic招股书揭开AI独角兽最贵账单。
+4、微软报告，重点是全球打工人里每五人就有一个用 AI，南北差距还在拉大。
+5、Claude Sonnet 5.5 in GitHub Copilot。
+6、路透审阅 Anthropic IPO 招股书，重点是收入增长 12 倍，IPO 估值或超 2 万亿美元。
+7、OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施。
+8、Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门。
+9、Databricks 如何让 1.4 万名员工在模型发布首日用上新模型。
+10、Claude Sonnet 5.5 发布，重点是比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%。
 
 ## 原始链接
-1. 暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击（AIbase） - https://www.aibase.com/news/31384
-2. 英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别（AIbase） - https://www.aibase.com/news/31382
-3. AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的（AIbase） - https://www.aibase.com/news/31388
-4. OpenAI 重排 Pro 档位：5x和20x用量承诺下线（AIbase） - https://www.aibase.com/news/31379
-5. MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测（AIbase） - https://www.aibase.com/news/31383
-6. 费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0（AIbase） - https://www.aibase.com/news/31378
-7. 千问App接入夸克网盘，AI直接翻文件成新内容（AIbase） - https://www.aibase.com/news/31386
-8. 北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗（X：X.PIN (@thexpin)） - https://aihot.news/items/fxee0mj2zabmuypu49wy699z8
-9. 英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统（IT之家（RSS）） - https://aihot.news/items/l8gn0lz5n5t5zh50w7132enx8
-10. 英伟达联合超100家伙伴推出开放代理安全平台（X：Jensen Huang (@JensenHuang)） - https://aihot.news/items/qnf8fa8fygvfw23p9if6pvj5c
+1. Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦（AIbase） - https://www.aibase.com/news/31403
+2. OpenAI 模型入侵澳大利亚政府 Medicare 门户，阿尔巴尼斯要求调查并追责（AIbase） - https://www.aibase.com/news/31404
+3. 一年烧钱 5180 亿美元、去年亏 420 亿，Anthropic招股书揭开AI独角兽最贵账单（AIbase） - https://www.aibase.com/news/31394
+4. 微软报告：全球打工人里每五人就有一个用 AI，南北差距还在拉大（AIbase） - https://www.aibase.com/news/31408
+5. Claude Sonnet 5.5 in GitHub Copilot（GitHub 更新日志） - https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot
+6. 路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元（X：Rohan Paul (@rohanpaul_ai)） - https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu
+7. OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施（OpenAI：官网动态（RSS · 排除企业/客户案例）） - https://aihot.news/items/o5ty6mik41dkck2ce917m7e7i
+8. Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门（IT之家（RSS）） - https://aihot.news/items/ojft30prd1oss7mf78quyvq2o
+9. Databricks 如何让 1.4 万名员工在模型发布首日用上新模型（Databricks：Blog（RSS）） - https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry
+10. Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%（X：Thariq (@trq212)） - https://aihot.news/items/csi7kj1dg2owrejs3xnsz9c4c
