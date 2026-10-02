@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年10月1日人工智能热点分享
-1、OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容。
-2、Ethan Mollick 谈点与群，重点是智能体自组织为何让管理假设失效。
-3、ChatGPT 现可直接构建并部署 MCP 服务器，属于 AI 基础设施和算力成本相关信号。
-4、山姆·奥尔特曼如何利用点来夺回他的时间。
-5、谷歌警告人工智能爆炸将导致更危险和更高级的安全威胁。
-6、Meta 使用人工智能数据中心可避免数十亿联邦税。
-7、减轻人工智能变革带来的认知负荷。
-8、特朗普的人工智能品牌重塑引发了对斯洛文尼亚网站域名“史无前例”的需求。
-9、人工智能主权财富基金并非进步之举——而是技术帝国主义。
-10、FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险。
+2026年10月2日人工智能热点分享
+1、人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。
+2、我们于 2026 年 9 月公布的最新 AI 新闻。
+3、NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售。
+4、Ai2 开源 8B 科学报告生成模型 AstaBrief。
+5、加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险。
+6、Show HN，重点是Outis——通过发送虚假的“用户不存在”退信邮件来对抗AI垃圾邮件。
+7、上市已7年的Nvidia Shield TV如今因AI功能而涨价100美元。
+8、电力批准将推迟甲骨文威斯康星州人工智能数据中心的建设。
+9、Mozilla 关闭 Solo AI 网站创建者。
+10、这位企业家把人工智能助手当作同事一样对待。随后，它便开始承担工作了。
 
 ## 原始链接
-1. OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容（The Decoder：AI News） - https://aihot.news/items/uxe9v0hypn93df9ogn6glwled
-2. Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效（Ethan Mollick：One Useful Thing） - https://aihot.news/items/i35lar26hjm4djheowz5ytplm
-3. ChatGPT 现可直接构建并部署 MCP 服务器（X：Tibo (@thsottiaux)） - https://aihot.news/items/ed0fkjtzo2sbnpzqlara60ghs
-4. 山姆·奥尔特曼如何利用点来夺回他的时间（Follow Builders · Podcast · AI & I by Every） - https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL
-5. 谷歌警告人工智能爆炸将导致更危险和更高级的安全威胁（Readhub · AI） - https://www.techradar.com/pro/security/it-is-possible-that-threat-actors-are-finding-it-more-accessible-or-efficient-to-use-llms-and-ai-tools-google-warns-that-ai-explosion-will-lead-to-more-dangerous-and-advanced-security-threats
-6. Meta 使用人工智能数据中心可避免数十亿联邦税（Hacker News · 24h最热） - https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html
-7. 减轻人工智能变革带来的认知负荷（amoffat.github.io） - https://amoffat.github.io/blog/cognitive-load.html
-8. 特朗普的人工智能品牌重塑引发了对斯洛文尼亚网站域名“史无前例”的需求（www.bbc.co.uk） - https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss
-9. 人工智能主权财富基金并非进步之举——而是技术帝国主义（Hacker News · 24h最热） - https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243
-10. FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险（Hacker News (黑客新闻)） - https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html
+1. 人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。（GitHub AI & ML） - https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out
+2. 我们于 2026 年 9 月公布的最新 AI 新闻（Google AI Blog） - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026
+3. NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售（NVIDIA Blog） - https://aihot.news/items/epb245so8hb7m1r74gumw2dze
+4. Ai2 开源 8B 科学报告生成模型 AstaBrief（Ai2 / Allen Institute for AI） - https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i
+5. 加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险（IT之家） - https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl
+6. Show HN: Outis——通过发送虚假的“用户不存在”退信邮件来对抗AI垃圾邮件（github.com） - https://github.com/dtonon/outis
+7. 上市已7年的Nvidia Shield TV如今因AI功能而涨价100美元（arstechnica.com） - https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai
+8. 电力批准将推迟甲骨文威斯康星州人工智能数据中心的建设（Hacker News (黑客新闻)） - https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832
+9. Mozilla 关闭 Solo AI 网站创建者（Hacker News (黑客新闻)） - https://support.soloist.ai/doc/solo-shutdown-faq
+10. 这位企业家把人工智能助手当作同事一样对待。随后，它便开始承担工作了。（www.businessinsider.com） - https://www.businessinsider.com/instinct-ai-agent-helped-entrepreneur-run-new-business-puttez-2026-10
