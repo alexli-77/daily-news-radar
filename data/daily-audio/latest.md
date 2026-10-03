@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年10月2日人工智能热点分享
-1、人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。
-2、我们于 2026 年 9 月公布的最新 AI 新闻。
-3、NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售。
-4、Ai2 开源 8B 科学报告生成模型 AstaBrief。
-5、加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险。
-6、Show HN，重点是Outis——通过发送虚假的“用户不存在”退信邮件来对抗AI垃圾邮件。
-7、上市已7年的Nvidia Shield TV如今因AI功能而涨价100美元。
-8、电力批准将推迟甲骨文威斯康星州人工智能数据中心的建设。
-9、Mozilla 关闭 Solo AI 网站创建者。
-10、这位企业家把人工智能助手当作同事一样对待。随后，它便开始承担工作了。
+2026年10月3日人工智能热点分享
+1、【AIHOT 通知】订阅地址换到 aihot.news 了，请更新。
+2、OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件。
+3、格雷格·克罗-哈特曼——大语言模型时代的安全问题。
+4、Show HN，重点是德国的新型主权人工智能模型“Kolibri”。
+5、2 万亿美元估值靠什么撑？Anthropic 核心技术负责人，重点是蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停。
+6、我离开OpenAI，因为它的企业文化已经崩坏。
+7、据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维。
+8、好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。
+9、领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”。
+10、在这个“安全空间”里，创作者可以公开表达对AI的喜爱。
 
 ## 原始链接
-1. 人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。（GitHub AI & ML） - https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out
-2. 我们于 2026 年 9 月公布的最新 AI 新闻（Google AI Blog） - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026
-3. NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售（NVIDIA Blog） - https://aihot.news/items/epb245so8hb7m1r74gumw2dze
-4. Ai2 开源 8B 科学报告生成模型 AstaBrief（Ai2 / Allen Institute for AI） - https://aihot.news/items/l7mkdees7p8apb7stdidl4p3i
-5. 加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险（IT之家） - https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl
-6. Show HN: Outis——通过发送虚假的“用户不存在”退信邮件来对抗AI垃圾邮件（github.com） - https://github.com/dtonon/outis
-7. 上市已7年的Nvidia Shield TV如今因AI功能而涨价100美元（arstechnica.com） - https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai
-8. 电力批准将推迟甲骨文威斯康星州人工智能数据中心的建设（Hacker News (黑客新闻)） - https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832
-9. Mozilla 关闭 Solo AI 网站创建者（Hacker News (黑客新闻)） - https://support.soloist.ai/doc/solo-shutdown-faq
-10. 这位企业家把人工智能助手当作同事一样对待。随后，它便开始承担工作了。（www.businessinsider.com） - https://www.businessinsider.com/instinct-ai-agent-helped-entrepreneur-run-new-business-puttez-2026-10
+1. 【AIHOT 通知】订阅地址换到 aihot.news 了，请更新（AIHOT） - https://aihot.news/agent?tab=rss
+2. OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件（IT之家） - https://aihot.news/items/cyq72z49wj36fz07iy6o4mvok
+3. 格雷格·克罗-哈特曼——大语言模型时代的安全问题（www.youtube.com） - https://www.youtube.com/watch?v=NnV_cWeoo5Q
+4. Show HN: 德国的新型主权人工智能模型“Kolibri”（tej.as） - https://tej.as/blog/aleph-alpha-kolibri
+5. 2 万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停（Readhub · AI） - https://www.huxiu.com/article/4895291.html?f=rss
+6. 我离开OpenAI，因为它的企业文化已经崩坏（Hacker News · 24h最热） - https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881
+7. 据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维（www.businessinsider.com） - https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10
+8. 好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。（www.businessinsider.com） - https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10
+9. 领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”（www.businessinsider.com） - https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10
+10. 在这个“安全空间”里，创作者可以公开表达对AI的喜爱（www.businessinsider.com） - https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10
