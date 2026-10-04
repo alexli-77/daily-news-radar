@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年10月3日人工智能热点分享
-1、【AIHOT 通知】订阅地址换到 aihot.news 了，请更新。
-2、OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件。
-3、格雷格·克罗-哈特曼——大语言模型时代的安全问题。
-4、Show HN，重点是德国的新型主权人工智能模型“Kolibri”。
-5、2 万亿美元估值靠什么撑？Anthropic 核心技术负责人，重点是蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停。
-6、我离开OpenAI，因为它的企业文化已经崩坏。
-7、据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维。
-8、好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。
-9、领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”。
-10、在这个“安全空间”里，创作者可以公开表达对AI的喜爱。
+2026年10月4日人工智能热点分享
+1、Show HN，重点是在 macOS 上对每张照片和视频的每一帧进行 AI 搜索。
+2、AI“教父”勒库恩对人类灭绝“毫无担忧”。
+3、OpenAI“12朝元老”辞职死谏：试错的时代已崩坏，OpenAI内讧升级。
+4、System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码，该团队认为 AI 生成代码缺乏完整项目上下文，易产出难以维护的复杂代码，大幅增加维护成本，仅一个代码库不受此限制，已有多个开源项目采取类似措施。
+5、大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划，谷歌宣布，自 2026 年 10 月 1 日起，开源软件漏洞奖励计划（OSS VRP）将不再接收产品漏洞提报。
+6、ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。
+7、人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。
+8、Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码。
+9、翻译、点菜、找路线，AI 眼镜能行吗？我在国外试了 6 天，在泰国6天5晚的测试中，两副AI眼镜（Rokid乐奇、阿里千问S1）在翻译、导航、拍摄等场景下表现不一。
+10、《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告。
 
 ## 原始链接
-1. 【AIHOT 通知】订阅地址换到 aihot.news 了，请更新（AIHOT） - https://aihot.news/agent?tab=rss
-2. OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件（IT之家） - https://aihot.news/items/cyq72z49wj36fz07iy6o4mvok
-3. 格雷格·克罗-哈特曼——大语言模型时代的安全问题（www.youtube.com） - https://www.youtube.com/watch?v=NnV_cWeoo5Q
-4. Show HN: 德国的新型主权人工智能模型“Kolibri”（tej.as） - https://tej.as/blog/aleph-alpha-kolibri
-5. 2 万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停（Readhub · AI） - https://www.huxiu.com/article/4895291.html?f=rss
-6. 我离开OpenAI，因为它的企业文化已经崩坏（Hacker News · 24h最热） - https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881
-7. 据BCG一位高管称，有两种与人工智能相关的习惯可能会削弱你的批判性思维（www.businessinsider.com） - https://www.businessinsider.com/bcg-exec-shares-ai-habits-weaken-critical-thinking-2026-10
-8. 好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。（www.businessinsider.com） - https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10
-9. 领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”（www.businessinsider.com） - https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10
-10. 在这个“安全空间”里，创作者可以公开表达对AI的喜爱（www.businessinsider.com） - https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10
+1. Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索（github.com） - https://github.com/allenv0/SCM
+2. AI“教父”勒库恩对人类灭绝“毫无担忧”（fortune.com） - https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded
+3. OpenAI“12朝元老”辞职死谏：试错的时代已崩坏（36氪 · 24小时热榜） - https://www.36kr.com/p/4010851865857925
+4. System76 更新 COSMIC 项目 PR 模板，禁止贡献者提交 AI 辅助完成的代码（Readhub · AI） - https://www.ithome.com/1/009/669.htm
+5. 大量 AI「幻觉」报告压垮维护团队，谷歌暂停部分开源漏洞奖励计划（Readhub · AI） - https://www.ithome.com/1/009/673.htm
+6. ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。（www.businessinsider.com） - https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10
+7. 人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。（www.businessinsider.com） - https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10
+8. Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码（www.neowin.net） - https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases
+9. 翻译、点菜、找路线，AI 眼镜能行吗？我在国外试了 6 天（Readhub · AI） - https://www.huxiu.com/article/4895337.html?f=rss
+10. 《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告（www.bloomberg.com） - https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports
