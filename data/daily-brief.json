@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:11:24.856047Z",
+  "generated_at": "2026-10-05T09:20:17.119327Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9254,
+        "recency": 0.6276,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-05T00:24:02Z",
       "latest_at": "2026-10-05T00:24:02Z",
@@ -61,6 +60,336 @@
         "url": "https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n",
         "source": "PromptArmor：Threat Intelligence",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c84b492b133a",
+      "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4ecb62e9d286c3ac9e22937bc68fea000d3a1a0e",
+          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T06:15:29Z"
+        },
+        {
+          "id": "6d1f23102a6c051969a55f7555715ca9ed54ac36",
+          "title": "特朗普公布“超级智能部队”以监督人工智能政策",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T05:08:48.631000Z"
+        },
+        {
+          "id": "239e85c7486b0111b2e5451f0360d0e74d4f0fd4",
+          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump announces 'Super Intelligence Force' to oversee AI policy",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T01:33:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "4ecb62e9d286c3ac9e22937bc68fea000d3a1a0e",
+          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T06:15:29Z"
+        },
+        {
+          "id": "6d1f23102a6c051969a55f7555715ca9ed54ac36",
+          "title": "特朗普公布“超级智能部队”以监督人工智能政策",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T05:08:48.631000Z"
+        },
+        {
+          "id": "239e85c7486b0111b2e5451f0360d0e74d4f0fd4",
+          "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump announces 'Super Intelligence Force' to oversee AI policy",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T01:33:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5473,
+      "importance": 0.5473,
+      "importance_score": 0.5473,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8717,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T01:33:08Z",
+      "latest_at": "2026-10-05T06:15:29Z",
+      "primary_item": {
+        "id": "4ecb62e9d286c3ac9e22937bc68fea000d3a1a0e",
+        "title": "特朗普公布“超级智能部队”以监督人工智能政策 / Trump unveils 'Super Intelligence Force' to oversee AI policy",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_38e4cdca29ce",
+      "title": "施耐德电气斥资226亿美元收购PTC，拓展人工智能业务",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d4dcf026c3b4db4a2abf9e9a0880b868c4790796",
+          "title": "施耐德电气斥资226亿美元收购PTC，拓展人工智能业务",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T06:11:50.505000Z"
+        },
+        {
+          "id": "770de617315c16e6c6fadefe3c1ebcc6db91abdb",
+          "title": "施耐德电气宣布以 226 亿美元收购 PTC，拓展人工智能业务",
+          "url": "https://www.ithome.com/1/009/805.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T06:07:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "d4dcf026c3b4db4a2abf9e9a0880b868c4790796",
+          "title": "施耐德电气斥资226亿美元收购PTC，拓展人工智能业务",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T06:11:50.505000Z"
+        },
+        {
+          "id": "770de617315c16e6c6fadefe3c1ebcc6db91abdb",
+          "title": "施耐德电气宣布以 226 亿美元收购 PTC，拓展人工智能业务",
+          "url": "https://www.ithome.com/1/009/805.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T06:07:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8691,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T06:07:35Z",
+      "latest_at": "2026-10-05T06:11:50.505000Z",
+      "primary_item": {
+        "id": "d4dcf026c3b4db4a2abf9e9a0880b868c4790796",
+        "title": "施耐德电气斥资226亿美元收购PTC，拓展人工智能业务",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bfb56c87b6ad",
+      "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术",
+      "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
+      "primary_url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6fe189c7607959514cc4950a5c3c000ea1afe32a",
+          "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术",
+          "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T05:25:16.667000Z"
+        },
+        {
+          "id": "900166b961220a3e99837eb955fab25d9ee16a50",
+          "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术 / Ben Affleck says he had a ‘heart attack’ when he first saw what AI could do — then he used it in his movie",
+          "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T05:06:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6fe189c7607959514cc4950a5c3c000ea1afe32a",
+          "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术",
+          "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T05:25:16.667000Z"
+        },
+        {
+          "id": "900166b961220a3e99837eb955fab25d9ee16a50",
+          "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术 / Ben Affleck says he had a ‘heart attack’ when he first saw what AI could do — then he used it in his movie",
+          "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T05:06:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8368,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T05:06:05Z",
+      "latest_at": "2026-10-05T05:25:16.667000Z",
+      "primary_item": {
+        "id": "6fe189c7607959514cc4950a5c3c000ea1afe32a",
+        "title": "本·阿弗莱克表示，当他第一次看到人工智能能做什么时，简直“惊得心脏都要停了”——随后，他便在自己的电影中运用了这项技术",
+        "url": "https://www.businessinsider.com/ben-affleck-used-ai-latest-film-movie-netflix-interpositive-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_608e442f2368",
+      "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
+          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T04:05:55.362000Z"
+        },
+        {
+          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
+          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T19:58:49.689000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
+          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T04:05:55.362000Z"
+        },
+        {
+          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
+          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T19:58:49.689000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5043,
+      "importance": 0.5043,
+      "importance_score": 0.5043,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7817,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T19:58:49.689000Z",
+      "latest_at": "2026-10-05T04:05:55.362000Z",
+      "primary_item": {
+        "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
+        "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -117,14 +446,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.4884,
+      "importance": 0.4884,
+      "importance_score": 0.4884,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7022,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -142,100 +471,158 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "primary_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "story_id": "story_9a204364d01b",
+      "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
+      "primary_url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "id": "5ca286ebc9f983c6533ce63b8562e4172339371f",
+          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-04T21:01:28Z"
         },
         {
-          "id": "c8b21868e621212f71e6f8cca3645de5bfc49add",
-          "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:41:58Z"
-        },
-        {
-          "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
-          "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-          "url": "https://news.ycombinator.com/item?id=49951891",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T08:41:58Z"
+          "id": "ba2d8f7bcc03375272356e9f7651fdfc2a0b3350",
+          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of closure, a digital archive of animated materials appears online",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T21:01:28Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "id": "5ca286ebc9f983c6533ce63b8562e4172339371f",
+          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-04T21:01:28Z"
         },
         {
-          "id": "c8b21868e621212f71e6f8cca3645de5bfc49add",
-          "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T08:41:58Z"
-        },
-        {
-          "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
-          "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-          "url": "https://news.ycombinator.com/item?id=49951891",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T08:41:58Z"
+          "id": "ba2d8f7bcc03375272356e9f7651fdfc2a0b3350",
+          "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of closure, a digital archive of animated materials appears online",
+          "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T21:01:28Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4454,
+      "importance": 0.4454,
+      "importance_score": 0.4454,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7299,
-        "story_heat": 0.5
+        "recency": 0.4869,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T08:41:58Z",
-      "latest_at": "2026-10-04T19:42:25Z",
+      "earliest_at": "2026-10-04T21:01:28Z",
+      "latest_at": "2026-10-04T21:01:28Z",
       "primary_item": {
-        "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-        "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+        "id": "5ca286ebc9f983c6533ce63b8562e4172339371f",
+        "title": "随着该机构关闭，一个包含动画素材的数字档案库在网上亮相 / In the wake of Tippett Studios’ closure, a digital archive appears online",
+        "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_fb514e83ae1c",
+      "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "primary_url": "https://github.com/omlahore/RemoveMacAI",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4ff0d9fc11863ca9b3c5a0bec9bf88a76a8d466e",
+          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3204d89818ae0e321bf29df0677918ad81a947b5",
+          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Remove and Disable Apple Macos27 AI Models Tool",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T19:42:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4ff0d9fc11863ca9b3c5a0bec9bf88a76a8d466e",
+          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3204d89818ae0e321bf29df0677918ad81a947b5",
+          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Remove and Disable Apple Macos27 AI Models Tool",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T19:42:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4649,
+      "importance": 0.4649,
+      "importance_score": 0.4649,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5847,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T19:42:25Z",
+      "latest_at": "2026-10-04T23:22:17.311514Z",
+      "primary_item": {
+        "id": "4ff0d9fc11863ca9b3c5a0bec9bf88a76a8d466e",
+        "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
+        "url": "https://github.com/omlahore/RemoveMacAI",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -292,14 +679,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.4585,
+      "importance": 0.4585,
+      "importance_score": 0.4585,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8503,
+        "recency": 0.5525,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -370,14 +757,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.4477,
+      "importance": 0.4477,
+      "importance_score": 0.4477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7962,
+        "recency": 0.4984,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -395,67 +782,67 @@
       }
     },
     {
-      "story_id": "story_fb514e83ae1c",
-      "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "primary_url": "https://github.com/omlahore/RemoveMacAI",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_774f7412d1a3",
+      "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "primary_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "4ff0d9fc11863ca9b3c5a0bec9bf88a76a8d466e",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T19:42:25Z"
         },
         {
-          "id": "3204d89818ae0e321bf29df0677918ad81a947b5",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Remove and Disable Apple Macos27 AI Models Tool",
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "id": "9e486460324147a03e5d58cce165a51ef198aaed",
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "url": "https://news.ycombinator.com/item?id=49957117",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
           "published_at": "2026-10-04T19:42:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "4ff0d9fc11863ca9b3c5a0bec9bf88a76a8d466e",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T19:42:25Z"
         },
         {
-          "id": "3204d89818ae0e321bf29df0677918ad81a947b5",
-          "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Remove and Disable Apple Macos27 AI Models Tool",
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "id": "9e486460324147a03e5d58cce165a51ef198aaed",
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "url": "https://news.ycombinator.com/item?id=49957117",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
           "published_at": "2026-10-04T19:42:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.4344,
+      "importance": 0.4344,
+      "importance_score": 0.4344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8826,
+        "recency": 0.432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -463,188 +850,13 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-04T19:42:25Z",
-      "latest_at": "2026-10-04T23:22:17.311514Z",
+      "latest_at": "2026-10-04T19:42:25Z",
       "primary_item": {
-        "id": "4ff0d9fc11863ca9b3c5a0bec9bf88a76a8d466e",
-        "title": "在 macOS 27 上关闭 Apple Intelligence，并释放其占用的磁盘空间 / Turn off Apple Intelligence on macOS 27 and get its disk space back",
-        "url": "https://github.com/omlahore/RemoveMacAI",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_52aeab6b172e",
-      "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
-      "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-      "primary_url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
-          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
-          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:50.780000Z"
-        },
-        {
-          "id": "25e8e4347727b0f601d64d52276dfe6515963279",
-          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎 / Meet David Robinson, the OpenAI safety leader who quit and warned that the company isn’t careful enough",
-          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T19:36:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
-          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
-          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:50.780000Z"
-        },
-        {
-          "id": "25e8e4347727b0f601d64d52276dfe6515963279",
-          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎 / Meet David Robinson, the OpenAI safety leader who quit and warned that the company isn’t careful enough",
-          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T19:36:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4963,
-      "importance": 0.4963,
-      "importance_score": 0.4963,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7413,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T19:36:56Z",
-      "latest_at": "2026-10-04T19:58:50.780000Z",
-      "primary_item": {
-        "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
-        "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
-        "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c83b565fc251",
-      "title": "宗教学者与Anthropic公司进行了会面",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-          "title": "宗教学者与Anthropic公司进行了会面",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T12:57:08.561000Z"
-        },
-        {
-          "id": "86b6b5719f328b1fe17c994864d38a678bed98ae",
-          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-          "title": "宗教学者与Anthropic公司进行了会面",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T12:57:08.561000Z"
-        },
-        {
-          "id": "86b6b5719f328b1fe17c994864d38a678bed98ae",
-          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4627,
-      "importance": 0.4627,
-      "importance_score": 0.4627,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4484,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T02:34:22Z",
-      "latest_at": "2026-10-04T12:57:08.561000Z",
-      "primary_item": {
-        "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-        "title": "宗教学者与Anthropic公司进行了会面",
-        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
+        "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
+        "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -701,14 +913,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4588,
-      "importance": 0.4588,
-      "importance_score": 0.4588,
+      "score": 0.3992,
+      "importance": 0.3992,
+      "importance_score": 0.3992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.554,
+        "recency": 0.2562,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -779,14 +991,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4392,
+      "importance": 0.4392,
+      "importance_score": 0.4392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.754,
+        "recency": 0.4562,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -801,6 +1013,84 @@
         "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_52aeab6b172e",
+      "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
+      "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
+      "primary_url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
+          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
+          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T19:58:50.780000Z"
+        },
+        {
+          "id": "25e8e4347727b0f601d64d52276dfe6515963279",
+          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎 / Meet David Robinson, the OpenAI safety leader who quit and warned that the company isn’t careful enough",
+          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T19:36:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
+          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
+          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T19:58:50.780000Z"
+        },
+        {
+          "id": "25e8e4347727b0f601d64d52276dfe6515963279",
+          "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎 / Meet David Robinson, the OpenAI safety leader who quit and warned that the company isn’t careful enough",
+          "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T19:36:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4367,
+      "importance": 0.4367,
+      "importance_score": 0.4367,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4434,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T19:36:56Z",
+      "latest_at": "2026-10-04T19:58:50.780000Z",
+      "primary_item": {
+        "id": "7df4a6e48845478bc733fdc73ca06d45f751052c",
+        "title": "来认识一下大卫·罗宾逊——这位OpenAI的安全负责人已辞职，并警告称该公司不够谨慎",
+        "url": "https://www.businessinsider.com/david-robinson-the-openai-safety-leader-who-quit-the-company-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -876,14 +1166,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4362,
-      "importance": 0.4362,
-      "importance_score": 0.4362,
+      "score": 0.3766,
+      "importance": 0.3766,
+      "importance_score": 0.3766,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3158,
+        "recency": 0.018,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -954,14 +1244,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4352,
-      "importance": 0.4352,
-      "importance_score": 0.4352,
+      "score": 0.3756,
+      "importance": 0.3756,
+      "importance_score": 0.3756,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4359,
+        "recency": 0.1381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -979,80 +1269,80 @@
       }
     },
     {
-      "story_id": "story_36feaf92c0da",
-      "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
-      "url": "https://www.36kr.com/p/4010851865857925",
-      "primary_url": "https://www.36kr.com/p/4010851865857925",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
+      "story_id": "story_1eb686e134b7",
+      "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+      "url": "https://www.v2ex.com/t/1246400",
+      "primary_url": "https://www.v2ex.com/t/1246400",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "9a4acaedf2842d387c2b1dec8d0527ca026d20ed",
-          "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
-          "url": "https://www.36kr.com/p/4010851865857925",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
+          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
         },
         {
-          "id": "66cbac70d2f3fcd3c533e3f360492174cfa1e2eb",
-          "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
-          "url": "https://www.36kr.com/p/4010851865857925",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
+          "title": "[随想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "36氪 · 24小时热榜"
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "9a4acaedf2842d387c2b1dec8d0527ca026d20ed",
-          "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
-          "url": "https://www.36kr.com/p/4010851865857925",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
+          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
         },
         {
-          "id": "66cbac70d2f3fcd3c533e3f360492174cfa1e2eb",
-          "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
-          "url": "https://www.36kr.com/p/4010851865857925",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
+          "title": "[随想] 我觉得的 AI 未来的应用",
+          "url": "https://www.v2ex.com/t/1246400",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T10:30:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4351,
-      "importance": 0.4351,
-      "importance_score": 0.4351,
+      "score": 0.3578,
+      "importance": 0.3578,
+      "importance_score": 0.3578,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4355,
+        "recency": 0.0488,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T06:06:55.596755Z",
-      "latest_at": "2026-10-04T12:38:35.558612Z",
+      "earliest_at": "2026-10-04T10:30:30Z",
+      "latest_at": "2026-10-04T10:30:30Z",
       "primary_item": {
-        "id": "9a4acaedf2842d387c2b1dec8d0527ca026d20ed",
-        "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
-        "url": "https://www.36kr.com/p/4010851865857925",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
+        "id": "67fef08c870edee48ff06480676ae1c8d029d612",
+        "title": "[奇思妙想] 我觉得的 AI 未来的应用",
+        "url": "https://www.v2ex.com/t/1246400",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1109,14 +1399,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4831,
-      "importance": 0.4831,
-      "importance_score": 0.4831,
+      "score": 0.4235,
+      "importance": 0.4235,
+      "importance_score": 0.4235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6754,
+        "recency": 0.3776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1131,83 +1421,6 @@
         "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1eb686e134b7",
-      "title": "[奇思妙想] 我觉得的 AI 未来的应用",
-      "url": "https://www.v2ex.com/t/1246400",
-      "primary_url": "https://www.v2ex.com/t/1246400",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
-          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
-          "url": "https://www.v2ex.com/t/1246400",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T10:30:30Z"
-        },
-        {
-          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
-          "title": "[随想] 我觉得的 AI 未来的应用",
-          "url": "https://www.v2ex.com/t/1246400",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T10:30:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "67fef08c870edee48ff06480676ae1c8d029d612",
-          "title": "[奇思妙想] 我觉得的 AI 未来的应用",
-          "url": "https://www.v2ex.com/t/1246400",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T10:30:30Z"
-        },
-        {
-          "id": "f218ae94452e6133d5f3e2782b476cd9ee3f9036",
-          "title": "[随想] 我觉得的 AI 未来的应用",
-          "url": "https://www.v2ex.com/t/1246400",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T10:30:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4173,
-      "importance": 0.4173,
-      "importance_score": 0.4173,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3466,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T10:30:30Z",
-      "latest_at": "2026-10-04T10:30:30Z",
-      "primary_item": {
-        "id": "67fef08c870edee48ff06480676ae1c8d029d612",
-        "title": "[奇思妙想] 我觉得的 AI 未来的应用",
-        "url": "https://www.v2ex.com/t/1246400",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1264,14 +1477,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4732,
-      "importance": 0.4732,
-      "importance_score": 0.4732,
+      "score": 0.4136,
+      "importance": 0.4136,
+      "importance_score": 0.4136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.626,
+        "recency": 0.3281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1286,161 +1499,6 @@
         "url": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_eed7ab4cd749",
-      "title": "“这种情况不能再继续下去”：数千人抗议西班牙住房危机 / 'This can't go on': thousands protest against housing crisis in Spain",
-      "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-      "primary_url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
-          "title": "“这种情况不能再继续下去”：数千人抗议西班牙住房危机 / 'This can't go on': thousands protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
-        },
-        {
-          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
-          "title": "西班牙抗议住房危机 / Protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
-          "title": "“这种情况不能再继续下去”：数千人抗议西班牙住房危机 / 'This can't go on': thousands protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
-        },
-        {
-          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
-          "title": "西班牙抗议住房危机 / Protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T08:56:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4042,
-      "importance": 0.4042,
-      "importance_score": 0.4042,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2811,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T08:56:08Z",
-      "latest_at": "2026-10-04T08:56:08Z",
-      "primary_item": {
-        "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
-        "title": "“这种情况不能再继续下去”：数千人抗议西班牙住房危机 / 'This can't go on': thousands protest against housing crisis in Spain",
-        "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_e6dc84249acd",
-      "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3955,
-      "importance": 0.3955,
-      "importance_score": 0.3955,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2377,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T07:53:45Z",
-      "latest_at": "2026-10-04T07:53:45Z",
-      "primary_item": {
-        "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-        "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
-        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1497,14 +1555,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4732,
-      "importance": 0.4732,
-      "importance_score": 0.4732,
+      "score": 0.4136,
+      "importance": 0.4136,
+      "importance_score": 0.4136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.626,
+        "recency": 0.3281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1519,84 +1577,6 @@
         "url": "https://www.ithome.com/1/009/701.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ece8c53ee233",
-      "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。",
-      "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
-      "primary_url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f423a3a75317396fc599b5992fe6499665e1876e",
-          "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。",
-          "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T12:26:00.681000Z"
-        },
-        {
-          "id": "f26ea58eb69ee6e26e7213a60dfbf29dc7290fc8",
-          "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。 / I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but couldn't handle a Halloween costume.",
-          "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T08:11:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "f423a3a75317396fc599b5992fe6499665e1876e",
-          "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。",
-          "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T12:26:00.681000Z"
-        },
-        {
-          "id": "f26ea58eb69ee6e26e7213a60dfbf29dc7290fc8",
-          "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。 / I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but couldn't handle a Halloween costume.",
-          "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-04T08:11:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4334,
-      "importance": 0.4334,
-      "importance_score": 0.4334,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4268,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T08:11:01Z",
-      "latest_at": "2026-10-04T12:26:00.681000Z",
-      "primary_item": {
-        "id": "f423a3a75317396fc599b5992fe6499665e1876e",
-        "title": "ChatGPT 想要取代试衣间。我让它经历了一场“衣橱压力测试”。",
-        "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
