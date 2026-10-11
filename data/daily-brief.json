@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T06:04:58.312526Z",
+  "generated_at": "2026-10-11T13:11:32.761575Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_1e0e6608c184",
@@ -38,21 +38,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5338,
+        "recency": 0.2376,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T18:53:39Z",
       "latest_at": "2026-10-10T18:53:39Z",
@@ -65,86 +64,202 @@
       }
     },
     {
-      "story_id": "story_d754052375f5",
-      "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-      "url": "https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp",
-      "primary_url": "https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp",
-      "source": "MarkTechPost",
-      "source_name": "AI HOT",
+      "story_id": "story_821afa65ec96",
+      "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+      "primary_url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+      "source": "momo5502.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "89165486ef6c8086a2567f4450c04af7391467a7",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "url": "https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp",
-          "source": "MarkTechPost",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
+          "id": "67af5f289951181297e82610494989ac12759007",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "momo5502.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T10:56:03.619000Z"
+        },
+        {
+          "id": "8d34cd9fd4319f80b93215cc18ce9dc193c5482f",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T02:02:38Z"
+        },
+        {
+          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
+          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "url": "https://news.ycombinator.com/item?id=50039092",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T02:02:38Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "MarkTechPost"
+        "Hacker News · 24h最热",
+        "hackernews",
+        "momo5502.com"
       ],
       "items": [
         {
-          "id": "89165486ef6c8086a2567f4450c04af7391467a7",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "url": "https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp",
-          "source": "MarkTechPost",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
+          "id": "67af5f289951181297e82610494989ac12759007",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "momo5502.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T10:56:03.619000Z"
+        },
+        {
+          "id": "8d34cd9fd4319f80b93215cc18ce9dc193c5482f",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T02:02:38Z"
+        },
+        {
+          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
+          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "url": "https://news.ycombinator.com/item?id=50039092",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T02:02:38Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5542,
+      "importance": 0.5542,
+      "importance_score": 0.5542,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6428,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9059,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T21:30:36Z",
-      "latest_at": "2026-10-10T21:30:36Z",
+      "earliest_at": "2026-10-11T02:02:38Z",
+      "latest_at": "2026-10-11T10:56:03.619000Z",
       "primary_item": {
-        "id": "89165486ef6c8086a2567f4450c04af7391467a7",
-        "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-        "url": "https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp",
-        "source": "MarkTechPost",
-        "source_name": "AI HOT"
+        "id": "67af5f289951181297e82610494989ac12759007",
+        "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+        "source": "momo5502.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_2da881464192",
-      "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-      "url": "https://www.aibase.com/news/31544",
-      "primary_url": "https://www.aibase.com/news/31544",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_895d06b14036",
+      "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图/角色缩略图，尚未决定上线「AI 标签」声明",
+      "url": "https://www.ithome.com/1/011/678.htm",
+      "primary_url": "https://www.ithome.com/1/011/678.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/news/31544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "fa66ec27476d1c56a25af018b9b0188f801bd224",
+          "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图/角色缩略图，尚未决定上线「AI 标签」声明",
+          "url": "https://www.ithome.com/1/011/678.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "30b25ca8a7553f4a4d4ecc1dea2bd255fec5c77f",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/zh/news/31544",
+          "id": "a3eebe9f82599c84d3f0ce5b1d638d332e0a2852",
+          "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图 / 角色缩略图，尚未决定上线“AI 标签”声明",
+          "url": "https://www.ithome.com/1/011/678.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T10:54:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fa66ec27476d1c56a25af018b9b0188f801bd224",
+          "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图/角色缩略图，尚未决定上线「AI 标签」声明",
+          "url": "https://www.ithome.com/1/011/678.htm",
           "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a3eebe9f82599c84d3f0ce5b1d638d332e0a2852",
+          "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图 / 角色缩略图，尚未决定上线“AI 标签”声明",
+          "url": "https://www.ithome.com/1/011/678.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T10:54:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T10:54:55Z",
+      "latest_at": "2026-10-11T13:11:32.761575Z",
+      "primary_item": {
+        "id": "fa66ec27476d1c56a25af018b9b0188f801bd224",
+        "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图/角色缩略图，尚未决定上线「AI 标签」声明",
+        "url": "https://www.ithome.com/1/011/678.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_26149269af1e",
+      "title": "利奥加文/airllm / lyogavin /      airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T13:12:13.962000Z"
+        },
+        {
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -152,24 +267,24 @@
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/news/31544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T13:12:13.962000Z"
         },
         {
-          "id": "30b25ca8a7553f4a4d4ecc1dea2bd255fec5c77f",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/zh/news/31544",
-          "source": "Readhub · AI",
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -177,345 +292,418 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2798,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T12:47:56.511035Z",
-      "latest_at": "2026-10-10T12:47:56.511035Z",
+      "earliest_at": "2026-10-11T13:11:32.761575Z",
+      "latest_at": "2026-10-11T13:12:13.962000Z",
       "primary_item": {
-        "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-        "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-        "url": "https://www.aibase.com/news/31544",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+        "title": "利奥加文/airllm / lyogavin /      airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_90ab4d4392c0",
-      "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-      "url": "https://www.aibase.com/news/31532",
-      "primary_url": "https://www.aibase.com/news/31532",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_4b410baa7c8f",
+      "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+      "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+      "primary_url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
-          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/news/31532",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T12:30:10.840000Z"
         },
         {
-          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
-          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/zh/news/31532",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T11:47:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
-          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/news/31532",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T12:30:10.840000Z"
         },
         {
-          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
-          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/zh/news/31532",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T11:47:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2798,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9713,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T12:47:56.511035Z",
-      "latest_at": "2026-10-10T12:47:56.511035Z",
+      "earliest_at": "2026-10-11T11:47:01Z",
+      "latest_at": "2026-10-11T12:30:10.840000Z",
       "primary_item": {
-        "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
-        "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-        "url": "https://www.aibase.com/news/31532",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
+        "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+        "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_0c0b7bd3fb59",
-      "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-      "url": "https://www.aibase.com/news/31543",
-      "primary_url": "https://www.aibase.com/news/31543",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2ec605cc8689",
+      "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "primary_url": "https://jobs.ashbyhq.com/weave-os",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "1baec69b23d487fa7182088c19615c4271387142",
-          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/news/31543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T12:01:08Z"
         },
         {
-          "id": "1db7cc8e46e2a30bfbc22160e357b0e7be26606e",
-          "title": "千问首款 AI 耳机亮相 NBA 中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/zh/news/31543",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://news.ycombinator.com/item?id=50042330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T12:01:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "1baec69b23d487fa7182088c19615c4271387142",
-          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/news/31543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T12:01:08Z"
         },
         {
-          "id": "1db7cc8e46e2a30bfbc22160e357b0e7be26606e",
-          "title": "千问首款 AI 耳机亮相 NBA 中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/zh/news/31543",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://news.ycombinator.com/item?id=50042330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T12:01:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2798,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9511,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T12:47:56.511035Z",
-      "latest_at": "2026-10-10T12:47:56.511035Z",
+      "earliest_at": "2026-10-11T12:01:08Z",
+      "latest_at": "2026-10-11T12:01:08Z",
       "primary_item": {
-        "id": "1baec69b23d487fa7182088c19615c4271387142",
-        "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-        "url": "https://www.aibase.com/news/31543",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "18b52778464e88fa85742d37d1831981202beda2",
+        "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+        "url": "https://jobs.ashbyhq.com/weave-os",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_18d789dc0525",
-      "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-      "url": "https://www.aibase.com/news/31541",
-      "primary_url": "https://www.aibase.com/news/31541",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_15b6b23a93ea",
+      "title": "人工智能正在为人类创造的艺术创造“人类溢价” / AI is creating a 'human premium' for art created by people",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "primary_url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "aff07f320123cff8463c24a7eaccb3e9dd7c7710",
+          "title": "人工智能正在为人类创造的艺术创造“人类溢价” / AI is creating a 'human premium' for art created by people",
+          "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T11:34:28Z"
         },
         {
-          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
-          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/zh/news/31541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c6b98d6c21a4de3282a60a73d422b0ec387a9ab6",
+          "title": "人工智能正在为人类创造的艺术创造“人类溢价” / AI is creating a 'human premium' for art created by people",
+          "url": "https://news.ycombinator.com/item?id=50042107",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T11:34:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "aff07f320123cff8463c24a7eaccb3e9dd7c7710",
+          "title": "人工智能正在为人类创造的艺术创造“人类溢价” / AI is creating a 'human premium' for art created by people",
+          "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T11:34:28Z"
         },
         {
-          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
-          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/zh/news/31541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c6b98d6c21a4de3282a60a73d422b0ec387a9ab6",
+          "title": "人工智能正在为人类创造的艺术创造“人类溢价” / AI is creating a 'human premium' for art created by people",
+          "url": "https://news.ycombinator.com/item?id=50042107",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T11:34:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2798,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9326,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T12:47:56.511035Z",
-      "latest_at": "2026-10-10T12:47:56.511035Z",
+      "earliest_at": "2026-10-11T11:34:28Z",
+      "latest_at": "2026-10-11T11:34:28Z",
       "primary_item": {
-        "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-        "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-        "url": "https://www.aibase.com/news/31541",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "aff07f320123cff8463c24a7eaccb3e9dd7c7710",
+        "title": "人工智能正在为人类创造的艺术创造“人类溢价” / AI is creating a 'human premium' for art created by people",
+        "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_56d41dbc9298",
-      "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-      "url": "https://www.aibase.com/news/31540",
-      "primary_url": "https://www.aibase.com/news/31540",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_5c807ccf96dd",
+      "title": "“机器人”是一种社会结构：为什么你的洗碗机不是机器人 / \"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot",
+      "primary_url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
-          "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "url": "https://www.aibase.com/news/31540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "37015ff1ee672605e99ed8cd16b9d4124974a1c6",
+          "title": "“机器人”是一种社会结构：为什么你的洗碗机不是机器人 / \"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+          "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T10:34:43Z"
         },
         {
-          "id": "f7924f3b2b92ac6f1c0df7057e6e699be722ad4b",
-          "title": "网文实体书惊现「AI 回复内容」，出版社回应：将回收销毁并重新修订",
-          "url": "https://www.aibase.com/zh/news/31540",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "202d3b0ac3c89e4f1a045733e16473964c3090ac",
+          "title": "“机器人”是一种社会结构：为什么你的洗碗机不是机器人 / \"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+          "url": "https://news.ycombinator.com/item?id=50041667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T10:34:43Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
-          "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "url": "https://www.aibase.com/news/31540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "37015ff1ee672605e99ed8cd16b9d4124974a1c6",
+          "title": "“机器人”是一种社会结构：为什么你的洗碗机不是机器人 / \"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+          "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T10:34:43Z"
         },
         {
-          "id": "f7924f3b2b92ac6f1c0df7057e6e699be722ad4b",
-          "title": "网文实体书惊现「AI 回复内容」，出版社回应：将回收销毁并重新修订",
-          "url": "https://www.aibase.com/zh/news/31540",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "202d3b0ac3c89e4f1a045733e16473964c3090ac",
+          "title": "“机器人”是一种社会结构：为什么你的洗碗机不是机器人 / \"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+          "url": "https://news.ycombinator.com/item?id=50041667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T10:34:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2798,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8911,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T12:47:56.511035Z",
-      "latest_at": "2026-10-10T12:47:56.511035Z",
+      "earliest_at": "2026-10-11T10:34:43Z",
+      "latest_at": "2026-10-11T10:34:43Z",
       "primary_item": {
-        "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
-        "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-        "url": "https://www.aibase.com/news/31540",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "37015ff1ee672605e99ed8cd16b9d4124974a1c6",
+        "title": "“机器人”是一种社会结构：为什么你的洗碗机不是机器人 / \"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+        "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_cddb01908776",
+      "title": "你的AI助手想要拿回你的钱——这对这些公司来说可能意味着麻烦",
+      "url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
+      "primary_url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "db8ffca5debf136ec42f4295c1787f35deaee56c",
+          "title": "你的AI助手想要拿回你的钱——这对这些公司来说可能意味着麻烦",
+          "url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T10:24:10.825000Z"
+        },
+        {
+          "id": "e71cfe3b749efdf18dcd15bef055fa76eed66255",
+          "title": "你的AI助手想要拿回你的钱——这对这些公司来说可能意味着麻烦 / Your AI agent wants your money back — and that could mean trouble for these companies",
+          "url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T10:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "db8ffca5debf136ec42f4295c1787f35deaee56c",
+          "title": "你的AI助手想要拿回你的钱——这对这些公司来说可能意味着麻烦",
+          "url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T10:24:10.825000Z"
+        },
+        {
+          "id": "e71cfe3b749efdf18dcd15bef055fa76eed66255",
+          "title": "你的AI助手想要拿回你的钱——这对这些公司来说可能意味着麻烦 / Your AI agent wants your money back — and that could mean trouble for these companies",
+          "url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T10:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8838,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T10:11:01Z",
+      "latest_at": "2026-10-11T10:24:10.825000Z",
+      "primary_item": {
+        "id": "db8ffca5debf136ec42f4295c1787f35deaee56c",
+        "title": "你的AI助手想要拿回你的钱——这对这些公司来说可能意味着麻烦",
+        "url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -572,14 +760,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.4888,
+      "importance": 0.4888,
+      "importance_score": 0.4888,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7038,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -597,82 +785,81 @@
       }
     },
     {
-      "story_id": "story_7ce3161b677f",
-      "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-      "url": "https://www.aibase.com/news/31539",
-      "primary_url": "https://www.aibase.com/news/31539",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_5cce4014eca1",
+      "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
+      "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+      "primary_url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "url": "https://www.aibase.com/news/31539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "5ae77e6ed4f5059f22999b08c7875de432f52d09",
+          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
+          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T09:36:03.942000Z"
         },
         {
-          "id": "b4dbb705bad991ddb6b145bec2153d32dd69ca8d",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "url": "https://www.aibase.com/zh/news/31539",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b828f9811f752490455731e4ad1014d5331380d4",
+          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有 / I almost fell for an AI job scam because the usual red flags weren't there. Here's how I caught it.",
+          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T09:16:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "url": "https://www.aibase.com/news/31539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
+          "id": "5ae77e6ed4f5059f22999b08c7875de432f52d09",
+          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
+          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T09:36:03.942000Z"
         },
         {
-          "id": "b4dbb705bad991ddb6b145bec2153d32dd69ca8d",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "url": "https://www.aibase.com/zh/news/31539",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b828f9811f752490455731e4ad1014d5331380d4",
+          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有 / I almost fell for an AI job scam because the usual red flags weren't there. Here's how I caught it.",
+          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T09:16:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2798,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8504,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T12:47:56.511035Z",
-      "latest_at": "2026-10-10T12:47:56.511035Z",
+      "earliest_at": "2026-10-11T09:16:01Z",
+      "latest_at": "2026-10-11T09:36:03.942000Z",
       "primary_item": {
-        "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
-        "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-        "url": "https://www.aibase.com/news/31539",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "5ae77e6ed4f5059f22999b08c7875de432f52d09",
+        "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
+        "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -680,16 +867,16 @@
       "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
       "url": "https://atoll92.github.io/agent-standup",
       "primary_url": "https://atoll92.github.io/agent-standup",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "6ea4700323b72295216346484f5abcf96c10b843",
+          "id": "a2b6382986614849a774c8426987c7b822567cb3",
           "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
           "url": "https://atoll92.github.io/agent-standup",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-11T03:42:47Z"
         },
         {
@@ -704,17 +891,17 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "6ea4700323b72295216346484f5abcf96c10b843",
+          "id": "a2b6382986614849a774c8426987c7b822567cb3",
           "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
           "url": "https://atoll92.github.io/agent-standup",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-11T03:42:47Z"
         },
         {
@@ -729,14 +916,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9013,
+        "recency": 0.605,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -746,246 +933,89 @@
       "earliest_at": "2026-10-11T03:42:47Z",
       "latest_at": "2026-10-11T03:42:47Z",
       "primary_item": {
-        "id": "6ea4700323b72295216346484f5abcf96c10b843",
+        "id": "a2b6382986614849a774c8426987c7b822567cb3",
         "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
         "url": "https://atoll92.github.io/agent-standup",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_35dc91695d5d",
-      "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_7cba8b9ab479",
+      "title": "面向青少年的ChatGPT现已上线。知名育儿专家艾米丽·奥斯特建议家长应以何种方式对待它。",
+      "url": "https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10",
+      "primary_url": "https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
-          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T03:41:53Z"
+          "id": "dcfdd731ec97d37edc82e380fb95867785f0119f",
+          "title": "面向青少年的ChatGPT现已上线。知名育儿专家艾米丽·奥斯特建议家长应以何种方式对待它。",
+          "url": "https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T09:36:03.946000Z"
         },
         {
-          "id": "381cbbf4649dba4778e2a4bf73dc46923c18e58e",
-          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "The Verge",
+          "id": "3fd696aeca567c703501ea010f01f3b335d40bf5",
+          "title": "面向青少年的ChatGPT现已上线。知名育儿专家艾米丽·奥斯特建议家长应以何种方式对待它。 / ChatGPT for Teens is live. Here's how famed parenting expert Emily Oster says parents should approach it.",
+          "url": "https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-10T22:10:17Z"
+          "published_at": "2026-10-11T09:26:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "The Verge"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
-          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T03:41:53Z"
+          "id": "dcfdd731ec97d37edc82e380fb95867785f0119f",
+          "title": "面向青少年的ChatGPT现已上线。知名育儿专家艾米丽·奥斯特建议家长应以何种方式对待它。",
+          "url": "https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T09:36:03.946000Z"
         },
         {
-          "id": "381cbbf4649dba4778e2a4bf73dc46923c18e58e",
-          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "The Verge",
+          "id": "3fd696aeca567c703501ea010f01f3b335d40bf5",
+          "title": "面向青少年的ChatGPT现已上线。知名育儿专家艾米丽·奥斯特建议家长应以何种方式对待它。 / ChatGPT for Teens is live. Here's how famed parenting expert Emily Oster says parents should approach it.",
+          "url": "https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-10T22:10:17Z"
+          "published_at": "2026-10-11T09:26:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9006,
+        "recency": 0.8504,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-10T22:10:17Z",
-      "latest_at": "2026-10-11T03:41:53Z",
+      "earliest_at": "2026-10-11T09:26:01Z",
+      "latest_at": "2026-10-11T09:36:03.946000Z",
       "primary_item": {
-        "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
-        "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_6b509b2382a7",
-      "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-      "url": "https://www.aibase.com/news/31546",
-      "primary_url": "https://www.aibase.com/news/31546",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
-          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "url": "https://www.aibase.com/news/31546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
-        },
-        {
-          "id": "60a420b284197c523a416ba19a4b98ff382e50b0",
-          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "url": "https://www.ithome.com/1/011/432.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T08:52:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
-          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "url": "https://www.aibase.com/news/31546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:47:56.511035Z"
-        },
-        {
-          "id": "60a420b284197c523a416ba19a4b98ff382e50b0",
-          "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-          "url": "https://www.ithome.com/1/011/432.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T08:52:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2798,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T08:52:04Z",
-      "latest_at": "2026-10-10T12:47:56.511035Z",
-      "primary_item": {
-        "id": "80e650dec3dcfe7ef01078eab10fbe27c8033868",
-        "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-        "url": "https://www.aibase.com/news/31546",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_821afa65ec96",
-      "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-      "primary_url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "8d34cd9fd4319f80b93215cc18ce9dc193c5482f",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T02:02:38Z"
-        },
-        {
-          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "url": "https://news.ycombinator.com/item?id=50039092",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T02:02:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8d34cd9fd4319f80b93215cc18ce9dc193c5482f",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T02:02:38Z"
-        },
-        {
-          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "url": "https://news.ycombinator.com/item?id=50039092",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T02:02:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8317,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T02:02:38Z",
-      "latest_at": "2026-10-11T02:02:38Z",
-      "primary_item": {
-        "id": "8d34cd9fd4319f80b93215cc18ce9dc193c5482f",
-        "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "dcfdd731ec97d37edc82e380fb95867785f0119f",
+        "title": "面向青少年的ChatGPT现已上线。知名育儿专家艾米丽·奥斯特建议家长应以何种方式对待它。",
+        "url": "https://www.businessinsider.com/parenting-expert-emily-oster-chatgpt-teens-ai-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1061,14 +1091,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4791,
-      "importance": 0.4791,
-      "importance_score": 0.4791,
+      "score": 0.4199,
+      "importance": 0.4199,
+      "importance_score": 0.4199,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5306,
+        "recency": 0.2343,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1083,6 +1113,84 @@
         "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
         "source": "www.ft.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_35dc91695d5d",
+      "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T03:41:53Z"
+        },
+        {
+          "id": "381cbbf4649dba4778e2a4bf73dc46923c18e58e",
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-10T22:10:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T03:41:53Z"
+        },
+        {
+          "id": "381cbbf4649dba4778e2a4bf73dc46923c18e58e",
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-10T22:10:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4689,
+      "importance": 0.4689,
+      "importance_score": 0.4689,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6044,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-10T22:10:17Z",
+      "latest_at": "2026-10-11T03:41:53Z",
+      "primary_item": {
+        "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
+        "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1139,14 +1247,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4759,
-      "importance": 0.4759,
-      "importance_score": 0.4759,
+      "score": 0.4166,
+      "importance": 0.4166,
+      "importance_score": 0.4166,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6393,
+        "recency": 0.3431,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1164,433 +1272,81 @@
       }
     },
     {
-      "story_id": "story_6b75dae75d97",
-      "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-      "url": "https://github.com/rociiu/talorys",
-      "primary_url": "https://github.com/rociiu/talorys",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_65fb79de01ca",
+      "title": "人工智能正在举办路边野餐 / AI Is Throwing a Roadside Picnic",
+      "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+      "primary_url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T14:52:04.483000Z"
+          "id": "e14e8276d990e632495168038d1287e96b2fd9e1",
+          "title": "人工智能正在举办路边野餐 / AI Is Throwing a Roadside Picnic",
+          "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-10T16:19:23Z"
         },
         {
-          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T10:52:09Z"
-        },
-        {
-          "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://news.ycombinator.com/item?id=50031614",
+          "id": "7ea968399e00bab398ff2aebe44ce11b85aa7aa6",
+          "title": "人工智能正在举办路边野餐 / AI Is Throwing a Roadside Picnic",
+          "url": "https://news.ycombinator.com/item?id=50034363",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-10T10:52:09Z"
+          "published_at": "2026-10-10T16:19:23Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T14:52:04.483000Z"
+          "id": "e14e8276d990e632495168038d1287e96b2fd9e1",
+          "title": "人工智能正在举办路边野餐 / AI Is Throwing a Roadside Picnic",
+          "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-10T16:19:23Z"
         },
         {
-          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T10:52:09Z"
-        },
-        {
-          "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://news.ycombinator.com/item?id=50031614",
+          "id": "7ea968399e00bab398ff2aebe44ce11b85aa7aa6",
+          "title": "人工智能正在举办路边野餐 / AI Is Throwing a Roadside Picnic",
+          "url": "https://news.ycombinator.com/item?id=50034363",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-10T10:52:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4462,
-      "importance": 0.4462,
-      "importance_score": 0.4462,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.366,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-10T10:52:09Z",
-      "latest_at": "2026-10-10T14:52:04.483000Z",
-      "primary_item": {
-        "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-        "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-        "url": "https://github.com/rociiu/talorys",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_20a53126bca4",
-      "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-      "url": "https://www.aibase.com/news/31519",
-      "primary_url": "https://www.aibase.com/news/31519",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/news/31519",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T06:07:29.654262Z"
-        },
-        {
-          "id": "e687541cb336449e82667e2921c2bddd9b38cd3b",
-          "title": "Anthropic 无法可靠控制 AI 代理：宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/zh/news/31519",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/news/31519",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T06:07:29.654262Z"
-        },
-        {
-          "id": "e687541cb336449e82667e2921c2bddd9b38cd3b",
-          "title": "Anthropic 无法可靠控制 AI 代理：宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/zh/news/31519",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-10T16:19:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6374,
-      "importance": 0.6374,
-      "importance_score": 0.6374,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0018,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T06:07:29.654262Z",
-      "latest_at": "2026-10-10T06:07:29.654262Z",
-      "primary_item": {
-        "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-        "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-        "url": "https://www.aibase.com/news/31519",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b6773085f128",
-      "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "primary_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T12:25:44.377000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T12:25:44.377000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.404,
-      "importance": 0.404,
-      "importance_score": 0.404,
+      "score": 0.3741,
+      "importance": 0.3741,
+      "importance_score": 0.3741,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2798,
+        "recency": 0.1304,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-10T12:25:44.377000Z",
-      "latest_at": "2026-10-10T12:47:56.511035Z",
+      "earliest_at": "2026-10-10T16:19:23Z",
+      "latest_at": "2026-10-10T16:19:23Z",
       "primary_item": {
-        "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-        "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_97d7debc79c0",
-      "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-      "url": "https://www.aibase.com/news/31527",
-      "primary_url": "https://www.aibase.com/news/31527",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b9d7cd38e7e5bf29886f014adbaa8cb36087619a",
-          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-          "url": "https://www.aibase.com/news/31527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T06:07:29.654262Z"
-        },
-        {
-          "id": "8a9d5971f6d89ebe6aba685c07c895d9a5d4b451",
-          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-          "url": "https://www.aibase.com/zh/news/31527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b9d7cd38e7e5bf29886f014adbaa8cb36087619a",
-          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-          "url": "https://www.aibase.com/news/31527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T06:07:29.654262Z"
-        },
-        {
-          "id": "8a9d5971f6d89ebe6aba685c07c895d9a5d4b451",
-          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-          "url": "https://www.aibase.com/zh/news/31527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6374,
-      "importance": 0.6374,
-      "importance_score": 0.6374,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0018,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T06:07:29.654262Z",
-      "latest_at": "2026-10-10T06:07:29.654262Z",
-      "primary_item": {
-        "id": "b9d7cd38e7e5bf29886f014adbaa8cb36087619a",
-        "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
-        "url": "https://www.aibase.com/news/31527",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ddbf35e86da2",
-      "title": "人工智能几乎没有什么“不可避免”之处 / LLMs Aren't Inevitable",
-      "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-      "primary_url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "253aadae0e8b5308beb6f3d41cb5e2161a4900e5",
-          "title": "人工智能几乎没有什么“不可避免”之处 / LLMs Aren't Inevitable",
-          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T12:04:04Z"
-        },
-        {
-          "id": "93725f49355ff10a8e90813436772b44a60144cf",
-          "title": "人工智能几乎没有什么“不可避免”之处 / There's little that's \"inevitable\" about AI",
-          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-10T12:04:04Z"
-        },
-        {
-          "id": "e0f2ade0915724c4d33389b2b1951af32e406c4e",
-          "title": "人工智能几乎没有什么“不可避免”之处",
-          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-          "source": "deadsimpletech.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T09:21:01.552000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "deadsimpletech.com"
-      ],
-      "items": [
-        {
-          "id": "253aadae0e8b5308beb6f3d41cb5e2161a4900e5",
-          "title": "人工智能几乎没有什么“不可避免”之处 / LLMs Aren't Inevitable",
-          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T12:04:04Z"
-        },
-        {
-          "id": "93725f49355ff10a8e90813436772b44a60144cf",
-          "title": "人工智能几乎没有什么“不可避免”之处 / There's little that's \"inevitable\" about AI",
-          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-10T12:04:04Z"
-        },
-        {
-          "id": "e0f2ade0915724c4d33389b2b1951af32e406c4e",
-          "title": "人工智能几乎没有什么“不可避免”之处",
-          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-          "source": "deadsimpletech.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T09:21:01.552000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4229,
-      "importance": 0.4229,
-      "importance_score": 0.4229,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2494,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-10T09:21:01.552000Z",
-      "latest_at": "2026-10-10T12:04:04Z",
-      "primary_item": {
-        "id": "253aadae0e8b5308beb6f3d41cb5e2161a4900e5",
-        "title": "人工智能几乎没有什么“不可避免”之处 / LLMs Aren't Inevitable",
-        "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "e14e8276d990e632495168038d1287e96b2fd9e1",
+        "title": "人工智能正在举办路边野餐 / AI Is Throwing a Roadside Picnic",
+        "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
