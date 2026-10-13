@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-13T12:22:49.112834Z",
+  "generated_at": "2026-10-13T19:24:20.488475Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ec7d63fa2768",
-      "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
-      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "story_id": "story_619c2f7b72d8",
+      "title": "GitHub Copilot 中的 Gemini 4 Argon / Gemini 4 Argon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
-          "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
-          "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+          "id": "b6ddea26aac5345367d8749b0949cb793c91c850",
+          "title": "GitHub Copilot 中的 Gemini 4 Argon / Gemini 4 Argon in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:03:17Z"
+          "published_at": "2026-10-13T18:39:56Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
-          "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
-          "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+          "id": "b6ddea26aac5345367d8749b0949cb793c91c850",
+          "title": "GitHub Copilot 中的 Gemini 4 Argon / Gemini 4 Argon in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-13T12:03:17Z"
+          "published_at": "2026-10-13T18:39:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8583,
-      "importance": 0.8583,
-      "importance_score": 0.8583,
+      "score": 0.8788,
+      "importance": 0.8788,
+      "importance_score": 0.8788,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9864,
+        "ai_relevance": 0.95,
+        "recency": 0.9692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,14 +54,617 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T12:03:17Z",
-      "latest_at": "2026-10-13T12:03:17Z",
+      "earliest_at": "2026-10-13T18:39:56Z",
+      "latest_at": "2026-10-13T18:39:56Z",
       "primary_item": {
-        "id": "b179efb6fc01acad3d80e0a10e0a338c893ce8d5",
-        "title": "安全概述中的代码扫描 AI Scan 指标 / Code scanning AI Scan metrics in security overview",
-        "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+        "id": "b6ddea26aac5345367d8749b0949cb793c91c850",
+        "title": "GitHub Copilot 中的 Gemini 4 Argon / Gemini 4 Argon in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_49fe8a3fc3d9",
+      "title": "GitHub 的秘密检测模型：以更少的噪音发现更多的秘密 / GitHub’s model for secret detection: Finding more secrets with less noise",
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+      "primary_url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f01f3a7d310f4a1b757425586ff23944627db99b",
+          "title": "GitHub 的秘密检测模型：以更少的噪音发现更多的秘密 / GitHub’s model for secret detection: Finding more secrets with less noise",
+          "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:56:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "f01f3a7d310f4a1b757425586ff23944627db99b",
+          "title": "GitHub 的秘密检测模型：以更少的噪音发现更多的秘密 / GitHub’s model for secret detection: Finding more secrets with less noise",
+          "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:56:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.939,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T17:56:33Z",
+      "latest_at": "2026-10-13T17:56:33Z",
+      "primary_item": {
+        "id": "f01f3a7d310f4a1b757425586ff23944627db99b",
+        "title": "GitHub 的秘密检测模型：以更少的噪音发现更多的秘密 / GitHub’s model for secret detection: Finding more secrets with less noise",
+        "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3612cc431738",
+      "title": "审核 GitHub 代码质量发现解雇和重新开放 / Audit GitHub Code Quality finding dismissals and reopenings",
+      "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
+      "primary_url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aa486656083f121a3451399a829d6562cea51e70",
+          "title": "审核 GitHub 代码质量发现解雇和重新开放 / Audit GitHub Code Quality finding dismissals and reopenings",
+          "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:58:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "aa486656083f121a3451399a829d6562cea51e70",
+          "title": "审核 GitHub 代码质量发现解雇和重新开放 / Audit GitHub Code Quality finding dismissals and reopenings",
+          "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:58:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9405,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T17:58:36Z",
+      "latest_at": "2026-10-13T17:58:36Z",
+      "primary_item": {
+        "id": "aa486656083f121a3451399a829d6562cea51e70",
+        "title": "审核 GitHub 代码质量发现解雇和重新开放 / Audit GitHub Code Quality finding dismissals and reopenings",
+        "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4a94d6f57422",
+      "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
+      "url": "https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9",
+      "primary_url": "https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9",
+      "source": "Artificial Analysis",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "57f02eb307531973f60d883fdc043874176f0d93",
+          "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
+          "url": "https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T18:00:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Artificial Analysis"
+      ],
+      "items": [
+        {
+          "id": "57f02eb307531973f60d883fdc043874176f0d93",
+          "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
+          "url": "https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T18:00:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9418,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T18:00:33Z",
+      "latest_at": "2026-10-13T18:00:33Z",
+      "primary_item": {
+        "id": "57f02eb307531973f60d883fdc043874176f0d93",
+        "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
+        "url": "https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9",
+        "source": "Artificial Analysis",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_590992729a28",
+      "title": "Greg Brockman 转述 XBOW 用 GPT-5.6 Sol 花 6 天和 4 万美元算力拿下 Chrome 全链漏洞赏金",
+      "url": "https://aihot.news/items/b2f3h454qou5v2v6y0x1i7xhe",
+      "primary_url": "https://aihot.news/items/b2f3h454qou5v2v6y0x1i7xhe",
+      "source": "Greg Brockman",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "40c58d4858cd308391f49bd44022925499def6c9",
+          "title": "Greg Brockman 转述 XBOW 用 GPT-5.6 Sol 花 6 天和 4 万美元算力拿下 Chrome 全链漏洞赏金",
+          "url": "https://aihot.news/items/b2f3h454qou5v2v6y0x1i7xhe",
+          "source": "Greg Brockman",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T17:43:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Greg Brockman"
+      ],
+      "items": [
+        {
+          "id": "40c58d4858cd308391f49bd44022925499def6c9",
+          "title": "Greg Brockman 转述 XBOW 用 GPT-5.6 Sol 花 6 天和 4 万美元算力拿下 Chrome 全链漏洞赏金",
+          "url": "https://aihot.news/items/b2f3h454qou5v2v6y0x1i7xhe",
+          "source": "Greg Brockman",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T17:43:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.93,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T17:43:29Z",
+      "latest_at": "2026-10-13T17:43:29Z",
+      "primary_item": {
+        "id": "40c58d4858cd308391f49bd44022925499def6c9",
+        "title": "Greg Brockman 转述 XBOW 用 GPT-5.6 Sol 花 6 天和 4 万美元算力拿下 Chrome 全链漏洞赏金",
+        "url": "https://aihot.news/items/b2f3h454qou5v2v6y0x1i7xhe",
+        "source": "Greg Brockman",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_92c4b6c8976b",
+      "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+      "url": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf",
+      "primary_url": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf",
+      "source": "OpenRouter",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a7f5c37e5fe5918b4e3435854db52a1b3f77e2ea",
+          "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+          "url": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf",
+          "source": "OpenRouter",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:26:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter"
+      ],
+      "items": [
+        {
+          "id": "a7f5c37e5fe5918b4e3435854db52a1b3f77e2ea",
+          "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+          "url": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf",
+          "source": "OpenRouter",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:26:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8763,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:26:15Z",
+      "latest_at": "2026-10-13T16:26:15Z",
+      "primary_item": {
+        "id": "a7f5c37e5fe5918b4e3435854db52a1b3f77e2ea",
+        "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
+        "url": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf",
+        "source": "OpenRouter",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1cc80f01608a",
+      "title": "Salesforce 补充道，秘密扫描默认会阻止人为密钥 / Secret scanning blocks Anthropic keys by default, adds Salesforce",
+      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "primary_url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+          "title": "Salesforce 补充道，秘密扫描默认会阻止人为密钥 / Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:12:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+          "title": "Salesforce 补充道，秘密扫描默认会阻止人为密钥 / Secret scanning blocks Anthropic keys by default, adds Salesforce",
+          "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:12:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8668,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:12:36Z",
+      "latest_at": "2026-10-13T16:12:36Z",
+      "primary_item": {
+        "id": "f261c399866f5bed612f3badc309d5e56d8ec694",
+        "title": "Salesforce 补充道，秘密扫描默认会阻止人为密钥 / Secret scanning blocks Anthropic keys by default, adds Salesforce",
+        "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_85a88374be10",
+      "title": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用",
+      "url": "https://aihot.news/items/togu0fgnc2t2ghpnzlg61ev4o",
+      "primary_url": "https://aihot.news/items/togu0fgnc2t2ghpnzlg61ev4o",
+      "source": "Gemini",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2658b76a1c5313f340b519d4889b5707bdf03498",
+          "title": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用",
+          "url": "https://aihot.news/items/togu0fgnc2t2ghpnzlg61ev4o",
+          "source": "Gemini",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:05:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gemini"
+      ],
+      "items": [
+        {
+          "id": "2658b76a1c5313f340b519d4889b5707bdf03498",
+          "title": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用",
+          "url": "https://aihot.news/items/togu0fgnc2t2ghpnzlg61ev4o",
+          "source": "Gemini",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:05:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8622,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:05:51Z",
+      "latest_at": "2026-10-13T16:05:51Z",
+      "primary_item": {
+        "id": "2658b76a1c5313f340b519d4889b5707bdf03498",
+        "title": "Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用",
+        "url": "https://aihot.news/items/togu0fgnc2t2ghpnzlg61ev4o",
+        "source": "Gemini",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2e3c6a5b07d4",
+      "title": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%",
+      "url": "https://aihot.news/items/op2q1wocmlbuvauflpfdb7u0f",
+      "primary_url": "https://aihot.news/items/op2q1wocmlbuvauflpfdb7u0f",
+      "source": "Google DeepMind：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0d42ec80664021b9ab7d33a470a0529dba86543",
+          "title": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%",
+          "url": "https://aihot.news/items/op2q1wocmlbuvauflpfdb7u0f",
+          "source": "Google DeepMind：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:01:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind：Blog"
+      ],
+      "items": [
+        {
+          "id": "f0d42ec80664021b9ab7d33a470a0529dba86543",
+          "title": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%",
+          "url": "https://aihot.news/items/op2q1wocmlbuvauflpfdb7u0f",
+          "source": "Google DeepMind：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:01:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8595,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:01:58Z",
+      "latest_at": "2026-10-13T16:01:58Z",
+      "primary_item": {
+        "id": "f0d42ec80664021b9ab7d33a470a0529dba86543",
+        "title": "Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%",
+        "url": "https://aihot.news/items/op2q1wocmlbuvauflpfdb7u0f",
+        "source": "Google DeepMind：Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_509086838cd3",
+      "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+      "url": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
+      "primary_url": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
+      "source": "Google Blog：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "41bb0ad1e3f5e090a2a808f498403cc4becb36c6",
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+          "url": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
+          "source": "Google Blog：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Blog：AI"
+      ],
+      "items": [
+        {
+          "id": "41bb0ad1e3f5e090a2a808f498403cc4becb36c6",
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+          "url": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
+          "source": "Google Blog：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8581,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:00:00Z",
+      "latest_at": "2026-10-13T16:00:00Z",
+      "primary_item": {
+        "id": "41bb0ad1e3f5e090a2a808f498403cc4becb36c6",
+        "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+        "url": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
+        "source": "Google Blog：AI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_35e97f92b872",
+      "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
+      "url": "https://aihot.news/items/tggiswcje6mz1ti081jfbro43",
+      "primary_url": "https://aihot.news/items/tggiswcje6mz1ti081jfbro43",
+      "source": "ElevenLabs",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0b0356003cc5926b487a79a39883a159b0f6d0bb",
+          "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
+          "url": "https://aihot.news/items/tggiswcje6mz1ti081jfbro43",
+          "source": "ElevenLabs",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T15:58:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ElevenLabs"
+      ],
+      "items": [
+        {
+          "id": "0b0356003cc5926b487a79a39883a159b0f6d0bb",
+          "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
+          "url": "https://aihot.news/items/tggiswcje6mz1ti081jfbro43",
+          "source": "ElevenLabs",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T15:58:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8568,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T15:58:09Z",
+      "latest_at": "2026-10-13T15:58:09Z",
+      "primary_item": {
+        "id": "0b0356003cc5926b487a79a39883a159b0f6d0bb",
+        "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
+        "url": "https://aihot.news/items/tggiswcje6mz1ti081jfbro43",
+        "source": "ElevenLabs",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -118,14 +721,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7073,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -142,6 +745,186 @@
         "url": "https://www.aibase.com/news/31611",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_972b3f017e04",
+      "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
+      "url": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
+      "primary_url": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
+      "source": "Apple：Newsroom",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7b3ab63e13e0f7d328d6912b4cfa49ad60404d3",
+          "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
+          "url": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
+          "source": "Apple：Newsroom",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T12:59:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Apple：Newsroom"
+      ],
+      "items": [
+        {
+          "id": "d7b3ab63e13e0f7d328d6912b4cfa49ad60404d3",
+          "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
+          "url": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
+          "source": "Apple：Newsroom",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T12:59:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7326,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T12:59:16Z",
+      "latest_at": "2026-10-13T12:59:16Z",
+      "primary_item": {
+        "id": "d7b3ab63e13e0f7d328d6912b4cfa49ad60404d3",
+        "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
+        "url": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
+        "source": "Apple：Newsroom",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_19658fef0cb5",
+      "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
+      "url": "https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov",
+      "primary_url": "https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov",
+      "source": "LangChain：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5949912ad1978f739864a01eed4e556de6124e55",
+          "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
+          "url": "https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov",
+          "source": "LangChain：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T12:59:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LangChain：Blog"
+      ],
+      "items": [
+        {
+          "id": "5949912ad1978f739864a01eed4e556de6124e55",
+          "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
+          "url": "https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov",
+          "source": "LangChain：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T12:59:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7325,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T12:59:12Z",
+      "latest_at": "2026-10-13T12:59:12Z",
+      "primary_item": {
+        "id": "5949912ad1978f739864a01eed4e556de6124e55",
+        "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
+        "url": "https://aihot.news/items/cgbpvdepk4p1jrrawgzbfbxov",
+        "source": "LangChain：Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3d0a9b7571fd",
+      "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
+      "url": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+      "primary_url": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ad698a42e1015b054a407458384bb84a0b5563b8",
+          "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
+          "url": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T12:23:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "ad698a42e1015b054a407458384bb84a0b5563b8",
+          "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
+          "url": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T12:23:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7079,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T12:23:42Z",
+      "latest_at": "2026-10-13T12:23:42Z",
+      "primary_item": {
+        "id": "ad698a42e1015b054a407458384bb84a0b5563b8",
+        "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
+        "url": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -179,14 +962,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -201,66 +984,6 @@
         "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市",
         "url": "https://aihot.news/items/ug7g6psicfobnnft0ebgpyl10",
         "source": "NVIDIA Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1407277f8191",
-      "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-      "url": "https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8",
-      "primary_url": "https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8",
-      "source": "LangChain：Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c009b7ae7036f33ac79ba474da83050d3a87ac81",
-          "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-          "url": "https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8",
-          "source": "LangChain：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T11:56:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LangChain：Blog"
-      ],
-      "items": [
-        {
-          "id": "c009b7ae7036f33ac79ba474da83050d3a87ac81",
-          "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-          "url": "https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8",
-          "source": "LangChain：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T11:56:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.982,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T11:56:53Z",
-      "latest_at": "2026-10-13T11:56:53Z",
-      "primary_item": {
-        "id": "c009b7ae7036f33ac79ba474da83050d3a87ac81",
-        "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-        "url": "https://aihot.news/items/uljn62mk9ujyya1xg51hc6dp8",
-        "source": "LangChain：Blog",
         "source_name": "AI HOT"
       }
     },
@@ -318,14 +1041,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7073,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -379,20 +1102,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9233,
+        "recency": 0.6306,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-13T10:32:23Z",
       "latest_at": "2026-10-13T10:32:23Z",
@@ -439,20 +1161,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9212,
+        "recency": 0.6285,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-13T10:29:21Z",
       "latest_at": "2026-10-13T10:29:21Z",
@@ -465,241 +1186,21 @@
       }
     },
     {
-      "story_id": "story_887644ec52a3",
-      "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-      "url": "https://www.aibase.com/news/31616",
-      "primary_url": "https://www.aibase.com/news/31616",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "62c4807d896455add2e35a7ce231aa7ea11b3c13",
-          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-          "url": "https://www.aibase.com/news/31616",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        },
-        {
-          "id": "2bee30aae3e7dadd76aa121aa5c02ff6dd03c709",
-          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-          "url": "https://www.aibase.com/zh/news/31616",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "62c4807d896455add2e35a7ce231aa7ea11b3c13",
-          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-          "url": "https://www.aibase.com/news/31616",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        },
-        {
-          "id": "2bee30aae3e7dadd76aa121aa5c02ff6dd03c709",
-          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-          "url": "https://www.aibase.com/zh/news/31616",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:22:49.112834Z",
-      "latest_at": "2026-10-13T12:22:49.112834Z",
-      "primary_item": {
-        "id": "62c4807d896455add2e35a7ce231aa7ea11b3c13",
-        "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-        "url": "https://www.aibase.com/news/31616",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_67b74dfa46c2",
-      "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-      "url": "https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi",
-      "primary_url": "https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi",
-      "source": "公众号：千问APP",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "86a39260f4625c04c17f55fc102a319166661243",
-          "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-          "url": "https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi",
-          "source": "公众号：千问APP",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T08:06:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP"
-      ],
-      "items": [
-        {
-          "id": "86a39260f4625c04c17f55fc102a319166661243",
-          "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-          "url": "https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi",
-          "source": "公众号：千问APP",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T08:06:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8223,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T08:06:57Z",
-      "latest_at": "2026-10-13T08:06:57Z",
-      "primary_item": {
-        "id": "86a39260f4625c04c17f55fc102a319166661243",
-        "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-        "url": "https://aihot.news/items/bnwd1psqg66c268n4i1mal2pi",
-        "source": "公众号：千问APP",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fd26e1300b5c",
-      "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
-      "url": "https://www.aibase.com/news/31615",
-      "primary_url": "https://www.aibase.com/news/31615",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "20a6dbaf671ff3e3f0f62e7c652198e0a9783928",
-          "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
-          "url": "https://www.aibase.com/news/31615",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        },
-        {
-          "id": "df4b482241dd4439d58f9e19ffad23656f3a6e7e",
-          "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
-          "url": "https://www.aibase.com/zh/news/31615",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "20a6dbaf671ff3e3f0f62e7c652198e0a9783928",
-          "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
-          "url": "https://www.aibase.com/news/31615",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        },
-        {
-          "id": "df4b482241dd4439d58f9e19ffad23656f3a6e7e",
-          "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
-          "url": "https://www.aibase.com/zh/news/31615",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:22:49.112834Z",
-      "latest_at": "2026-10-13T12:22:49.112834Z",
-      "primary_item": {
-        "id": "20a6dbaf671ff3e3f0f62e7c652198e0a9783928",
-        "title": "面壁智能端侧多模态 MiniCPM-V 4.7 发布：3GB 内存跑出 13+ token/s",
-        "url": "https://www.aibase.com/news/31615",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c1d34165b490",
-      "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
-      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
-      "primary_url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "story_id": "story_5930bcfe33ce",
+      "title": "企业托管设置强制更新 / Enterprise managed settings enforcement updates",
+      "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+      "primary_url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "896121d98ef8227ad431f910e0a960594c422738",
-          "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
-          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "id": "76121c3382bf89148d718d62808d2ea54f5748f9",
+          "title": "企业托管设置强制更新 / Enterprise managed settings enforcement updates",
+          "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-12T22:38:00Z"
+          "published_at": "2026-10-13T15:20:10Z"
         }
       ],
       "source_count": 1,
@@ -708,728 +1209,41 @@
       ],
       "items": [
         {
-          "id": "896121d98ef8227ad431f910e0a960594c422738",
-          "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
-          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "id": "76121c3382bf89148d718d62808d2ea54f5748f9",
+          "title": "企业托管设置强制更新 / Enterprise managed settings enforcement updates",
+          "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-12T22:38:00Z"
+          "published_at": "2026-10-13T15:20:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4272,
+        "recency": 0.8304,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-12T22:38:00Z",
-      "latest_at": "2026-10-12T22:38:00Z",
+      "earliest_at": "2026-10-13T15:20:10Z",
+      "latest_at": "2026-10-13T15:20:10Z",
       "primary_item": {
-        "id": "896121d98ef8227ad431f910e0a960594c422738",
-        "title": "客户端遥测用户归因和可配置捕获 / Client telemetry user attribution and configurable capture",
-        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+        "id": "76121c3382bf89148d718d62808d2ea54f5748f9",
+        "title": "企业托管设置强制更新 / Enterprise managed settings enforcement updates",
+        "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_13a936d53442",
-      "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
-      "url": "https://www.aibase.com/news/31599",
-      "primary_url": "https://www.aibase.com/news/31599",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bdd69da8a3134e313054297660085672f4069297",
-          "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
-          "url": "https://www.aibase.com/news/31599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bdd69da8a3134e313054297660085672f4069297",
-          "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
-          "url": "https://www.aibase.com/news/31599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:22:49.112834Z",
-      "latest_at": "2026-10-13T12:22:49.112834Z",
-      "primary_item": {
-        "id": "bdd69da8a3134e313054297660085672f4069297",
-        "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
-        "url": "https://www.aibase.com/news/31599",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2ce682f6eee2",
-      "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-      "url": "https://www.aibase.com/news/31613",
-      "primary_url": "https://www.aibase.com/news/31613",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8893e38751dc4d8d52a1065d8e94c5f3c9bbd096",
-          "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-          "url": "https://www.aibase.com/news/31613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8893e38751dc4d8d52a1065d8e94c5f3c9bbd096",
-          "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-          "url": "https://www.aibase.com/news/31613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:22:49.112834Z",
-      "latest_at": "2026-10-13T12:22:49.112834Z",
-      "primary_item": {
-        "id": "8893e38751dc4d8d52a1065d8e94c5f3c9bbd096",
-        "title": "700 颗自主气球飞进台风眼：WindBorne 拿下美国空军近 5000 万美元合同",
-        "url": "https://www.aibase.com/news/31613",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d27aaabe747e",
-      "title": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
-      "url": "https://www.aibase.com/news/31600",
-      "primary_url": "https://www.aibase.com/news/31600",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6e8bbcacccbbf036cf3f8740f51c678c4e533243",
-          "title": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
-          "url": "https://www.aibase.com/news/31600",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6e8bbcacccbbf036cf3f8740f51c678c4e533243",
-          "title": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
-          "url": "https://www.aibase.com/news/31600",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:22:49.112834Z",
-      "latest_at": "2026-10-13T12:22:49.112834Z",
-      "primary_item": {
-        "id": "6e8bbcacccbbf036cf3f8740f51c678c4e533243",
-        "title": "Anthropic 拉响红色警报：小型 AI 模型几个月内或将学会自我复制，而且你关不掉它",
-        "url": "https://www.aibase.com/news/31600",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7ebfc696c808",
-      "title": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
-      "url": "https://www.aibase.com/news/31603",
-      "primary_url": "https://www.aibase.com/news/31603",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "28ce7aae28115993a7d6a3c9fb03aaebbbe9ec05",
-          "title": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
-          "url": "https://www.aibase.com/news/31603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "28ce7aae28115993a7d6a3c9fb03aaebbbe9ec05",
-          "title": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
-          "url": "https://www.aibase.com/news/31603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:22:49.112834Z",
-      "latest_at": "2026-10-13T12:22:49.112834Z",
-      "primary_item": {
-        "id": "28ce7aae28115993a7d6a3c9fb03aaebbbe9ec05",
-        "title": "Anthropic 警告：AI 离\"自我复制\"只差几个月，关都关不掉",
-        "url": "https://www.aibase.com/news/31603",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_85cd2af8d932",
-      "title": "Epic 逼迪士尼射击游戏\"AI 优先\"：代码不再手敲，2027 发售已无限延期",
-      "url": "https://www.aibase.com/news/31607",
-      "primary_url": "https://www.aibase.com/news/31607",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "39166e252c0e51f895962f4e1449054d569c704b",
-          "title": "Epic 逼迪士尼射击游戏\"AI 优先\"：代码不再手敲，2027 发售已无限延期",
-          "url": "https://www.aibase.com/news/31607",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "39166e252c0e51f895962f4e1449054d569c704b",
-          "title": "Epic 逼迪士尼射击游戏\"AI 优先\"：代码不再手敲，2027 发售已无限延期",
-          "url": "https://www.aibase.com/news/31607",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T12:22:49.112834Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:22:49.112834Z",
-      "latest_at": "2026-10-13T12:22:49.112834Z",
-      "primary_item": {
-        "id": "39166e252c0e51f895962f4e1449054d569c704b",
-        "title": "Epic 逼迪士尼射击游戏\"AI 优先\"：代码不再手敲，2027 发售已无限延期",
-        "url": "https://www.aibase.com/news/31607",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_71afce8b579b",
-      "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-      "url": "https://pdftomp3.com/connect-ai",
-      "primary_url": "https://pdftomp3.com/connect-ai",
-      "source": "pdftomp3.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b238f17895613bb0a4b1788f539d3bdbaa51e236",
-          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "url": "https://pdftomp3.com/connect-ai",
-          "source": "pdftomp3.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T10:17:52.180000Z"
-        },
-        {
-          "id": "f95d360f2d5bc0626b7ef3c8aabfc42fcca5b380",
-          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-          "url": "https://pdftomp3.com/connect-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-13T10:08:34Z"
-        },
-        {
-          "id": "f8bfb6e1553b44437f9348f922a80b001e27d52c",
-          "title": "Show HN：使用您的 OpenAI 订阅来创建有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-          "url": "https://news.ycombinator.com/item?id=50069337",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-13T10:08:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "pdftomp3.com"
-      ],
-      "items": [
-        {
-          "id": "b238f17895613bb0a4b1788f539d3bdbaa51e236",
-          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-          "url": "https://pdftomp3.com/connect-ai",
-          "source": "pdftomp3.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T10:17:52.180000Z"
-        },
-        {
-          "id": "f95d360f2d5bc0626b7ef3c8aabfc42fcca5b380",
-          "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-          "url": "https://pdftomp3.com/connect-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-13T10:08:34Z"
-        },
-        {
-          "id": "f8bfb6e1553b44437f9348f922a80b001e27d52c",
-          "title": "Show HN：使用您的 OpenAI 订阅来创建有声读物 / Show HN: Use your OpenAI subscription to create audiobooks",
-          "url": "https://news.ycombinator.com/item?id=50069337",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-13T10:08:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5556,
-      "importance": 0.5556,
-      "importance_score": 0.5556,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9132,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-13T10:08:34Z",
-      "latest_at": "2026-10-13T10:17:52.180000Z",
-      "primary_item": {
-        "id": "b238f17895613bb0a4b1788f539d3bdbaa51e236",
-        "title": "Show HN: 使用您的 OpenAI 订阅来制作有声读物",
-        "url": "https://pdftomp3.com/connect-ai",
-        "source": "pdftomp3.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_224c102190be",
-      "title": "AI 模型能够以可证明的方式隐藏任意能力",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "primary_url": "https://arxiv.org/abs/2610.13928",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3b25590aadf6a2afbce1803e0b9d971f3c6eb2de",
-          "title": "AI 模型能够以可证明的方式隐藏任意能力",
-          "url": "https://arxiv.org/abs/2610.13928",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T09:23:14.487000Z"
-        },
-        {
-          "id": "73fed838bd8f4585d7ccc4be79e112f2bf180990",
-          "title": "AI 模型能够以可证明的方式隐藏任意能力 / AI models can provably hide arbitrary capabilities",
-          "url": "https://arxiv.org/abs/2610.13928",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-13T02:07:08Z"
-        },
-        {
-          "id": "5035c112c0a843b500d82511a8f7f47f561ed52c",
-          "title": "人工智能模型可以证明隐藏任意功能 / AI models can provably hide arbitrary capabilities",
-          "url": "https://news.ycombinator.com/item?id=50065692",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-13T02:07:08Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3b25590aadf6a2afbce1803e0b9d971f3c6eb2de",
-          "title": "AI 模型能够以可证明的方式隐藏任意能力",
-          "url": "https://arxiv.org/abs/2610.13928",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T09:23:14.487000Z"
-        },
-        {
-          "id": "73fed838bd8f4585d7ccc4be79e112f2bf180990",
-          "title": "AI 模型能够以可证明的方式隐藏任意能力 / AI models can provably hide arbitrary capabilities",
-          "url": "https://arxiv.org/abs/2610.13928",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-13T02:07:08Z"
-        },
-        {
-          "id": "5035c112c0a843b500d82511a8f7f47f561ed52c",
-          "title": "人工智能模型可以证明隐藏任意功能 / AI models can provably hide arbitrary capabilities",
-          "url": "https://news.ycombinator.com/item?id=50065692",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-13T02:07:08Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8753,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-13T02:07:08Z",
-      "latest_at": "2026-10-13T09:23:14.487000Z",
-      "primary_item": {
-        "id": "3b25590aadf6a2afbce1803e0b9d971f3c6eb2de",
-        "title": "AI 模型能够以可证明的方式隐藏任意能力",
-        "url": "https://arxiv.org/abs/2610.13928",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9ca2bcd34e54",
-      "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
-      "url": "https://github.com/prabanta-dev/janas",
-      "primary_url": "https://github.com/prabanta-dev/janas",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc592de18d6b6a9d3bfdf873f95c49b2bc39230d",
-          "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
-          "url": "https://github.com/prabanta-dev/janas",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T09:23:14.483000Z"
-        },
-        {
-          "id": "f0eb30847d99f6b23d4f5deb477464a5c95ccb1c",
-          "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型 / Janas: Run LLMs larger than RAM by streaming experts from SSD",
-          "url": "https://github.com/prabanta-dev/janas",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-12T22:05:43Z"
-        },
-        {
-          "id": "01044dc7a8f3e57bcbbcc1f9f05d1d5733666514",
-          "title": "Janas：由 SSD 的流媒体专家运行比 RAM 更大的 LLM / Janas: Run LLMs larger than RAM by streaming experts from SSD",
-          "url": "https://news.ycombinator.com/item?id=50063717",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T22:05:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dc592de18d6b6a9d3bfdf873f95c49b2bc39230d",
-          "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
-          "url": "https://github.com/prabanta-dev/janas",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T09:23:14.483000Z"
-        },
-        {
-          "id": "f0eb30847d99f6b23d4f5deb477464a5c95ccb1c",
-          "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型 / Janas: Run LLMs larger than RAM by streaming experts from SSD",
-          "url": "https://github.com/prabanta-dev/janas",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-12T22:05:43Z"
-        },
-        {
-          "id": "01044dc7a8f3e57bcbbcc1f9f05d1d5733666514",
-          "title": "Janas：由 SSD 的流媒体专家运行比 RAM 更大的 LLM / Janas: Run LLMs larger than RAM by streaming experts from SSD",
-          "url": "https://news.ycombinator.com/item?id=50063717",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-12T22:05:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8753,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-12T22:05:43Z",
-      "latest_at": "2026-10-13T09:23:14.483000Z",
-      "primary_item": {
-        "id": "dc592de18d6b6a9d3bfdf873f95c49b2bc39230d",
-        "title": "Janas：通过从SSD流式传输专家数据，运行规模超过内存的大规模语言模型",
-        "url": "https://github.com/prabanta-dev/janas",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_411a156b713b",
-      "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "primary_url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "source": "www.argmin.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cd0134a3d93c304d61b0289ce357f328b5cece53",
-          "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
-          "url": "https://www.argmin.net/p/faster-fourier-transforms",
-          "source": "www.argmin.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T09:23:14.703000Z"
-        },
-        {
-          "id": "de113aadcdbe6416285304d10af9fbe1b9a1d83b",
-          "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理 / A look at the math that OpenAI claims computes faster Fourier transforms",
-          "url": "https://www.argmin.net/p/faster-fourier-transforms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-13T02:46:43Z"
-        },
-        {
-          "id": "ddcb0b1d5c26199fa8c1d9681e5fd4bc85b14760",
-          "title": "OpenAI 声称可以更快地计算傅立叶变换的数学原理 / A look at the math that OpenAI claims computes faster Fourier transforms",
-          "url": "https://news.ycombinator.com/item?id=50065932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-13T02:46:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.argmin.net"
-      ],
-      "items": [
-        {
-          "id": "cd0134a3d93c304d61b0289ce357f328b5cece53",
-          "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
-          "url": "https://www.argmin.net/p/faster-fourier-transforms",
-          "source": "www.argmin.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-13T09:23:14.703000Z"
-        },
-        {
-          "id": "de113aadcdbe6416285304d10af9fbe1b9a1d83b",
-          "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理 / A look at the math that OpenAI claims computes faster Fourier transforms",
-          "url": "https://www.argmin.net/p/faster-fourier-transforms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-13T02:46:43Z"
-        },
-        {
-          "id": "ddcb0b1d5c26199fa8c1d9681e5fd4bc85b14760",
-          "title": "OpenAI 声称可以更快地计算傅立叶变换的数学原理 / A look at the math that OpenAI claims computes faster Fourier transforms",
-          "url": "https://news.ycombinator.com/item?id=50065932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-13T02:46:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8753,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-13T02:46:43Z",
-      "latest_at": "2026-10-13T09:23:14.703000Z",
-      "primary_item": {
-        "id": "cd0134a3d93c304d61b0289ce357f328b5cece53",
-        "title": "深入解析 OpenAI 声称能加速傅里叶变换的数学原理",
-        "url": "https://www.argmin.net/p/faster-fourier-transforms",
-        "source": "www.argmin.net",
-        "source_name": "Buzzing"
       }
     }
   ]
