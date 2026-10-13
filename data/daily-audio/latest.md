@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年10月12日人工智能热点分享
-1、唯品会悄悄上线 AI 助手"小唯"，重点是能聊天能比价，重金招人月薪最高 8 万。
-2、AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档，这条新闻关注相关变化背后的原因和影响。
-3、Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游。
-4、唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段。
-5、阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周。
-6、宇树科技王兴兴发声，重点是过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发。
-7、微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署，属于 AI 基础设施和算力成本相关信号。
-8、QGIS 通过 QEP428 禁止 AI 辅助贡献。
-9、Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI。
-10、OpenAI 给 GPT-6.1 Sol 扩容，重点是默认上下文 272k 飙到 500k，长文本还免费。
+2026年10月13日人工智能热点分享
+1、GitHub Copilot 中的 Gemini 4 Argon。
+2、GitHub 的秘密检测模型，重点是以更少的噪音发现更多的秘密。
+3、Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%。
+4、Greg Brockman 转述 XBOW 用 GPT-5.6 Sol 花 6 天和 4 万美元算力拿下 Chrome 全链漏洞赏金，属于 AI 基础设施和算力成本相关信号。
+5、Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter。
+6、Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用。
+7、Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%。
+8、Google 发布 Gemini 4 Argon，重点是面向复杂工程与科研任务的前沿模型。
+9、ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲。
+10、Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产。
 
 ## 原始链接
-1. 唯品会悄悄上线 AI 助手"小唯"：能聊天能比价，重金招人月薪最高 8 万（AIbase） - https://www.aibase.com/news/31570
-2. AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档（AIbase） - https://www.aibase.com/news/31568
-3. Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游（AIbase） - https://www.aibase.com/news/31567
-4. 唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段（AIbase） - https://www.aibase.com/news/31566
-5. 阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周（AIbase） - https://www.aibase.com/news/31565
-6. 宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发（AIbase） - https://www.aibase.com/news/31564
-7. 微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署（Satya Nadella） - https://aihot.news/items/zqlqer8tnl7ejg2ow3xoq7b9q
-8. QGIS 通过 QEP428 禁止 AI 辅助贡献（Hacker News：AI 热帖） - https://aihot.news/items/t0gnehm6pcbj4xyn5f3txv1ge
-9. Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI（AIbase） - https://www.aibase.com/news/31556
-10. OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费（AIbase） - https://www.aibase.com/news/31560
+1. GitHub Copilot 中的 Gemini 4 Argon（GitHub 更新日志） - https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot
+2. GitHub 的秘密检测模型：以更少的噪音发现更多的秘密（GitHub AI & ML） - https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise
+3. Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%（Artificial Analysis） - https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9
+4. Greg Brockman 转述 XBOW 用 GPT-5.6 Sol 花 6 天和 4 万美元算力拿下 Chrome 全链漏洞赏金（Greg Brockman） - https://aihot.news/items/b2f3h454qou5v2v6y0x1i7xhe
+5. Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter（OpenRouter） - https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf
+6. Google 发布 Gemini 4 Argon 并逐步推送至 Gemini 应用（Gemini） - https://aihot.news/items/togu0fgnc2t2ghpnzlg61ev4o
+7. Google DeepMind 发布 Gemini 4 Argon 机器人模型，ERQA 基准得分 87%（Google DeepMind：Blog） - https://aihot.news/items/op2q1wocmlbuvauflpfdb7u0f
+8. Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型（Google Blog：AI） - https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf
+9. ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲（ElevenLabs） - https://aihot.news/items/tggiswcje6mz1ti081jfbro43
+10. Character.AI 申请破产，迪士尼 2000 万美元抄底接手部分资产（AIbase） - https://www.aibase.com/news/31611
