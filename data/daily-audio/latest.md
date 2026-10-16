@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年10月15日人工智能热点分享
-1、Apertus 1.5 发布说明。
-2、教学生通过问题思考和学习。
-3、Anthropic 正式宣布在新加坡设立办事处，并与新加坡政府达成战略合作。
-4、开源应用 Llama for Windows 正式发布，重点是一键下载模型，轻松在电脑本地玩转 AI。
-5、Wallet Wars，重点是AI 智能体支付之争的格局与走向。
-6、StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能。
-7、8 州联手起诉 OpenAI，重点是ChatGPT"假朋友"伤害儿童，家长被指受骗。
-8、Anthropic 正式确认 Claude 订阅额度全面打通第三方应用。
-9、腾讯 AI 管家"马维斯"上架鸿蒙，重点是手机电脑一把抓，老用户无缝续杯。
-10、蚂蚁百灵开源 Ling-3.1-flash，重点是560B级模型部署降至4卡，最高支持1M上下文。
+2026年10月16日人工智能热点分享
+1、印度首报"失控智能体"，重点是AI 测试时擅自入侵企业系统，受害方浑然不知。
+2、小红书强化 AI 技术与产品协同，明确模型应用优先方向。
+3、AI 代理网购遭亚马逊封杀！马斯克被逼急，重点是大不了自己建个电商帝国去竞争。
+4、AI日报，重点是Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型。
+5、NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI。
+6、OpenAI 升级 ChatGPT 扩展，重点是多标签页联动与网页智能代办全面上线。
+7、微软完成 MAI-Base-2 预训练：2.8T 参数碾压开源对手，算力效率超 DeepSeek 数倍，属于 AI 基础设施和算力成本相关信号。
+8、欢迎光束，重点是您可以拥有、定制和扩展的 501B 开放模型。
+9、ChatGPT 浏览器扩展大升级，重点是能读你开着的标签页，还替你填表发信。
+10、Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波，说明 AI 编码能力正在嵌入协作和生产力工具。
 
 ## 原始链接
-1. Apertus 1.5 发布说明（Hugging Face 博客） - https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes
-2. 教学生通过问题思考和学习（OpenAI News） - https://openai.com/index/teaching-students-to-think-and-learn-through-questions
-3. Anthropic 正式宣布在新加坡设立办事处，并与新加坡政府达成战略合作（AIbase） - https://www.aibase.com/news/31672
-4. 开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI（AIbase） - https://www.aibase.com/news/31671
-5. Wallet Wars：AI 智能体支付之争的格局与走向（a16z：News） - https://aihot.news/items/srhtsyvk0kxb4368shueq84pf
-6. StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能（阶跃星辰 StepFun） - https://aihot.news/items/l3g1uzem751ki1oxckrxa1b3e
-7. 8 州联手起诉 OpenAI：ChatGPT"假朋友"伤害儿童，家长被指受骗（AIbase） - https://www.aibase.com/news/31669
-8. Anthropic 正式确认 Claude 订阅额度全面打通第三方应用（AIbase） - https://www.aibase.com/news/31665
-9. 腾讯 AI 管家"马维斯"上架鸿蒙：手机电脑一把抓，老用户无缝续杯（AIbase） - https://www.aibase.com/news/31667
-10. 蚂蚁百灵开源 Ling-3.1-flash:560B级模型部署降至4卡，最高支持1M上下文（AIbase） - https://www.aibase.com/news/31660
+1. 印度首报"失控智能体"：AI 测试时擅自入侵企业系统，受害方浑然不知（AIbase） - https://www.aibase.com/news/31700
+2. 小红书强化 AI 技术与产品协同，明确模型应用优先方向（AIbase） - https://www.aibase.com/news/31701
+3. AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争（AIbase） - https://www.aibase.com/news/31702
+4. AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型（AIbase） - https://www.aibase.com/news/31699
+5. NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI（NVIDIA：Newsroom） - https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr
+6. OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线（AIbase） - https://www.aibase.com/news/31694
+7. 微软完成 MAI-Base-2 预训练：2.8T 参数碾压开源对手，算力效率超 DeepSeek 数倍（AIbase） - https://www.aibase.com/news/31691
+8. 欢迎光束：您可以拥有、定制和扩展的 501B 开放模型（Hugging Face 博客） - https://huggingface.co/blog/reflection-beam
+9. ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信（AIbase） - https://www.aibase.com/news/31697
+10. Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波（AIbase） - https://www.aibase.com/news/31696
