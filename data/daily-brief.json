@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:57:30.707086Z",
+  "generated_at": "2026-10-17T21:13:39.748525Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6469,
+        "recency": 0.5523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.64,
+        "recency": 0.5454,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -119,6 +119,103 @@
         "url": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_28fe2bff247e",
+      "title": "OpenAI披露了另外四起违规事件",
+      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+      "primary_url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+      "source": "fortune.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a3297038fde279329518cbac6dd672063aaa53d2",
+          "title": "OpenAI披露了另外四起违规事件",
+          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+          "source": "fortune.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T19:22:11.943000Z"
+        },
+        {
+          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
+          "title": "OpenAI披露了另外四起违规事件 / OpenAI discloses four more rogue incidents",
+          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T16:31:12Z"
+        },
+        {
+          "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
+          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
+          "url": "https://news.ycombinator.com/item?id=50132502",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T16:31:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "fortune.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a3297038fde279329518cbac6dd672063aaa53d2",
+          "title": "OpenAI披露了另外四起违规事件",
+          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+          "source": "fortune.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T19:22:11.943000Z"
+        },
+        {
+          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
+          "title": "OpenAI披露了另外四起违规事件 / OpenAI discloses four more rogue incidents",
+          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T16:31:12Z"
+        },
+        {
+          "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
+          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
+          "url": "https://news.ycombinator.com/item?id=50132502",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T16:31:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9226,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T16:31:12Z",
+      "latest_at": "2026-10-17T19:22:11.943000Z",
+      "primary_item": {
+        "id": "a3297038fde279329518cbac6dd672063aaa53d2",
+        "title": "OpenAI披露了另外四起违规事件",
+        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+        "source": "fortune.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -194,14 +291,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5508,
+      "importance": 0.5508,
+      "importance_score": 0.5508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9838,
+        "recency": 0.8892,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -271,14 +368,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -349,14 +446,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.547,
-      "importance": 0.547,
-      "importance_score": 0.547,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
+        "recency": 0.9003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -427,14 +524,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.547,
-      "importance": 0.547,
-      "importance_score": 0.547,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9949,
+        "recency": 0.9003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -505,14 +602,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9838,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -527,84 +624,6 @@
         "url": "https://pwn.ai/blog/pwnescape",
         "source": "pwn.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_28fe2bff247e",
-      "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "primary_url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
-          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:31:12Z"
-        },
-        {
-          "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
-          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://news.ycombinator.com/item?id=50132502",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:31:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
-          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:31:12Z"
-        },
-        {
-          "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
-          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://news.ycombinator.com/item?id=50132502",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:31:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8984,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T16:31:12Z",
-      "latest_at": "2026-10-17T16:31:12Z",
-      "primary_item": {
-        "id": "c81de980025f7a775d56f86f390ce81dc776c152",
-        "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -679,14 +698,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
+      "score": 0.4957,
+      "importance": 0.4957,
+      "importance_score": 0.4957,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.708,
+        "recency": 0.6135,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -757,14 +776,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5095,
-      "importance": 0.5095,
-      "importance_score": 0.5095,
+      "score": 0.4906,
+      "importance": 0.4906,
+      "importance_score": 0.4906,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8076,
+        "recency": 0.713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -835,14 +854,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.4883,
+      "importance": 0.4883,
+      "importance_score": 0.4883,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7962,
+        "recency": 0.7017,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -857,6 +876,83 @@
         "url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dc9eb629f655",
+      "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
+      "primary_url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "c02afa1296d047cfe7443346f7e6c69b98da7aa6",
+          "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time",
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T14:01:01Z"
+        },
+        {
+          "id": "d3ceb7999e7b02391edbe5aee51671cce6b013d7",
+          "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time – pv magazine Global",
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T14:01:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "c02afa1296d047cfe7443346f7e6c69b98da7aa6",
+          "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time",
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T14:01:01Z"
+        },
+        {
+          "id": "d3ceb7999e7b02391edbe5aee51671cce6b013d7",
+          "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time – pv magazine Global",
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T14:01:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4879,
+      "importance": 0.4879,
+      "importance_score": 0.4879,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6996,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T14:01:01Z",
+      "latest_at": "2026-10-17T14:01:01Z",
+      "primary_item": {
+        "id": "c02afa1296d047cfe7443346f7e6c69b98da7aa6",
+        "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time",
+        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -913,14 +1009,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
+      "score": 0.4827,
+      "importance": 0.4827,
+      "importance_score": 0.4827,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7678,
+        "recency": 0.6733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1010,14 +1106,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4992,
-      "importance": 0.4992,
-      "importance_score": 0.4992,
+      "score": 0.4803,
+      "importance": 0.4803,
+      "importance_score": 0.4803,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6311,
+        "recency": 0.5365,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1032,83 +1128,6 @@
         "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
         "source": "openrouter.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dc9eb629f655",
-      "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
-      "primary_url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "c02afa1296d047cfe7443346f7e6c69b98da7aa6",
-          "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time",
-          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T14:01:01Z"
-        },
-        {
-          "id": "d3ceb7999e7b02391edbe5aee51671cce6b013d7",
-          "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time – pv magazine Global",
-          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T14:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "c02afa1296d047cfe7443346f7e6c69b98da7aa6",
-          "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time",
-          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T14:01:01Z"
-        },
-        {
-          "id": "d3ceb7999e7b02391edbe5aee51671cce6b013d7",
-          "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time – pv magazine Global",
-          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T14:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7941,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T14:01:01Z",
-      "latest_at": "2026-10-17T14:01:01Z",
-      "primary_item": {
-        "id": "c02afa1296d047cfe7443346f7e6c69b98da7aa6",
-        "title": "全球太阳能装机容量首次超过核电——《pv magazine Global》 / Solar surpasses nuclear power globally for first time",
-        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1165,14 +1184,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5015,
-      "importance": 0.5015,
-      "importance_score": 0.5015,
+      "score": 0.4826,
+      "importance": 0.4826,
+      "importance_score": 0.4826,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7675,
+        "recency": 0.6729,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1243,14 +1262,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4697,
-      "importance": 0.4697,
-      "importance_score": 0.4697,
+      "score": 0.4508,
+      "importance": 0.4508,
+      "importance_score": 0.4508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6087,
+        "recency": 0.5142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1340,14 +1359,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.455,
-      "importance": 0.455,
-      "importance_score": 0.455,
+      "score": 0.4361,
+      "importance": 0.4361,
+      "importance_score": 0.4361,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4102,
+        "recency": 0.3157,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1361,200 +1380,6 @@
         "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
         "url": "https://llmspeed.dev",
         "source": "llmspeed.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d0a00342ca12",
-      "title": "FLUX 3 图片 克莱因",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "primary_url": "https://bfl.ai/blog/flux-3-image-klein",
-      "source": "bfl.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dd7b3d8f6404ed2e9941f3ecfcb33bbd413279cc",
-          "title": "FLUX 3 图片 克莱因",
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "bfl.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T00:48:15.026000Z"
-        },
-        {
-          "id": "f7a3b62d2e232a6be419786b6eebbcac359cb33a",
-          "title": "FLUX 3 图片 克莱因 / FLUX 3 Image Klein",
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T19:47:13Z"
-        },
-        {
-          "id": "d111d9fdb9550762b53afc1c400858b73182788b",
-          "title": "FLUX 3 图片 克莱因 / Flux 3 Image Klein: open weights, 5.6B parameters",
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T19:47:13Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "bfl.ai"
-      ],
-      "items": [
-        {
-          "id": "dd7b3d8f6404ed2e9941f3ecfcb33bbd413279cc",
-          "title": "FLUX 3 图片 克莱因",
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "bfl.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T00:48:15.026000Z"
-        },
-        {
-          "id": "f7a3b62d2e232a6be419786b6eebbcac359cb33a",
-          "title": "FLUX 3 图片 克莱因 / FLUX 3 Image Klein",
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T19:47:13Z"
-        },
-        {
-          "id": "d111d9fdb9550762b53afc1c400858b73182788b",
-          "title": "FLUX 3 图片 克莱因 / Flux 3 Image Klein: open weights, 5.6B parameters",
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T19:47:13Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4217,
-      "importance": 0.4217,
-      "importance_score": 0.4217,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2436,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T19:47:13Z",
-      "latest_at": "2026-10-17T00:48:15.026000Z",
-      "primary_item": {
-        "id": "dd7b3d8f6404ed2e9941f3ecfcb33bbd413279cc",
-        "title": "FLUX 3 图片 克莱因",
-        "url": "https://bfl.ai/blog/flux-3-image-klein",
-        "source": "bfl.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c19e7ef010f7",
-      "title": "你完全可以凭记忆发明出变形金刚",
-      "url": "https://alexwang.ai/posts/associative-memory",
-      "primary_url": "https://alexwang.ai/posts/associative-memory",
-      "source": "alexwang.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T00:00:23.665000Z"
-        },
-        {
-          "id": "5f5d12afb201b8e0e026e0ea1e86f74d8356d142",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T19:01:17Z"
-        },
-        {
-          "id": "5b1e4d74bf76325a41d1f1b454549d28a581e9b4",
-          "title": "你本可以凭记忆发明变形金刚 / You could have invented transformers from memory",
-          "url": "https://news.ycombinator.com/item?id=50122878",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T19:01:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "alexwang.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T00:00:23.665000Z"
-        },
-        {
-          "id": "5f5d12afb201b8e0e026e0ea1e86f74d8356d142",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T19:01:17Z"
-        },
-        {
-          "id": "5b1e4d74bf76325a41d1f1b454549d28a581e9b4",
-          "title": "你本可以凭记忆发明变形金刚 / You could have invented transformers from memory",
-          "url": "https://news.ycombinator.com/item?id=50122878",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T19:01:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4151,
-      "importance": 0.4151,
-      "importance_score": 0.4151,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2103,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T19:01:17Z",
-      "latest_at": "2026-10-17T00:00:23.665000Z",
-      "primary_item": {
-        "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-        "title": "你完全可以凭记忆发明出变形金刚",
-        "url": "https://alexwang.ai/posts/associative-memory",
-        "source": "alexwang.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1612,14 +1437,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4695,
-      "importance": 0.4695,
-      "importance_score": 0.4695,
+      "score": 0.4506,
+      "importance": 0.4506,
+      "importance_score": 0.4506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6076,
+        "recency": 0.5131,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1634,6 +1459,162 @@
         "url": "https://www.ithome.com/1/014/289.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_38f454d85c35",
+      "title": "你会让大型语言模型（LLM）既编写测试用例，又编写代码吗？",
+      "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+      "primary_url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+      "source": "lobste.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7945a64bc41315765088ed750a5606b5c0deac41",
+          "title": "你会让大型语言模型（LLM）既编写测试用例，又编写代码吗？",
+          "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:04:27.588000Z"
+        },
+        {
+          "id": "6470bc8f0cea5bf6f920603d228b3e6563b51de6",
+          "title": "你会让大型语言模型（LLM）既编写测试用例，又编写代码吗？ / Do you let LLMs write both your tests and your code?",
+          "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T23:53:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "lobste.rs"
+      ],
+      "items": [
+        {
+          "id": "7945a64bc41315765088ed750a5606b5c0deac41",
+          "title": "你会让大型语言模型（LLM）既编写测试用例，又编写代码吗？",
+          "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:04:27.588000Z"
+        },
+        {
+          "id": "6470bc8f0cea5bf6f920603d228b3e6563b51de6",
+          "title": "你会让大型语言模型（LLM）既编写测试用例，又编写代码吗？ / Do you let LLMs write both your tests and your code?",
+          "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T23:53:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3801,
+      "importance": 0.3801,
+      "importance_score": 0.3801,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1603,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T23:53:05Z",
+      "latest_at": "2026-10-17T01:04:27.588000Z",
+      "primary_item": {
+        "id": "7945a64bc41315765088ed750a5606b5c0deac41",
+        "title": "你会让大型语言模型（LLM）既编写测试用例，又编写代码吗？",
+        "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+        "source": "lobste.rs",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_376685eb0b4a",
+      "title": "据《Politico》报道，Anthropic已悄悄向立法者推介了其自主拟定的AI安全法案",
+      "url": "https://reut.rs/47oeHoM",
+      "primary_url": "https://reut.rs/47oeHoM",
+      "source": "reut.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "63ab01e12428c63a287a0c07cf5295e4ccd85241",
+          "title": "据《Politico》报道，Anthropic已悄悄向立法者推介了其自主拟定的AI安全法案",
+          "url": "https://reut.rs/47oeHoM",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T22:56:18.547000Z"
+        },
+        {
+          "id": "0357794cb223a81305ecb615c52612f1f327f3a9",
+          "title": "据《Politico》报道，Anthropic已悄悄向立法者推介了其自主起草的人工智能安全法案",
+          "url": "https://www.reuters.com/legal/litigation/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-2026-10-16",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T22:40:31.085000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "reut.rs",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "63ab01e12428c63a287a0c07cf5295e4ccd85241",
+          "title": "据《Politico》报道，Anthropic已悄悄向立法者推介了其自主拟定的AI安全法案",
+          "url": "https://reut.rs/47oeHoM",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T22:56:18.547000Z"
+        },
+        {
+          "id": "0357794cb223a81305ecb615c52612f1f327f3a9",
+          "title": "据《Politico》报道，Anthropic已悄悄向立法者推介了其自主起草的人工智能安全法案",
+          "url": "https://www.reuters.com/legal/litigation/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-2026-10-16",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T22:40:31.085000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3623,
+      "importance": 0.3623,
+      "importance_score": 0.3623,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.0713,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T22:40:31.085000Z",
+      "latest_at": "2026-10-16T22:56:18.547000Z",
+      "primary_item": {
+        "id": "63ab01e12428c63a287a0c07cf5295e4ccd85241",
+        "title": "据《Politico》报道，Anthropic已悄悄向立法者推介了其自主拟定的AI安全法案",
+        "url": "https://reut.rs/47oeHoM",
+        "source": "reut.rs",
+        "source_name": "Buzzing"
       }
     }
   ]
