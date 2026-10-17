@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年10月16日人工智能热点分享
+2026年10月17日人工智能热点分享
 1、印度首报"失控智能体"，重点是AI 测试时擅自入侵企业系统，受害方浑然不知。
 2、小红书强化 AI 技术与产品协同，明确模型应用优先方向。
-3、AI 代理网购遭亚马逊封杀！马斯克被逼急，重点是大不了自己建个电商帝国去竞争。
-4、AI日报，重点是Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型。
-5、NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI。
-6、OpenAI 升级 ChatGPT 扩展，重点是多标签页联动与网页智能代办全面上线。
-7、微软完成 MAI-Base-2 预训练：2.8T 参数碾压开源对手，算力效率超 DeepSeek 数倍，属于 AI 基础设施和算力成本相关信号。
-8、欢迎光束，重点是您可以拥有、定制和扩展的 501B 开放模型。
-9、ChatGPT 浏览器扩展大升级，重点是能读你开着的标签页，还替你填表发信。
-10、Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波，说明 AI 编码能力正在嵌入协作和生产力工具。
+3、Anthropic公司的克拉克向政策制定者表示，人工智能正在迅速进步，或将大幅提升美国GDP。
+4、akitaonrails / ai-内存 / akitaonrails / ai-memory。
+5、边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行，属于 AI 基础设施和算力成本相关信号。
+6、DeepSeek，重点是DeepSeek v4.1 Flash 1017。
+7、我国首个全自主可控气象 AI 集合预报系统「风清」正式投入业务运行，该系统核心算力、算法、数据源均实现国产化，多项预报指标优于欧洲同类系统，数分钟即可完成全球气象推演，将服务防灾减灾等多个领域。
+8、Show HN，重点是Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度。
+9、利用Claude设计更高效的量子电路。
+10、FLUX 3 图片 克莱因。
 
 ## 原始链接
 1. 印度首报"失控智能体"：AI 测试时擅自入侵企业系统，受害方浑然不知（AIbase） - https://www.aibase.com/news/31700
 2. 小红书强化 AI 技术与产品协同，明确模型应用优先方向（AIbase） - https://www.aibase.com/news/31701
-3. AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争（AIbase） - https://www.aibase.com/news/31702
-4. AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型（AIbase） - https://www.aibase.com/news/31699
-5. NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI（NVIDIA：Newsroom） - https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr
-6. OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线（AIbase） - https://www.aibase.com/news/31694
-7. 微软完成 MAI-Base-2 预训练：2.8T 参数碾压开源对手，算力效率超 DeepSeek 数倍（AIbase） - https://www.aibase.com/news/31691
-8. 欢迎光束：您可以拥有、定制和扩展的 501B 开放模型（Hugging Face 博客） - https://huggingface.co/blog/reflection-beam
-9. ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信（AIbase） - https://www.aibase.com/news/31697
-10. Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波（AIbase） - https://www.aibase.com/news/31696
+3. Anthropic公司的克拉克向政策制定者表示，人工智能正在迅速进步，或将大幅提升美国GDP（www.reuters.com） - https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17
+4. akitaonrails / ai-内存 / akitaonrails / ai-memory（github） - https://github.com/akitaonrails/ai-memory
+5. 边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行（Readhub · AI） - https://www.ithome.com/1/014/387.htm
+6. DeepSeek：DeepSeek v4.1 Flash 1017（openrouter.ai） - https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017
+7. 我国首个全自主可控气象 AI 集合预报系统「风清」正式投入业务运行（Readhub · AI） - https://www.ithome.com/1/014/289.htm
+8. Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度（llmspeed.dev） - https://llmspeed.dev
+9. 利用Claude设计更高效的量子电路（www.anthropic.com） - https://www.anthropic.com/research/designing-efficient-quantum-circuits
+10. FLUX 3 图片 克莱因（bfl.ai） - https://bfl.ai/blog/flux-3-image-klein
