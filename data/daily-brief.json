@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:12:29.661921Z",
+  "generated_at": "2026-10-18T11:28:54.490778Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8279,
+        "recency": 0.6081,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-18T02:04:38Z",
       "latest_at": "2026-10-18T02:04:38Z",
@@ -65,12 +64,21 @@
     },
     {
       "story_id": "story_40d691da45f3",
-      "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子",
+      "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
       "url": "https://sphinx-six-theta.vercel.app",
       "primary_url": "https://sphinx-six-theta.vercel.app",
       "source": "sphinx-six-theta.vercel.app",
       "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "3195f5a3baf3baa61ed21479efdb41b7e218a12c",
+          "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "sphinx-six-theta.vercel.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T08:37:12.715000Z"
+        },
         {
           "id": "226019d733c9db985b25a3630ca89c9b1ea0a8d8",
           "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子",
@@ -82,7 +90,7 @@
         },
         {
           "id": "e3ff28373870884ddd8fa147af0b6d5d6b64946d",
-          "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "url": "https://sphinx-six-theta.vercel.app",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -91,7 +99,7 @@
         },
         {
           "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
-          "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "url": "https://news.ycombinator.com/item?id=50137950",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -99,7 +107,7 @@
           "published_at": "2026-10-18T04:33:49Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News · 24h最热",
         "hackernews",
@@ -107,6 +115,15 @@
       ],
       "items": [
         {
+          "id": "3195f5a3baf3baa61ed21479efdb41b7e218a12c",
+          "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "sphinx-six-theta.vercel.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T08:37:12.715000Z"
+        },
+        {
           "id": "226019d733c9db985b25a3630ca89c9b1ea0a8d8",
           "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子",
           "url": "https://sphinx-six-theta.vercel.app",
@@ -117,7 +134,7 @@
         },
         {
           "id": "e3ff28373870884ddd8fa147af0b6d5d6b64946d",
-          "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子 / Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "url": "https://sphinx-six-theta.vercel.app",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -126,7 +143,7 @@
         },
         {
           "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
-          "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "url": "https://news.ycombinator.com/item?id=50137950",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -134,30 +151,205 @@
           "published_at": "2026-10-18T04:33:49Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5742,
+      "importance": 0.5742,
+      "importance_score": 0.5742,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9374,
-        "story_heat": 0.5
+        "recency": 0.8808,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-10-18T04:33:49Z",
-      "latest_at": "2026-10-18T04:42:23.700000Z",
+      "latest_at": "2026-10-18T08:37:12.715000Z",
       "primary_item": {
-        "id": "226019d733c9db985b25a3630ca89c9b1ea0a8d8",
-        "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子",
+        "id": "3195f5a3baf3baa61ed21479efdb41b7e218a12c",
+        "title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
         "url": "https://sphinx-six-theta.vercel.app",
         "source": "sphinx-six-theta.vercel.app",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_48479cd7194a",
+      "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
+      "url": "https://api-docs.deepseek.com/guides/search",
+      "primary_url": "https://api-docs.deepseek.com/guides/search",
+      "source": "api-docs.deepseek.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1c30d8e93b7f1c029756a45b444ff067edb4eb1c",
+          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T08:37:12.821000Z"
+        },
+        {
+          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T06:50:36Z"
+        },
+        {
+          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://news.ycombinator.com/item?id=50138531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T06:50:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "api-docs.deepseek.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1c30d8e93b7f1c029756a45b444ff067edb4eb1c",
+          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "api-docs.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T08:37:12.821000Z"
+        },
+        {
+          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T06:50:36Z"
+        },
+        {
+          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://news.ycombinator.com/item?id=50138531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T06:50:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8808,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T06:50:36Z",
+      "latest_at": "2026-10-18T08:37:12.821000Z",
+      "primary_item": {
+        "id": "1c30d8e93b7f1c029756a45b444ff067edb4eb1c",
+        "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
+        "url": "https://api-docs.deepseek.com/guides/search",
+        "source": "api-docs.deepseek.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_161709a34472",
+      "title": "Mlabonne / 法学硕士课程 / mlabonne /      llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
+      "primary_url": "https://github.com/mlabonne/llm-course",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d840110d1210da077c48f2b57204e338812d0d17",
+          "title": "Mlabonne / 法学硕士课程 / mlabonne /      llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T11:29:31.459000Z"
+        },
+        {
+          "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
+          "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "d840110d1210da077c48f2b57204e338812d0d17",
+          "title": "Mlabonne / 法学硕士课程 / mlabonne /      llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T11:29:31.459000Z"
+        },
+        {
+          "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
+          "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T11:28:54.490778Z",
+      "latest_at": "2026-10-18T11:29:31.459000Z",
+      "primary_item": {
+        "id": "d840110d1210da077c48f2b57204e338812d0d17",
+        "title": "Mlabonne / 法学硕士课程 / mlabonne /      llm-course",
+        "url": "https://github.com/mlabonne/llm-course",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -233,14 +425,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.556,
-      "importance": 0.556,
-      "importance_score": 0.556,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9151,
+        "recency": 0.6954,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -311,14 +503,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7803,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -336,81 +528,80 @@
       }
     },
     {
-      "story_id": "story_9392f2098135",
-      "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
-      "url": "https://www.36kr.com/p/4029486628327811",
-      "primary_url": "https://www.36kr.com/p/4029486628327811",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
+      "story_id": "story_32b83c7f52bb",
+      "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "primary_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "c312d2609f3bee96d4159506d4ae337d4d3d1160",
-          "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
-          "url": "https://www.36kr.com/p/4029486628327811",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
         },
         {
-          "id": "a93a0f05b686105fe125a45fa3d423372071800c",
-          "title": "Tibo 的 Codex 翻盘记：接手不到一年就吞掉了 ChatGPT",
-          "url": "https://www.36kr.com/p/4029486628327811",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "c312d2609f3bee96d4159506d4ae337d4d3d1160",
-          "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
-          "url": "https://www.36kr.com/p/4029486628327811",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
         },
         {
-          "id": "a93a0f05b686105fe125a45fa3d423372071800c",
-          "title": "Tibo 的 Codex 翻盘记：接手不到一年就吞掉了 ChatGPT",
-          "url": "https://www.36kr.com/p/4029486628327811",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4901,
-      "importance": 0.4901,
-      "importance_score": 0.4901,
+      "score": 0.4801,
+      "importance": 0.4801,
+      "importance_score": 0.4801,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7103,
+        "recency": 0.6604,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T09:32:29.970353Z",
-      "latest_at": "2026-10-17T23:15:21.020186Z",
+      "earliest_at": "2026-10-18T03:19:49Z",
+      "latest_at": "2026-10-18T03:19:49Z",
       "primary_item": {
-        "id": "c312d2609f3bee96d4159506d4ae337d4d3d1160",
-        "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
-        "url": "https://www.36kr.com/p/4029486628327811",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
+        "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+        "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -486,14 +677,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
+      "score": 0.4387,
+      "importance": 0.4387,
+      "importance_score": 0.4387,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5484,
+        "recency": 0.3287,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -564,14 +755,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.4632,
+      "importance": 0.4632,
+      "importance_score": 0.4632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7958,
+        "recency": 0.5761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -661,14 +852,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.476,
-      "importance": 0.476,
-      "importance_score": 0.476,
+      "score": 0.4321,
+      "importance": 0.4321,
+      "importance_score": 0.4321,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.515,
+        "recency": 0.2953,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -739,14 +930,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4532,
-      "importance": 0.4532,
-      "importance_score": 0.4532,
+      "score": 0.4093,
+      "importance": 0.4093,
+      "importance_score": 0.4093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5261,
+        "recency": 0.3064,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -817,14 +1008,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4532,
-      "importance": 0.4532,
-      "importance_score": 0.4532,
+      "score": 0.4093,
+      "importance": 0.4093,
+      "importance_score": 0.4093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5261,
+        "recency": 0.3064,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -895,14 +1086,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.451,
-      "importance": 0.451,
-      "importance_score": 0.451,
+      "score": 0.4071,
+      "importance": 0.4071,
+      "importance_score": 0.4071,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.515,
+        "recency": 0.2953,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -973,14 +1164,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.4632,
+      "importance": 0.4632,
+      "importance_score": 0.4632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7958,
+        "recency": 0.5761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -995,102 +1186,6 @@
         "url": "https://www.ithome.com/1/014/439.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_00a2c9d67e7d",
-      "title": "Anthropic公司的克拉克向政策制定者表示，人工智能正在迅速进步，或将大幅提升美国GDP",
-      "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17",
-      "primary_url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1ad9c18b97a957609f507be16746fbfdc124fc36",
-          "title": "Anthropic公司的克拉克向政策制定者表示，人工智能正在迅速进步，或将大幅提升美国GDP",
-          "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T11:57:05.441000Z"
-        },
-        {
-          "id": "5ac1957f718a3a67a851b74efc8a85a9d7fd80f2",
-          "title": "Anthropic公司的克拉克表示，人工智能的影响正在迅速扩大，并可能大幅提升美国国内生产总值",
-          "url": "https://reut.rs/3VS152x",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T09:34:06.594000Z"
-        },
-        {
-          "id": "09c7734b3575d83c37cf110a3bf149ca341bfbbc",
-          "title": "Anthropic公司的克拉克表示，人工智能的影响正在迅速扩大，并可能大幅提振美国GDP",
-          "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T09:18:22.996000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "reut.rs",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "1ad9c18b97a957609f507be16746fbfdc124fc36",
-          "title": "Anthropic公司的克拉克向政策制定者表示，人工智能正在迅速进步，或将大幅提升美国GDP",
-          "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T11:57:05.441000Z"
-        },
-        {
-          "id": "5ac1957f718a3a67a851b74efc8a85a9d7fd80f2",
-          "title": "Anthropic公司的克拉克表示，人工智能的影响正在迅速扩大，并可能大幅提升美国国内生产总值",
-          "url": "https://reut.rs/3VS152x",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T09:34:06.594000Z"
-        },
-        {
-          "id": "09c7734b3575d83c37cf110a3bf149ca341bfbbc",
-          "title": "Anthropic公司的克拉克表示，人工智能的影响正在迅速扩大，并可能大幅提振美国GDP",
-          "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T09:18:22.996000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4209,
-      "importance": 0.4209,
-      "importance_score": 0.4209,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2393,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T09:18:22.996000Z",
-      "latest_at": "2026-10-17T11:57:05.441000Z",
-      "primary_item": {
-        "id": "1ad9c18b97a957609f507be16746fbfdc124fc36",
-        "title": "Anthropic公司的克拉克向政策制定者表示，人工智能正在迅速进步，或将大幅提升美国GDP",
-        "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1147,14 +1242,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.4632,
+      "importance": 0.4632,
+      "importance_score": 0.4632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7958,
+        "recency": 0.5761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1225,14 +1320,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4158,
-      "importance": 0.4158,
-      "importance_score": 0.4158,
+      "score": 0.3718,
+      "importance": 0.3718,
+      "importance_score": 0.3718,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3388,
+        "recency": 0.1191,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1303,14 +1398,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4135,
-      "importance": 0.4135,
-      "importance_score": 0.4135,
+      "score": 0.3696,
+      "importance": 0.3696,
+      "importance_score": 0.3696,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3275,
+        "recency": 0.1078,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1380,14 +1475,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4131,
-      "importance": 0.4131,
-      "importance_score": 0.4131,
+      "score": 0.3691,
+      "importance": 0.3691,
+      "importance_score": 0.3691,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3254,
+        "recency": 0.1056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,14 +1553,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4078,
-      "importance": 0.4078,
-      "importance_score": 0.4078,
+      "score": 0.3639,
+      "importance": 0.3639,
+      "importance_score": 0.3639,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2991,
+        "recency": 0.0794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1483,178 +1578,80 @@
       }
     },
     {
-      "story_id": "story_1fd6dd971a81",
-      "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "primary_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "source": "openrouter.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_6cbde97d8260",
+      "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
-          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T10:06:14.023000Z"
+          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
+          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:37:46Z"
-        },
-        {
-          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "url": "https://news.ycombinator.com/item?id=50129121",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:37:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "openrouter.ai"
-      ],
-      "items": [
-        {
-          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
-          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T10:06:14.023000Z"
-        },
-        {
-          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:37:46Z"
-        },
-        {
-          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "url": "https://news.ycombinator.com/item?id=50129121",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:37:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4055,
-      "importance": 0.4055,
-      "importance_score": 0.4055,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1623,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T08:37:46Z",
-      "latest_at": "2026-10-17T10:06:14.023000Z",
-      "primary_item": {
-        "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
-        "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
-        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-        "source": "openrouter.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_674cf12d6505",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "source": "huggingface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T09:34:06.239000Z"
-        },
-        {
-          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://news.ycombinator.com/item?id=50129045",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:21:25Z"
+          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
+          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "hackernews",
-        "huggingface.co"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T09:34:06.239000Z"
+          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
+          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://news.ycombinator.com/item?id=50129045",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:21:25Z"
+          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
+          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.376,
-      "importance": 0.376,
-      "importance_score": 0.376,
+      "score": 0.4103,
+      "importance": 0.4103,
+      "importance_score": 0.4103,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.14,
+        "recency": 0.3115,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T08:21:25Z",
-      "latest_at": "2026-10-17T09:34:06.239000Z",
+      "earliest_at": "2026-10-17T18:57:30.707086Z",
+      "latest_at": "2026-10-17T18:57:30.707086Z",
       "primary_item": {
-        "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "source": "huggingface.co",
-        "source_name": "Buzzing"
+        "id": "ac01b372a899f275c2059070740cad90d79a8b94",
+        "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
