@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T14:44:57.762269Z",
+  "generated_at": "2026-10-18T17:41:35.628982Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_ad55db2ece5c",
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9427,
+        "recency": 0.82,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8387,
+        "recency": 0.716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -121,6 +121,84 @@
         "url": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f",
         "source": "The Decoder：AI News",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_79619743255e",
+      "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T14:58:10Z"
+        },
+        {
+          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://news.ycombinator.com/item?id=50141657",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:58:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T14:58:10Z"
+        },
+        {
+          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://news.ycombinator.com/item?id=50141657",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:58:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8865,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:58:10Z",
+      "latest_at": "2026-10-18T14:58:10Z",
+      "primary_item": {
+        "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
+        "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -177,14 +255,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -292,14 +370,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5469,
-      "importance": 0.5469,
-      "importance_score": 0.5469,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7446,
+        "recency": 0.622,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -317,30 +395,108 @@
       }
     },
     {
-      "story_id": "story_0de0998006a7",
-      "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
-      "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
-      "primary_url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+      "story_id": "story_a257dddc2d05",
+      "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        },
+        {
+          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
+          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://news.ycombinator.com/item?id=50141429",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        },
+        {
+          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
+          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://news.ycombinator.com/item?id=50141429",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8673,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:30:27Z",
+      "latest_at": "2026-10-18T14:30:27Z",
+      "primary_item": {
+        "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+        "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_6e962c8babf2",
+      "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+      "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+      "primary_url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7d3635e3329836f2d4e0b950afcdffe583c35d83",
-          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
-          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-18T12:20:14.517000Z"
+          "published_at": "2026-10-18T14:28:08.026000Z"
         },
         {
-          "id": "c2afad268f7e6d7b6cabd26c8af27dacf23607b8",
-          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。 / I thought working in AI would put me ahead of the curve. Two years in, I've never felt more behind and tired of the topic.",
-          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-18T10:47:01Z"
+          "published_at": "2026-10-18T14:00:01Z"
         }
       ],
       "source_count": 2,
@@ -350,46 +506,46 @@
       ],
       "items": [
         {
-          "id": "7d3635e3329836f2d4e0b950afcdffe583c35d83",
-          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
-          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-18T12:20:14.517000Z"
+          "published_at": "2026-10-18T14:28:08.026000Z"
         },
         {
-          "id": "c2afad268f7e6d7b6cabd26c8af27dacf23607b8",
-          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。 / I thought working in AI would put me ahead of the curve. Two years in, I've never felt more behind and tired of the topic.",
-          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-18T10:47:01Z"
+          "published_at": "2026-10-18T14:00:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8995,
+        "recency": 0.8657,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T10:47:01Z",
-      "latest_at": "2026-10-18T12:20:14.517000Z",
+      "earliest_at": "2026-10-18T14:00:01Z",
+      "latest_at": "2026-10-18T14:28:08.026000Z",
       "primary_item": {
-        "id": "7d3635e3329836f2d4e0b950afcdffe583c35d83",
-        "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
-        "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+        "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+        "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+        "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -467,14 +623,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.4974,
+      "importance": 0.4974,
+      "importance_score": 0.4974,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7446,
+        "recency": 0.622,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -545,14 +701,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.4963,
+      "importance": 0.4963,
+      "importance_score": 0.4963,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8643,
+        "recency": 0.7416,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -567,6 +723,162 @@
         "url": "https://github.com/mlabonne/llm-course",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6e2930f20afd",
+      "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "primary_url": "https://www.vals.ai/blogs/impossible-refund",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "e1747516525748b7cef57aba553513f30fa05842",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://www.vals.ai/blogs/impossible-refund",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T12:22:58Z"
+        },
+        {
+          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://news.ycombinator.com/item?id=50140462",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T12:22:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e1747516525748b7cef57aba553513f30fa05842",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://www.vals.ai/blogs/impossible-refund",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T12:22:58Z"
+        },
+        {
+          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://news.ycombinator.com/item?id=50140462",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T12:22:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5037,
+      "importance": 0.5037,
+      "importance_score": 0.5037,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7787,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T12:22:58Z",
+      "latest_at": "2026-10-18T12:22:58Z",
+      "primary_item": {
+        "id": "e1747516525748b7cef57aba553513f30fa05842",
+        "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+        "url": "https://www.vals.ai/blogs/impossible-refund",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_0de0998006a7",
+      "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
+      "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+      "primary_url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7d3635e3329836f2d4e0b950afcdffe583c35d83",
+          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
+          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T12:20:14.517000Z"
+        },
+        {
+          "id": "c2afad268f7e6d7b6cabd26c8af27dacf23607b8",
+          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。 / I thought working in AI would put me ahead of the curve. Two years in, I've never felt more behind and tired of the topic.",
+          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T10:47:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "7d3635e3329836f2d4e0b950afcdffe583c35d83",
+          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
+          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T12:20:14.517000Z"
+        },
+        {
+          "id": "c2afad268f7e6d7b6cabd26c8af27dacf23607b8",
+          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。 / I thought working in AI would put me ahead of the curve. Two years in, I've never felt more behind and tired of the topic.",
+          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T10:47:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7768,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T10:47:01Z",
+      "latest_at": "2026-10-18T12:20:14.517000Z",
+      "primary_item": {
+        "id": "7d3635e3329836f2d4e0b950afcdffe583c35d83",
+        "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
+        "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -642,14 +954,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4848,
-      "importance": 0.4848,
-      "importance_score": 0.4848,
+      "score": 0.4603,
+      "importance": 0.4603,
+      "importance_score": 0.4603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5592,
+        "recency": 0.4366,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -664,83 +976,6 @@
         "url": "https://github.com/openai/codex/issues/25921",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_32b83c7f52bb",
-      "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "primary_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
-        },
-        {
-          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
-        },
-        {
-          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4528,
-      "importance": 0.4528,
-      "importance_score": 0.4528,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5242,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T03:19:49Z",
-      "latest_at": "2026-10-18T03:19:49Z",
-      "primary_item": {
-        "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
-        "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -797,14 +1032,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4768,
-      "importance": 0.4768,
-      "importance_score": 0.4768,
+      "score": 0.4523,
+      "importance": 0.4523,
+      "importance_score": 0.4523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6441,
+        "recency": 0.5215,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -817,6 +1052,473 @@
         "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
         "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
         "url": "https://www.ithome.com/1/014/456.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_a99b07861f4f",
+      "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+      "primary_url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
+          "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T06:46:50Z"
+        },
+        {
+          "id": "ffe2d1b841e7ce3391e965cc1bbb4eb440fb8d77",
+          "title": "美国10万亿美元的人工智能基础设施热潮开始出现裂痕",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:26:11.357000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
+          "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T06:46:50Z"
+        },
+        {
+          "id": "ffe2d1b841e7ce3391e965cc1bbb4eb440fb8d77",
+          "title": "美国10万亿美元的人工智能基础设施热潮开始出现裂痕",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:26:11.357000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4571,
+      "importance": 0.4571,
+      "importance_score": 0.4571,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5453,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T04:26:11.357000Z",
+      "latest_at": "2026-10-18T06:46:50Z",
+      "primary_item": {
+        "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
+        "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+        "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_770a362d399c",
+      "title": "以AI为先、兼容Git的源代码管理",
+      "url": "https://strata.madskristiansen.com",
+      "primary_url": "https://strata.madskristiansen.com",
+      "source": "strata.madskristiansen.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3dba566ab0bc27d2d15614a467452b54986e5b25",
+          "title": "以AI为先、兼容Git的源代码管理",
+          "url": "https://strata.madskristiansen.com",
+          "source": "strata.madskristiansen.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T18:50:05.892000Z"
+        },
+        {
+          "id": "71db887e60eb1ae0bbda067c4016ceb13443f2a9",
+          "title": "以AI为先、兼容Git的源代码管理 / AI-First, Git-Compatible Source Control",
+          "url": "https://strata.madskristiansen.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T18:39:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "strata.madskristiansen.com"
+      ],
+      "items": [
+        {
+          "id": "3dba566ab0bc27d2d15614a467452b54986e5b25",
+          "title": "以AI为先、兼容Git的源代码管理",
+          "url": "https://strata.madskristiansen.com",
+          "source": "strata.madskristiansen.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T18:50:05.892000Z"
+        },
+        {
+          "id": "71db887e60eb1ae0bbda067c4016ceb13443f2a9",
+          "title": "以AI为先、兼容Git的源代码管理 / AI-First, Git-Compatible Source Control",
+          "url": "https://strata.madskristiansen.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T18:39:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3575,
+      "importance": 0.3575,
+      "importance_score": 0.3575,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.0476,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T18:39:21Z",
+      "latest_at": "2026-10-17T18:50:05.892000Z",
+      "primary_item": {
+        "id": "3dba566ab0bc27d2d15614a467452b54986e5b25",
+        "title": "以AI为先、兼容Git的源代码管理",
+        "url": "https://strata.madskristiansen.com",
+        "source": "strata.madskristiansen.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_500318713ba8",
+      "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
+      "url": "https://pwn.ai/blog/pwnescape",
+      "primary_url": "https://pwn.ai/blog/pwnescape",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
+          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
+          "url": "https://pwn.ai/blog/pwnescape",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T18:34:07.206000Z"
+        },
+        {
+          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
+          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
+          "url": "https://pwn.ai/blog/pwnescape",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T18:24:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
+          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
+          "url": "https://pwn.ai/blog/pwnescape",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T18:34:07.206000Z"
+        },
+        {
+          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
+          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
+          "url": "https://pwn.ai/blog/pwnescape",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T18:24:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3553,
+      "importance": 0.3553,
+      "importance_score": 0.3553,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.0365,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T18:24:39Z",
+      "latest_at": "2026-10-17T18:34:07.206000Z",
+      "primary_item": {
+        "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
+        "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
+        "url": "https://pwn.ai/blog/pwnescape",
+        "source": "pwn.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_24b0133e4a59",
+      "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
+      "url": "https://www.ithome.com/1/014/429.htm",
+      "primary_url": "https://www.ithome.com/1/014/429.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
+          "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
+          "url": "https://www.ithome.com/1/014/429.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "af865480ed4848aef860c3ac9234c10575003fbb",
+          "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
+          "url": "https://www.ithome.com/1/014/429.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:00:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
+          "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
+          "url": "https://www.ithome.com/1/014/429.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "af865480ed4848aef860c3ac9234c10575003fbb",
+          "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
+          "url": "https://www.ithome.com/1/014/429.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:00:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4115,
+      "importance": 0.4115,
+      "importance_score": 0.4115,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3173,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T00:00:43Z",
+      "latest_at": "2026-10-18T01:18:26.045828Z",
+      "primary_item": {
+        "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
+        "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
+        "url": "https://www.ithome.com/1/014/429.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_32b83c7f52bb",
+      "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "primary_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        },
+        {
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        },
+        {
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4283,
+      "importance": 0.4283,
+      "importance_score": 0.4283,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4015,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T03:19:49Z",
+      "latest_at": "2026-10-18T03:19:49Z",
+      "primary_item": {
+        "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+        "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_1ef3aa7eb1be",
+      "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
+      "url": "https://www.ithome.com/1/014/439.htm",
+      "primary_url": "https://www.ithome.com/1/014/439.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
+          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
+          "url": "https://www.ithome.com/1/014/439.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "85cb8869520983a90656abf5044f8cdb945b3556",
+          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
+          "url": "https://www.ithome.com/1/014/439.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:35:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
+          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
+          "url": "https://www.ithome.com/1/014/439.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "85cb8869520983a90656abf5044f8cdb945b3556",
+          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
+          "url": "https://www.ithome.com/1/014/439.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:35:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4115,
+      "importance": 0.4115,
+      "importance_score": 0.4115,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3173,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T00:35:36Z",
+      "latest_at": "2026-10-18T01:18:26.045828Z",
+      "primary_item": {
+        "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
+        "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
+        "url": "https://www.ithome.com/1/014/439.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -894,14 +1596,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
+      "score": 0.4205,
+      "importance": 0.4205,
+      "importance_score": 0.4205,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3603,
+        "recency": 0.2376,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -916,667 +1618,6 @@
         "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_28fe2bff247e",
-      "title": "OpenAI披露了另外四起违规事件",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "primary_url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "source": "fortune.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-          "title": "OpenAI披露了另外四起违规事件",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T19:22:11.943000Z"
-        },
-        {
-          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
-          "title": "OpenAI披露了另外四起违规事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:31:12Z"
-        },
-        {
-          "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
-          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://news.ycombinator.com/item?id=50132502",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:31:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "fortune.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-          "title": "OpenAI披露了另外四起违规事件",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T19:22:11.943000Z"
-        },
-        {
-          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
-          "title": "OpenAI披露了另外四起违规事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:31:12Z"
-        },
-        {
-          "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
-          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://news.ycombinator.com/item?id=50132502",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:31:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4115,
-      "importance": 0.4115,
-      "importance_score": 0.4115,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1925,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T16:31:12Z",
-      "latest_at": "2026-10-17T19:22:11.943000Z",
-      "primary_item": {
-        "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-        "title": "OpenAI披露了另外四起违规事件",
-        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-        "source": "fortune.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dbca5928ae7c",
-      "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-      "primary_url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-      "source": "www.opendemocracy.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "www.opendemocracy.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:06.954000Z"
-        },
-        {
-          "id": "1083148e9c404becf18be8144edc6721fcddae10",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:04:23Z"
-        },
-        {
-          "id": "fe94a22556c5abe5cfee23ed9a4a6b00362eec6c",
-          "title": "亚马逊使用人工智能监控英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://news.ycombinator.com/item?id=50132278",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:04:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.opendemocracy.net"
-      ],
-      "items": [
-        {
-          "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "www.opendemocracy.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:06.954000Z"
-        },
-        {
-          "id": "1083148e9c404becf18be8144edc6721fcddae10",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:04:23Z"
-        },
-        {
-          "id": "fe94a22556c5abe5cfee23ed9a4a6b00362eec6c",
-          "title": "亚马逊使用人工智能监控英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://news.ycombinator.com/item?id=50132278",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:04:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4048,
-      "importance": 0.4048,
-      "importance_score": 0.4048,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1591,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T16:04:23Z",
-      "latest_at": "2026-10-17T18:34:06.954000Z",
-      "primary_item": {
-        "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-        "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-        "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-        "source": "www.opendemocracy.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_770a362d399c",
-      "title": "以AI为先、兼容Git的源代码管理",
-      "url": "https://strata.madskristiansen.com",
-      "primary_url": "https://strata.madskristiansen.com",
-      "source": "strata.madskristiansen.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3dba566ab0bc27d2d15614a467452b54986e5b25",
-          "title": "以AI为先、兼容Git的源代码管理",
-          "url": "https://strata.madskristiansen.com",
-          "source": "strata.madskristiansen.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.892000Z"
-        },
-        {
-          "id": "71db887e60eb1ae0bbda067c4016ceb13443f2a9",
-          "title": "以AI为先、兼容Git的源代码管理 / AI-First, Git-Compatible Source Control",
-          "url": "https://strata.madskristiansen.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:39:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "strata.madskristiansen.com"
-      ],
-      "items": [
-        {
-          "id": "3dba566ab0bc27d2d15614a467452b54986e5b25",
-          "title": "以AI为先、兼容Git的源代码管理",
-          "url": "https://strata.madskristiansen.com",
-          "source": "strata.madskristiansen.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.892000Z"
-        },
-        {
-          "id": "71db887e60eb1ae0bbda067c4016ceb13443f2a9",
-          "title": "以AI为先、兼容Git的源代码管理 / AI-First, Git-Compatible Source Control",
-          "url": "https://strata.madskristiansen.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:39:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.382,
-      "importance": 0.382,
-      "importance_score": 0.382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1702,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:39:21Z",
-      "latest_at": "2026-10-17T18:50:05.892000Z",
-      "primary_item": {
-        "id": "3dba566ab0bc27d2d15614a467452b54986e5b25",
-        "title": "以AI为先、兼容Git的源代码管理",
-        "url": "https://strata.madskristiansen.com",
-        "source": "strata.madskristiansen.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_500318713ba8",
-      "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-      "url": "https://pwn.ai/blog/pwnescape",
-      "primary_url": "https://pwn.ai/blog/pwnescape",
-      "source": "pwn.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "pwn.ai"
-      ],
-      "items": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3798,
-      "importance": 0.3798,
-      "importance_score": 0.3798,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1591,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:24:39Z",
-      "latest_at": "2026-10-17T18:34:07.206000Z",
-      "primary_item": {
-        "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-        "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-        "url": "https://pwn.ai/blog/pwnescape",
-        "source": "pwn.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_24b0133e4a59",
-      "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-      "url": "https://www.ithome.com/1/014/429.htm",
-      "primary_url": "https://www.ithome.com/1/014/429.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
-          "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "af865480ed4848aef860c3ac9234c10575003fbb",
-          "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:00:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
-          "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "af865480ed4848aef860c3ac9234c10575003fbb",
-          "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:00:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.436,
-      "importance": 0.436,
-      "importance_score": 0.436,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4399,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T00:00:43Z",
-      "latest_at": "2026-10-18T01:18:26.045828Z",
-      "primary_item": {
-        "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
-        "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-        "url": "https://www.ithome.com/1/014/429.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_1ef3aa7eb1be",
-      "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
-      "url": "https://www.ithome.com/1/014/439.htm",
-      "primary_url": "https://www.ithome.com/1/014/439.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
-          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
-          "url": "https://www.ithome.com/1/014/439.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "85cb8869520983a90656abf5044f8cdb945b3556",
-          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
-          "url": "https://www.ithome.com/1/014/439.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:35:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
-          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
-          "url": "https://www.ithome.com/1/014/439.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "85cb8869520983a90656abf5044f8cdb945b3556",
-          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
-          "url": "https://www.ithome.com/1/014/439.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:35:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.436,
-      "importance": 0.436,
-      "importance_score": 0.436,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4399,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T00:35:36Z",
-      "latest_at": "2026-10-18T01:18:26.045828Z",
-      "primary_item": {
-        "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
-        "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
-        "url": "https://www.ithome.com/1/014/439.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ff1fbf23f1e4",
-      "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
-      "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4898351.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "db592c5364f48a22e912fe447ce2d45872d0036f",
-          "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
-          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3ddc7306b22c14b5cd22cc27dd4a2eb15f07a985",
-          "title": "观察｜AI时代，不敢裁员也不愿招聘：中国企业的“不裁只冻”困局",
-          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:37:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "db592c5364f48a22e912fe447ce2d45872d0036f",
-          "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
-          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3ddc7306b22c14b5cd22cc27dd4a2eb15f07a985",
-          "title": "观察｜AI时代，不敢裁员也不愿招聘：中国企业的“不裁只冻”困局",
-          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:37:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.436,
-      "importance": 0.436,
-      "importance_score": 0.436,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4399,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T00:37:56Z",
-      "latest_at": "2026-10-18T01:18:26.045828Z",
-      "primary_item": {
-        "id": "db592c5364f48a22e912fe447ce2d45872d0036f",
-        "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
-        "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
-          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
-          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3831,
-      "importance": 0.3831,
-      "importance_score": 0.3831,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1754,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:57:30.707086Z",
-      "latest_at": "2026-10-17T18:57:30.707086Z",
-      "primary_item": {
-        "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-        "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
