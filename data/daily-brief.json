@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:07:08.720741Z",
+  "generated_at": "2026-10-24T19:36:46.264180Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8914,
+        "recency": 0.7875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,20 +98,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7538,
+        "recency": 0.6499,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-24T11:12:36Z",
       "latest_at": "2026-10-24T11:12:36Z",
@@ -121,6 +120,84 @@
         "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
         "source": "The Decoder：AI News",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_81c8fd74d5e2",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "primary_url": "https://arxiv.org/abs/2610.29162",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "Why is AI generated language so hard to understand?",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T18:04:57Z"
+        },
+        {
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "Why is AI generated language so hard to understand?",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "Why is AI generated language so hard to understand?",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T18:04:57Z"
+        },
+        {
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "Why is AI generated language so hard to understand?",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9362,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T18:04:57Z",
+      "latest_at": "2026-10-24T18:04:57Z",
+      "primary_item": {
+        "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+        "title": "Why is AI generated language so hard to understand?",
+        "url": "https://arxiv.org/abs/2610.29162",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -177,14 +254,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8832,
+        "recency": 0.7793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -255,14 +332,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8605,
+        "recency": 0.7566,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -333,14 +410,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
+      "score": 0.4992,
+      "importance": 0.4992,
+      "importance_score": 0.4992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8598,
+        "recency": 0.7559,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -449,14 +526,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
+      "score": 0.4899,
+      "importance": 0.4899,
+      "importance_score": 0.4899,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5636,
+        "recency": 0.4597,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -546,14 +623,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
+      "score": 0.4869,
+      "importance": 0.4869,
+      "importance_score": 0.4869,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6735,
+        "recency": 0.5696,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -624,14 +701,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.4862,
+      "importance": 0.4862,
+      "importance_score": 0.4862,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7949,
+        "recency": 0.691,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -649,30 +726,30 @@
       }
     },
     {
-      "story_id": "story_8ef9c99c3688",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "story_id": "story_79c7fe33c787",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z"
+          "published_at": "2026-10-24T15:35:17Z"
         },
         {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
+          "published_at": "2026-10-24T15:35:17Z"
         }
       ],
       "source_count": 2,
@@ -682,46 +759,46 @@
       ],
       "items": [
         {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z"
+          "published_at": "2026-10-24T15:35:17Z"
         },
         {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
+          "published_at": "2026-10-24T15:35:17Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4996,
-      "importance": 0.4996,
-      "importance_score": 0.4996,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7582,
+        "recency": 0.8323,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
+      "earliest_at": "2026-10-24T15:35:17Z",
+      "latest_at": "2026-10-24T15:35:17Z",
       "primary_item": {
-        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+        "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -780,14 +857,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8605,
+        "recency": 0.7566,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -858,14 +935,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8393,
+        "recency": 0.7353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -880,84 +957,6 @@
         "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_000984af5b78",
-      "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "primary_url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4958,
-      "importance": 0.4958,
-      "importance_score": 0.4958,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7392,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T10:51:35Z",
-      "latest_at": "2026-10-24T10:51:35Z",
-      "primary_item": {
-        "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-        "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1014,14 +1013,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8605,
+        "recency": 0.7566,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1092,14 +1091,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4859,
-      "importance": 0.4859,
-      "importance_score": 0.4859,
+      "score": 0.4652,
+      "importance": 0.4652,
+      "importance_score": 0.4652,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6897,
+        "recency": 0.5858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1170,14 +1169,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4498,
-      "importance": 0.4498,
-      "importance_score": 0.4498,
+      "score": 0.429,
+      "importance": 0.429,
+      "importance_score": 0.429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5088,
+        "recency": 0.4049,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1192,6 +1191,84 @@
         "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8ef9c99c3688",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4789,
+      "importance": 0.4789,
+      "importance_score": 0.4789,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6543,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
+      "primary_item": {
+        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1248,14 +1325,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4895,
-      "importance": 0.4895,
-      "importance_score": 0.4895,
+      "score": 0.4687,
+      "importance": 0.4687,
+      "importance_score": 0.4687,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7073,
+        "recency": 0.6034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1325,14 +1402,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4859,
-      "importance": 0.4859,
-      "importance_score": 0.4859,
+      "score": 0.4652,
+      "importance": 0.4652,
+      "importance_score": 0.4652,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6897,
+        "recency": 0.5858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1347,6 +1424,84 @@
         "url": "https://www.36kr.com/newsflashes/4039392032117641",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_000984af5b78",
+      "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "primary_url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
+          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T10:51:35Z"
+        },
+        {
+          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "url": "https://news.ycombinator.com/item?id=50220042",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T10:51:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
+          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T10:51:35Z"
+        },
+        {
+          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "url": "https://news.ycombinator.com/item?id=50220042",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T10:51:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4751,
+      "importance": 0.4751,
+      "importance_score": 0.4751,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6353,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T10:51:35Z",
+      "latest_at": "2026-10-24T10:51:35Z",
+      "primary_item": {
+        "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
+        "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1403,14 +1558,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3818,
-      "importance": 0.3818,
-      "importance_score": 0.3818,
+      "score": 0.361,
+      "importance": 0.361,
+      "importance_score": 0.361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1691,
+        "recency": 0.0652,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1425,161 +1580,6 @@
         "url": "https://www.bitflux.ai/blog/memory-is-slow-part3",
         "source": "www.bitflux.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fe92d46aed82",
-      "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-      "primary_url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
-          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T20:38:45.451000Z"
-        },
-        {
-          "id": "d2403817dd69dd5e8eaab567a70fc9bd4bb14656",
-          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上 / Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T18:24:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "artificialanalysis.ai"
-      ],
-      "items": [
-        {
-          "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
-          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T20:38:45.451000Z"
-        },
-        {
-          "id": "d2403817dd69dd5e8eaab567a70fc9bd4bb14656",
-          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上 / Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T18:24:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3774,
-      "importance": 0.3774,
-      "importance_score": 0.3774,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.147,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-23T18:24:54Z",
-      "latest_at": "2026-10-23T20:38:45.451000Z",
-      "primary_item": {
-        "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
-        "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-        "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2ca67924f9fc",
-      "title": "Dessa：有史以来最真实的全双工语音模型 / Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "primary_url": "https://block.xyz/dessa",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "feaadee6a6520c1e464bd7b72b5dbaf5f2086543",
-          "title": "Dessa：有史以来最真实的全双工语音模型 / Dessa: Conversation Model trained only on speech",
-          "url": "https://block.xyz/dessa",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:09:54Z"
-        },
-        {
-          "id": "311ad678920d2ac141132167afe54d84d7cbd22c",
-          "title": "Dessa：有史以来最真实的全双工语音模型 / Dessa: the most authentic full-duplex speech model ever built",
-          "url": "https://block.xyz/dessa",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:09:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "feaadee6a6520c1e464bd7b72b5dbaf5f2086543",
-          "title": "Dessa：有史以来最真实的全双工语音模型 / Dessa: Conversation Model trained only on speech",
-          "url": "https://block.xyz/dessa",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:09:54Z"
-        },
-        {
-          "id": "311ad678920d2ac141132167afe54d84d7cbd22c",
-          "title": "Dessa：有史以来最真实的全双工语音模型 / Dessa: the most authentic full-duplex speech model ever built",
-          "url": "https://block.xyz/dessa",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:09:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.365,
-      "importance": 0.365,
-      "importance_score": 0.365,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0852,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-23T19:09:54Z",
-      "latest_at": "2026-10-23T19:09:54Z",
-      "primary_item": {
-        "id": "feaadee6a6520c1e464bd7b72b5dbaf5f2086543",
-        "title": "Dessa：有史以来最真实的全双工语音模型 / Dessa: Conversation Model trained only on speech",
-        "url": "https://block.xyz/dessa",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
