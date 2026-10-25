@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:01:10.493289Z",
+  "generated_at": "2026-10-25T09:57:46.856811Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -82,55 +82,151 @@
       }
     },
     {
-      "story_id": "story_28adfff6869c",
-      "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-      "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "story_id": "story_2325af3360e0",
+      "title": "Cerebras 部署了万亿参数的人工智能模型",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "www.cerebras.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "cc0805f9c54e7b582f108d372b3a4172afb6b23b",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.cerebras.ai"
+      ],
+      "items": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "cc0805f9c54e7b582f108d372b3a4172afb6b23b",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5491,
+      "importance": 0.5491,
+      "importance_score": 0.5491,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8806,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T01:33:49Z",
+      "latest_at": "2026-10-25T07:05:49.244000Z",
+      "primary_item": {
+        "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+        "title": "Cerebras 部署了万亿参数的人工智能模型",
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "source": "www.cerebras.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
+          "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T02:00:00Z"
+          "id": "225e40b97914be708a18f439528c4ff4427b9786",
+          "title": "聚类也能「开箱即用」了！人大等团队开源 TabClustPFN，给张表格就能自动分组",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069889&idx=3&sn=be03ed61a5b5eccacdb6e68cce1c5210",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
+          "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T02:00:00Z"
+          "id": "225e40b97914be708a18f439528c4ff4427b9786",
+          "title": "聚类也能「开箱即用」了！人大等团队开源 TabClustPFN，给张表格就能自动分组",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069889&idx=3&sn=be03ed61a5b5eccacdb6e68cce1c5210",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
@@ -149,14 +245,91 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T02:00:00Z",
-      "latest_at": "2026-10-25T05:01:10.493289Z",
+      "earliest_at": "2026-10-25T09:57:46.856811Z",
+      "latest_at": "2026-10-25T09:57:46.856811Z",
       "primary_item": {
-        "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-        "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-        "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+        "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
+        "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6c85b701ec72",
+      "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+      "url": "https://www.v2ex.com/t/1251621",
+      "primary_url": "https://www.v2ex.com/t/1251621",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
+        },
+        {
+          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
+          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
+        },
+        {
+          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
+          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7678,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T04:23:27Z",
+      "latest_at": "2026-10-25T04:23:27Z",
+      "primary_item": {
+        "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+        "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+        "url": "https://www.v2ex.com/t/1251621",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -232,14 +405,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8359,
+        "recency": 0.6299,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -329,14 +502,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8359,
+        "recency": 0.6299,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -426,14 +599,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8362,
+        "recency": 0.6302,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -451,81 +624,81 @@
       }
     },
     {
-      "story_id": "story_2325af3360e0",
-      "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_28adfff6869c",
+      "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+      "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "cc0805f9c54e7b582f108d372b3a4172afb6b23b",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T01:33:49Z"
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "cc0805f9c54e7b582f108d372b3a4172afb6b23b",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T01:33:49Z"
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5068,
+      "importance": 0.5068,
+      "importance_score": 0.5068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.856,
+        "recency": 0.794,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T01:33:49Z",
-      "latest_at": "2026-10-25T01:33:49Z",
+      "earliest_at": "2026-10-25T02:00:00Z",
+      "latest_at": "2026-10-25T05:01:10.493289Z",
       "primary_item": {
-        "id": "cc0805f9c54e7b582f108d372b3a4172afb6b23b",
-        "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+        "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+        "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -582,14 +755,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5068,
+      "importance": 0.5068,
+      "importance_score": 0.5068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -659,14 +832,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4771,
-      "importance": 0.4771,
-      "importance_score": 0.4771,
+      "score": 0.4359,
+      "importance": 0.4359,
+      "importance_score": 0.4359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6454,
+        "recency": 0.4394,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -737,14 +910,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4361,
-      "importance": 0.4361,
-      "importance_score": 0.4361,
+      "score": 0.3949,
+      "importance": 0.3949,
+      "importance_score": 0.3949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4404,
+        "recency": 0.2344,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -762,81 +935,80 @@
       }
     },
     {
-      "story_id": "story_cdf697355512",
-      "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "primary_url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_46dad15a371d",
+      "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "primary_url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
+          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
         },
         {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
+          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
+          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "TechRadar"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
+          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
         },
         {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
+          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
+          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4907,
-      "importance": 0.4907,
-      "importance_score": 0.4907,
+      "score": 0.4176,
+      "importance": 0.4176,
+      "importance_score": 0.4176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7136,
+        "recency": 0.3481,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T20:05:00Z",
-      "latest_at": "2026-10-24T22:08:42.400435Z",
+      "earliest_at": "2026-10-24T18:19:05Z",
+      "latest_at": "2026-10-24T18:19:05Z",
       "primary_item": {
-        "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-        "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
+        "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+        "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -893,14 +1065,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4255,
-      "importance": 0.4255,
-      "importance_score": 0.4255,
+      "score": 0.3843,
+      "importance": 0.3843,
+      "importance_score": 0.3843,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3873,
+        "recency": 0.1814,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -971,14 +1143,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4209,
-      "importance": 0.4209,
-      "importance_score": 0.4209,
+      "score": 0.3797,
+      "importance": 0.3797,
+      "importance_score": 0.3797,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3646,
+        "recency": 0.1586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1049,14 +1221,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4189,
-      "importance": 0.4189,
-      "importance_score": 0.4189,
+      "score": 0.3777,
+      "importance": 0.3777,
+      "importance_score": 0.3777,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3546,
+        "recency": 0.1486,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1070,103 +1242,6 @@
         "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
         "url": "https://github.com/byenzyme/enzyme",
         "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_00783114a44a",
-      "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-      "primary_url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-      "source": "www.reddit.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "www.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T09:16:58.436000Z"
-        },
-        {
-          "id": "e2eab61a118a9d81b68f4952242468839754c18e",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T05:49:57Z"
-        },
-        {
-          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
-          "title": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "url": "https://news.ycombinator.com/item?id=50218633",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T05:49:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "www.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T09:16:58.436000Z"
-        },
-        {
-          "id": "e2eab61a118a9d81b68f4952242468839754c18e",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T05:49:57Z"
-        },
-        {
-          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
-          "title": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "url": "https://news.ycombinator.com/item?id=50218633",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T05:49:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4085,
-      "importance": 0.4085,
-      "importance_score": 0.4085,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1776,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T05:49:57Z",
-      "latest_at": "2026-10-24T09:16:58.436000Z",
-      "primary_item": {
-        "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
-        "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-        "source": "www.reddit.com",
         "source_name": "Buzzing"
       }
     },
@@ -1224,14 +1299,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4078,
-      "importance": 0.4078,
-      "importance_score": 0.4078,
+      "score": 0.3666,
+      "importance": 0.3666,
+      "importance_score": 0.3666,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.299,
+        "recency": 0.0931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1249,80 +1324,81 @@
       }
     },
     {
-      "story_id": "story_46dad15a371d",
-      "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-      "primary_url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_cdf697355512",
+      "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "primary_url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
-          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:19:05Z"
+          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
-          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
-          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:19:05Z"
+          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
+          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T20:05:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
-          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:19:05Z"
+          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
-          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
-          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:19:05Z"
+          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
+          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T20:05:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4588,
-      "importance": 0.4588,
-      "importance_score": 0.4588,
+      "score": 0.4495,
+      "importance": 0.4495,
+      "importance_score": 0.4495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5541,
+        "recency": 0.5076,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T18:19:05Z",
-      "latest_at": "2026-10-24T18:19:05Z",
+      "earliest_at": "2026-10-24T20:05:00Z",
+      "latest_at": "2026-10-24T22:08:42.400435Z",
       "primary_item": {
-        "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
-        "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-        "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+        "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1379,14 +1455,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4209,
-      "importance": 0.4209,
-      "importance_score": 0.4209,
+      "score": 0.3797,
+      "importance": 0.3797,
+      "importance_score": 0.3797,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3646,
+        "recency": 0.1586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1457,14 +1533,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4167,
-      "importance": 0.4167,
-      "importance_score": 0.4167,
+      "score": 0.3755,
+      "importance": 0.3755,
+      "importance_score": 0.3755,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3434,
+        "recency": 0.1374,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1535,14 +1611,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4005,
-      "importance": 0.4005,
-      "importance_score": 0.4005,
+      "score": 0.3593,
+      "importance": 0.3593,
+      "importance_score": 0.3593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2623,
+        "recency": 0.0563,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1557,84 +1633,6 @@
         "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_9ad5ce51a997",
-      "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "primary_url": "https://github.com/google-gemini/gemini-cli",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T13:46:14.006000Z"
-        },
-        {
-          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
-          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T13:46:14.006000Z"
-        },
-        {
-          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
-          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4209,
-      "importance": 0.4209,
-      "importance_score": 0.4209,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3646,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T13:45:14.468127Z",
-      "latest_at": "2026-10-24T13:46:14.006000Z",
-      "primary_item": {
-        "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-        "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-        "url": "https://github.com/google-gemini/gemini-cli",
-        "source": "github",
-        "source_name": "NewsNow"
       }
     }
   ]
