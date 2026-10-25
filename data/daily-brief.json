@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:08:42.400435Z",
+  "generated_at": "2026-10-25T00:25:03.581388Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.682,
+        "recency": 0.5873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -63,62 +63,81 @@
       }
     },
     {
-      "story_id": "story_fcfa8ea660a4",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-      "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-      "primary_url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
+      "story_id": "story_8f5707e9a13c",
+      "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "The Decoder：AI News"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5444,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9492,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-24T11:12:36Z",
-      "latest_at": "2026-10-24T11:12:36Z",
+      "earliest_at": "2026-10-24T23:11:54Z",
+      "latest_at": "2026-10-24T23:11:54Z",
       "primary_item": {
-        "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
-        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-        "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-        "source": "The Decoder：AI News",
-        "source_name": "AI HOT"
+        "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+        "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -175,14 +194,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9053,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -200,8 +219,85 @@
       }
     },
     {
+      "story_id": "story_5a08291251a2",
+      "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com",
+      "primary_url": "https://stealmybitcoin.com",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+          "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        },
+        {
+          "id": "045a73c76c9450fdbfc4f25a8b1495bdfb9027db",
+          "title": "偷我的比特币 / Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+          "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        },
+        {
+          "id": "045a73c76c9450fdbfc4f25a8b1495bdfb9027db",
+          "title": "偷我的比特币 / Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8371,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T20:30:31Z",
+      "latest_at": "2026-10-24T20:30:31Z",
+      "primary_item": {
+        "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+        "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+        "url": "https://stealmybitcoin.com",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
       "story_id": "story_074b7d5e1602",
-      "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+      "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News · 24h最热",
@@ -209,7 +305,7 @@
       "sources": [
         {
           "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -218,7 +314,7 @@
         },
         {
           "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -234,7 +330,7 @@
       "items": [
         {
           "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -243,7 +339,7 @@
         },
         {
           "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -253,14 +349,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5284,
-      "importance": 0.5284,
-      "importance_score": 0.5284,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9018,
+        "recency": 0.8071,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -271,7 +367,7 @@
       "latest_at": "2026-10-24T19:47:19Z",
       "primary_item": {
         "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
-        "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+        "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
         "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -331,14 +427,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.4952,
+      "importance": 0.4952,
+      "importance_score": 0.4952,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8307,
+        "recency": 0.736,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -353,83 +449,6 @@
         "url": "https://arxiv.org/abs/2610.29162",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_46dad15a371d",
-      "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-      "primary_url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
-          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:19:05Z"
-        },
-        {
-          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
-          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
-          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:19:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
-          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:19:05Z"
-        },
-        {
-          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
-          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
-          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:19:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8405,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T18:19:05Z",
-      "latest_at": "2026-10-24T18:19:05Z",
-      "primary_item": {
-        "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
-        "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-        "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -486,14 +505,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4828,
-      "importance": 0.4828,
-      "importance_score": 0.4828,
+      "score": 0.4638,
+      "importance": 0.4638,
+      "importance_score": 0.4638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6738,
+        "recency": 0.5791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -564,14 +583,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4782,
-      "importance": 0.4782,
-      "importance_score": 0.4782,
+      "score": 0.4593,
+      "importance": 0.4593,
+      "importance_score": 0.4593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6511,
+        "recency": 0.5564,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -642,14 +661,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4762,
-      "importance": 0.4762,
-      "importance_score": 0.4762,
+      "score": 0.4573,
+      "importance": 0.4573,
+      "importance_score": 0.4573,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.641,
+        "recency": 0.5464,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -739,14 +758,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4658,
-      "importance": 0.4658,
-      "importance_score": 0.4658,
+      "score": 0.4469,
+      "importance": 0.4469,
+      "importance_score": 0.4469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4641,
+        "recency": 0.3694,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -817,14 +836,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4651,
-      "importance": 0.4651,
-      "importance_score": 0.4651,
+      "score": 0.4462,
+      "importance": 0.4462,
+      "importance_score": 0.4462,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5855,
+        "recency": 0.4908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -842,159 +861,80 @@
       }
     },
     {
-      "story_id": "story_79c7fe33c787",
-      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_46dad15a371d",
+      "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "primary_url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
+          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
+          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
         },
         {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
+          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
+          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
+          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
+          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
         },
         {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
+          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
+          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4934,
-      "importance": 0.4934,
-      "importance_score": 0.4934,
+      "score": 0.4972,
+      "importance": 0.4972,
+      "importance_score": 0.4972,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7268,
+        "recency": 0.7458,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T15:35:17Z",
-      "latest_at": "2026-10-24T15:35:17Z",
+      "earliest_at": "2026-10-24T18:19:05Z",
+      "latest_at": "2026-10-24T18:19:05Z",
       "primary_item": {
-        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_e998a2c73394",
-      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://news.ycombinator.com/item?id=50220042",
-      "primary_url": "https://news.ycombinator.com/item?id=50220042",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.454,
-      "importance": 0.454,
-      "importance_score": 0.454,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5298,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T10:51:35Z",
-      "latest_at": "2026-10-24T10:51:35Z",
-      "primary_item": {
-        "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-        "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "url": "https://news.ycombinator.com/item?id=50220042",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
+        "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+        "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1051,14 +991,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4782,
-      "importance": 0.4782,
-      "importance_score": 0.4782,
+      "score": 0.4593,
+      "importance": 0.4593,
+      "importance_score": 0.4593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6511,
+        "recency": 0.5564,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,14 +1069,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4781,
-      "importance": 0.4781,
-      "importance_score": 0.4781,
+      "score": 0.4591,
+      "importance": 0.4591,
+      "importance_score": 0.4591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6504,
+        "recency": 0.5557,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1207,14 +1147,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.474,
-      "importance": 0.474,
-      "importance_score": 0.474,
+      "score": 0.455,
+      "importance": 0.455,
+      "importance_score": 0.455,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6298,
+        "recency": 0.5351,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1232,81 +1172,81 @@
       }
     },
     {
-      "story_id": "story_48e2274fdf2b",
-      "title": "保障我们的前沿模型训练环境安全",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "openai.com",
-      "source_name": "Buzzing",
+      "story_id": "story_79c7fe33c787",
+      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z"
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
         },
         {
-          "id": "a639b129ef2c5a1b8740e48309dc143bcccd2cf3",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固措施",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "openai.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z"
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
         },
         {
-          "id": "a639b129ef2c5a1b8740e48309dc143bcccd2cf3",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固措施",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4188,
-      "importance": 0.4188,
-      "importance_score": 0.4188,
+      "score": 0.4744,
+      "importance": 0.4744,
+      "importance_score": 0.4744,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3542,
+        "recency": 0.6321,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-23T22:26:20.451362Z",
-      "latest_at": "2026-10-24T06:38:45.839000Z",
+      "earliest_at": "2026-10-24T15:35:17Z",
+      "latest_at": "2026-10-24T15:35:17Z",
       "primary_item": {
-        "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-        "title": "保障我们的前沿模型训练环境安全",
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "openai.com",
-        "source_name": "Buzzing"
+        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1363,14 +1303,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4782,
-      "importance": 0.4782,
-      "importance_score": 0.4782,
+      "score": 0.4593,
+      "importance": 0.4593,
+      "importance_score": 0.4593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6511,
+        "recency": 0.5564,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1441,14 +1381,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4079,
-      "importance": 0.4079,
-      "importance_score": 0.4079,
+      "score": 0.3889,
+      "importance": 0.3889,
+      "importance_score": 0.3889,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2994,
+        "recency": 0.2047,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1466,81 +1406,159 @@
       }
     },
     {
-      "story_id": "story_8ef9c99c3688",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_a413b8342f4a",
+      "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词",
+      "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
+      "primary_url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z"
+          "id": "c37dec90f0cca03e9f953bae9dd92b5cc0c887db",
+          "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词",
+          "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T10:05:38.199000Z"
         },
         {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
+          "id": "f816d73685d9c4068286c2f2c7fc11b3b755191c",
+          "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词 / Palantir cofounder says his wife calls their AI agent 'Tradbot' after tradwives",
+          "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T09:54:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z"
+          "id": "c37dec90f0cca03e9f953bae9dd92b5cc0c887db",
+          "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词",
+          "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T10:05:38.199000Z"
         },
         {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
+          "id": "f816d73685d9c4068286c2f2c7fc11b3b755191c",
+          "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词 / Palantir cofounder says his wife calls their AI agent 'Tradbot' after tradwives",
+          "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T09:54:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4577,
-      "importance": 0.4577,
-      "importance_score": 0.4577,
+      "score": 0.4286,
+      "importance": 0.4286,
+      "importance_score": 0.4286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5487,
+        "recency": 0.4032,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
+      "earliest_at": "2026-10-24T09:54:01Z",
+      "latest_at": "2026-10-24T10:05:38.199000Z",
       "primary_item": {
-        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "c37dec90f0cca03e9f953bae9dd92b5cc0c887db",
+        "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词",
+        "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_16927f06b22e",
+      "title": "AI 破解数学难题，顶尖数学家怎么看？",
+      "url": "https://www.huxiu.com/article/4900153.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900153.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "af961e525be7c574269eac6458decce7735c9026",
+          "title": "AI 破解数学难题，顶尖数学家怎么看？",
+          "url": "https://www.huxiu.com/article/4900153.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "59525c6f7f588e26eb01c4884342e71429ad0b88",
+          "title": "AI破解数学难题，顶尖数学家怎么想？",
+          "url": "https://www.huxiu.com/article/4900153.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T08:52:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "af961e525be7c574269eac6458decce7735c9026",
+          "title": "AI 破解数学难题，顶尖数学家怎么看？",
+          "url": "https://www.huxiu.com/article/4900153.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "59525c6f7f588e26eb01c4884342e71429ad0b88",
+          "title": "AI破解数学难题，顶尖数学家怎么想？",
+          "url": "https://www.huxiu.com/article/4900153.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T08:52:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4251,
+      "importance": 0.4251,
+      "importance_score": 0.4251,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3856,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T08:52:49Z",
+      "latest_at": "2026-10-24T09:40:15.739605Z",
+      "primary_item": {
+        "id": "af961e525be7c574269eac6458decce7735c9026",
+        "title": "AI 破解数学难题，顶尖数学家怎么看？",
+        "url": "https://www.huxiu.com/article/4900153.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
