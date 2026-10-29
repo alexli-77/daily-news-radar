@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年10月22日人工智能热点分享
-1、讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力，属于 AI 基础设施和算力成本相关信号。
-2、AI日报，重点是讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告。
-3、Anthropic 上市前亮出特殊治理架构，重点是把控制权交给不持股的外部受托人。
-4、“翻译效果令人难以置信”，海外AI创业者上手千问AI硬件新品。
-5、王兴兴给宇树画了三条线：量产、小模型、大算力，属于 AI 基础设施和算力成本相关信号。
-6、Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击。
-7、红果短剧上线「小果 AI」，用对话式助手替你找剧。
-8、英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机。
-9、蚂蚁数科发布LingDT-Decision-1.0 准确率超过微软和JEV等决策模型。
-10、谷歌 CEO 皮查伊，重点是AI 智能体的优势，是 7×24 小时不打烊。
+2026年10月29日人工智能热点分享
+1、Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能。
+2、Wiz 分析智能体攻击的七大指纹与发展趋势。
+3、Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型。
+4、404 Media 起底 Proton 内部 AI 转型之争，重点是CEO Andy Yen 强推 AI 引发恐惧文化。
+5、AI 当黑客初显身手，重点是Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限。
+6、SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账。
+7、Anthropic 递给企业一把"监工钥匙"，重点是Claude 能看清每个员工的 AI 开销。
+8、GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比。
+9、智元发布具身智能原生OS灵渠1.0，年底全面开源。
+10、纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋。
 
 ## 原始链接
-1. 讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力（AIbase） - https://www.aibase.com/news/31806
-2. AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告（AIbase） - https://www.aibase.com/news/31807
-3. Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人（AIbase） - https://www.aibase.com/news/31810
-4. “翻译效果令人难以置信”，海外AI创业者上手千问AI硬件新品（AIbase） - https://www.aibase.com/news/31808
-5. 王兴兴给宇树画了三条线：量产、小模型、大算力（AIbase） - https://www.aibase.com/news/31809
-6. Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击（The Decoder：AI News） - https://aihot.news/items/r557iovkk5v7ddt8py86ejctv
-7. 红果短剧上线「小果 AI」，用对话式助手替你找剧（AIbase） - https://www.aibase.com/news/31801
-8. 英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机（AIbase） - https://www.aibase.com/news/31803
-9. 蚂蚁数科发布LingDT-Decision-1.0 准确率超过微软和JEV等决策模型（AIbase） - https://www.aibase.com/news/31800
-10. 谷歌 CEO 皮查伊：AI 智能体的优势，是 7×24 小时不打烊（AIbase） - https://www.aibase.com/news/31799
+1. Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能（Gemini） - https://aihot.news/items/nfbnpnzdrebu4kbq6uqxhkc2h
+2. Wiz 分析智能体攻击的七大指纹与发展趋势（Wiz：Research） - https://aihot.news/items/mdcygre4ettjdbca7sq6vu7zx
+3. Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型（Unsloth） - https://aihot.news/items/rph54wkrnzjpvov4cv0mxqatl
+4. 404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化（404 Media） - https://aihot.news/items/x7qd347blfo2409za7srbypzw
+5. AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限（AIbase） - https://www.aibase.com/news/31955
+6. SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账（The Verge：AI） - https://aihot.news/items/r9bmkfh02wkycc8zmhw87h4q9
+7. Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销（AIbase） - https://www.aibase.com/news/31965
+8. GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比（AIbase） - https://www.aibase.com/news/31962
+9. 智元发布具身智能原生OS灵渠1.0，年底全面开源（AIbase） - https://www.aibase.com/news/31956
+10. 纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋（The Decoder：AI News） - https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx
