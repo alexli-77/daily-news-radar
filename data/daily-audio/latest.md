@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年10月30日人工智能热点分享
-1、AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务，这条新闻关注相关变化背后的原因和影响。
-2、Fable 5. 5 测试曝光，重点是Claude每次回答背后，都在偷偷执行你看不见的“安全审判”。
-3、Meta 把你的朋友圈变成试衣间，重点是Style Sketch 让旧照片生出 AI 穿搭师。
-4、在聊天窗口直接改文档！谷歌Gemini升级，重点是全面支持PDF、表格及代码文件内联编辑。
-5、The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露。
-6、Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox。
-7、AI 学会"睡觉"，重点是谷歌想治好大模型边学边忘的老毛病。
-8、万亿参数开源模型Mistral Large4 登场，重点是用更少Token打平顶级性能。
-9、告别繁琐导出！谷歌 Gemini 大升级，重点是支持在对话中直接生成与编辑多格式文件。
-10、百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次。
+2026年10月31日人工智能热点分享
+1、Orkas-AI / Orkas，English · 简体中文。
+2、我们接管了 ChatGPT 帐户。
+3、NVIDIA Nemotron 万圣节语音代理演示。
+4、观察｜荷兰计划用 AI 替代 2.5 万公务员，IMF 警告税基被侵蚀：AI 时代，谁来为公共财政买单？，2026年10月，IMF总裁格奥尔基耶娃警告AI正侵蚀以劳动为基础的税基，荷兰政府随后公布计划在十年内用AI替代约2.5万个公务员岗位、2035年起年省35亿欧元。
+5、人工智能让磁带存储重获新生，最大制造商计划大幅提高产量。
+6、随着人工智能支出接近 1 万亿美元，美国科技股大幅下跌。
+7、司法部揭露利用人工智能完成课程、窃取学生贷款的“幽灵学生”。
+8、人工智能并没有取代 SRE，而是降低了他们的技能。
+9、Anthropic IPO 招股文件披露近 9000 亿美元隐性债务。
+10、Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保。
 
 ## 原始链接
-1. AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务（AIbase） - https://www.aibase.com/news/31991
-2. Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”（AIbase） - https://www.aibase.com/news/31995
-3. Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师（AIbase） - https://www.aibase.com/news/31994
-4. 在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑（AIbase） - https://www.aibase.com/news/31992
-5. The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露（The Verge：AI） - https://aihot.news/items/vyd3tzicoe478uo8njsr8zt2v
-6. Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox（Epoch AI：Gradient Updates） - https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz
-7. AI 学会"睡觉"：谷歌想治好大模型边学边忘的老毛病（AIbase） - https://www.aibase.com/news/31989
-8. 万亿参数开源模型Mistral Large4 登场：用更少Token打平顶级性能（AIbase） - https://www.aibase.com/news/31986
-9. 告别繁琐导出！谷歌 Gemini 大升级:支持在对话中直接生成与编辑多格式文件（AIbase） - https://www.aibase.com/news/31979
-10. 百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次（AIbase） - https://www.aibase.com/news/31990
+1. Orkas-AI / Orkas（GitHub · Trending Today） - https://github.com/Orkas-AI/Orkas
+2. 我们接管了 ChatGPT 帐户（Hacker News (黑客新闻)） - https://www.parameter.ai/labs/we-found-a-gap-at-openai
+3. NVIDIA Nemotron 万圣节语音代理演示（Hugging Face 博客） - https://huggingface.co/blog/nvidia/nemotron-halloween
+4. 观察｜荷兰计划用 AI 替代 2.5 万公务员，IMF 警告税基被侵蚀：AI 时代，谁来为公共财政买单？（Readhub · AI） - https://www.huxiu.com/article/4901868.html?f=rss
+5. 人工智能让磁带存储重获新生，最大制造商计划大幅提高产量（Readhub · AI） - https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production
+6. 随着人工智能支出接近 1 万亿美元，美国科技股大幅下跌（BBC News (世界新闻)） - https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss
+7. 司法部揭露利用人工智能完成课程、窃取学生贷款的“幽灵学生”（Ars Technica） - https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans
+8. 人工智能并没有取代 SRE，而是降低了他们的技能（Hacker News (黑客新闻)） - https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling
+9. Anthropic IPO 招股文件披露近 9000 亿美元隐性债务（IT之家·人工智能） - https://aihot.news/items/yqblvh40gus1ssc0rjvawh6fu
+10. Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保（TechCrunch：AI） - https://aihot.news/items/hx5dsruslfiiqhbsro2tvg1n8
