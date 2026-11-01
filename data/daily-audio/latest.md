@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年10月31日人工智能热点分享
-1、Orkas-AI / Orkas，English · 简体中文。
-2、我们接管了 ChatGPT 帐户。
-3、NVIDIA Nemotron 万圣节语音代理演示。
-4、观察｜荷兰计划用 AI 替代 2.5 万公务员，IMF 警告税基被侵蚀：AI 时代，谁来为公共财政买单？，2026年10月，IMF总裁格奥尔基耶娃警告AI正侵蚀以劳动为基础的税基，荷兰政府随后公布计划在十年内用AI替代约2.5万个公务员岗位、2035年起年省35亿欧元。
-5、人工智能让磁带存储重获新生，最大制造商计划大幅提高产量。
-6、随着人工智能支出接近 1 万亿美元，美国科技股大幅下跌。
-7、司法部揭露利用人工智能完成课程、窃取学生贷款的“幽灵学生”。
-8、人工智能并没有取代 SRE，而是降低了他们的技能。
-9、Anthropic IPO 招股文件披露近 9000 亿美元隐性债务。
-10、Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保。
+2026年11月1日人工智能热点分享
+1、算力的尽头是电力？从第一性原理看 AI 基础设施，属于 AI 基础设施和算力成本相关信号。
+2、ChatGPT 和 Codex 的使用限制将合并。
+3、JavaScript 框架的 AI 成本。
+4、patchy631 / 人工智能工程中心 / patchy631 / ai-engineering-hub。
+5、《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中。
+6、不使用人工智能，耗时52分钟。手动用C语言编写所有Linux文件处理工具。
+7、AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛，招聘平台 Greenhouse 调研显示，多数求职者遭 AI 初筛拒信，AI 润色的简历趋同度高，招聘双方均认为现有流程存在问题，急需更公平的竞争机制。
+8、这些你从未听说过的公司正在加剧人们对人工智能泡沫可能破裂的担忧。
+9、Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程。
+10、Anthropic 会因任何涉及训练更大模型的行为而封禁用户。
 
 ## 原始链接
-1. Orkas-AI / Orkas（GitHub · Trending Today） - https://github.com/Orkas-AI/Orkas
-2. 我们接管了 ChatGPT 帐户（Hacker News (黑客新闻)） - https://www.parameter.ai/labs/we-found-a-gap-at-openai
-3. NVIDIA Nemotron 万圣节语音代理演示（Hugging Face 博客） - https://huggingface.co/blog/nvidia/nemotron-halloween
-4. 观察｜荷兰计划用 AI 替代 2.5 万公务员，IMF 警告税基被侵蚀：AI 时代，谁来为公共财政买单？（Readhub · AI） - https://www.huxiu.com/article/4901868.html?f=rss
-5. 人工智能让磁带存储重获新生，最大制造商计划大幅提高产量（Readhub · AI） - https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production
-6. 随着人工智能支出接近 1 万亿美元，美国科技股大幅下跌（BBC News (世界新闻)） - https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss
-7. 司法部揭露利用人工智能完成课程、窃取学生贷款的“幽灵学生”（Ars Technica） - https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans
-8. 人工智能并没有取代 SRE，而是降低了他们的技能（Hacker News (黑客新闻)） - https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling
-9. Anthropic IPO 招股文件披露近 9000 亿美元隐性债务（IT之家·人工智能） - https://aihot.news/items/yqblvh40gus1ssc0rjvawh6fu
-10. Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保（TechCrunch：AI） - https://aihot.news/items/hx5dsruslfiiqhbsro2tvg1n8
+1. 算力的尽头是电力？从第一性原理看 AI 基础设施（Readhub · AI） - https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071442&idx=2&sn=512b621f95db3eb1b9fde2a183ca3955
+2. ChatGPT 和 Codex 的使用限制将合并（help.openai.com） - https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits
+3. JavaScript 框架的 AI 成本（nolanlawson.com） - https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks
+4. patchy631 / 人工智能工程中心 / patchy631 / ai-engineering-hub（GitHub · Trending Today） - https://github.com/patchy631/ai-engineering-hub
+5. 《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中（Hacker News · 24h最热） - https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy
+6. 不使用人工智能，耗时52分钟。手动用C语言编写所有Linux文件处理工具（www.youtube.com） - https://www.youtube.com/watch?v=gQRmSlcTq9c
+7. AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛（Readhub · AI） - https://www.ithome.com/1/020/747.htm
+8. 这些你从未听说过的公司正在加剧人们对人工智能泡沫可能破裂的担忧（www.bbc.co.uk） - https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss
+9. Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程（mashable.com） - https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering
+10. Anthropic 会因任何涉及训练更大模型的行为而封禁用户（twitter.com） - https://twitter.com/jiahaoshao1/status/2116475922190922088
