@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月5日人工智能热点分享
-1、AI 帮用户成功“越狱”跑步机，重点是Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体。
-2、从"能画"到"能改"，重点是OpenAI 用 Images 2.6 补齐生图工作流。
-3、AI 让死亡成为"可选项"？布罗克曼抛出生命终极命题，这条新闻关注相关变化背后的原因和影响。
-4、Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职。
-5、Claude Code 造星操盘手被挖，重点是OpenAI 拿下 Cat Wu。
-6、Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码。
-7、千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改。
-8、大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench，重点是最强 GPT-6-Astra 成功率仅 44%。
-9、百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA。
-10、砍额度不砍战略，重点是苹果把内部 AI 开支拧进"紧箍咒"。
+2026年11月6日人工智能热点分享
+1、13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google。
+2、6G 还没来，AI 已写进它的基因，重点是高通瞄准 2029。
+3、准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?，这条新闻关注相关变化背后的原因和影响。
+4、用 AI 做 PPT 被开除，公司反赔 4.6 万，重点是法院判了。
+5、METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值。
+6、Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻。
+7、一把双刃剑，重点是OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞。
+8、写 3 万行代码的不是他，是 AI，重点是前谷歌工程师的"闲人"自白。
+9、国产多模态新星，重点是蚂蚁 Ling 3.2 Flash 叫板 Claude Opus 5。
+10、张朝阳首度直面错失移动互联网，重点是大模型需要拼资源我们做不起，别被 AI 盲目带跑。
 
 ## 原始链接
-1. AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体（AIbase） - https://www.aibase.com/news/32125
-2. 从"能画"到"能改"：OpenAI 用 Images 2.6 补齐生图工作流（AIbase） - https://www.aibase.com/news/32116
-3. AI 让死亡成为"可选项"？布罗克曼抛出生命终极命题（AIbase） - https://www.aibase.com/news/32123
-4. Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职（AIbase） - https://www.aibase.com/news/32120
-5. Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu（AIbase） - https://www.aibase.com/news/32124
-6. Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码（AIbase） - https://www.aibase.com/news/32119
-7. 千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改（AIbase） - https://www.aibase.com/news/32115
-8. 大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%（AIbase） - https://www.aibase.com/news/32114
-9. 百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA（AIbase） - https://www.aibase.com/news/32118
-10. 砍额度不砍战略：苹果把内部 AI 开支拧进"紧箍咒"（AIbase） - https://www.aibase.com/news/32117
+1. 13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google（AIbase） - https://www.aibase.com/news/32155
+2. 6G 还没来，AI 已写进它的基因：高通瞄准 2029（AIbase） - https://www.aibase.com/news/32156
+3. 准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?（AIbase） - https://www.aibase.com/news/32157
+4. 用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了（AIbase） - https://www.aibase.com/news/32154
+5. METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值（The Decoder：AI News） - https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2
+6. Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻（The Decoder：AI News） - https://aihot.news/items/ia9wi0z09zfes5ewdf4agb6nf
+7. 一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞（AIbase） - https://www.aibase.com/news/32135
+8. 写 3 万行代码的不是他，是 AI：前谷歌工程师的"闲人"自白（AIbase） - https://www.aibase.com/news/32147
+9. 国产多模态新星：蚂蚁 Ling 3.2 Flash 叫板 Claude Opus 5（AIbase） - https://www.aibase.com/news/32133
+10. 张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑（AIbase） - https://www.aibase.com/news/32150
