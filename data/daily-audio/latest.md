@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月7日人工智能热点分享
-1、美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划。
-2、超越代码生成，重点是代理工程开发人员指南。
-3、Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题，这项猜想自 2008 年提出以来一直未获证明，研究的是量子计算机在何种条件下能够获得远超传统计算机的运算速度。
-4、英伟达 Kubernetes 引擎 (NVKE)。
-5、被年轻人遗忘的磁带，正在 AI 时代闷声发大财。
-6、谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature，谷歌推出了名为 AI-PPG-ACC-HTN 的多模态 AI 系统。该系统无需袖带校准，仅凭普通消费级智能手表便能被动检测高血压迹象。
-7、微软正逐步终止与甲骨文的AI云算力租赁协议，属于 AI 基础设施和算力成本相关信号。
-8、每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器。
-9、埃隆·马斯克的御用律师谈人工智能对法律行业的影响，重点是“中间的冗余将被剔除”。
-10、你如何应对人工智能在网络上带来的种种负面影响？，这条新闻关注相关变化背后的原因和影响。
+2026年11月8日人工智能热点分享
+1、GPT-Image-2.6 实测，重点是10 个 GIF 玩法提示词与三项新能力评测。
+2、anthropics / claude-quickstarts。
+3、克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码。
+4、微软研究院“AI Frontiers”团队的解散。
+5、索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示，在第九届进博会上，索尼首发本土研发的视觉语言模型驾驶接管危险预警技术，可通过分析路况提供三级接管提示，目前已联合清华汽车工程学院开展实地道路测试。
+6、MaxxBench – “DeepSWE 得分不错。但这是真的吗？”，这条新闻关注相关变化背后的原因和影响。
+7、人工智能正在改变成为一名数学家所需的条件。
+8、Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元。
+9、朝日项目就是将封闭和受限的事物开放。添加新的限制，让其他项目更难在此基础上构建，这并不是正确的方法。而人工智能的拒绝只是……。
+10、真的很喜欢哈萨克斯坦——超级人工智能统治的政府。也是网络学校的好地方。 https，重点是//t.co/Mt9rIomS6q。
 
 ## 原始链接
-1. 美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划（IT之家·人工智能） - https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv
-2. 超越代码生成：代理工程开发人员指南（GitHub AI & ML） - https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering
-3. Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题（Readhub · AI） - https://www.ithome.com/1/023/752.htm
-4. 英伟达 Kubernetes 引擎 (NVKE)（GitHub · Trending Today） - https://github.com/dsx-ai-factory/nvke
-5. 被年轻人遗忘的磁带，正在 AI 时代闷声发大财（Readhub · AI） - https://wallstreetcn.com/articles/3785448
-6. 谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature（Readhub · AI） - https://www.ithome.com/1/023/788.htm
-7. 微软正逐步终止与甲骨文的AI云算力租赁协议（www.reuters.com） - https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06
-8. 每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器（8rank.ai） - https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
-9. 埃隆·马斯克的御用律师谈人工智能对法律行业的影响：“中间的冗余将被剔除”（www.businessinsider.com） - https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11
-10. 你如何应对人工智能在网络上带来的种种负面影响？（lobste.rs） - https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side
+1. GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测（卡尔的 AI 沃茨） - https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd
+2. anthropics / claude-quickstarts（GitHub · Trending Today） - https://github.com/anthropics/claude-quickstarts
+3. 克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码（apiiro.com） - https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+4. 微软研究院“AI Frontiers”团队的解散（hunch.net） - https://hunch.net/?p=13764006
+5. 索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示（Readhub · AI） - https://www.ithome.com/1/023/849.htm
+6. MaxxBench – “DeepSWE 得分不错。但这是真的吗？”（maxxbench.unlap.ai） - https://maxxbench.unlap.ai/research/why-maxxbench
+7. 人工智能正在改变成为一名数学家所需的条件（www.businessinsider.com） - https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11
+8. Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元（The Decoder：AI News） - https://aihot.news/items/okhx4jjwucd647299qwzsl6ua
+9. 朝日项目就是将封闭和受限的事物开放。添加新的限制，让其他项目更难在此基础上构建，这并不是正确的方法。而人工智能的拒绝只是……（Follow Builders · X · Peter Steinberger） - https://x.com/steipete/status/2119264334627090514
+10. 真的很喜欢哈萨克斯坦——超级人工智能统治的政府。也是网络学校的好地方。 https://t.co/Mt9rIomS6q（Follow Builders · X · Amjad Masad） - https://x.com/amasad/status/2119126064815608270
