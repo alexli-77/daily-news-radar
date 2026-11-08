@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:07:48.524881Z",
+  "generated_at": "2026-11-08T01:38:48.569082Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8122,
+        "recency": 0.6657,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-07T17:37:25Z",
       "latest_at": "2026-11-07T17:37:25Z",
@@ -117,17 +116,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
-      "importance_label": "行业动态",
+      "score": 0.7006,
+      "importance": 0.7006,
+      "importance_score": 0.7006,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4645,
+        "recency": 0.318,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -140,6 +139,103 @@
         "url": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
         "source": "IT之家·人工智能",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5186d80b7eef",
+      "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "apiiro.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1513613c40ea8527528953578f44a089b0b5f552",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "apiiro.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T00:06:44.743000Z"
+        },
+        {
+          "id": "c8c39b5df3de5bab81c3c52bb30c018c6f9159b1",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T20:45:32Z"
+        },
+        {
+          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
+          "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://news.ycombinator.com/item?id=50407882",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T20:45:32Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "apiiro.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1513613c40ea8527528953578f44a089b0b5f552",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "apiiro.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T00:06:44.743000Z"
+        },
+        {
+          "id": "c8c39b5df3de5bab81c3c52bb30c018c6f9159b1",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T20:45:32Z"
+        },
+        {
+          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
+          "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://news.ycombinator.com/item?id=50407882",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T20:45:32Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5602,
+      "importance": 0.5602,
+      "importance_score": 0.5602,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9361,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T20:45:32Z",
+      "latest_at": "2026-11-08T00:06:44.743000Z",
+      "primary_item": {
+        "id": "1513613c40ea8527528953578f44a089b0b5f552",
+        "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "source": "apiiro.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -179,7 +275,7 @@
         },
         {
           "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
-          "title": "The end of Microsoft Research's AI Frontiers group",
+          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
           "url": "https://news.ycombinator.com/item?id=50406563",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -223,7 +319,7 @@
         },
         {
           "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
-          "title": "The end of Microsoft Research's AI Frontiers group",
+          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
           "url": "https://news.ycombinator.com/item?id=50406563",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -233,14 +329,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5776,
-      "importance": 0.5776,
-      "importance_score": 0.5776,
+      "score": 0.5483,
+      "importance": 0.5483,
+      "importance_score": 0.5483,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.898,
+        "recency": 0.7514,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -258,81 +354,81 @@
       }
     },
     {
-      "story_id": "story_5186d80b7eef",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_885bc368b079",
+      "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+      "url": "https://www.ithome.com/1/023/849.htm",
+      "primary_url": "https://www.ithome.com/1/023/849.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "c8c39b5df3de5bab81c3c52bb30c018c6f9159b1",
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T20:45:32Z"
+          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
+          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://news.ycombinator.com/item?id=50407882",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
+          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
+          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T00:05:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "c8c39b5df3de5bab81c3c52bb30c018c6f9159b1",
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T20:45:32Z"
+          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
+          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://news.ycombinator.com/item?id=50407882",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
+          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
+          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T00:05:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9429,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T20:45:32Z",
-      "latest_at": "2026-11-07T20:45:32Z",
+      "earliest_at": "2026-11-08T00:05:52Z",
+      "latest_at": "2026-11-08T01:38:48.569082Z",
       "primary_item": {
-        "id": "c8c39b5df3de5bab81c3c52bb30c018c6f9159b1",
-        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
+        "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+        "url": "https://www.ithome.com/1/023/849.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -389,14 +485,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9417,
+        "recency": 0.7952,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -467,14 +563,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
+      "score": 0.4805,
+      "importance": 0.4805,
+      "importance_score": 0.4805,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8092,
+        "recency": 0.6626,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -489,6 +585,83 @@
         "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9c95d9f4cc46",
+      "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "primary_url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
+          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T17:06:36Z"
+        },
+        {
+          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
+          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T17:06:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
+          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T17:06:36Z"
+        },
+        {
+          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
+          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T17:06:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4769,
+      "importance": 0.4769,
+      "importance_score": 0.4769,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6443,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T17:06:36Z",
+      "latest_at": "2026-11-07T17:06:36Z",
+      "primary_item": {
+        "id": "74f474688395052ee5207fad55b606ba19fae7dc",
+        "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -545,14 +718,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.4694,
+      "importance": 0.4694,
+      "importance_score": 0.4694,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7534,
+        "recency": 0.6069,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -623,14 +796,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4908,
-      "importance": 0.4908,
-      "importance_score": 0.4908,
+      "score": 0.4615,
+      "importance": 0.4615,
+      "importance_score": 0.4615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.714,
+        "recency": 0.5675,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -645,84 +818,6 @@
         "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_f00aebf0875e",
-      "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
-      "url": "https://www.ithome.com/1/023/752.htm",
-      "primary_url": "https://www.ithome.com/1/023/752.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ed657592e5aa3846232aad271fec1820ae131761",
-          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
-          "url": "https://www.ithome.com/1/023/752.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
-          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
-          "url": "https://www.ithome.com/1/023/752.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T08:10:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ed657592e5aa3846232aad271fec1820ae131761",
-          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
-          "url": "https://www.ithome.com/1/023/752.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
-          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
-          "url": "https://www.ithome.com/1/023/752.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T08:10:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4775,
-      "importance": 0.4775,
-      "importance_score": 0.4775,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6476,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T08:10:11Z",
-      "latest_at": "2026-11-07T13:40:17.222538Z",
-      "primary_item": {
-        "id": "ed657592e5aa3846232aad271fec1820ae131761",
-        "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
-        "url": "https://www.ithome.com/1/023/752.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -778,14 +873,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4775,
-      "importance": 0.4775,
-      "importance_score": 0.4775,
+      "score": 0.4482,
+      "importance": 0.4482,
+      "importance_score": 0.4482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6476,
+        "recency": 0.501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -856,14 +951,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4775,
-      "importance": 0.4775,
-      "importance_score": 0.4775,
+      "score": 0.4482,
+      "importance": 0.4482,
+      "importance_score": 0.4482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6476,
+        "recency": 0.501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -878,83 +973,6 @@
         "url": "https://github.com/dsx-ai-factory/nvke",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9c95d9f4cc46",
-      "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "primary_url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
-        },
-        {
-          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
-        },
-        {
-          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7908,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T17:06:36Z",
-      "latest_at": "2026-11-07T17:06:36Z",
-      "primary_item": {
-        "id": "74f474688395052ee5207fad55b606ba19fae7dc",
-        "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1011,14 +1029,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.4694,
+      "importance": 0.4694,
+      "importance_score": 0.4694,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7534,
+        "recency": 0.6069,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1089,14 +1107,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4633,
-      "importance": 0.4633,
-      "importance_score": 0.4633,
+      "score": 0.434,
+      "importance": 0.434,
+      "importance_score": 0.434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5764,
+        "recency": 0.4299,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1114,79 +1132,79 @@
       }
     },
     {
-      "story_id": "story_301a66ad4865",
-      "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
-      "url": "https://wallstreetcn.com/articles/3785448",
-      "primary_url": "https://wallstreetcn.com/articles/3785448",
+      "story_id": "story_f00aebf0875e",
+      "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+      "url": "https://www.ithome.com/1/023/752.htm",
+      "primary_url": "https://www.ithome.com/1/023/752.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "1832f604e1dbe191d102004fdff00df7a2fcfdde",
-          "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
-          "url": "https://wallstreetcn.com/articles/3785448",
+          "id": "ed657592e5aa3846232aad271fec1820ae131761",
+          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "176a5dd4106d41f05e896897f7a9b6a56d15ae1e",
-          "title": "被年轻人遗忘的磁带，正在AI时代闷声发大财",
-          "url": "https://www.huxiu.com/article/4903791.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
+          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T07:43:45Z"
+          "published_at": "2026-11-07T08:10:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "1832f604e1dbe191d102004fdff00df7a2fcfdde",
-          "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
-          "url": "https://wallstreetcn.com/articles/3785448",
+          "id": "ed657592e5aa3846232aad271fec1820ae131761",
+          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "176a5dd4106d41f05e896897f7a9b6a56d15ae1e",
-          "title": "被年轻人遗忘的磁带，正在AI时代闷声发大财",
-          "url": "https://www.huxiu.com/article/4903791.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
+          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T07:43:45Z"
+          "published_at": "2026-11-07T08:10:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4775,
-      "importance": 0.4775,
-      "importance_score": 0.4775,
+      "score": 0.4482,
+      "importance": 0.4482,
+      "importance_score": 0.4482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6476,
+        "recency": 0.501,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T07:43:45Z",
+      "earliest_at": "2026-11-07T08:10:11Z",
       "latest_at": "2026-11-07T13:40:17.222538Z",
       "primary_item": {
-        "id": "1832f604e1dbe191d102004fdff00df7a2fcfdde",
-        "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
-        "url": "https://wallstreetcn.com/articles/3785448",
+        "id": "ed657592e5aa3846232aad271fec1820ae131761",
+        "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+        "url": "https://www.ithome.com/1/023/752.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1245,14 +1263,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4458,
-      "importance": 0.4458,
-      "importance_score": 0.4458,
+      "score": 0.4165,
+      "importance": 0.4165,
+      "importance_score": 0.4165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4888,
+        "recency": 0.3423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1267,84 +1285,6 @@
         "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
         "source": "lobste.rs",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f441801c064c",
-      "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "primary_url": "https://pwn.ai/blog/firecracker-escape",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "ad64b81bce2a2037c90cedbface2a2f99895bb81",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T08:44:02Z"
-        },
-        {
-          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:22.798000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "pwn.ai"
-      ],
-      "items": [
-        {
-          "id": "ad64b81bce2a2037c90cedbface2a2f99895bb81",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T08:44:02Z"
-        },
-        {
-          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:22.798000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4364,
-      "importance": 0.4364,
-      "importance_score": 0.4364,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4418,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T22:56:22.798000Z",
-      "latest_at": "2026-11-07T08:44:02Z",
-      "primary_item": {
-        "id": "ad64b81bce2a2037c90cedbface2a2f99895bb81",
-        "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
-        "url": "https://pwn.ai/blog/firecracker-escape",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1401,14 +1341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4833,
-      "importance": 0.4833,
-      "importance_score": 0.4833,
+      "score": 0.454,
+      "importance": 0.454,
+      "importance_score": 0.454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6765,
+        "recency": 0.5299,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1423,6 +1363,84 @@
         "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_301a66ad4865",
+      "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
+      "url": "https://wallstreetcn.com/articles/3785448",
+      "primary_url": "https://wallstreetcn.com/articles/3785448",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1832f604e1dbe191d102004fdff00df7a2fcfdde",
+          "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
+          "url": "https://wallstreetcn.com/articles/3785448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "176a5dd4106d41f05e896897f7a9b6a56d15ae1e",
+          "title": "被年轻人遗忘的磁带，正在AI时代闷声发大财",
+          "url": "https://www.huxiu.com/article/4903791.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T07:43:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "1832f604e1dbe191d102004fdff00df7a2fcfdde",
+          "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
+          "url": "https://wallstreetcn.com/articles/3785448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "176a5dd4106d41f05e896897f7a9b6a56d15ae1e",
+          "title": "被年轻人遗忘的磁带，正在AI时代闷声发大财",
+          "url": "https://www.huxiu.com/article/4903791.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T07:43:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4482,
+      "importance": 0.4482,
+      "importance_score": 0.4482,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.501,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T07:43:45Z",
+      "latest_at": "2026-11-07T13:40:17.222538Z",
+      "primary_item": {
+        "id": "1832f604e1dbe191d102004fdff00df7a2fcfdde",
+        "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
+        "url": "https://wallstreetcn.com/articles/3785448",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1479,14 +1497,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4775,
-      "importance": 0.4775,
-      "importance_score": 0.4775,
+      "score": 0.4482,
+      "importance": 0.4482,
+      "importance_score": 0.4482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6476,
+        "recency": 0.501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1504,80 +1522,80 @@
       }
     },
     {
-      "story_id": "story_a40797809b85",
-      "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
-      "url": "https://www.ithome.com/1/023/612.htm",
-      "primary_url": "https://www.ithome.com/1/023/612.htm",
-      "source": "IT之家 (ITHome)",
+      "story_id": "story_3128af5441e3",
+      "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "primary_url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ee0fd748a0f91b4fe1737b2392bbc8ea8f849113",
-          "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
-          "url": "https://www.ithome.com/1/023/612.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "f809e80f08b0a26e6b59af4306d575f05d0b2071",
+          "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+          "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T23:24:12Z"
+          "published_at": "2026-11-07T02:20:06Z"
         },
         {
-          "id": "765312fb983dd6f3c5f25074800b79df50d92334",
-          "title": "OpenAI 完成 110 亿美元融资，公司估值达 1.25 万亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:42.898000Z"
+          "id": "58da6ebc0c98d7b659293c7c33b7e38219b880df",
+          "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+          "url": "https://news.ycombinator.com/item?id=50401029",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T02:20:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "www.bloomberg.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "ee0fd748a0f91b4fe1737b2392bbc8ea8f849113",
-          "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
-          "url": "https://www.ithome.com/1/023/612.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "f809e80f08b0a26e6b59af4306d575f05d0b2071",
+          "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+          "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-06T23:24:12Z"
+          "published_at": "2026-11-07T02:20:06Z"
         },
         {
-          "id": "765312fb983dd6f3c5f25074800b79df50d92334",
-          "title": "OpenAI 完成 110 亿美元融资，公司估值达 1.25 万亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:42.898000Z"
+          "id": "58da6ebc0c98d7b659293c7c33b7e38219b880df",
+          "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+          "url": "https://news.ycombinator.com/item?id=50401029",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T02:20:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3586,
-      "importance": 0.3586,
-      "importance_score": 0.3586,
+      "score": 0.3537,
+      "importance": 0.3537,
+      "importance_score": 0.3537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.053,
+        "recency": 0.0287,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-06T22:56:42.898000Z",
-      "latest_at": "2026-11-06T23:24:12Z",
+      "earliest_at": "2026-11-07T02:20:06Z",
+      "latest_at": "2026-11-07T02:20:06Z",
       "primary_item": {
-        "id": "ee0fd748a0f91b4fe1737b2392bbc8ea8f849113",
-        "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
-        "url": "https://www.ithome.com/1/023/612.htm",
-        "source": "IT之家 (ITHome)",
+        "id": "f809e80f08b0a26e6b59af4306d575f05d0b2071",
+        "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+        "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+        "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
     }
