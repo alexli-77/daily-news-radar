@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月9日人工智能热点分享
-1、Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用。
-2、Artificial Analysis 评测 Claude Fable 5.2，重点是以 65 分登顶 Intelligence Index v5。
-3、Claude Fable 5.2 上线 Devin Desktop 和 Devin CLI。
-4、Claude Mythos 5.2 预测基因治疗载体 AAV 衣壳结构。
-5、Redwood Research 分析 OpenAI Astra 在安全任务上的隐性消极表现。
-6、字节 Seedream 5.5 发布，重点是支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板。
-7、火山引擎发布Seedream5.5，重点是像素级可控编辑，百轮修改不崩坏。
-8、Anthropic 指南，重点是Claude 开发该选 Haiku 5.5、Sonnet 5.5、Opus 5.5 还是 Fable 5.2。
-9、Anthropic 用 1000 个 Claude Fable 5.2 智能体在沙箱内复现费马大定理形式化证明。
-10、Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说，属于 AI 基础设施和算力成本相关信号。
+2026年11月10日人工智能热点分享
+1、C++ 语言服务器现在自动配置 MSBuild 构建，属于 AI 基础设施和算力成本相关信号。
+2、ChatGPT 推出 Businesses 功能。
+3、Google Cloud 推出用于医疗保健的 Gemini。
+4、OpenAI 开放 ChatGPT Business 计划登录 Notion、v0 等第三方工具。
+5、Ed Zitron 长文剖析黄仁勋丑闻与 NVIDIA 疑似借 Megaspeed 向中国走私 GPU。
+6、Gemini 4 Carbon 现已登陆 Cursor，高 effort 下居 CursorBench 榜首，说明 AI 编码能力正在嵌入协作和生产力工具。
+7、MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像。
+8、Gemini 4 Carbon 上线 Gemini API、AI Studio 和 Antigravity。
+9、Google DeepMind 发布 Gemini 4 Carbon 前沿模型。
+10、Wiz 讲解如何评估 AI 智能体的网络安全能力。
 
 ## 原始链接
-1. Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用（Higgsfield AI） - https://aihot.news/items/ugn21ui1m8kftffpe2c95qlkx
-2. Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5（Artificial Analysis） - https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s
-3. Claude Fable 5.2 上线 Devin Desktop 和 Devin CLI（Cognition） - https://aihot.news/items/rth7pxd3xqp2zkd2e1psjgtbl
-4. Claude Mythos 5.2 预测基因治疗载体 AAV 衣壳结构（Claude：YouTube） - https://aihot.news/items/rxx1qxfjfuioem95lr868hhwq
-5. Redwood Research 分析 OpenAI Astra 在安全任务上的隐性消极表现（Redwood Research：Blog） - https://aihot.news/items/saq4lh2i3ewct7cxvvh1h77jo
-6. 字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板（AIbase） - https://www.aibase.com/news/32186
-7. 火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏（AIbase） - https://www.aibase.com/news/32185
-8. Anthropic 指南：Claude 开发该选 Haiku 5.5、Sonnet 5.5、Opus 5.5 还是 Fable 5.2（Anthropic：Claude.dev 开发者博客） - https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62
-9. Anthropic 用 1000 个 Claude Fable 5.2 智能体在沙箱内复现费马大定理形式化证明（Anthropic：Claude.dev 开发者博客） - https://aihot.news/items/y0m3p1gin2dlfm4ns7gsrkvr8
-10. Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说（The Decoder：AI News） - https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd
+1. C++ 语言服务器现在自动配置 MSBuild 构建（GitHub 更新日志） - https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds
+2. ChatGPT 推出 Businesses 功能（OpenAI News） - https://openai.com/index/introducing-businesses-chatgpt
+3. Google Cloud 推出用于医疗保健的 Gemini。（Google AI Blog） - https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare
+4. OpenAI 开放 ChatGPT Business 计划登录 Notion、v0 等第三方工具（OpenAI Developers） - https://aihot.news/items/y4pcrys3ewo3xnx1j45mbpbfy
+5. Ed Zitron 长文剖析黄仁勋丑闻与 NVIDIA 疑似借 Megaspeed 向中国走私 GPU（Ed Zitron 长文 / Where’s Your Ed At） - https://aihot.news/items/gqzca7y2h3m9p0fxtj60m4i1t
+6. Gemini 4 Carbon 现已登陆 Cursor，高 effort 下居 CursorBench 榜首（Cursor） - https://aihot.news/items/tk36lg7rqiq1i67rq0ce28yo8
+7. MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像（MiniMax：Blog） - https://aihot.news/items/eel6o8sxfldx5itfa8f8wigc0
+8. Gemini 4 Carbon 上线 Gemini API、AI Studio 和 Antigravity（Philipp Schmid） - https://aihot.news/items/o6jzg6bjiaufh8no2rf1tep7u
+9. Google DeepMind 发布 Gemini 4 Carbon 前沿模型（Google DeepMind：Blog） - https://aihot.news/items/w8cvkd1j2o1c3m8ikh8x2kpfx
+10. Wiz 讲解如何评估 AI 智能体的网络安全能力（Wiz：Research） - https://aihot.news/items/momr4yrt6hhhfeuzjfqz6ryqy
