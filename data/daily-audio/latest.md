@@ -2,26 +2,26 @@
 
 ## 播报稿
 
-2026年11月11日人工智能热点分享
-1、Gilbert + Tobin 用人工智能重新思考法律业务。
-2、OpenAI 三季度营收飙升至 100 亿美元，重点是环比大增近 50%，企业业务单季实现翻倍。
-3、OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账。
-4、北京互联网法院，重点是平台误判AI生成内容未标识构成违约。
-5、百度发布文心5.5Flash Preview，重点是2800亿参数、百万Token上下文，权重11月25日开源。
-6、红果短剧给 AI 角色"上户口"，重点是虚拟形象也能确权了。
-7、腾讯元宝搜索上线独立网页版，B端能力向C端延伸。
-8、Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼。
-9、安全公司 Claroc，重点是94.7% 的 Grok 构建应用可被任意访问，含患者数据和 SpaceXSI 内部文件。
-10、OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic。
+2026年11月12日人工智能热点分享
+1、Gemini 4 氢简介。
+2、World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats。
+3、Artificial Analysis 评测 Gemini 4 Hydrogen，重点是智能指数 54，接近 Sonnet 5.5 且成本约其 32%。
+4、SemiAnalysis 分析黄仁勋辞任 Nvidia 后的公司前景与对华芯片管制走向，属于 AI 基础设施和算力成本相关信号。
+5、Google Gemini 开放推送，覆盖开发者、企业与普通用户渠道。
+6、Google DeepMind 发布 Gemini 4 Hydrogen。
+7、The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云，属于 AI 基础设施和算力成本相关信号。
+8、Replit Agent 新增代购能力和 Google Ads 投放功能。
+9、黄仁勋辞职后，Nvidia 与 AI 热潮的未来走向分析。
+10、Epoch AI 分析华为和林格尔数据中心，揭示中美算力差距，属于 AI 基础设施和算力成本相关信号。
 
 ## 原始链接
-1. Gilbert + Tobin 用人工智能重新思考法律业务（OpenAI News） - https://openai.com/index/gilbert-tobin-sam-nickless
-2. OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍（AIbase） - https://www.aibase.com/news/32249
-3. OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账（AIbase） - https://www.aibase.com/news/32253
-4. 北京互联网法院:平台误判AI生成内容未标识构成违约（AIbase） - https://www.aibase.com/news/32251
-5. 百度发布文心5.5Flash Preview:2800亿参数、百万Token上下文，权重11月25日开源（AIbase） - https://www.aibase.com/news/32250
-6. 红果短剧给 AI 角色"上户口"：虚拟形象也能确权了（AIbase） - https://www.aibase.com/news/32254
-7. 腾讯元宝搜索上线独立网页版，B端能力向C端延伸（AIbase） - https://www.aibase.com/news/32248
-8. Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼（IT之家·人工智能） - https://aihot.news/items/iz168hjk4ew8jpiokzjqcwbgi
-9. 安全公司 Claroc：94.7% 的 Grok 构建应用可被任意访问，含患者数据和 SpaceXSI 内部文件（The Decoder：AI News） - https://aihot.news/items/wlmgb3vb5ycgom7wq44felnin
-10. OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic（The Decoder：AI News） - https://aihot.news/items/mzxxannvi5wge7wz0c0jfdyz5
+1. Gemini 4 氢简介（谷歌 DeepMind） - https://deepmind.google/blog/introducing-gemini-4-hydrogen
+2. World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats（Fei-Fei Li） - https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm
+3. Artificial Analysis 评测 Gemini 4 Hydrogen：智能指数 54，接近 Sonnet 5.5 且成本约其 32%（Artificial Analysis） - https://aihot.news/items/ajvxvhu8bh001pourbhhjl0ir
+4. SemiAnalysis 分析黄仁勋辞任 Nvidia 后的公司前景与对华芯片管制走向（SemiAnalysis 长文 RSS） - https://aihot.news/items/n73ab4h9gqlu6ucv69ynzxln4
+5. Google Gemini 开放推送，覆盖开发者、企业与普通用户渠道（谷歌 DeepMind） - https://aihot.news/items/v26fsdyhbktgyuedmrx25p58y
+6. Google DeepMind 发布 Gemini 4 Hydrogen（Google DeepMind：Blog） - https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa
+7. The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云（The Verge：AI） - https://aihot.news/items/licdk6vosezxouovor3gvtcpe
+8. Replit Agent 新增代购能力和 Google Ads 投放功能（Replit：Blog） - https://aihot.news/items/k7sfjumcmtq0zswb5yj5kmju1
+9. 黄仁勋辞职后，Nvidia 与 AI 热潮的未来走向分析（Azeem Azhar：Exponential View） - https://aihot.news/items/toq4wymx9maq8lhhz8jryi0sv
+10. Epoch AI 分析华为和林格尔数据中心，揭示中美算力差距（Epoch AI：Gradient Updates） - https://aihot.news/items/adkgofriq3tvp6qrawfc63yw4
